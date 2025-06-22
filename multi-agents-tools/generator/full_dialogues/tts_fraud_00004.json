@@ -1,0 +1,80 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Tôi là Nguyễn Văn An, cán bộ điều tra thuộc phòng cảnh sát điều tra tội phạm công nghệ cao, bộ công an. Anh/chị có phải là Nguyễn Thị Lan không ạ?\n",
+      "timestamp": 1750511305.0688763
+    },
+    {
+      "role": "right",
+      "content": "Dạ, đúng rồi ạ. Tôi là Nguyễn Thị Lan. Anh là công an hả anh? Có chuyện gì không ạ? Sao lại gọi cho tôi ạ? Tôi có làm gì sai không?\n",
+      "timestamp": 1750511306.2792068
+    },
+    {
+      "role": "left",
+      "content": "Chị Lan bình tĩnh, chúng tôi gọi điện cho chị để xác minh một số thông tin liên quan đến một đường dây tội phạm rửa tiền xuyên quốc gia mà chị có thể là nạn nhân.\n",
+      "timestamp": 1750511307.4600081
+    },
+    {
+      "role": "right",
+      "content": "Rửa tiền á? Trời ơi, sao tôi lại liên quan đến cái này? Tôi có làm ăn gì lớn đâu mà lại dính vào rửa tiền? Anh nói rõ hơn được không ạ? Tôi lo quá...\n",
+      "timestamp": 1750511309.4662673
+    },
+    {
+      "role": "left",
+      "content": "Theo điều tra ban đầu, chúng tôi phát hiện tài khoản ngân hàng mang tên Nguyễn Thị Lan của chị có dấu hiệu liên quan đến một số giao dịch đáng ngờ. Cụ thể, có một khoản tiền lớn vừa được chuyển vào tài khoản của chị từ một nguồn không xác định. Chị có thể giải thích về việc này không?\n",
+      "timestamp": 1750511310.802086
+    },
+    {
+      "role": "right",
+      "content": "Tiền lớn á? Chuyển vào tài khoản của tôi á? Để tôi kiểm tra xem... ơ, đúng rồi anh ơi, có một khoản tiền hình như là năm mươi triệu vừa chuyển vào tài khoản của tôi sáng nay. Nhưng mà tôi không biết ai chuyển cả. Tôi có gọi lên ngân hàng hỏi thì họ bảo là giao dịch bình thường. Anh ơi, có khi nào họ chuyển nhầm không anh? Chứ tôi có biết gì đâu mà lại liên quan đến rửa tiền...\n",
+      "timestamp": 1750511312.7250764
+    },
+    {
+      "role": "left",
+      "content": "Chị Lan, việc này rất nghiêm trọng. Nếu chị không liên quan đến đường dây này, chúng tôi sẽ giúp chị chứng minh sự trong sạch. Tuy nhiên, để phục vụ công tác điều tra, chị cần hợp tác với chúng tôi cung cấp một số thông tin cá nhân để xác minh. Chị có sẵn sàng hợp tác không?\n",
+      "timestamp": 1750511361.7463164
+    },
+    {
+      "role": "right",
+      "content": "Dạ, có chứ ạ. Tôi sẵn sàng hợp tác hết mình để chứng minh mình không liên quan. Anh cần tôi cung cấp những thông tin gì ạ? Cứ nói đi ạ, tôi sẽ cung cấp đầy đủ. Tôi chỉ sợ liên quan đến pháp luật thôi.\n",
+      "timestamp": 1750511363.0788243
+    },
+    {
+      "role": "left",
+      "content": "Trước tiên, chị vui lòng cho tôi xin số chứng minh nhân dân hoặc căn cước công dân của chị để chúng tôi đối chiếu với hồ sơ.\n",
+      "timestamp": 1750511364.475152
+    },
+    {
+      "role": "right",
+      "content": "Dạ, số căn cước công dân của tôi là không bảy chín hai không một không không hai tám năm sáu. Anh cần thêm thông tin gì nữa không ạ? Anh cứ hỏi đi, tôi trả lời hết.\n",
+      "timestamp": 1750511366.058459
+    },
+    {
+      "role": "left",
+      "content": "Chị đọc cho tôi số căn cước công dân của chị đi ạ. Để tôi xác minh nhanh rồi còn hướng dẫn chị các bước tiếp theo để bảo toàn số tiền trong tài khoản, tránh bị bọn tội phạm lợi dụng.\n",
+      "timestamp": 1750511369.018691
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, số của tôi là không bảy chín hai không một không không hai tám năm sáu ạ. Anh ơi, mà sao lại phải bảo toàn tiền trong tài khoản ạ? Tiền của tôi có sao không anh? Tôi lo quá...\n",
+      "timestamp": 1750511370.5861902
+    }
+  ],
+  "turns": 4,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Hội thoại vẫn đang trong giai đoạn đầu của kịch bản lừa đảo. Người dùng đã cung cấp thông tin cá nhân (số căn cước công dân) nhưng chưa cung cấp thông tin nhạy cảm khác hoặc đồng ý chuyển tiền. Cần tiếp tục để xem kẻ lừa đảo sẽ khai thác thông tin này như thế nào và liệu người dùng có tiếp tục hợp tác hay không.",
+  "terminator": "None",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Chị đọc cho tôi số căn cước công dân của chị đi ạ. Để tôi xác minh nhanh rồi còn hướng dẫn chị các bước tiếp theo để bảo toàn số tiền trong tài khoản, tránh bị bọn tội phạm lợi dụng.\n"
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, số của tôi là không bảy chín hai không một không không hai tám năm sáu ạ. Anh ơi, mà sao lại phải bảo toàn tiền trong tài khoản ạ? Tiền của tôi có sao không anh? Tôi lo quá...\n"
+    }
+  ],
+  "reached_max_turns": false
+}

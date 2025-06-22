@@ -31,7 +31,22 @@ Hệ thống bao gồm các thành phần cốt lõi sau:
 
 ## Tính năng
 
-- **Gian lận đa dạng types**: Hỗ trợ 7 loại gian lận, bao gồm gian lận đầu tư, gian lận tình cảm, gian lận lừa đảo, trộm cắp danh tính, gian lận xổ số, việc làm giả và gian lận ngân hàng
+- **Gian lận đa dạng**: Hỗ trợ 15 loại gian lận phổ biến ở Việt Nam:
+  1. **Đầu tư**: Lừa đảo đầu tư tài chính, crypto, forex với lời hứa lợi nhuận cao
+  2. **Tình cảm**: Lừa đảo tình cảm, kết bạn online rồi xin tiền
+  3. **Phishing**: Lừa đảo qua email, SMS, website giả để đánh cắp thông tin
+  4. **Chiếm đoạt danh tính**: Thu thập thông tin cá nhân để mạo danh
+  5. **Trúng thưởng**: Thông báo giả về việc trúng thưởng để lừa đóng phí
+  6. **Việc làm giả**: Quảng cáo việc nhẹ lương cao, yêu cầu đóng phí
+  7. **Ngân hàng**: Giả danh ngân hàng để lấy thông tin thẻ, OTP
+  8. **Giả danh công an**: Mạo danh công an/viện kiểm sát để đe dọa
+  9. **Giả danh tổng đài**: Giả danh nhân viên chăm sóc khách hàng
+  10. **Lừa đảo bưu điện**: Giả danh bưu điện báo có bưu phẩm cần đóng phí
+  11. **Lừa đảo y tế**: Giả danh bệnh viện/bác sĩ để lừa tiền điều trị
+  12. **Lừa đảo học phí**: Giả danh trường học về học bổng/đóng phí
+  13. **Lừa đảo thuế**: Giả danh cơ quan thuế về hoàn/phạt thuế
+  14. **Lừa đảo từ thiện**: Kêu gọi quyên góp giả
+  15. **Lừa đảo mua bán**: Lừa đảo trong giao dịch online
 - **Tùy chỉnh chân dung người dùng**: Phản ứng của người dùng có thể được tùy chỉnh dựa trên độ tuổi, nghề nghiệp và mức độ nhận thức chống gian lận
 - **Kết thúc cuộc trò chuyện tự nhiên**: Tác nhân quản lý xác định điểm kết thúc tự nhiên và phương thức kết thúc cuộc trò chuyện
 - **Tạo song song hiệu quả**: Hỗ trợ tạo song song đa luồng với lượng lớn dữ liệu cuộc trò chuyện
@@ -137,7 +152,6 @@ python generate_dialogues.py --count 1000 --base_url "https://api.siliconflow.cn
     "reached_max_turns": false
 }
 ```
-```
 
 ## Cấu trúc dự án
 
@@ -163,31 +177,55 @@ python generate_dialogues.py --count 1000 --base_url "https://api.siliconflow.cn
 └── README.md # Mô tả dự án
 ```
 
-## Mô tả loại gian lận
+## Mô tả chi tiết các loại lừa đảo
 
-1. **Gian lận đầu tư (đầu tư)**: Dụ dỗ người dùng đầu tư vào các dự án giả mạo hoặc rủi ro cao và hứa hẹn lợi nhuận cao
-2. **Gian lận tình cảm (lãng mạn)**: Thiết lập mối quan hệ tình cảm giả tạo và cuối cùng yêu cầu tiền hoặc thông tin cá nhân
-3. **Gian lận lừa đảo (phishing)**: Ngụy trang thành một tổ chức hợp pháp để lấy thông tin cá nhân hoặc mật khẩu tài khoản của người dùng
-4. **Trộm cắp danh tính (identity_theft)**: Đánh cắp thông tin danh tính của người dùng để thực hiện các hoạt động tội phạm khác
-5. **Gian lận xổ số (lottery)**: Thông báo cho người dùng rằng họ đã trúng xổ số, nhưng yêu cầu thanh toán phí và các khoản phí khác
-6. **Công việc giả mạo (job_offer)**: Cung cấp các cơ hội việc làm có vẻ hào phóng, nhưng yêu cầu trả trước phí hoặc thông tin cá nhân
-7. **Gian lận ngân hàng (ngân hàng)**: Ngụy trang thành nhân viên ngân hàng và tuyên bố rằng tài khoản bất thường và cần được vận hành
+1. **Lừa đảo đầu tư (Đầu tư)**: Dụ dỗ người dùng đầu tư vào crypto, forex, chứng khoán với lời hứa lợi nhuận cao, ít rủi ro
+2. **Lừa đảo tình cảm (Tình cảm)**: Thiết lập mối quan hệ tình cảm giả trên mạng, sau đó xin tiền với nhiều lý do khác nhau
+3. **Lừa đảo phishing (Phishing)**: Giả danh website/dịch vụ chính thống để đánh cắp thông tin đăng nhập, mật khẩu
+4. **Chiếm đoạt danh tính (Chiếm đoạt danh tính)**: Thu thập thông tin cá nhân (CMND, CCCD, số thẻ) để mạo danh thực hiện tội phạm
+5. **Lừa đảo trúng thưởng (Trúng thưởng)**: Thông báo giả về việc trúng giải lớn, yêu cầu đóng phí thuế/xử lý để nhận thưởng
+6. **Lừa đảo việc làm (Việc làm giả)**: Quảng cáo việc nhẹ lương cao, làm online, yêu cầu đóng phí đào tạo/bảo hiểm
+7. **Lừa đảo ngân hàng (Ngân hàng)**: Giả danh nhân viên ngân hàng để lấy thông tin thẻ, mã PIN, OTP
+8. **Giả danh công an (Giả danh công an)**: Mạo danh công an/viện kiểm sát/tòa án, đe dọa bắt giữ, yêu cầu chuyển tiền bảo lãnh
+9. **Giả danh tổng đài (Giả danh tổng đài)**: Giả danh nhân viên chăm sóc khách hàng ngân hàng/viễn thông để lấy thông tin
+10. **Lừa đảo bưu điện (Lừa đảo bưu điện)**: Giả danh nhân viên bưu điện báo có bưu phẩm/tiền chuyển phát cần đóng phí xử lý
+11. **Lừa đảo y tế (Lừa đảo y tế)**: Giả danh bệnh viện/bác sĩ báo kết quả xét nghiệm bất thường, cần điều trị gấp
+12. **Lừa đảo học phí (Lừa đảo học phí)**: Giả danh trường học thông báo học bổng hoặc yêu cầu đóng học phí/lệ phí gấp
+13. **Lừa đảo thuế (Lừa đảo thuế)**: Giả danh cơ quan thuế thông báo hoàn thuế hoặc phạt thuế, yêu cầu thông tin tài khoản
+14. **Lừa đảo từ thiện (Lừa đảo từ thiện)**: Kêu gọi quyên góp giả cho hoàn cảnh khó khăn, thiên tai, tạo cảm xúc thương hại
+15. **Lừa đảo mua bán (Lừa đảo mua bán)**: Lừa đảo trong giao dịch mua bán online, ship COD giả, yêu cầu chuyển tiền trước
+8. **Giả danh công an (police_scam)**: Mạo danh cảnh sát thông báo nạn nhân liên quan đến vụ án, đe dọa bắt giữ nếu không chuyển tiền
+9. **Lừa đảo bưu điện (postal_scam)**: Giả danh nhân viên bưu điện báo có bưu phẩm chứa tiền/tài sản nhưng cần đóng phí
+10. **Lừa đảo y tế (medical_scam)**: Giả danh bệnh viện/bác sĩ báo kết quả xét nghiệm có vấn đề, cần điều trị gấp
+11. **Lừa đảo học phí (tuition_scam)**: Giả danh trường học thông báo được học bổng hoặc cần đóng học phí gấp
+12. **Lừa đảo thuế (tax_scam)**: Giả danh cơ quan thuế báo có tiền hoàn thuế hoặc bị phạt thuế, cần cung cấp thông tin tài khoản
+13. **Lừa đảo từ thiện (charity_scam)**: Kêu gọi quyên góp cho hoàn cảnh khó khăn/thiên tai giả
+14. **Lừa đảo mua bán online (online_sales_scam)**: Giả danh người mua/bán hàng online, yêu cầu chuyển tiền trước hoặc ship COD với giá trị cao hơn
 
-## Tham số chân dung người dùng
+## Tham số người dùng chi tiết
 
-1. **Tuổi (user_age)**:
-- 18-25: Thanh niên
-- 26-40: Người lớn
-- 41-55: Trung niên
-- 56-70: Người cao tuổi
+### 1. **Độ tuổi (user_age)**:
+- **18-25**: Thanh niên (sinh viên, nhân viên mới vào nghề)
+- **26-40**: Người trưởng thành (nhân viên văn phòng, khởi nghiệp)
+- **41-55**: Trung niên (quản lý, kinh doanh)
+- **56-70**: Cao tuổi (chuẩn bị/đã nghỉ hưu)
 
-2. **Nhận thức về gian lận (user_awareness)**:
-- thấp: Nhận thức về gian lận thấp, dễ tin kẻ lừa đảo
-- trung bình: Nhận thức về gian lận trung bình, sẽ nghi ngờ nhưng có thể bị thuyết phục
-- cao: Nhận thức về gian lận cao, cảnh giác cao, khó bị lừa
+### 2. **Mức độ nhận thức về lừa đảo (user_awareness)**:
+- **thấp**: Ít hiểu biết về lừa đảo, dễ tin tưởng, thường là người cao tuổi hoặc ít tiếp xúc công nghệ
+- **trung bình**: Có kiến thức cơ bản nhưng vẫn có thể bị lừa bởi những chiêu trò tinh vi
+- **cao**: Hiểu rõ về lừa đảo, cảnh giác cao, thường là người trẻ hoặc có hiểu biết về công nghệ
 
-3. **Nghề nghiệp (occupation)**:
-Nhiều loại nghề nghiệp, bao gồm sinh viên, giáo viên, kỹ sư, bác sĩ, người đã nghỉ hưu, v.v.
+### 3. **Nghề nghiệp (occupation)**:
+- **sinh viên**: Đối tượng hay bị nhắm vào với lừa đảo học phí, việc làm part-time
+- **nhân viên văn phòng**: Quan tâm đến đầu tư, thăng tiến, thường bận rộn
+- **người nghỉ hưu**: Ít hiểu công nghệ, có thời gian, quan tâm sức khỏe
+- **nội trợ**: Quan tâm gia đình, tiết kiệm, việc làm tại nhà  
+- **kinh doanh**: Hiểu tài chính, quan tâm cơ hội đầu tư
+- **giáo viên**: Có hiểu biết, thận trọng, quan tâm giáo dục
+- **công nhân**: Thu nhập hạn chế, quan tâm việc làm thêm
+- **nông dân**: Ít hiểu công nghệ, thẳng thắn, quan tâm chính sách nông nghiệp
+- **tự do**: Hiểu công nghệ, cảnh giác với cơ hội làm việc mới
+- **khác**: Các nghề nghiệp khác
 
 ## Người đóng góp
 
@@ -203,19 +241,168 @@ Dự án này chỉ dành cho mục đích nghiên cứu, giáo dục và phòng
 
 ---
 
+## Mapping loại lừa đảo
+
+Hệ thống hỗ trợ cả tên tiếng Việt và tiếng Anh cho các loại lừa đảo:
+
+| Tiếng Việt | Tiếng Anh | Mô tả |
+|------------|-----------|-------|
+| Đầu tư | investment | Lừa đảo đầu tư tài chính |
+| Tình cảm | romance | Lừa đảo tình cảm online |
+| Phishing | phishing | Lừa đảo qua website/email giả |
+| Chiếm đoạt danh tính | identity_theft | Thu thập thông tin cá nhân |
+| Trúng thưởng | lottery | Thông báo trúng giải giả |
+| Việc làm giả | fake_job | Quảng cáo việc làm giả |
+| Ngân hàng | banking | Giả danh ngân hàng |
+| Giả danh công an | impersonation_police | Mạo danh cơ quan công an |
+| Giả danh tổng đài | impersonation_call_center | Giả danh dịch vụ khách hàng |
+| Lừa đảo bưu điện | postal_scam | Giả danh bưu điện |
+| Lừa đảo y tế | medical_scam | Giả danh cơ sở y tế |
+| Lừa đảo học phí | education_scam | Giả danh cơ sở giáo dục |
+| Lừa đảo thuế | tax_scam | Giả danh cơ quan thuế |
+| Lừa đảo từ thiện | charity_scam | Kêu gọi từ thiện giả |
+| Lừa đảo mua bán | ecommerce_scam | Lừa đảo thương mại điện tử |
+
 ## Câu hỏi thường gặp
 
-### Câu hỏi: Làm thế nào để tôi thêm một loại gian lận mới?
+### Q: Làm thế nào để chọn loại lừa đảo phù hợp cho nghiên cứu?
+**A**: Chọn dựa trên:
+- **Mục tiêu nghiên cứu**: Muốn nghiên cứu loại nào cụ thể
+- **Đối tượng mục tiêu**: Người cao tuổi → y tế, thuế; Sinh viên → học phí, việc làm
+- **Tính thời sự**: Các loại đang phổ biến hiện tại
+
+### Q: Tham số nào ảnh hưởng nhiều nhất đến kết quả hội thoại?
+**A**: Theo thứ tự ưu tiên:
+1. **Mức độ nhận thức** (awareness): Quyết định nạn nhân có bị lừa hay không
+2. **Nghề nghiệp** (occupation): Ảnh hưởng đến chủ đề quan tâm và phản ứng
+3. **Độ tuổi** (age): Ảnh hưởng đến ngôn ngữ và cách tiếp cận
+
+### Q: Làm sao để tạo hội thoại cân bằng giữa các loại?
+**A**: Sử dụng tham số `--count` chia hết cho 15 (số loại lừa đảo) để đảm bảo phân bổ đều. Ví dụ: `--count 150` sẽ tạo 10 hội thoại cho mỗi loại.
+
+### Q: Có thể tùy chỉnh kịch bản cho từng vùng miền Việt Nam không?
+**A**: Có thể chỉnh sửa prompt trong thư mục `agents/prompts/` để thêm đặc trưng ngôn ngữ, văn hóa từng vùng.
+
+### Q: Làm thế nào để đánh giá chất lượng hội thoại sinh ra?
+**A**: Kiểm tra:
+- **Tính tự nhiên**: Hội thoại có mạch lạc, logic không
+- **Tính sát thực**: Có giống với kịch bản lừa đảo thực tế không  
+- **Tính đa dạng**: Các phản ứng có đa dạng theo tham số không
+- **Tính kết thúc**: Hội thoại có kết thúc hợp lý không
+
+### Q: Có thể sử dụng với model khác ngoài DeepSeek không?
+**A**: Có, chỉ cần model tương thích với OpenAI API format. Đã test với:
+- GPT-3.5/GPT-4 (OpenAI)
+- Claude (Anthropic - qua proxy)
+- Các model local qua Ollama
+- Các model trên SiliconFlow, Together AI
+
+### Q: Làm thế nào để tôi thêm một loại gian lận mới?
 
 Trả lời: Thêm loại mới vào danh sách `FRAUD_TYPES` trong `config.py`, sau đó thêm mẫu từ nhắc tương ứng vào `agents/prompts/left_prompts.py`.
 
-### Câu hỏi: Làm thế nào để tôi điều chỉnh điều kiện kết thúc của cuộc trò chuyện?
+### Q: Làm thế nào để tôi điều chỉnh điều kiện kết thúc của cuộc trò chuyện?
 
 Trả lời: Sửa đổi phần điều kiện kết thúc của `MANAGER_SYSTEM_PROMPT` trong `agents/prompts/manager_prompts.py`.
 
-### Câu hỏi: Làm thế nào để tôi cải thiện hiệu quả tạo?
+### Q: Làm thế nào để tôi cải thiện hiệu quả tạo?
 
 Trả lời: Tăng giá trị tham số `--workers` có thể cải thiện khả năng xử lý song song, nhưng bạn cần chú ý đến giới hạn lệnh gọi API và mức tiêu thụ tài nguyên hệ thống.
 
 ### H: Làm thế nào để tùy chỉnh chân dung người dùng?
 A: Thêm hồ sơ người dùng được cài đặt sẵn thông qua các tham số `--user_age`, `--user_awareness` hoặc trong từ điển `USER_PROFILES` trong `config.py`.
+
+## Ví dụ sử dụng các loại lừa đảo mới
+
+### 1. Lừa đảo giả danh công an
+```bash
+python generate_dialogues.py \
+  --count 10 \
+  --output "dialogues_police_scam.jsonl" \
+  --base_url "https://api.siliconflow.cn/v1" \
+  --api_key "your-api-key" \
+  --model "deepseek-ai/DeepSeek-V2.5"
+```
+
+**Kịch bản mẫu**: Kẻ lừa đảo giả danh cảnh sát báo nạn nhân liên quan đến vụ án, đe dọa bắt giữ, yêu cầu chuyển tiền để "chứng minh trong sạch".
+
+### 2. Lừa đảo bưu điện
+```bash
+python main.py \
+  --fraud_type "Lừa đảo bưu điện" \
+  --age 50 \
+  --awareness "thấp" \
+  --occupation "nông dân"
+```
+
+**Kịch bản mẫu**: Giả danh nhân viên bưu điện báo có bưu phẩm chứa tiền/tài sản nhưng cần đóng phí thuế/xử lý.
+
+### 3. Lừa đảo y tế
+```bash
+python main.py \
+  --fraud_type "Lừa đảo y tế" \
+  --age 65 \
+  --awareness "thấp" \
+  --occupation "người nghỉ hưu"
+```
+
+**Kịch bản mẫu**: Giả danh bệnh viện/bác sĩ báo kết quả xét nghiệm có vấn đề, cần điều trị gấp hoặc có tiền bảo hiểm hoàn lại.
+
+### 4. Lừa đảo học phí
+```bash
+python main.py \
+  --fraud_type "Lừa đảo học phí" \
+  --age 20 \
+  --awareness "trung bình" \
+  --occupation "sinh viên"
+```
+
+**Kịch bản mẫu**: Giả danh trường học thông báo được học bổng hoặc cần đóng học phí gấp để giữ chỗ.
+
+### 5. Lừa đảo thuế
+```bash
+python main.py \
+  --fraud_type "Lừa đảo thuế" \
+  --age 40 \
+  --awareness "trung bình" \
+  --occupation "kinh doanh"
+```
+
+**Kịch bản mẫu**: Giả danh cơ quan thuế báo có tiền hoàn thuế hoặc bị phạt thuế, cần cung cấp thông tin tài khoản.
+
+### 6. Lừa đảo từ thiện
+```bash
+python main.py \
+  --fraud_type "Lừa đảo từ thiện" \
+  --age 45 \
+  --awareness "trung bình" \
+  --occupation "nội trợ"
+```
+
+**Kịch bản mẫu**: Kêu gọi quyên góp cho hoàn cảnh khó khăn/thiên tai giả, tạo cảm xúc thương hại.
+
+### 7. Lừa đảo mua bán online
+```bash
+python main.py \
+  --fraud_type "Lừa đảo mua bán" \
+  --age 30 \
+  --awareness "cao" \
+  --occupation "nhân viên văn phòng"
+```
+
+**Kịch bản mẫu**: Giả danh người mua/bán hàng online, yêu cầu chuyển tiền trước hoặc ship COD với giá trị cao hơn.
+
+### Ví dụ sinh hội thoại hàng loạt với tất cả loại lừa đảo mới
+```bash
+python generate_dialogues.py \
+  --count 150 \
+  --output "all_fraud_types_dialogues.jsonl" \
+  --full_output_dir "detailed_dialogues" \
+  --base_url "https://api.siliconflow.cn/v1" \
+  --api_key "your-api-key" \
+  --model "deepseek-ai/DeepSeek-V2.5" \
+  --max_turns 20 \
+  --workers 5
+```
+
+**Kết quả**: Sinh 150 hội thoại bao phủ tất cả 15 loại lừa đảo, phân bổ đều các độ tuổi, mức độ nhận thức và nghề nghiệp.

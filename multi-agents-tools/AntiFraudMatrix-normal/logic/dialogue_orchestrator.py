@@ -132,7 +132,7 @@ class DialogueOrchestrator:
     
     def evaluate_dialogue(self) -> Dict[str, Any]:
         """Manager evaluates the dialogue and decides whether to terminate"""
-        return self.manager_agent.generate_response(self.full_dialogue_history)
+        return self.manager_agent.evaluate_dialogue(self.full_dialogue_history)
     
     def evaluate_end_call(self, terminator: str) -> Dict[str, Any]:
         """Manager evaluates the end call action"""

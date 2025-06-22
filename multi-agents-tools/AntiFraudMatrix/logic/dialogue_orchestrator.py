@@ -43,8 +43,7 @@ class DialogueOrchestrator:
         })
         self.logger.log("Bắt đầu hội thoại")
         self.logger.log(f"Kẻ lừa đảo: {left_message}")
-        
-        # Vòng lặp hội thoại chính
+          # Vòng lặp hội thoại chính
         while turn_count < self.max_turns:
             # Người dùng phản hồi
             right_message = self.right_agent.generate_response(left_message)
@@ -69,20 +68,23 @@ class DialogueOrchestrator:
                 # Không vào giai đoạn phản hồi cuối
                 break
             
-            # Quản lý đánh giá
-            manager_decision = self.evaluate_dialogue()
-            
-            if manager_decision["should_terminate"]:
-                terminated_by_manager = True
-                termination_reason = manager_decision["reason"]
-                terminator = manager_decision["terminator"]
+            # Chỉ đánh giá sau khi có ít nhất 3 lượt hội thoại (6 tin nhắn)
+            # và sau đó mỗi 2 lượt đánh giá 1 lần để giảm tần suất can thiệp
+            if len(self.full_dialogue_history) >= 6 and (turn_count % 2 == 0):
+                # Quản lý đánh giá
+                manager_decision = self.evaluate_dialogue()
                 
-                self.logger.log(f"Quản lý kết thúc hội thoại: {termination_reason}")
-                self.logger.log(f"Cách kết thúc: {'Kẻ lừa đảo kết thúc' if terminator == 'left' else 'Người dùng kết thúc' if terminator == 'right' else 'Kết thúc tự nhiên'}")
-                
-                # Xử lý khi hội thoại kết thúc
-                conclusion_messages = self.handle_termination(terminator)
-                break
+                if manager_decision["should_terminate"]:
+                    terminated_by_manager = True
+                    termination_reason = manager_decision["reason"]
+                    terminator = manager_decision["terminator"]
+                    
+                    self.logger.log(f"Quản lý kết thúc hội thoại: {termination_reason}")
+                    self.logger.log(f"Cách kết thúc: {'Kẻ lừa đảo kết thúc' if terminator == 'left' else 'Người dùng kết thúc' if terminator == 'right' else 'Kết thúc tự nhiên'}")
+                    
+                    # Xử lý khi hội thoại kết thúc
+                    conclusion_messages = self.handle_termination(terminator)
+                    break
                 
             # Kẻ lừa đảo phản hồi
             left_message = self.left_agent.generate_response(right_message)
@@ -98,6 +100,14 @@ class DialogueOrchestrator:
                 end_call_signal_detected = True
                 terminator = "left"
                 termination_reason = "Kẻ lừa đảo chủ động ngắt máy"
+                self.logger.log("Phát hiện tín hiệu ngắt máy, kẻ lừa đảo chủ động kết thúc hội thoại")
+                
+                # Nhận đánh giá từ quản lý về hành động ngắt máy
+                manager_evaluation = self.evaluate_end_call(terminator="left")
+                termination_reason = manager_evaluation["reason"]
+                
+                # Không vào giai đoạn phản hồi cuối
+                break
                 self.logger.log("Phát hiện tín hiệu ngắt máy, kẻ lừa đảo chủ động kết thúc hội thoại")
                 
                 # Nhận đánh giá từ quản lý về hành động ngắt máy
@@ -130,7 +140,7 @@ class DialogueOrchestrator:
     
     def evaluate_dialogue(self) -> Dict[str, Any]:
         """Quản lý đánh giá hội thoại và quyết định có nên kết thúc không"""
-        return self.manager_agent.generate_response(self.full_dialogue_history)
+        return self.manager_agent.evaluate_dialogue(self.full_dialogue_history)
     
     def evaluate_end_call(self, terminator: str) -> Dict[str, Any]:
         """Quản lý đánh giá hành vi ngắt máy"""
@@ -155,8 +165,7 @@ class DialogueOrchestrator:
             temperature=0.3,
             max_tokens=500
         )
-        
-        # Thử phân tích cú pháp JSON
+          # Thử phân tích cú pháp JSON
         try:
             import json
             json_match = self._extract_json(reply)
@@ -164,7 +173,7 @@ class DialogueOrchestrator:
                 result = json.loads(json_match)
             else:
                 result = json.loads(reply)
-                
+            
             if 'reason' not in result:
                 result['reason'] = f"{terminator_name} chủ động ngắt máy, lý do không rõ."
             return result
@@ -177,19 +186,19 @@ class DialogueOrchestrator:
     def _extract_json(self, text: str) -> str:
         """Trích xuất phần JSON từ văn bản"""
         import re
+        import json
         json_pattern = r'\{(?:[^{}]|(?:\{[^{}]*\}))*\}'
         matches = re.findall(json_pattern, text)
         
         # Thử từng mục khớp, trả về JSON hợp lệ đầu tiên
         for match in matches:
             try:
-                import json
                 json.loads(match)
                 return match
             except json.JSONDecodeError:
                 continue
         
-        return None
+        return ""
     
     def handle_termination(self, terminator: str) -> List[Dict[str, str]]:
         """Xử lý khi hội thoại kết thúc"""

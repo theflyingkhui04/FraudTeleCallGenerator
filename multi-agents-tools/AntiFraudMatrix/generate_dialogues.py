@@ -15,12 +15,26 @@ from logic.dialogue_orchestrator import DialogueOrchestrator
 from utils.conversation_logger import ConversationLogger
 import config
 
-# Cấu hình ghi log toàn cục
+# Cấu hình ghi log toàn cục với UTF-8 cho Windows
+import sys
+
+# Tạo file handler với UTF-8 encoding
+file_handler = logging.FileHandler('run.log', encoding='utf-8')
+file_handler.setLevel(logging.INFO)
+file_handler.setFormatter(logging.Formatter('%(asctime)s - %(levelname)s - %(message)s', 
+                                          datefmt='%Y-%m-%d %H:%M:%S'))
+
+# Tạo stream handler với UTF-8 cho console (Windows safe)
+stream_handler = logging.StreamHandler(sys.stdout)
+stream_handler.setLevel(logging.INFO)
+stream_handler.setFormatter(logging.Formatter('%(asctime)s - %(levelname)s - %(message)s', 
+                                            datefmt='%Y-%m-%d %H:%M:%S'))
+
+# Cấu hình root logger
 logging.basicConfig(
-    filename='run.log',
     level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s',
-    datefmt='%Y-%m-%d %H:%M:%S'
+    handlers=[file_handler, stream_handler],
+    force=True
 )
 logger = logging.getLogger(__name__)
 
@@ -32,13 +46,11 @@ AGE_RANGES = [
     (56, 70),  # Cao tuổi
 ]
 
-AWARENESS_LEVELS = ["low", "medium", "high"]
+FRAUD_TYPES = config.FRAUD_TYPES
 
-FRAUD_TYPES = [
-    "Đầu tư", "Phishing", "Chiếm đoạt danh tính", "Trúng thưởng", "Ngân hàng", "Bắt cóc", "Chăm sóc khách hàng", "Lừa đảo qua thư"
-]
+OCCUPATIONS = config.OCCUPATIONS
 
-OCCUPATIONS = ["Học sinh/Sinh viên", "Giáo viên", "Kỹ sư", "Bác sĩ", "Người đã nghỉ hưu", "Thất nghiệp", "Chủ doanh nghiệp", "Nhân viên văn phòng", "Nông dân", "Nhân viên dịch vụ"]
+AWARENESS_LEVELS = config.AWARENESS_LEVELS
 
 def generate_dialogue(args, tts_id: str, user_age: int, user_awareness: str, fraud_type: str) -> Dict[str, Any]:
     """Sinh một hội thoại và trả về kết quả"""
@@ -46,16 +58,20 @@ def generate_dialogue(args, tts_id: str, user_age: int, user_awareness: str, fra
         # Ghi log tham số hội thoại
         logger.info(f"Bắt đầu sinh hội thoại {tts_id}: age={user_age}, awareness={user_awareness}, fraud_type={fraud_type}")
         
+        # Xác định có dùng Gemini hay không (dựa vào model name hoặc base_url)
+        use_gemini = (args.model and "gemini" in args.model.lower()) or not args.base_url
+        
         # Tạo agent bên trái (Kẻ lừa đảo)
         left_agent = LeftAgent(
             model=args.model,
             fraud_type=fraud_type,
-            base_url=args.base_url
+            base_url=args.base_url,
+            api_key=getattr(args, 'api_key', None),
+            use_gemini=use_gemini
         )
         
         # Tạo agent bên phải (Người dùng)
-        # Ngẫu nhiên chọn một độ tuổi trong khoảng
-        user_age = random.randint(user_age[0], user_age[1])
+        # user_age đã được truyền vào function, không cần random lại
         
         # Ngẫu nhiên chọn một nghề nghiệp
         occupation = random.choice(OCCUPATIONS)
@@ -67,14 +83,18 @@ def generate_dialogue(args, tts_id: str, user_age: int, user_awareness: str, fra
                 "awareness": user_awareness,
                 "occupation": occupation
             },
-            base_url=args.base_url
+            base_url=args.base_url,
+            api_key=getattr(args, 'api_key', None),
+            use_gemini=use_gemini
         )
         
         # Tạo agent quản lý
         manager_agent = ManagerAgent(
             model=args.model,
             strictness="medium",
-            base_url=args.base_url
+            base_url=args.base_url,
+            api_key=getattr(args, 'api_key', None),
+            use_gemini=use_gemini
         )
         
         # Tạo bộ điều phối hội thoại
@@ -104,16 +124,19 @@ def generate_dialogue(args, tts_id: str, user_age: int, user_awareness: str, fra
             # Lấy 100 ký tự đầu hoặc đến dấu chấm đầu tiên
             short_reason = termination_reason.split("。")[0] if "。" in termination_reason[:100] else termination_reason[:100]
             termination_reason = short_reason + "..."
-        
-        # Tách biệt nội dung hội thoại của hai bên
+          # Tách biệt nội dung hội thoại của hai bên
         left_messages = []
         right_messages = []
         
         for message in dialogue_result["dialogue_history"]:
             if message["role"] == "left":
-                left_messages.append(message["content"])
+                # Loại bỏ newlines thừa trong content
+                content = message["content"].replace('\n', ' ').strip()
+                left_messages.append(content)
             elif message["role"] == "right":
-                right_messages.append(message["content"])
+                # Loại bỏ newlines thừa trong content
+                content = message["content"].replace('\n', ' ').strip()
+                right_messages.append(content)
         
         # Tạo entry dữ liệu JSONL
         entry = {
@@ -148,7 +171,7 @@ def main():
     parser.add_argument("--count", type=int, default=20, help="Số lượng hội thoại cần sinh")
     parser.add_argument("--output", default="fraud_dialogues.jsonl", help="Đường dẫn file kết quả")
     parser.add_argument("--full_output_dir", default="full_dialogues", help="Thư mục lưu hội thoại đầy đủ")
-    parser.add_argument("--base_url", required=True, help="API endpoint tuỳ chỉnh")
+    parser.add_argument("--base_url", help="API endpoint tuỳ chỉnh (không cần cho Gemini)")
     parser.add_argument("--api_key", required=True, help="API key tuỳ chỉnh")
     parser.add_argument("--model", required=True, help="Tên model sử dụng")
     parser.add_argument("--max_turns", type=int, default=15, help="Số lượt hội thoại tối đa")
@@ -198,7 +221,15 @@ def main():
             user_age = random.randint(age_range[0], age_range[1])
             tts_id = f"tts_fraud_{tts_counter:05d}"
             tasks.append((tts_id, user_age, awareness, fraud))
-            tts_counter += 1
+            tts_counter += 1    # Khởi tạo các biến thống kê và kết quả
+    results = []
+    success_count = 0
+    error_count = 0
+    age_stats = {}
+    awareness_stats = {}
+    fraud_stats = {}
+    terminator_stats = {}
+    occupations_stats = {}
     
     # Xáo trộn thứ tự nhiệm vụ
     random.shuffle(tasks)
@@ -212,8 +243,7 @@ def main():
             (tts_id, user_age, awareness, fraud) 
             for tts_id, user_age, awareness, fraud in tasks
         }
-        
-        # Xử lý kết quả trả về
+          # Xử lý kết quả trả về
         for future in tqdm(as_completed(future_to_task), total=len(tasks), desc="Sinh hội thoại"):
             task = future_to_task[future]
             try:
@@ -221,27 +251,45 @@ def main():
                 if "error" not in result:
                     results.append(result)
                     success_count += 1
+                    
+                    # Cập nhật thống kê
+                    age = result["user_age"]
+                    awareness = result["user_awareness"] 
+                    fraud = result["fraud_type"]
+                    terminator = result["terminator"]
+                    occupation = result["occupation"]
+                    
+                    age_stats[age] = age_stats.get(age, 0) + 1
+                    awareness_stats[awareness] = awareness_stats.get(awareness, 0) + 1
+                    fraud_stats[fraud] = fraud_stats.get(fraud, 0) + 1
+                    terminator_stats[terminator] = terminator_stats.get(terminator, 0) + 1
+                    occupations_stats[occupation] = occupations_stats.get(occupation, 0) + 1
+                    
                 else:
                     logger.error(f"Nhiệm vụ {task[0]} thất bại: {result['error']}")
                     error_count += 1
             except Exception as e:
                 logger.error(f"Lỗi khi xử lý nhiệm vụ {task[0]}: {e}", exc_info=True)
                 error_count += 1
-    
-    # Ghi kết quả vào file JSONL
+      # Ghi kết quả vào file JSONL
     with open(args.output, 'w', encoding='utf-8') as f:
         for entry in results:
             f.write(json.dumps(entry, ensure_ascii=False) + '\n')
     
     # Xuất thống kê phân phối
-    stats_msg = "\nThống kê phân phối:"
-    stats_msg += f"\nPhân bố độ tuổi: {age_stats}"
+    stats_msg = f"\nThống kê tổng quan:"
+    stats_msg += f"\n- Tổng hội thoại thành công: {success_count}"
+    stats_msg += f"\n- Tổng hội thoại lỗi: {error_count}"
+    stats_msg += f"\n- Tỷ lệ thành công: {success_count/(success_count+error_count)*100:.1f}%"
+    stats_msg += f"\nPhân bố độ tuổi: {dict(sorted(age_stats.items()))}"
     stats_msg += f"\nPhân bố nhận thức: {awareness_stats}"
     stats_msg += f"\nPhân bố loại lừa đảo: {fraud_stats}"
     stats_msg += f"\nPhân bố bên kết thúc: {terminator_stats}"
-    stats_msg += f"\nPhân bố nghề nghiệp: {occupations_stats}"
-    
-    print(stats_msg)
+    stats_msg += f"\nPhân bố nghề nghiệp: {occupations_stats}"    
+    try:
+        print(stats_msg)
+    except UnicodeEncodeError:
+        print(stats_msg.encode('utf-8', errors='replace').decode('utf-8'))
     logger.info(stats_msg)
     
 if __name__ == "__main__":

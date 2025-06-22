@@ -9,16 +9,20 @@ import config
 
 def main():
     # Phân tích các đối số dòng lệnh
-    parser = argparse.ArgumentParser(description="Multi-agent daily conversation generation system")
-    parser.add_argument("--fraud_type", default="Customer service inquiry", help="Dialogue scenario type")
-    parser.add_argument("--user_age", type=int, default=45, help="User age")
-    parser.add_argument("--awareness", default="medium", help="User awareness level: low, medium, high")
-    parser.add_argument("--max_turns", type=int, default=20, help="Maximum dialogue turns")
-    parser.add_argument("--output", default="dialogue_output.json", help="Output file path")
-    parser.add_argument("--base_url", default='https://api.siliconflow.cn/v1', help="Custom API endpoint URL")
-    parser.add_argument("--api_key", default='', help="Custom API key")
-    parser.add_argument("--model", default='Qwen/Qwen2.5-72B-Instruct', help="Model name")
+    parser = argparse.ArgumentParser(description="Hệ thống sinh hội thoại bình thường đa agent")
+    parser.add_argument("--conversation_type", default="Tư vấn dịch vụ", help="Loại tình huống hội thoại")
+    parser.add_argument("--user_age", type=int, default=45, help="Tuổi người dùng")
+    parser.add_argument("--awareness", default="trung bình", help="Phong cách giao tiếp: ngắn gọn, trung bình, chi tiết")
+    parser.add_argument("--occupation", default="Giáo viên", help="Nghề nghiệp người dùng")
+    parser.add_argument("--max_turns", type=int, default=20, help="Số lượt hội thoại tối đa")
+    parser.add_argument("--output", default="dialogue_output.json", help="Đường dẫn file kết quả")
+    parser.add_argument("--base_url", help="API endpoint (không cần cho Gemini)")
+    parser.add_argument("--api_key", required=True, help="API key (bắt buộc)")
+    parser.add_argument("--model", default='gemini-2.0-flash', help="Tên model")
     args = parser.parse_args()
+    
+    # Xác định có dùng Gemini hay không
+    use_gemini = (args.model and "gemini" in args.model.lower()) or not args.base_url
     
     # Ghi đè cài đặt API mặc định bằng cách sử dụng đối số dòng lệnh
     if args.api_key:
@@ -31,27 +35,32 @@ def main():
     # Khởi tạo trình ghi nhật ký
     logger = ConversationLogger()
     
-    # Tạo một tác nhân
+    # Tạo các agent với Gemini API
     left_agent = LeftAgent(
         model=args.model,
-        fraud_type=args.fraud_type,  # Giữ nguyên tên biến ban đầu fraud_type
-        base_url=args.base_url
-    )
+        conversation_type=args.conversation_type,  # Sử dụng conversation_type thay vì fraud_type
+        base_url=args.base_url,
+        api_key=args.api_key,
+        use_gemini=use_gemini    )
     
     right_agent = RightAgent(
         model=args.model,
         user_profile={
             "age": args.user_age,
-            "awareness": args.awareness,  # Giữ nguyên nhận thức về tên biến ban đầu
-            "occupation": "Teacher"  # You can add more parameters
+            "communication_style": args.awareness,  # Sử dụng awareness cho communication_style
+            "occupation": args.occupation
         },
-        base_url=args.base_url
+        base_url=args.base_url,
+        api_key=args.api_key,
+        use_gemini=use_gemini
     )
     
     manager_agent = ManagerAgent(
         model=args.model,
         strictness="medium",
-        base_url=args.base_url
+        base_url=args.base_url,
+        api_key=args.api_key,
+        use_gemini=use_gemini
     )
     
     # Tạo một điều phối viên hội thoại
@@ -70,7 +79,7 @@ def main():
     with open(args.output, 'w', encoding='utf-8') as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
     
-    print(f"Hoàn tất việc tạo hộp thoại, tổng cộng {len(result['dialogue_history'])} tin nhắn, đã lưu vào {args.output}")
+    print(f"Sinh hội thoại hoàn tất, tổng {len(result['dialogue_history'])} tin nhắn, đã lưu vào {args.output}")
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,1764 @@
+2025-06-20 20:48:17 - INFO - B\u1eaft \u0111\u1ea7u sinh 5 h\u1ed9i tho\u1ea1i b�nh th\u01b0\u1eddng, model: deepseek-ai/DeepSeek-V2.5, API: https://api.siliconflow.cn/v1
+2025-06-20 20:48:17 - INFO - B\u1eaft \u0111\u1ea7u sinh h\u1ed9i tho\u1ea1i song song, s\u1ed1 lu\u1ed3ng: 3
+2025-06-20 20:48:17 - INFO - B\u1eaft \u0111\u1ea7u sinh h\u1ed9i tho\u1ea1i tts_normal_00005: age=22, awareness=th\u1ea5p, conversation_type=Mua s\u1eafm tr\u1ef1c tuy\u1ebfn
+2025-06-20 20:48:17 - INFO - B\u1eaft \u0111\u1ea7u sinh h\u1ed9i tho\u1ea1i tts_normal_00003: age=24, awareness=th\u1ea5p, conversation_type=\u0110\u1eb7t l\u1ecbch h\u1eb9n
+2025-06-20 20:48:17 - INFO - B\u1eaft \u0111\u1ea7u sinh h\u1ed9i tho\u1ea1i tts_normal_00001: age=21, awareness=th\u1ea5p, conversation_type=T\u01b0 v\u1ea5n d\u1ecbch v\u1ee5 kh�ch h�ng
+2025-06-20 20:48:20 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 20:48:20 - INFO - Dialogue started
+2025-06-20 20:48:20 - INFO - Left: Ch�o anh, Shop ABC c� h\u1ed7 tr\u1ee3 anh ch\u1ecdn size v� m�u nh�!
+2025-06-20 20:48:20 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 20:48:20 - INFO - Dialogue started
+2025-06-20 20:48:20 - INFO - Left: Ch\u1ecb c\u1ea7n \u0111\u1eb7t l\u1ecbch h\u1eb9n v�o th\u1eddi gian n�o \u1ea1?
+2025-06-20 20:48:21 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 20:48:21 - INFO - Dialogue started
+2025-06-20 20:48:21 - INFO - Left: Ch�o anh/ch\u1ecb, d\u1ecbch v\u1ee5 kh�ch h�ng c\u1ee7a c�ng ty ABC xin ph\u1ee5c v\u1ee5 \u1ea1.
+2025-06-20 20:48:22 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 20:48:22 - INFO - Right: Ch�o. Size M m�u \u0111en c� ko?
+2025-06-20 20:48:23 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 20:48:23 - INFO - Right: Ch\u1ecb c\u1ea7n h\u1eb9n bu\u1ed5i s�ng ho\u1eb7c chi\u1ec1u \u1ea1?
+2025-06-20 20:48:24 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 20:48:24 - INFO - Right: Ch�o b\u1ea1n. T�i mu\u1ed1n \u0111\u0103ng k� d\u1ecbch v\u1ee5 m\u1edbi.
+2025-06-20 20:48:27 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 20:48:28 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 20:48:30 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 20:48:31 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 20:48:31 - INFO - Left: C� anh \u1ea1, size M m�u \u0111en c�n h�ng. Anh c� c\u1ea7n t\u01b0 v\u1ea5n th�m v\u1ec1 ch\u1ea5t li\u1ec7u kh�ng?
+2025-06-20 20:48:32 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 20:48:32 - INFO - Left: Ch\u1ecb mu\u1ed1n ch\u1ecdn th\u1eddi gian c\u1ee5 th\u1ec3 n�o trong bu\u1ed5i s�ng ho\u1eb7c chi\u1ec1u \u1ea1?
+2025-06-20 20:48:34 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 20:48:34 - INFO - Right: Ko c\u1ea7n, t\u1ea1m th\u1eddi \u0111\u1ec3 l\u1ea1i size M m�u \u0111en \u0111� \u0111i.
+2025-06-20 20:48:35 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 20:48:35 - INFO - Right: S�ng th� 9h, chi\u1ec1u th� 3h \u0111\u01b0\u1ee3c kh�ng \u1ea1?
+2025-06-20 20:48:35 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 20:48:35 - INFO - Left: Anh/ch\u1ecb mu\u1ed1n \u0111\u0103ng k� d\u1ecbch v\u1ee5 n�o v\u1eady \u1ea1?
+2025-06-20 20:48:37 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 20:48:37 - INFO - Right: T�i mu\u1ed1n \u0111\u0103ng k� g�i internet 300Mbps.
+2025-06-20 20:48:40 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 20:48:40 - INFO - Manager terminated the conversation: The user has clearly indicated that they do not need further assistance and have confirmed their choice of size and color, which means the main purpose of the dialogue has been achieved. The user's response 'Ko c\u1ea7n, t\u1ea1m th\u1eddi \u0111\u1ec3 l\u1ea1i size M m�u \u0111en \u0111� \u0111i' shows satisfaction and no further interaction is necessary.
+2025-06-20 20:48:40 - INFO - Termination type: Right ended
+2025-06-20 20:48:40 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 20:48:42 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 20:48:42 - INFO - Right ended: C\u1ea3m \u01a1n, m�nh s\u1ebd xem x�t v� li�n h\u1ec7 sau.
+2025-06-20 20:48:43 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 20:48:43 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 20:48:43 - INFO - Left: V�ng, ch\u1ecb ch\u1ecdn bu\u1ed5i s�ng 9 gi\u1edd hay chi\u1ec1u 3 gi\u1edd \u1ea1?
+2025-06-20 20:48:45 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 20:48:45 - INFO - Right: Chi\u1ec1u 3 gi\u1edd \u1ea1.
+2025-06-20 20:48:48 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 20:48:48 - INFO - Left response: D\u1ea1 kh�ng v\u1ea5n \u0111\u1ec1, anh c� th\u1ec3 inbox Shop n\u1ebfu c\u1ea7n h\u1ed7 tr\u1ee3 th�m. Ch�c anh ng�y m\u1edbi t\u1ed1t l�nh! ##ENDCALL_SIGNAL##
+2025-06-20 20:48:48 - INFO - Dialogue ended
+2025-06-20 20:48:48 - INFO - H\u1ed9i tho\u1ea1i tts_normal_00005 ho�n th�nh, t\u1ed5ng 6 l\u01b0\u1ee3t
+2025-06-20 20:48:48 - INFO - L\u1ecbch s\u1eed h\u1ed9i tho\u1ea1i tts_normal_00005:
+2025-06-20 20:48:48 - INFO - Nh�n vi�n d\u1ecbch v\u1ee5: Ch�o anh, Shop ABC c� h\u1ed7 tr\u1ee3 anh ch\u1ecdn size v� m�u nh�!
+2025-06-20 20:48:48 - INFO - Kh�ch h�ng: Ch�o. Size M m�u \u0111en c� ko?
+2025-06-20 20:48:48 - INFO - Nh�n vi�n d\u1ecbch v\u1ee5: C� anh \u1ea1, size M m�u \u0111en c�n h�ng. Anh c� c\u1ea7n t\u01b0 v\u1ea5n th�m v\u1ec1 ch\u1ea5t li\u1ec7u kh�ng?
+2025-06-20 20:48:48 - INFO - Kh�ch h�ng: Ko c\u1ea7n, t\u1ea1m th\u1eddi \u0111\u1ec3 l\u1ea1i size M m�u \u0111en \u0111� \u0111i.
+2025-06-20 20:48:48 - INFO - Kh�ch h�ng: C\u1ea3m \u01a1n, m�nh s\u1ebd xem x�t v� li�n h\u1ec7 sau.
+2025-06-20 20:48:48 - INFO - Nh�n vi�n d\u1ecbch v\u1ee5: D\u1ea1 kh�ng v\u1ea5n \u0111\u1ec1, anh c� th\u1ec3 inbox Shop n\u1ebfu c\u1ea7n h\u1ed7 tr\u1ee3 th�m. Ch�c anh ng�y m\u1edbi t\u1ed1t l�nh! 
+2025-06-20 20:48:48 - INFO - H\u1ed9i tho\u1ea1i tts_normal_00005 x\u1eed l� xong, l� do k\u1ebft th�c: The user has clearly indicated that they do not need further assistance and have confirmed their cho...
+2025-06-20 20:48:48 - INFO - \u0110� l\u01b0u h\u1ed9i tho\u1ea1i \u0111\u1ea7y \u0111\u1ee7 v�o D:\Du-an\TeleAntiFraud\multi-agents-tools\dataset\normal_20250620_204813\full_dialogues\tts_normal_00005.json
+2025-06-20 20:48:48 - INFO - B\u1eaft \u0111\u1ea7u sinh h\u1ed9i tho\u1ea1i tts_normal_00002: age=18, awareness=th\u1ea5p, conversation_type=\u0110\u1eb7t \u0111\u1ed3 \u0103n
+2025-06-20 20:48:49 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 20:48:49 - INFO - Left: D\u1ecbch v\u1ee5 n�y c� gi� l� m\u1ed9t tri\u1ec7u hai tr\u0103m ngh�n \u0111\u1ed3ng/th�ng. Anh/ch\u1ecb c� mu\u1ed1n t�i h\u1ed7 tr\u1ee3 \u0111\u0103ng k� ngay kh�ng \u1ea1?
+2025-06-20 20:48:51 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 20:48:51 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 20:48:51 - INFO - Right: \u1eea. \u0110\u0103ng k� lu�n.
+2025-06-20 20:48:51 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 20:48:51 - INFO - Dialogue started
+2025-06-20 20:48:51 - INFO - Left: Ch�o b\u1ea1n, qu� kh�ch mu\u1ed1n \u0111\u1eb7t m�n g� h�m nay? ##ENDCALL_SIGNAL##
+2025-06-20 20:48:52 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:48:52 - INFO - Retrying request to /chat/completions in 0.402328 seconds
+2025-06-20 20:48:53 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:48:53 - INFO - Retrying request to /chat/completions in 0.988870 seconds
+2025-06-20 20:48:54 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:48:54 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:48:54 - INFO - Retrying request to /chat/completions in 0.405984 seconds
+2025-06-20 20:48:55 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:48:55 - INFO - Retrying request to /chat/completions in 0.805460 seconds
+2025-06-20 20:48:57 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 20:48:57 - INFO - Left: \u0110\u01b0\u1ee3c \u1ea1, ch\u1ecb vui l�ng cung c\u1ea5p t�n v� s\u1ed1 \u0111i\u1ec7n tho\u1ea1i \u0111\u1ec3 em x�c nh\u1eadn l\u1ecbch h\u1eb9n \u1ea1. ##ENDCALL_SIGNAL##
+2025-06-20 20:48:57 - INFO - End signal detected, left agent actively ended the conversation
+2025-06-20 20:48:57 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 20:48:58 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:48:58 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:48:58 - INFO - Retrying request to /chat/completions in 0.394219 seconds
+2025-06-20 20:48:58 - INFO - Retrying request to /chat/completions in 0.403275 seconds
+2025-06-20 20:48:58 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-20 20:48:58 - INFO - Right: Ch�o, cho m�nh ph\u1edf b� nh�.
+2025-06-20 20:48:58 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:48:58 - INFO - Retrying request to /chat/completions in 0.403199 seconds
+2025-06-20 20:48:58 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:48:58 - INFO - Retrying request to /chat/completions in 0.866788 seconds
+2025-06-20 20:48:58 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:48:58 - INFO - Retrying request to /chat/completions in 0.825898 seconds
+2025-06-20 20:48:59 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:48:59 - INFO - Retrying request to /chat/completions in 0.809223 seconds
+2025-06-20 20:48:59 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:49:00 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:49:00 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:49:00 - INFO - Retrying request to /chat/completions in 0.494031 seconds
+2025-06-20 20:49:00 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:49:00 - INFO - Retrying request to /chat/completions in 0.492500 seconds
+2025-06-20 20:49:00 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:49:00 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:49:00 - INFO - Retrying request to /chat/completions in 0.402027 seconds
+2025-06-20 20:49:01 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:49:01 - INFO - Retrying request to /chat/completions in 0.827526 seconds
+2025-06-20 20:49:01 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:49:01 - INFO - Retrying request to /chat/completions in 0.780049 seconds
+2025-06-20 20:49:01 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:49:01 - INFO - Retrying request to /chat/completions in 0.823345 seconds
+2025-06-20 20:49:02 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:49:02 - ERROR - L\u1ed7i khi sinh h\u1ed9i tho\u1ea1i tts_normal_00003: API call failed, main model error: Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}, fallback model error: Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}
+Traceback (most recent call last):
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\utils\openai_client.py", line 58, in chat_completion
+    response = self.client.chat.completions.create(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_utils\_utils.py", line 279, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\resources\chat\completions\completions.py", line 914, in create
+    return self._post(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 1247, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 920, in request
+    return self._request(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 1013, in _request
+    return self._retry_request(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 1062, in _retry_request
+    return self._request(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 1013, in _request
+    return self._retry_request(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 1062, in _retry_request
+    return self._request(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 1028, in _request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\generate_normal_dialogues.py", line 92, in generate_dialogue
+    dialogue_result = orchestrator.run_dialogue()
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\logic\dialogue_orchestrator.py", line 106, in run_dialogue
+    manager_evaluation = self.evaluate_end_call(terminator="left")
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\logic\dialogue_orchestrator.py", line 154, in evaluate_end_call
+    reply = self.manager_agent.client.chat_completion(
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\utils\openai_client.py", line 68, in chat_completion
+    raise Exception(f"API call failed, main model error: {e}, fallback model error: {e2}")
+Exception: API call failed, main model error: Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}, fallback model error: Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}
+2025-06-20 20:49:02 - INFO - B\u1eaft \u0111\u1ea7u sinh h\u1ed9i tho\u1ea1i tts_normal_00004: age=22, awareness=th\u1ea5p, conversation_type=T\u01b0 v\u1ea5n giao th�ng
+2025-06-20 20:49:02 - ERROR - Nhi\u1ec7m v\u1ee5 tts_normal_00003 th\u1ea5t b\u1ea1i: API call failed, main model error: Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}, fallback model error: Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}
+2025-06-20 20:49:02 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:49:02 - WARNING - API\u8bf7\u6c42\u5931\u8d25 (\u5c1d\u8bd5 1): API call failed, main model error: Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}, fallback model error: Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}
+2025-06-20 20:49:02 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:49:02 - INFO - Retrying request to /chat/completions in 0.471518 seconds
+2025-06-20 20:49:02 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:49:02 - WARNING - API request failed (Attempt 1): API call failed, main model error: Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}, fallback model error: Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}
+2025-06-20 20:49:03 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:49:03 - INFO - Retrying request to /chat/completions in 0.983933 seconds
+2025-06-20 20:49:05 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:49:05 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:49:05 - INFO - Retrying request to /chat/completions in 0.412006 seconds
+2025-06-20 20:49:06 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:49:06 - INFO - Retrying request to /chat/completions in 0.787552 seconds
+2025-06-20 20:49:07 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:49:07 - WARNING - API\u8bf7\u6c42\u5931\u8d25 (\u5c1d\u8bd5 1): API call failed, main model error: Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}, fallback model error: Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}
+2025-06-20 20:49:07 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:49:07 - INFO - Retrying request to /chat/completions in 0.427379 seconds
+2025-06-20 20:49:07 - INFO - Retrying API request...
+2025-06-20 20:49:08 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:49:08 - INFO - Retrying request to /chat/completions in 0.407805 seconds
+2025-06-20 20:49:08 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:49:08 - INFO - Retrying request to /chat/completions in 0.762479 seconds
+2025-06-20 20:49:09 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:49:09 - INFO - Retrying request to /chat/completions in 0.872418 seconds
+2025-06-20 20:49:09 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:49:10 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:49:10 - INFO - Retrying request to /chat/completions in 0.478833 seconds
+2025-06-20 20:49:10 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:49:11 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:49:11 - INFO - Retrying request to /chat/completions in 0.418399 seconds
+2025-06-20 20:49:11 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:49:11 - INFO - Retrying request to /chat/completions in 0.968115 seconds
+2025-06-20 20:49:11 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:49:11 - INFO - Retrying request to /chat/completions in 0.853699 seconds
+2025-06-20 20:49:12 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:49:12 - WARNING - API\u8bf7\u6c42\u5931\u8d25 (\u5c1d\u8bd5 2): API call failed, main model error: Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}, fallback model error: Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}
+2025-06-20 20:49:12 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:49:12 - INFO - Retrying request to /chat/completions in 0.386115 seconds
+2025-06-20 20:49:13 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:49:13 - WARNING - API request failed (Attempt 2): API call failed, main model error: Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}, fallback model error: Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}
+2025-06-20 20:49:13 - INFO - HTTP Request: POST https://api.siliconflow.cn/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-06-20 20:49:13 - INFO - Retrying request to /chat/completions in 0.959653 seconds
+2025-06-21 20:27:38 - INFO - Bắt đầu sinh 5 hội thoại bình thường, model: gemini-2.0-flash, API: Gemini (built-in)
+2025-06-21 20:27:38 - INFO - Bắt đầu sinh hội thoại song song, số luồng: 3
+2025-06-21 20:27:38 - INFO - Bắt đầu sinh hội thoại tts_normal_00002: age=20, awareness=thấp, conversation_type=Đặt đồ ăn
+2025-06-21 20:27:38 - INFO - Bắt đầu sinh hội thoại tts_normal_00005: age=24, awareness=thấp, conversation_type=Mua sắm trực tuyến
+2025-06-21 20:27:38 - INFO - Bắt đầu sinh hội thoại tts_normal_00003: age=20, awareness=thấp, conversation_type=Đặt lịch hẹn
+2025-06-21 20:27:38 - INFO - Retrying request to /chat/completions in 0.405015 seconds
+2025-06-21 20:27:38 - INFO - Retrying request to /chat/completions in 0.487584 seconds
+2025-06-21 20:27:38 - INFO - Retrying request to /chat/completions in 0.446837 seconds
+2025-06-21 20:27:38 - INFO - Retrying request to /chat/completions in 0.941176 seconds
+2025-06-21 20:27:38 - INFO - Retrying request to /chat/completions in 0.823710 seconds
+2025-06-21 20:27:38 - INFO - Retrying request to /chat/completions in 0.772754 seconds
+2025-06-21 20:27:39 - INFO - Retrying request to /chat/completions in 0.452597 seconds
+2025-06-21 20:27:39 - INFO - Retrying request to /chat/completions in 0.477942 seconds
+2025-06-21 20:27:39 - INFO - Retrying request to /chat/completions in 0.396585 seconds
+2025-06-21 20:27:40 - INFO - Retrying request to /chat/completions in 0.834485 seconds
+2025-06-21 20:27:40 - INFO - Retrying request to /chat/completions in 0.947452 seconds
+2025-06-21 20:27:40 - INFO - Retrying request to /chat/completions in 0.994779 seconds
+2025-06-21 20:27:40 - WARNING - Left agent API error (lần thử 1): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:27:41 - WARNING - Left agent API error (lần thử 1): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:27:41 - WARNING - Left agent API error (lần thử 1): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:27:46 - INFO - Retrying request to /chat/completions in 0.433859 seconds
+2025-06-21 20:27:46 - INFO - Retrying request to /chat/completions in 0.426246 seconds
+2025-06-21 20:27:46 - INFO - Retrying request to /chat/completions in 0.463734 seconds
+2025-06-21 20:27:46 - INFO - Retrying request to /chat/completions in 0.999212 seconds
+2025-06-21 20:27:46 - INFO - Retrying request to /chat/completions in 0.836445 seconds
+2025-06-21 20:27:46 - INFO - Retrying request to /chat/completions in 0.830790 seconds
+2025-06-21 20:27:47 - INFO - Retrying request to /chat/completions in 0.384253 seconds
+2025-06-21 20:27:47 - INFO - Retrying request to /chat/completions in 0.414211 seconds
+2025-06-21 20:27:47 - INFO - Retrying request to /chat/completions in 0.397223 seconds
+2025-06-21 20:27:47 - INFO - Retrying request to /chat/completions in 0.809450 seconds
+2025-06-21 20:27:47 - INFO - Retrying request to /chat/completions in 0.925717 seconds
+2025-06-21 20:27:47 - INFO - Retrying request to /chat/completions in 0.992221 seconds
+2025-06-21 20:27:48 - WARNING - Left agent API error (lần thử 2): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:27:48 - WARNING - Left agent API error (lần thử 2): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:27:48 - WARNING - Left agent API error (lần thử 2): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:27:53 - INFO - Retrying request to /chat/completions in 0.456538 seconds
+2025-06-21 20:27:53 - INFO - Retrying request to /chat/completions in 0.456606 seconds
+2025-06-21 20:27:53 - INFO - Retrying request to /chat/completions in 0.438086 seconds
+2025-06-21 20:27:54 - INFO - Retrying request to /chat/completions in 0.974183 seconds
+2025-06-21 20:27:54 - INFO - Retrying request to /chat/completions in 0.779840 seconds
+2025-06-21 20:27:54 - INFO - Retrying request to /chat/completions in 0.810465 seconds
+2025-06-21 20:27:55 - INFO - Retrying request to /chat/completions in 0.457510 seconds
+2025-06-21 20:27:55 - INFO - Retrying request to /chat/completions in 0.385603 seconds
+2025-06-21 20:27:55 - INFO - Retrying request to /chat/completions in 0.391698 seconds
+2025-06-21 20:27:55 - INFO - Retrying request to /chat/completions in 0.839979 seconds
+2025-06-21 20:27:55 - INFO - Retrying request to /chat/completions in 0.898623 seconds
+2025-06-21 20:27:55 - INFO - Retrying request to /chat/completions in 0.932643 seconds
+2025-06-21 20:27:56 - WARNING - Left agent API error (lần thử 3): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:27:56 - WARNING - Left agent API error (lần thử 3): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:27:56 - WARNING - Left agent API error (lần thử 3): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:28:01 - INFO - Retrying request to /chat/completions in 0.377297 seconds
+2025-06-21 20:28:01 - INFO - Retrying request to /chat/completions in 0.461766 seconds
+2025-06-21 20:28:01 - INFO - Retrying request to /chat/completions in 0.408594 seconds
+2025-06-21 20:28:01 - INFO - Retrying request to /chat/completions in 0.824342 seconds
+2025-06-21 20:28:01 - INFO - Retrying request to /chat/completions in 0.921305 seconds
+2025-06-21 20:28:02 - INFO - Retrying request to /chat/completions in 0.980500 seconds
+2025-06-21 20:28:02 - INFO - Retrying request to /chat/completions in 0.493717 seconds
+2025-06-21 20:28:02 - INFO - Retrying request to /chat/completions in 0.446509 seconds
+2025-06-21 20:28:03 - INFO - Retrying request to /chat/completions in 0.380048 seconds
+2025-06-21 20:28:03 - INFO - Retrying request to /chat/completions in 0.981673 seconds
+2025-06-21 20:28:03 - INFO - Retrying request to /chat/completions in 0.775612 seconds
+2025-06-21 20:28:03 - INFO - Retrying request to /chat/completions in 0.832867 seconds
+2025-06-21 20:28:04 - WARNING - Left agent API error (lần thử 4): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:28:04 - WARNING - Left agent API error (lần thử 4): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:28:04 - WARNING - Left agent API error (lần thử 4): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:28:09 - INFO - Retrying request to /chat/completions in 0.453752 seconds
+2025-06-21 20:28:09 - INFO - Retrying request to /chat/completions in 0.457023 seconds
+2025-06-21 20:28:09 - INFO - Retrying request to /chat/completions in 0.468930 seconds
+2025-06-21 20:28:09 - INFO - Retrying request to /chat/completions in 0.938797 seconds
+2025-06-21 20:28:09 - INFO - Retrying request to /chat/completions in 0.831463 seconds
+2025-06-21 20:28:09 - INFO - Retrying request to /chat/completions in 0.965662 seconds
+2025-06-21 20:28:10 - INFO - Retrying request to /chat/completions in 0.376512 seconds
+2025-06-21 20:28:10 - INFO - Retrying request to /chat/completions in 0.414147 seconds
+2025-06-21 20:28:10 - INFO - Retrying request to /chat/completions in 0.405446 seconds
+2025-06-21 20:28:10 - INFO - Retrying request to /chat/completions in 0.807688 seconds
+2025-06-21 20:28:10 - INFO - Retrying request to /chat/completions in 0.789740 seconds
+2025-06-21 20:28:11 - INFO - Retrying request to /chat/completions in 0.848313 seconds
+2025-06-21 20:28:11 - WARNING - Left agent API error (lần thử 5): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:28:11 - WARNING - Left agent API error (lần thử 5): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:28:12 - WARNING - Left agent API error (lần thử 5): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:28:16 - INFO - Retrying request to /chat/completions in 0.476942 seconds
+2025-06-21 20:28:16 - INFO - Retrying request to /chat/completions in 0.380202 seconds
+2025-06-21 20:28:17 - INFO - Retrying request to /chat/completions in 0.406680 seconds
+2025-06-21 20:28:17 - INFO - Retrying request to /chat/completions in 0.883686 seconds
+2025-06-21 20:28:17 - INFO - Retrying request to /chat/completions in 0.760971 seconds
+2025-06-21 20:28:17 - INFO - Retrying request to /chat/completions in 0.792849 seconds
+2025-06-21 20:28:17 - INFO - Retrying request to /chat/completions in 0.391043 seconds
+2025-06-21 20:28:18 - INFO - Retrying request to /chat/completions in 0.429269 seconds
+2025-06-21 20:28:18 - INFO - Retrying request to /chat/completions in 0.487006 seconds
+2025-06-21 20:28:18 - INFO - Retrying request to /chat/completions in 0.824395 seconds
+2025-06-21 20:28:18 - INFO - Retrying request to /chat/completions in 0.924182 seconds
+2025-06-21 20:28:18 - INFO - Retrying request to /chat/completions in 0.984412 seconds
+2025-06-21 20:28:19 - WARNING - Left agent API error (lần thử 6): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:28:19 - WARNING - Left agent API error (lần thử 6): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:28:19 - WARNING - Left agent API error (lần thử 6): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:28:24 - INFO - Retrying request to /chat/completions in 0.483214 seconds
+2025-06-21 20:28:24 - INFO - Retrying request to /chat/completions in 0.478719 seconds
+2025-06-21 20:28:24 - INFO - Retrying request to /chat/completions in 0.909436 seconds
+2025-06-21 20:28:24 - INFO - Retrying request to /chat/completions in 0.383718 seconds
+2025-06-21 20:28:24 - INFO - Retrying request to /chat/completions in 0.783111 seconds
+2025-06-21 20:28:25 - INFO - Retrying request to /chat/completions in 0.751315 seconds
+2025-06-21 20:28:25 - INFO - Retrying request to /chat/completions in 0.438480 seconds
+2025-06-21 20:28:25 - INFO - Retrying request to /chat/completions in 0.392575 seconds
+2025-06-21 20:28:25 - INFO - Retrying request to /chat/completions in 0.474312 seconds
+2025-06-21 20:28:26 - INFO - Retrying request to /chat/completions in 0.818529 seconds
+2025-06-21 20:28:26 - INFO - Retrying request to /chat/completions in 0.970659 seconds
+2025-06-21 20:28:26 - INFO - Retrying request to /chat/completions in 0.964607 seconds
+2025-06-21 20:28:26 - WARNING - Left agent API error (lần thử 7): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:28:27 - WARNING - Left agent API error (lần thử 7): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:28:27 - WARNING - Left agent API error (lần thử 7): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:28:31 - INFO - Retrying request to /chat/completions in 0.478032 seconds
+2025-06-21 20:28:32 - INFO - Retrying request to /chat/completions in 0.453640 seconds
+2025-06-21 20:28:32 - INFO - Retrying request to /chat/completions in 0.418313 seconds
+2025-06-21 20:28:32 - INFO - Retrying request to /chat/completions in 0.887034 seconds
+2025-06-21 20:28:32 - INFO - Retrying request to /chat/completions in 0.888580 seconds
+2025-06-21 20:28:32 - INFO - Retrying request to /chat/completions in 0.785701 seconds
+2025-06-21 20:28:33 - INFO - Retrying request to /chat/completions in 0.416210 seconds
+2025-06-21 20:28:33 - INFO - Retrying request to /chat/completions in 0.483367 seconds
+2025-06-21 20:28:33 - INFO - Retrying request to /chat/completions in 0.426204 seconds
+2025-06-21 20:28:33 - INFO - Retrying request to /chat/completions in 0.882589 seconds
+2025-06-21 20:28:33 - INFO - Retrying request to /chat/completions in 0.908389 seconds
+2025-06-21 20:28:34 - INFO - Retrying request to /chat/completions in 0.761507 seconds
+2025-06-21 20:28:34 - WARNING - Left agent API error (lần thử 8): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:28:34 - WARNING - Left agent API error (lần thử 8): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:28:34 - WARNING - Left agent API error (lần thử 8): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:28:39 - INFO - Retrying request to /chat/completions in 0.400646 seconds
+2025-06-21 20:28:39 - INFO - Retrying request to /chat/completions in 0.475585 seconds
+2025-06-21 20:28:39 - INFO - Retrying request to /chat/completions in 0.487575 seconds
+2025-06-21 20:28:40 - INFO - Retrying request to /chat/completions in 0.924246 seconds
+2025-06-21 20:28:40 - INFO - Retrying request to /chat/completions in 0.805871 seconds
+2025-06-21 20:28:40 - INFO - Retrying request to /chat/completions in 0.848853 seconds
+2025-06-21 20:28:40 - INFO - Retrying request to /chat/completions in 0.387524 seconds
+2025-06-21 20:28:41 - INFO - Retrying request to /chat/completions in 0.499940 seconds
+2025-06-21 20:28:41 - INFO - Retrying request to /chat/completions in 0.442879 seconds
+2025-06-21 20:28:41 - INFO - Retrying request to /chat/completions in 0.960456 seconds
+2025-06-21 20:28:41 - INFO - Retrying request to /chat/completions in 0.932464 seconds
+2025-06-21 20:28:41 - INFO - Retrying request to /chat/completions in 0.821763 seconds
+2025-06-21 20:28:42 - WARNING - Left agent API error (lần thử 9): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:28:42 - WARNING - Left agent API error (lần thử 9): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:28:42 - WARNING - Left agent API error (lần thử 9): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:28:47 - INFO - Retrying request to /chat/completions in 0.427259 seconds
+2025-06-21 20:28:47 - INFO - Retrying request to /chat/completions in 0.412968 seconds
+2025-06-21 20:28:47 - INFO - Retrying request to /chat/completions in 0.413002 seconds
+2025-06-21 20:28:47 - INFO - Retrying request to /chat/completions in 0.817770 seconds
+2025-06-21 20:28:47 - INFO - Retrying request to /chat/completions in 0.962214 seconds
+2025-06-21 20:28:48 - INFO - Retrying request to /chat/completions in 0.979420 seconds
+2025-06-21 20:28:48 - INFO - Retrying request to /chat/completions in 0.420540 seconds
+2025-06-21 20:28:48 - INFO - Retrying request to /chat/completions in 0.452983 seconds
+2025-06-21 20:28:49 - INFO - Retrying request to /chat/completions in 0.387380 seconds
+2025-06-21 20:28:49 - INFO - Retrying request to /chat/completions in 0.777440 seconds
+2025-06-21 20:28:49 - INFO - Retrying request to /chat/completions in 0.878462 seconds
+2025-06-21 20:28:49 - INFO - Retrying request to /chat/completions in 0.933567 seconds
+2025-06-21 20:28:49 - WARNING - Left agent API error (lần thử 10): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:28:50 - WARNING - Left agent API error (lần thử 10): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:28:50 - WARNING - Left agent API error (lần thử 10): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:28:54 - INFO - Retrying request to /chat/completions in 0.400424 seconds
+2025-06-21 20:28:55 - INFO - Retrying request to /chat/completions in 0.827579 seconds
+2025-06-21 20:28:55 - INFO - Retrying request to /chat/completions in 0.390790 seconds
+2025-06-21 20:28:55 - INFO - Retrying request to /chat/completions in 0.431633 seconds
+2025-06-21 20:28:55 - INFO - Retrying request to /chat/completions in 0.784845 seconds
+2025-06-21 20:28:55 - INFO - Retrying request to /chat/completions in 0.907339 seconds
+2025-06-21 20:28:56 - INFO - Retrying request to /chat/completions in 0.464495 seconds
+2025-06-21 20:28:56 - INFO - Retrying request to /chat/completions in 0.494355 seconds
+2025-06-21 20:28:56 - INFO - Retrying request to /chat/completions in 0.903432 seconds
+2025-06-21 20:28:56 - INFO - Retrying request to /chat/completions in 0.485496 seconds
+2025-06-21 20:28:57 - INFO - Retrying request to /chat/completions in 0.960109 seconds
+2025-06-21 20:28:57 - INFO - Retrying request to /chat/completions in 0.950349 seconds
+2025-06-21 20:28:57 - ERROR - Left agent error sau 10 lần thử: API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:28:57 - INFO - Dialogue started
+2025-06-21 20:28:57 - INFO - Left: Xin lỗi, tôi đang gặp vấn đề kỹ thuật. Tôi sẽ liên hệ lại với bạn sau.
+2025-06-21 20:28:57 - ERROR - Lỗi khi sinh hội thoại tts_normal_00002: 'communication_style'
+Traceback (most recent call last):
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\generate_normal_dialogues.py", line 111, in generate_dialogue
+    dialogue_result = orchestrator.run_dialogue()
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\logic\dialogue_orchestrator.py", line 52, in run_dialogue
+    right_message = self.right_agent.generate_response(left_message)
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\agents\right_agent.py", line 38, in generate_response
+    messages = [{"role": "system", "content": self.get_system_prompt()}]
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\agents\right_agent.py", line 32, in get_system_prompt
+    communication_style=self.user_profile["communication_style"],
+KeyError: 'communication_style'
+2025-06-21 20:28:57 - INFO - Bắt đầu sinh hội thoại tts_normal_00004: age=21, awareness=thấp, conversation_type=Tư vấn giao thông
+2025-06-21 20:28:57 - ERROR - Nhiệm vụ tts_normal_00002 thất bại: 'communication_style'
+2025-06-21 20:28:57 - INFO - Retrying request to /chat/completions in 0.418908 seconds
+2025-06-21 20:28:57 - INFO - Retrying request to /chat/completions in 0.837497 seconds
+2025-06-21 20:28:57 - ERROR - Left agent error sau 10 lần thử: API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:28:57 - INFO - Dialogue started
+2025-06-21 20:28:57 - INFO - Left: Xin lỗi, tôi đang gặp vấn đề kỹ thuật. Tôi sẽ liên hệ lại với bạn sau.
+2025-06-21 20:28:57 - ERROR - Lỗi khi sinh hội thoại tts_normal_00005: 'communication_style'
+Traceback (most recent call last):
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\generate_normal_dialogues.py", line 111, in generate_dialogue
+    dialogue_result = orchestrator.run_dialogue()
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\logic\dialogue_orchestrator.py", line 52, in run_dialogue
+    right_message = self.right_agent.generate_response(left_message)
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\agents\right_agent.py", line 38, in generate_response
+    messages = [{"role": "system", "content": self.get_system_prompt()}]
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\agents\right_agent.py", line 32, in get_system_prompt
+    communication_style=self.user_profile["communication_style"],
+KeyError: 'communication_style'
+2025-06-21 20:28:57 - INFO - Bắt đầu sinh hội thoại tts_normal_00001: age=22, awareness=thấp, conversation_type=Tư vấn dịch vụ khách hàng
+2025-06-21 20:28:57 - ERROR - Nhiệm vụ tts_normal_00005 thất bại: 'communication_style'
+2025-06-21 20:28:58 - INFO - Retrying request to /chat/completions in 0.444281 seconds
+2025-06-21 20:28:58 - ERROR - Left agent error sau 10 lần thử: API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:28:58 - INFO - Dialogue started
+2025-06-21 20:28:58 - INFO - Left: Xin lỗi, tôi đang gặp vấn đề kỹ thuật. Tôi sẽ liên hệ lại với bạn sau.
+2025-06-21 20:28:58 - ERROR - Lỗi khi sinh hội thoại tts_normal_00003: 'communication_style'
+Traceback (most recent call last):
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\generate_normal_dialogues.py", line 111, in generate_dialogue
+    dialogue_result = orchestrator.run_dialogue()
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\logic\dialogue_orchestrator.py", line 52, in run_dialogue
+    right_message = self.right_agent.generate_response(left_message)
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\agents\right_agent.py", line 38, in generate_response
+    messages = [{"role": "system", "content": self.get_system_prompt()}]
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\agents\right_agent.py", line 32, in get_system_prompt
+    communication_style=self.user_profile["communication_style"],
+KeyError: 'communication_style'
+2025-06-21 20:28:58 - ERROR - Nhiệm vụ tts_normal_00003 thất bại: 'communication_style'
+2025-06-21 20:28:58 - INFO - Retrying request to /chat/completions in 0.765390 seconds
+2025-06-21 20:28:58 - INFO - Retrying request to /chat/completions in 0.405516 seconds
+2025-06-21 20:28:59 - INFO - Retrying request to /chat/completions in 0.887652 seconds
+2025-06-21 20:28:59 - INFO - Retrying request to /chat/completions in 0.467467 seconds
+2025-06-21 20:28:59 - INFO - Retrying request to /chat/completions in 0.828103 seconds
+2025-06-21 20:29:00 - WARNING - Left agent API error (lần thử 1): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:29:00 - WARNING - Left agent API error (lần thử 1): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:29:05 - INFO - Retrying request to /chat/completions in 0.414976 seconds
+2025-06-21 20:29:05 - INFO - Retrying request to /chat/completions in 0.849789 seconds
+2025-06-21 20:29:05 - INFO - Retrying request to /chat/completions in 0.388561 seconds
+2025-06-21 20:29:05 - INFO - Retrying request to /chat/completions in 0.986461 seconds
+2025-06-21 20:29:06 - INFO - Retrying request to /chat/completions in 0.450196 seconds
+2025-06-21 20:29:06 - INFO - Retrying request to /chat/completions in 0.898849 seconds
+2025-06-21 20:29:07 - INFO - Retrying request to /chat/completions in 0.425663 seconds
+2025-06-21 20:29:07 - INFO - Retrying request to /chat/completions in 0.941398 seconds
+2025-06-21 20:29:07 - WARNING - Left agent API error (lần thử 2): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:29:08 - WARNING - Left agent API error (lần thử 2): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:29:12 - INFO - Retrying request to /chat/completions in 0.452069 seconds
+2025-06-21 20:29:13 - INFO - Retrying request to /chat/completions in 0.852866 seconds
+2025-06-21 20:29:13 - INFO - Retrying request to /chat/completions in 0.498068 seconds
+2025-06-21 20:29:13 - INFO - Retrying request to /chat/completions in 0.841847 seconds
+2025-06-21 20:29:14 - INFO - Retrying request to /chat/completions in 0.416042 seconds
+2025-06-21 20:29:14 - INFO - Retrying request to /chat/completions in 0.898486 seconds
+2025-06-21 20:29:14 - INFO - Retrying request to /chat/completions in 0.495374 seconds
+2025-06-21 20:29:15 - INFO - Retrying request to /chat/completions in 0.806453 seconds
+2025-06-21 20:29:15 - WARNING - Left agent API error (lần thử 3): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:29:16 - WARNING - Left agent API error (lần thử 3): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:29:20 - INFO - Retrying request to /chat/completions in 0.426117 seconds
+2025-06-21 20:29:20 - INFO - Retrying request to /chat/completions in 0.855277 seconds
+2025-06-21 20:29:21 - INFO - Retrying request to /chat/completions in 0.425689 seconds
+2025-06-21 20:29:21 - INFO - Retrying request to /chat/completions in 0.985912 seconds
+2025-06-21 20:29:21 - INFO - Retrying request to /chat/completions in 0.457914 seconds
+2025-06-21 20:29:22 - INFO - Retrying request to /chat/completions in 0.933945 seconds
+2025-06-21 20:29:22 - INFO - Retrying request to /chat/completions in 0.469046 seconds
+2025-06-21 20:29:23 - INFO - Retrying request to /chat/completions in 0.993648 seconds
+2025-06-21 20:29:23 - WARNING - Left agent API error (lần thử 4): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:29:24 - WARNING - Left agent API error (lần thử 4): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:29:28 - INFO - Retrying request to /chat/completions in 0.496103 seconds
+2025-06-21 20:29:28 - INFO - Retrying request to /chat/completions in 0.981519 seconds
+2025-06-21 20:29:29 - INFO - Retrying request to /chat/completions in 0.417208 seconds
+2025-06-21 20:29:29 - INFO - Retrying request to /chat/completions in 0.756086 seconds
+2025-06-21 20:29:29 - INFO - Retrying request to /chat/completions in 0.496507 seconds
+2025-06-21 20:29:30 - INFO - Retrying request to /chat/completions in 0.782466 seconds
+2025-06-21 20:29:30 - INFO - Retrying request to /chat/completions in 0.469282 seconds
+2025-06-21 20:29:30 - INFO - Retrying request to /chat/completions in 0.760079 seconds
+2025-06-21 20:29:30 - WARNING - Left agent API error (lần thử 5): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:29:31 - WARNING - Left agent API error (lần thử 5): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:29:36 - INFO - Retrying request to /chat/completions in 0.485468 seconds
+2025-06-21 20:29:36 - INFO - Retrying request to /chat/completions in 0.425509 seconds
+2025-06-21 20:29:36 - INFO - Retrying request to /chat/completions in 0.974009 seconds
+2025-06-21 20:29:36 - INFO - Retrying request to /chat/completions in 0.839477 seconds
+2025-06-21 20:29:37 - INFO - Retrying request to /chat/completions in 0.478695 seconds
+2025-06-21 20:29:37 - INFO - Retrying request to /chat/completions in 0.455112 seconds
+2025-06-21 20:29:37 - INFO - Retrying request to /chat/completions in 0.918206 seconds
+2025-06-21 20:29:38 - INFO - Retrying request to /chat/completions in 0.947176 seconds
+2025-06-21 20:29:38 - WARNING - Left agent API error (lần thử 6): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:29:39 - WARNING - Left agent API error (lần thử 6): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:29:43 - INFO - Retrying request to /chat/completions in 0.472864 seconds
+2025-06-21 20:29:44 - INFO - Retrying request to /chat/completions in 0.378062 seconds
+2025-06-21 20:29:44 - INFO - Retrying request to /chat/completions in 0.777845 seconds
+2025-06-21 20:29:44 - INFO - Retrying request to /chat/completions in 0.935312 seconds
+2025-06-21 20:29:45 - INFO - Retrying request to /chat/completions in 0.409563 seconds
+2025-06-21 20:29:45 - INFO - Retrying request to /chat/completions in 0.403232 seconds
+2025-06-21 20:29:45 - INFO - Retrying request to /chat/completions in 0.841979 seconds
+2025-06-21 20:29:45 - INFO - Retrying request to /chat/completions in 0.793120 seconds
+2025-06-21 20:29:46 - WARNING - Left agent API error (lần thử 7): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:29:46 - WARNING - Left agent API error (lần thử 7): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:29:51 - INFO - Retrying request to /chat/completions in 0.479504 seconds
+2025-06-21 20:29:51 - INFO - Retrying request to /chat/completions in 0.475150 seconds
+2025-06-21 20:29:51 - INFO - Retrying request to /chat/completions in 0.803833 seconds
+2025-06-21 20:29:52 - INFO - Retrying request to /chat/completions in 0.804226 seconds
+2025-06-21 20:29:52 - INFO - Retrying request to /chat/completions in 0.411841 seconds
+2025-06-21 20:29:53 - INFO - Retrying request to /chat/completions in 0.385361 seconds
+2025-06-21 20:29:53 - INFO - Retrying request to /chat/completions in 0.994981 seconds
+2025-06-21 20:29:53 - INFO - Retrying request to /chat/completions in 0.854209 seconds
+2025-06-21 20:29:54 - WARNING - Left agent API error (lần thử 8): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:29:54 - WARNING - Left agent API error (lần thử 8): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:29:59 - INFO - Retrying request to /chat/completions in 0.486373 seconds
+2025-06-21 20:29:59 - INFO - Retrying request to /chat/completions in 0.419714 seconds
+2025-06-21 20:29:59 - INFO - Retrying request to /chat/completions in 0.865285 seconds
+2025-06-21 20:29:59 - INFO - Retrying request to /chat/completions in 0.752989 seconds
+2025-06-21 20:30:00 - INFO - Retrying request to /chat/completions in 0.444179 seconds
+2025-06-21 20:30:00 - INFO - Retrying request to /chat/completions in 0.476241 seconds
+2025-06-21 20:30:00 - INFO - Retrying request to /chat/completions in 0.763401 seconds
+2025-06-21 20:30:01 - INFO - Retrying request to /chat/completions in 0.834090 seconds
+2025-06-21 20:30:01 - WARNING - Left agent API error (lần thử 9): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:30:01 - WARNING - Left agent API error (lần thử 9): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:30:06 - INFO - Retrying request to /chat/completions in 0.435612 seconds
+2025-06-21 20:30:06 - INFO - Retrying request to /chat/completions in 0.413801 seconds
+2025-06-21 20:30:07 - INFO - Retrying request to /chat/completions in 0.867605 seconds
+2025-06-21 20:30:07 - INFO - Retrying request to /chat/completions in 0.768588 seconds
+2025-06-21 20:30:08 - INFO - Retrying request to /chat/completions in 0.474001 seconds
+2025-06-21 20:30:08 - INFO - Retrying request to /chat/completions in 0.476761 seconds
+2025-06-21 20:30:08 - INFO - Retrying request to /chat/completions in 0.848457 seconds
+2025-06-21 20:30:08 - INFO - Retrying request to /chat/completions in 0.928005 seconds
+2025-06-21 20:30:09 - WARNING - Left agent API error (lần thử 10): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:30:09 - WARNING - Left agent API error (lần thử 10): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:30:14 - INFO - Retrying request to /chat/completions in 0.472961 seconds
+2025-06-21 20:30:14 - INFO - Retrying request to /chat/completions in 0.463092 seconds
+2025-06-21 20:30:14 - INFO - Retrying request to /chat/completions in 0.995695 seconds
+2025-06-21 20:30:15 - INFO - Retrying request to /chat/completions in 0.838539 seconds
+2025-06-21 20:30:15 - INFO - Retrying request to /chat/completions in 0.375285 seconds
+2025-06-21 20:30:15 - INFO - Retrying request to /chat/completions in 0.377706 seconds
+2025-06-21 20:30:16 - INFO - Retrying request to /chat/completions in 0.775818 seconds
+2025-06-21 20:30:16 - INFO - Retrying request to /chat/completions in 0.846781 seconds
+2025-06-21 20:30:17 - ERROR - Left agent error sau 10 lần thử: API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:30:17 - INFO - Dialogue started
+2025-06-21 20:30:17 - INFO - Left: Xin lỗi, tôi đang gặp vấn đề kỹ thuật. Tôi sẽ liên hệ lại với bạn sau.
+2025-06-21 20:30:17 - ERROR - Lỗi khi sinh hội thoại tts_normal_00004: 'communication_style'
+Traceback (most recent call last):
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\generate_normal_dialogues.py", line 111, in generate_dialogue
+    dialogue_result = orchestrator.run_dialogue()
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\logic\dialogue_orchestrator.py", line 52, in run_dialogue
+    right_message = self.right_agent.generate_response(left_message)
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\agents\right_agent.py", line 38, in generate_response
+    messages = [{"role": "system", "content": self.get_system_prompt()}]
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\agents\right_agent.py", line 32, in get_system_prompt
+    communication_style=self.user_profile["communication_style"],
+KeyError: 'communication_style'
+2025-06-21 20:30:17 - ERROR - Nhiệm vụ tts_normal_00004 thất bại: 'communication_style'
+2025-06-21 20:30:17 - ERROR - Left agent error sau 10 lần thử: API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:30:17 - INFO - Dialogue started
+2025-06-21 20:30:17 - INFO - Left: Xin lỗi, tôi đang gặp vấn đề kỹ thuật. Tôi sẽ liên hệ lại với bạn sau.
+2025-06-21 20:30:17 - ERROR - Lỗi khi sinh hội thoại tts_normal_00001: 'communication_style'
+Traceback (most recent call last):
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\generate_normal_dialogues.py", line 111, in generate_dialogue
+    dialogue_result = orchestrator.run_dialogue()
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\logic\dialogue_orchestrator.py", line 52, in run_dialogue
+    right_message = self.right_agent.generate_response(left_message)
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\agents\right_agent.py", line 38, in generate_response
+    messages = [{"role": "system", "content": self.get_system_prompt()}]
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\agents\right_agent.py", line 32, in get_system_prompt
+    communication_style=self.user_profile["communication_style"],
+KeyError: 'communication_style'
+2025-06-21 20:30:17 - ERROR - Nhiệm vụ tts_normal_00001 thất bại: 'communication_style'
+2025-06-21 20:30:17 - CRITICAL - Lỗi nghiêm trọng trong quá trình chạy chương trình
+Traceback (most recent call last):
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\generate_normal_dialogues.py", line 305, in <module>
+    main()
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\generate_normal_dialogues.py", line 261, in main
+    print(completion_msg)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+UnicodeEncodeError: 'charmap' codec can't encode character '\u0110' in position 12: character maps to <undefined>
+2025-06-21 20:30:17 - INFO - Tổng thời gian: 158.93 giây
+2025-06-21 20:38:04 - INFO - Bắt đầu sinh 2 hội thoại bình thường, model: gemini-2.0-flash, API: Gemini (built-in)
+2025-06-21 20:38:04 - INFO - Bắt đầu sinh hội thoại song song, số luồng: 3
+2025-06-21 20:38:04 - INFO - Bắt đầu sinh hội thoại tts_normal_00002: age=24, awareness=thấp, conversation_type=Đặt đồ ăn
+2025-06-21 20:38:04 - INFO - Bắt đầu sinh hội thoại tts_normal_00001: age=21, awareness=thấp, conversation_type=Tư vấn dịch vụ khách hàng
+2025-06-21 20:38:05 - INFO - Retrying request to /chat/completions in 0.395774 seconds
+2025-06-21 20:38:05 - INFO - Retrying request to /chat/completions in 0.385537 seconds
+2025-06-21 20:38:05 - INFO - Retrying request to /chat/completions in 0.972839 seconds
+2025-06-21 20:38:05 - INFO - Retrying request to /chat/completions in 0.841203 seconds
+2025-06-21 20:38:06 - INFO - Retrying request to /chat/completions in 0.436509 seconds
+2025-06-21 20:38:06 - INFO - Retrying request to /chat/completions in 0.468739 seconds
+2025-06-21 20:38:06 - INFO - Retrying request to /chat/completions in 0.898624 seconds
+2025-06-21 20:38:06 - INFO - Retrying request to /chat/completions in 0.892329 seconds
+2025-06-21 20:38:07 - WARNING - Left agent API error (lần thử 1): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:38:07 - WARNING - Left agent API error (lần thử 1): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:38:12 - INFO - Retrying request to /chat/completions in 0.467855 seconds
+2025-06-21 20:38:12 - INFO - Retrying request to /chat/completions in 0.385829 seconds
+2025-06-21 20:38:13 - INFO - Retrying request to /chat/completions in 0.991558 seconds
+2025-06-21 20:38:13 - INFO - Retrying request to /chat/completions in 0.937013 seconds
+2025-06-21 20:38:14 - INFO - Retrying request to /chat/completions in 0.419943 seconds
+2025-06-21 20:38:14 - INFO - Retrying request to /chat/completions in 0.478017 seconds
+2025-06-21 20:38:14 - INFO - Retrying request to /chat/completions in 0.994795 seconds
+2025-06-21 20:38:14 - INFO - Retrying request to /chat/completions in 0.935248 seconds
+2025-06-21 20:38:15 - WARNING - Left agent API error (lần thử 2): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:38:15 - WARNING - Left agent API error (lần thử 2): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:38:20 - INFO - Retrying request to /chat/completions in 0.386705 seconds
+2025-06-21 20:38:20 - INFO - Retrying request to /chat/completions in 0.481039 seconds
+2025-06-21 20:38:21 - INFO - Retrying request to /chat/completions in 0.915972 seconds
+2025-06-21 20:38:21 - INFO - Retrying request to /chat/completions in 0.840440 seconds
+2025-06-21 20:38:21 - INFO - Retrying request to /chat/completions in 0.486850 seconds
+2025-06-21 20:38:22 - INFO - Retrying request to /chat/completions in 0.459382 seconds
+2025-06-21 20:38:22 - INFO - Retrying request to /chat/completions in 0.839420 seconds
+2025-06-21 20:38:22 - INFO - Retrying request to /chat/completions in 0.929936 seconds
+2025-06-21 20:38:23 - WARNING - Left agent API error (lần thử 3): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:38:23 - WARNING - Left agent API error (lần thử 3): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:38:28 - INFO - Retrying request to /chat/completions in 0.499119 seconds
+2025-06-21 20:38:28 - INFO - Retrying request to /chat/completions in 0.448407 seconds
+2025-06-21 20:38:28 - INFO - Retrying request to /chat/completions in 0.877544 seconds
+2025-06-21 20:38:28 - INFO - Retrying request to /chat/completions in 0.902064 seconds
+2025-06-21 20:38:29 - INFO - Retrying request to /chat/completions in 0.483043 seconds
+2025-06-21 20:38:29 - INFO - Retrying request to /chat/completions in 0.385757 seconds
+2025-06-21 20:38:30 - INFO - Retrying request to /chat/completions in 0.797519 seconds
+2025-06-21 20:38:30 - INFO - Retrying request to /chat/completions in 0.819785 seconds
+2025-06-21 20:38:30 - WARNING - Left agent API error (lần thử 4): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:38:31 - WARNING - Left agent API error (lần thử 4): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:38:36 - INFO - Retrying request to /chat/completions in 0.471448 seconds
+2025-06-21 20:38:36 - INFO - Retrying request to /chat/completions in 0.447327 seconds
+2025-06-21 20:38:36 - INFO - Retrying request to /chat/completions in 0.931461 seconds
+2025-06-21 20:38:36 - INFO - Retrying request to /chat/completions in 0.886045 seconds
+2025-06-21 20:38:37 - INFO - Retrying request to /chat/completions in 0.394861 seconds
+2025-06-21 20:38:37 - INFO - Retrying request to /chat/completions in 0.387997 seconds
+2025-06-21 20:38:37 - INFO - Retrying request to /chat/completions in 0.799615 seconds
+2025-06-21 20:38:37 - INFO - Retrying request to /chat/completions in 0.865618 seconds
+2025-06-21 20:38:38 - WARNING - Left agent API error (lần thử 5): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:38:38 - WARNING - Left agent API error (lần thử 5): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:38:43 - INFO - Retrying request to /chat/completions in 0.489369 seconds
+2025-06-21 20:38:43 - INFO - Retrying request to /chat/completions in 0.472404 seconds
+2025-06-21 20:38:44 - INFO - Retrying request to /chat/completions in 0.777682 seconds
+2025-06-21 20:38:44 - INFO - Retrying request to /chat/completions in 0.757449 seconds
+2025-06-21 20:38:44 - INFO - Retrying request to /chat/completions in 0.394300 seconds
+2025-06-21 20:38:44 - INFO - Retrying request to /chat/completions in 0.415594 seconds
+2025-06-21 20:38:45 - INFO - Retrying request to /chat/completions in 0.856401 seconds
+2025-06-21 20:38:45 - INFO - Retrying request to /chat/completions in 0.766902 seconds
+2025-06-21 20:38:46 - WARNING - Left agent API error (lần thử 6): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:38:46 - WARNING - Left agent API error (lần thử 6): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:38:51 - INFO - Retrying request to /chat/completions in 0.411302 seconds
+2025-06-21 20:38:51 - INFO - Retrying request to /chat/completions in 0.440947 seconds
+2025-06-21 20:38:51 - INFO - Retrying request to /chat/completions in 0.837775 seconds
+2025-06-21 20:38:51 - INFO - Retrying request to /chat/completions in 0.783829 seconds
+2025-06-21 20:38:52 - INFO - Retrying request to /chat/completions in 0.391288 seconds
+2025-06-21 20:38:52 - INFO - Retrying request to /chat/completions in 0.499804 seconds
+2025-06-21 20:38:52 - INFO - Retrying request to /chat/completions in 0.841172 seconds
+2025-06-21 20:38:52 - INFO - Retrying request to /chat/completions in 0.800637 seconds
+2025-06-21 20:38:53 - WARNING - Left agent API error (lần thử 7): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:38:53 - WARNING - Left agent API error (lần thử 7): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:38:58 - INFO - Retrying request to /chat/completions in 0.453442 seconds
+2025-06-21 20:38:58 - INFO - Retrying request to /chat/completions in 0.483650 seconds
+2025-06-21 20:38:59 - INFO - Retrying request to /chat/completions in 0.925082 seconds
+2025-06-21 20:38:59 - INFO - Retrying request to /chat/completions in 0.896555 seconds
+2025-06-21 20:39:00 - INFO - Retrying request to /chat/completions in 0.497438 seconds
+2025-06-21 20:39:00 - INFO - Retrying request to /chat/completions in 0.426102 seconds
+2025-06-21 20:39:00 - INFO - Retrying request to /chat/completions in 0.871182 seconds
+2025-06-21 20:39:00 - INFO - Retrying request to /chat/completions in 0.901242 seconds
+2025-06-21 20:39:01 - WARNING - Left agent API error (lần thử 8): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:39:01 - WARNING - Left agent API error (lần thử 8): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:39:06 - INFO - Retrying request to /chat/completions in 0.401843 seconds
+2025-06-21 20:39:06 - INFO - Retrying request to /chat/completions in 0.398902 seconds
+2025-06-21 20:39:06 - INFO - Retrying request to /chat/completions in 0.887239 seconds
+2025-06-21 20:39:06 - INFO - Retrying request to /chat/completions in 0.783561 seconds
+2025-06-21 20:39:07 - INFO - Retrying request to /chat/completions in 0.395435 seconds
+2025-06-21 20:39:07 - INFO - Retrying request to /chat/completions in 0.475952 seconds
+2025-06-21 20:39:08 - INFO - Retrying request to /chat/completions in 0.914470 seconds
+2025-06-21 20:39:08 - INFO - Retrying request to /chat/completions in 0.824093 seconds
+2025-06-21 20:39:09 - WARNING - Left agent API error (lần thử 9): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:39:09 - WARNING - Left agent API error (lần thử 9): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:39:14 - INFO - Retrying request to /chat/completions in 0.497562 seconds
+2025-06-21 20:39:14 - INFO - Retrying request to /chat/completions in 0.459018 seconds
+2025-06-21 20:39:14 - INFO - Retrying request to /chat/completions in 0.783971 seconds
+2025-06-21 20:39:14 - INFO - Retrying request to /chat/completions in 0.927378 seconds
+2025-06-21 20:39:15 - INFO - Retrying request to /chat/completions in 0.375302 seconds
+2025-06-21 20:39:15 - INFO - Retrying request to /chat/completions in 0.445152 seconds
+2025-06-21 20:39:15 - INFO - Retrying request to /chat/completions in 0.830735 seconds
+2025-06-21 20:39:16 - INFO - Retrying request to /chat/completions in 0.804833 seconds
+2025-06-21 20:39:16 - WARNING - Left agent API error (lần thử 10): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:39:16 - WARNING - Left agent API error (lần thử 10): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:39:21 - INFO - Retrying request to /chat/completions in 0.409581 seconds
+2025-06-21 20:39:21 - INFO - Retrying request to /chat/completions in 0.411228 seconds
+2025-06-21 20:39:22 - INFO - Retrying request to /chat/completions in 0.986990 seconds
+2025-06-21 20:39:22 - INFO - Retrying request to /chat/completions in 0.874064 seconds
+2025-06-21 20:39:23 - INFO - Retrying request to /chat/completions in 0.448031 seconds
+2025-06-21 20:39:23 - INFO - Retrying request to /chat/completions in 0.423411 seconds
+2025-06-21 20:39:23 - INFO - Retrying request to /chat/completions in 0.976148 seconds
+2025-06-21 20:39:23 - INFO - Retrying request to /chat/completions in 0.875732 seconds
+2025-06-21 20:39:24 - ERROR - Left agent error sau 10 lần thử: API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:39:24 - INFO - Dialogue started
+2025-06-21 20:39:24 - INFO - Left: Xin lỗi, tôi đang gặp vấn đề kỹ thuật. Tôi sẽ liên hệ lại với bạn sau.
+2025-06-21 20:39:24 - ERROR - Lỗi khi sinh hội thoại tts_normal_00002: 'communication_style'
+Traceback (most recent call last):
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\generate_normal_dialogues.py", line 111, in generate_dialogue
+    dialogue_result = orchestrator.run_dialogue()
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\logic\dialogue_orchestrator.py", line 52, in run_dialogue
+    right_message = self.right_agent.generate_response(left_message)
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\agents\right_agent.py", line 38, in generate_response
+    messages = [{"role": "system", "content": self.get_system_prompt()}]
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\agents\right_agent.py", line 32, in get_system_prompt
+    communication_style=self.user_profile["communication_style"],
+KeyError: 'communication_style'
+2025-06-21 20:39:24 - ERROR - Nhiệm vụ tts_normal_00002 thất bại: 'communication_style'
+2025-06-21 20:39:24 - ERROR - Left agent error sau 10 lần thử: API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-21 20:39:24 - INFO - Dialogue started
+2025-06-21 20:39:24 - INFO - Left: Xin lỗi, tôi đang gặp vấn đề kỹ thuật. Tôi sẽ liên hệ lại với bạn sau.
+2025-06-21 20:39:24 - ERROR - Lỗi khi sinh hội thoại tts_normal_00001: 'communication_style'
+Traceback (most recent call last):
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\generate_normal_dialogues.py", line 111, in generate_dialogue
+    dialogue_result = orchestrator.run_dialogue()
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\logic\dialogue_orchestrator.py", line 52, in run_dialogue
+    right_message = self.right_agent.generate_response(left_message)
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\agents\right_agent.py", line 38, in generate_response
+    messages = [{"role": "system", "content": self.get_system_prompt()}]
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\agents\right_agent.py", line 32, in get_system_prompt
+    communication_style=self.user_profile["communication_style"],
+KeyError: 'communication_style'
+2025-06-21 20:39:24 - ERROR - Nhiệm vụ tts_normal_00001 thất bại: 'communication_style'
+2025-06-21 20:39:24 - CRITICAL - Lỗi nghiêm trọng trong quá trình chạy chương trình
+Traceback (most recent call last):
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\generate_normal_dialogues.py", line 305, in <module>
+    main()
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\generate_normal_dialogues.py", line 261, in main
+    print(completion_msg)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+UnicodeEncodeError: 'charmap' codec can't encode character '\u0110' in position 12: character maps to <undefined>
+2025-06-21 20:39:24 - INFO - Tổng thời gian: 79.60 giây
+2025-06-22 16:50:18 - INFO - Bắt đầu sinh 1 hội thoại bình thường, model: gemini-2.0-flash, API: Gemini (built-in)
+2025-06-22 16:50:18 - INFO - Bắt đầu sinh hội thoại song song, số luồng: 3
+2025-06-22 16:50:18 - INFO - Bắt đầu sinh hội thoại tts_normal_00001: age=20, awareness=thấp, conversation_type=Tư vấn dịch vụ khách hàng
+2025-06-22 16:50:18 - INFO - Retrying request to /chat/completions in 0.398348 seconds
+2025-06-22 16:50:18 - INFO - Retrying request to /chat/completions in 0.998663 seconds
+2025-06-22 16:50:19 - INFO - Retrying request to /chat/completions in 0.493926 seconds
+2025-06-22 16:50:20 - INFO - Retrying request to /chat/completions in 0.987444 seconds
+2025-06-22 16:50:21 - WARNING - Left agent API error (lần thử 1): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 16:50:26 - INFO - Retrying request to /chat/completions in 0.403888 seconds
+2025-06-22 16:50:26 - INFO - Retrying request to /chat/completions in 0.770837 seconds
+2025-06-22 16:50:27 - INFO - Retrying request to /chat/completions in 0.438437 seconds
+2025-06-22 16:50:27 - INFO - Retrying request to /chat/completions in 0.795266 seconds
+2025-06-22 16:50:28 - WARNING - Left agent API error (lần thử 2): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 16:50:33 - INFO - Retrying request to /chat/completions in 0.490227 seconds
+2025-06-22 16:50:34 - INFO - Retrying request to /chat/completions in 0.817548 seconds
+2025-06-22 16:50:35 - INFO - Retrying request to /chat/completions in 0.488297 seconds
+2025-06-22 16:50:35 - INFO - Retrying request to /chat/completions in 0.852204 seconds
+2025-06-22 16:50:36 - WARNING - Left agent API error (lần thử 3): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 16:50:41 - INFO - Retrying request to /chat/completions in 0.390159 seconds
+2025-06-22 16:50:41 - INFO - Retrying request to /chat/completions in 0.774710 seconds
+2025-06-22 16:50:42 - INFO - Retrying request to /chat/completions in 0.453967 seconds
+2025-06-22 16:50:43 - INFO - Retrying request to /chat/completions in 0.938318 seconds
+2025-06-22 16:50:44 - WARNING - Left agent API error (lần thử 4): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 16:50:49 - INFO - Retrying request to /chat/completions in 0.418120 seconds
+2025-06-22 16:50:49 - INFO - Retrying request to /chat/completions in 0.929663 seconds
+2025-06-22 16:50:50 - INFO - Retrying request to /chat/completions in 0.497299 seconds
+2025-06-22 16:50:50 - INFO - Retrying request to /chat/completions in 0.936321 seconds
+2025-06-22 16:50:51 - WARNING - Left agent API error (lần thử 5): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 16:50:56 - INFO - Retrying request to /chat/completions in 0.491672 seconds
+2025-06-22 16:50:57 - INFO - Retrying request to /chat/completions in 0.841684 seconds
+2025-06-22 16:50:58 - INFO - Retrying request to /chat/completions in 0.442882 seconds
+2025-06-22 16:50:58 - INFO - Retrying request to /chat/completions in 0.839959 seconds
+2025-06-22 16:50:59 - WARNING - Left agent API error (lần thử 6): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 16:51:04 - INFO - Retrying request to /chat/completions in 0.475454 seconds
+2025-06-22 16:51:05 - INFO - Retrying request to /chat/completions in 0.867579 seconds
+2025-06-22 16:51:05 - INFO - Retrying request to /chat/completions in 0.424072 seconds
+2025-06-22 16:51:06 - INFO - Retrying request to /chat/completions in 0.960338 seconds
+2025-06-22 16:51:07 - WARNING - Left agent API error (lần thử 7): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 16:51:12 - INFO - Retrying request to /chat/completions in 0.413397 seconds
+2025-06-22 16:51:12 - INFO - Retrying request to /chat/completions in 0.993649 seconds
+2025-06-22 16:51:13 - INFO - Retrying request to /chat/completions in 0.459030 seconds
+2025-06-22 16:51:14 - INFO - Retrying request to /chat/completions in 0.778408 seconds
+2025-06-22 16:51:15 - WARNING - Left agent API error (lần thử 8): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 16:51:20 - INFO - Retrying request to /chat/completions in 0.380098 seconds
+2025-06-22 16:51:20 - INFO - Retrying request to /chat/completions in 0.755174 seconds
+2025-06-22 16:51:21 - INFO - Retrying request to /chat/completions in 0.459977 seconds
+2025-06-22 16:51:21 - INFO - Retrying request to /chat/completions in 0.857536 seconds
+2025-06-22 16:51:22 - WARNING - Left agent API error (lần thử 9): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 16:51:27 - INFO - Retrying request to /chat/completions in 0.420886 seconds
+2025-06-22 16:51:27 - INFO - Retrying request to /chat/completions in 0.874312 seconds
+2025-06-22 16:51:28 - INFO - Retrying request to /chat/completions in 0.491994 seconds
+2025-06-22 16:51:29 - INFO - Retrying request to /chat/completions in 0.954032 seconds
+2025-06-22 16:51:30 - WARNING - Left agent API error (lần thử 10): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 16:51:35 - INFO - Retrying request to /chat/completions in 0.477525 seconds
+2025-06-22 16:51:35 - INFO - Retrying request to /chat/completions in 0.824278 seconds
+2025-06-22 16:51:36 - INFO - Retrying request to /chat/completions in 0.421309 seconds
+2025-06-22 16:51:37 - INFO - Retrying request to /chat/completions in 0.833453 seconds
+2025-06-22 16:51:37 - ERROR - Left agent error sau 10 lần thử: API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 16:51:37 - INFO - Dialogue started
+2025-06-22 16:51:37 - INFO - Left: Xin lỗi, tôi đang gặp vấn đề kỹ thuật. Tôi sẽ liên hệ lại với bạn sau.
+2025-06-22 16:51:37 - INFO - Retrying request to /chat/completions in 0.484915 seconds
+2025-06-22 16:51:38 - INFO - Retrying request to /chat/completions in 0.870059 seconds
+2025-06-22 16:51:39 - INFO - Retrying request to /chat/completions in 0.482202 seconds
+2025-06-22 16:51:39 - INFO - Retrying request to /chat/completions in 0.922670 seconds
+2025-06-22 16:51:40 - WARNING - API request thất bại (lần thử 1): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 16:51:45 - INFO - Đang thử lại gọi API...
+2025-06-22 16:51:45 - INFO - Retrying request to /chat/completions in 0.453973 seconds
+2025-06-22 16:51:46 - INFO - Retrying request to /chat/completions in 0.931034 seconds
+2025-06-22 16:51:47 - INFO - Retrying request to /chat/completions in 0.379313 seconds
+2025-06-22 16:51:47 - INFO - Retrying request to /chat/completions in 0.755128 seconds
+2025-06-22 16:51:48 - WARNING - API request thất bại (lần thử 2): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 16:51:53 - INFO - Đang thử lại gọi API...
+2025-06-22 16:51:53 - INFO - Retrying request to /chat/completions in 0.381708 seconds
+2025-06-22 16:51:53 - INFO - Retrying request to /chat/completions in 0.805264 seconds
+2025-06-22 16:51:54 - INFO - Retrying request to /chat/completions in 0.473369 seconds
+2025-06-22 16:51:55 - INFO - Retrying request to /chat/completions in 0.890159 seconds
+2025-06-22 16:51:55 - WARNING - API request thất bại (lần thử 3): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 16:52:00 - INFO - Đang thử lại gọi API...
+2025-06-22 16:52:00 - INFO - Retrying request to /chat/completions in 0.386717 seconds
+2025-06-22 16:52:01 - INFO - Retrying request to /chat/completions in 0.954480 seconds
+2025-06-22 16:52:02 - INFO - Retrying request to /chat/completions in 0.420186 seconds
+2025-06-22 16:52:02 - INFO - Retrying request to /chat/completions in 0.995511 seconds
+2025-06-22 16:52:03 - WARNING - API request thất bại (lần thử 4): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 16:52:08 - INFO - Đang thử lại gọi API...
+2025-06-22 16:52:08 - INFO - Retrying request to /chat/completions in 0.468214 seconds
+2025-06-22 16:52:09 - INFO - Retrying request to /chat/completions in 0.767706 seconds
+2025-06-22 16:52:09 - INFO - Retrying request to /chat/completions in 0.477789 seconds
+2025-06-22 16:52:10 - INFO - Retrying request to /chat/completions in 0.963694 seconds
+2025-06-22 16:52:11 - WARNING - API request thất bại (lần thử 5): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 16:52:16 - INFO - Đang thử lại gọi API...
+2025-06-22 16:52:16 - INFO - Retrying request to /chat/completions in 0.494533 seconds
+2025-06-22 16:52:16 - INFO - Retrying request to /chat/completions in 0.832998 seconds
+2025-06-22 16:52:17 - INFO - Retrying request to /chat/completions in 0.495425 seconds
+2025-06-22 16:52:18 - INFO - Retrying request to /chat/completions in 0.875666 seconds
+2025-06-22 16:52:19 - WARNING - API request thất bại (lần thử 6): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 16:52:24 - INFO - Đang thử lại gọi API...
+2025-06-22 16:52:24 - INFO - Retrying request to /chat/completions in 0.438942 seconds
+2025-06-22 16:52:24 - INFO - Retrying request to /chat/completions in 0.768032 seconds
+2025-06-22 16:52:25 - INFO - Retrying request to /chat/completions in 0.449266 seconds
+2025-06-22 16:52:25 - INFO - Retrying request to /chat/completions in 0.787373 seconds
+2025-06-22 16:52:26 - WARNING - API request thất bại (lần thử 7): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 16:52:31 - INFO - Đang thử lại gọi API...
+2025-06-22 16:52:31 - INFO - Retrying request to /chat/completions in 0.463837 seconds
+2025-06-22 16:52:32 - INFO - Retrying request to /chat/completions in 0.830397 seconds
+2025-06-22 16:52:32 - INFO - Retrying request to /chat/completions in 0.480768 seconds
+2025-06-22 16:52:33 - INFO - Retrying request to /chat/completions in 0.799339 seconds
+2025-06-22 16:52:34 - WARNING - API request thất bại (lần thử 8): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 16:52:39 - INFO - Đang thử lại gọi API...
+2025-06-22 16:52:39 - INFO - Retrying request to /chat/completions in 0.431949 seconds
+2025-06-22 16:52:39 - INFO - Retrying request to /chat/completions in 0.937593 seconds
+2025-06-22 16:52:40 - INFO - Retrying request to /chat/completions in 0.387917 seconds
+2025-06-22 16:52:41 - INFO - Retrying request to /chat/completions in 0.823478 seconds
+2025-06-22 16:52:41 - WARNING - API request thất bại (lần thử 9): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 16:52:46 - INFO - Đang thử lại gọi API...
+2025-06-22 16:52:46 - INFO - Retrying request to /chat/completions in 0.416001 seconds
+2025-06-22 16:52:47 - INFO - Retrying request to /chat/completions in 0.773065 seconds
+2025-06-22 16:52:48 - INFO - Retrying request to /chat/completions in 0.416759 seconds
+2025-06-22 16:52:48 - INFO - Retrying request to /chat/completions in 0.953227 seconds
+2025-06-22 16:52:49 - WARNING - API request thất bại (lần thử 10): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 16:52:49 - ERROR - Đã đạt số lần thử tối đa (10), sử dụng phản hồi mặc định
+2025-06-22 16:52:49 - INFO - Right: Tôi cần thời gian để suy nghĩ. Bạn có thể cho tôi thêm thông tin không?
+2025-06-22 16:52:49 - INFO - Retrying request to /chat/completions in 0.480940 seconds
+2025-06-22 16:52:50 - INFO - Retrying request to /chat/completions in 0.904664 seconds
+2025-06-22 16:52:50 - INFO - Retrying request to /chat/completions in 0.442189 seconds
+2025-06-22 16:52:51 - INFO - Retrying request to /chat/completions in 0.837805 seconds
+2025-06-22 16:52:52 - WARNING - Manager agent error, retrying (1/3): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 16:52:57 - INFO - Retrying request to /chat/completions in 0.488297 seconds
+2025-06-22 16:52:57 - INFO - Retrying request to /chat/completions in 0.788099 seconds
+2025-06-22 16:52:58 - INFO - Retrying request to /chat/completions in 0.403006 seconds
+2025-06-22 16:52:58 - INFO - Retrying request to /chat/completions in 0.787742 seconds
+2025-06-22 16:52:59 - WARNING - Manager agent error, retrying (2/3): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 16:53:04 - INFO - Retrying request to /chat/completions in 0.493410 seconds
+2025-06-22 16:53:05 - INFO - Retrying request to /chat/completions in 0.923059 seconds
+2025-06-22 16:53:06 - INFO - Retrying request to /chat/completions in 0.450198 seconds
+2025-06-22 16:53:06 - INFO - Retrying request to /chat/completions in 0.984802 seconds
+2025-06-22 16:53:07 - WARNING - Manager agent error, retrying (3/3): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 16:53:12 - INFO - Retrying request to /chat/completions in 0.436337 seconds
+2025-06-22 16:53:13 - INFO - Retrying request to /chat/completions in 0.949653 seconds
+2025-06-22 16:53:14 - INFO - Retrying request to /chat/completions in 0.496193 seconds
+2025-06-22 16:53:14 - INFO - Retrying request to /chat/completions in 0.829693 seconds
+2025-06-22 16:53:15 - ERROR - Manager agent error after 3 retries: API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 16:53:15 - INFO - Manager terminated the conversation: Lỗi hệ thống: API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 16:53:15 - INFO - Termination type: Natural end
+2025-06-22 16:53:15 - INFO - Retrying request to /chat/completions in 0.452682 seconds
+2025-06-22 16:53:15 - INFO - Retrying request to /chat/completions in 0.829315 seconds
+2025-06-22 16:53:16 - INFO - Retrying request to /chat/completions in 0.487827 seconds
+2025-06-22 16:53:17 - INFO - Retrying request to /chat/completions in 0.877904 seconds
+2025-06-22 16:53:18 - ERROR - Lỗi khi sinh hội thoại tts_normal_00001: API call failed, main model error: Connection error., fallback model error: Connection error.
+Traceback (most recent call last):
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpcore\_sync\connection_pool.py", line 207, in handle_request
+    raise UnsupportedProtocol(
+httpcore.UnsupportedProtocol: Request URL is missing an 'http://' or 'https://' protocol.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 960, in _request
+    response = self._client.send(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 914, in send
+    response = self._send_handling_auth(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.UnsupportedProtocol: Request URL is missing an 'http://' or 'https://' protocol.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpcore\_sync\connection_pool.py", line 207, in handle_request
+    raise UnsupportedProtocol(
+httpcore.UnsupportedProtocol: Request URL is missing an 'http://' or 'https://' protocol.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 960, in _request
+    response = self._client.send(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 914, in send
+    response = self._send_handling_auth(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.UnsupportedProtocol: Request URL is missing an 'http://' or 'https://' protocol.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpcore\_sync\connection_pool.py", line 207, in handle_request
+    raise UnsupportedProtocol(
+httpcore.UnsupportedProtocol: Request URL is missing an 'http://' or 'https://' protocol.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 960, in _request
+    response = self._client.send(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 914, in send
+    response = self._send_handling_auth(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.UnsupportedProtocol: Request URL is missing an 'http://' or 'https://' protocol.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\utils\openai_client.py", line 27, in chat_completion
+    response = self.client.chat.completions.create(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_utils\_utils.py", line 279, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\resources\chat\completions\completions.py", line 914, in create
+    return self._post(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 1247, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 920, in request
+    return self._request(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 984, in _request
+    return self._retry_request(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 1062, in _retry_request
+    return self._request(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 984, in _request
+    return self._retry_request(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 1062, in _retry_request
+    return self._request(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 994, in _request
+    raise APIConnectionError(request=request) from err
+openai.APIConnectionError: Connection error.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpcore\_sync\connection_pool.py", line 207, in handle_request
+    raise UnsupportedProtocol(
+httpcore.UnsupportedProtocol: Request URL is missing an 'http://' or 'https://' protocol.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 960, in _request
+    response = self._client.send(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 914, in send
+    response = self._send_handling_auth(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.UnsupportedProtocol: Request URL is missing an 'http://' or 'https://' protocol.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpcore\_sync\connection_pool.py", line 207, in handle_request
+    raise UnsupportedProtocol(
+httpcore.UnsupportedProtocol: Request URL is missing an 'http://' or 'https://' protocol.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 960, in _request
+    response = self._client.send(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 914, in send
+    response = self._send_handling_auth(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.UnsupportedProtocol: Request URL is missing an 'http://' or 'https://' protocol.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpcore\_sync\connection_pool.py", line 207, in handle_request
+    raise UnsupportedProtocol(
+httpcore.UnsupportedProtocol: Request URL is missing an 'http://' or 'https://' protocol.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 960, in _request
+    response = self._client.send(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 914, in send
+    response = self._send_handling_auth(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.UnsupportedProtocol: Request URL is missing an 'http://' or 'https://' protocol.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\utils\openai_client.py", line 58, in chat_completion
+    response = self.client.chat.completions.create(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_utils\_utils.py", line 279, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\resources\chat\completions\completions.py", line 914, in create
+    return self._post(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 1247, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 920, in request
+    return self._request(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 984, in _request
+    return self._retry_request(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 1062, in _retry_request
+    return self._request(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 984, in _request
+    return self._retry_request(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 1062, in _retry_request
+    return self._request(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 994, in _request
+    raise APIConnectionError(request=request) from err
+openai.APIConnectionError: Connection error.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\generate_normal_dialogues.py", line 110, in generate_dialogue
+    dialogue_result = orchestrator.run_dialogue()
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\logic\dialogue_orchestrator.py", line 86, in run_dialogue
+    conclusion_messages = self.handle_termination(terminator)
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\logic\dialogue_orchestrator.py", line 249, in handle_termination
+    left_conclusion = self.get_conclusion_from_left()
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\logic\dialogue_orchestrator.py", line 277, in get_conclusion_from_left
+    reply = self.left_agent.client.chat_completion(
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\utils\openai_client.py", line 68, in chat_completion
+    raise Exception(f"API call failed, main model error: {e}, fallback model error: {e2}")
+Exception: API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 16:53:18 - ERROR - Nhiệm vụ tts_normal_00001 thất bại: API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 16:53:18 - INFO - Hoàn thành! Đã sinh 0 hội thoại, thành công: 0, thất bại: 1, đã lưu vào D:\Du-an\TeleAntiFraud\multi-agents-tools\dataset\normal_20250622_164645\normal_conversations.jsonl
+2025-06-22 16:53:18 - INFO - 
+Thống kê phân phối:
+Phân bố độ tuổi: {'18-25': 0, '26-40': 0, '41-55': 0, '56-70': 0}
+Phân bố mức độ cảnh giác: {'thấp': 0, 'trung bình': 0, 'cao': 0}
+Phân bố loại hội thoại: {'Tư vấn dịch vụ khách hàng': 0, 'Đặt đồ ăn': 0, 'Đặt lịch hẹn': 0, 'Tư vấn giao thông': 0, 'Mua sắm trực tuyến': 0, 'Dịch vụ sửa chữa': 0, 'Gọi taxi': 0, 'Tư vấn bảo hiểm': 0}
+Phân bố bên kết thúc: {'left': 0, 'right': 0, 'natural': 0}
+Phân bố nghề nghiệp: {'Học sinh/Sinh viên': 0, 'Giáo viên': 0, 'Kỹ sư': 0, 'Bác sĩ': 0, 'Người đã nghỉ hưu': 0, 'Thất nghiệp': 0, 'Chủ doanh nghiệp': 0, 'Nhân viên văn phòng': 0, 'Nông dân': 0, 'Nhân viên dịch vụ': 0}
+2025-06-22 16:53:18 - INFO - Tổng thời gian: 180.14 giây
+2025-06-22 17:02:12 - INFO - Bắt đầu sinh 1 hội thoại bình thường, model: gemini-2.0-flash, API: Gemini (built-in)
+2025-06-22 17:02:12 - INFO - Bắt đầu sinh hội thoại song song, số luồng: 3
+2025-06-22 17:02:12 - INFO - Bắt đầu sinh hội thoại tts_normal_00001: age=24, awareness=thấp, conversation_type=Tư vấn dịch vụ khách hàng
+2025-06-22 17:02:12 - INFO - Retrying request to /chat/completions in 0.394026 seconds
+2025-06-22 17:02:13 - INFO - Retrying request to /chat/completions in 0.846546 seconds
+2025-06-22 17:02:14 - INFO - Retrying request to /chat/completions in 0.453501 seconds
+2025-06-22 17:02:14 - INFO - Retrying request to /chat/completions in 0.984095 seconds
+2025-06-22 17:02:15 - WARNING - Left agent API error (lần thử 1): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 17:02:20 - INFO - Retrying request to /chat/completions in 0.417089 seconds
+2025-06-22 17:02:20 - INFO - Retrying request to /chat/completions in 0.819638 seconds
+2025-06-22 17:02:21 - INFO - Retrying request to /chat/completions in 0.381018 seconds
+2025-06-22 17:02:22 - INFO - Retrying request to /chat/completions in 0.880704 seconds
+2025-06-22 17:02:23 - WARNING - Left agent API error (lần thử 2): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 17:02:28 - INFO - Retrying request to /chat/completions in 0.377015 seconds
+2025-06-22 17:02:28 - INFO - Retrying request to /chat/completions in 0.930772 seconds
+2025-06-22 17:02:29 - INFO - Retrying request to /chat/completions in 0.414565 seconds
+2025-06-22 17:02:29 - INFO - Retrying request to /chat/completions in 0.974461 seconds
+2025-06-22 17:02:30 - WARNING - Left agent API error (lần thử 3): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 17:02:35 - INFO - Retrying request to /chat/completions in 0.470409 seconds
+2025-06-22 17:02:36 - INFO - Retrying request to /chat/completions in 0.888958 seconds
+2025-06-22 17:02:37 - INFO - Retrying request to /chat/completions in 0.480466 seconds
+2025-06-22 17:02:37 - INFO - Retrying request to /chat/completions in 0.913544 seconds
+2025-06-22 17:02:38 - WARNING - Left agent API error (lần thử 4): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 17:02:43 - INFO - Retrying request to /chat/completions in 0.387649 seconds
+2025-06-22 17:02:44 - INFO - Retrying request to /chat/completions in 0.824205 seconds
+2025-06-22 17:02:44 - INFO - Retrying request to /chat/completions in 0.390275 seconds
+2025-06-22 17:02:45 - INFO - Retrying request to /chat/completions in 0.806137 seconds
+2025-06-22 17:02:46 - WARNING - Left agent API error (lần thử 5): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 17:02:51 - INFO - Retrying request to /chat/completions in 0.391622 seconds
+2025-06-22 17:02:51 - INFO - Retrying request to /chat/completions in 0.876701 seconds
+2025-06-22 17:02:52 - INFO - Retrying request to /chat/completions in 0.411779 seconds
+2025-06-22 17:02:52 - INFO - Retrying request to /chat/completions in 0.833528 seconds
+2025-06-22 17:02:53 - WARNING - Left agent API error (lần thử 6): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 17:02:58 - INFO - Retrying request to /chat/completions in 0.473011 seconds
+2025-06-22 17:02:59 - INFO - Retrying request to /chat/completions in 0.844807 seconds
+2025-06-22 17:03:00 - INFO - Retrying request to /chat/completions in 0.384401 seconds
+2025-06-22 17:03:00 - INFO - Retrying request to /chat/completions in 0.922172 seconds
+2025-06-22 17:03:01 - WARNING - Left agent API error (lần thử 7): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 17:03:06 - INFO - Retrying request to /chat/completions in 0.408723 seconds
+2025-06-22 17:03:06 - INFO - Retrying request to /chat/completions in 0.873710 seconds
+2025-06-22 17:03:07 - INFO - Retrying request to /chat/completions in 0.461046 seconds
+2025-06-22 17:03:08 - INFO - Retrying request to /chat/completions in 0.963384 seconds
+2025-06-22 17:03:09 - WARNING - Left agent API error (lần thử 8): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 17:03:14 - INFO - Retrying request to /chat/completions in 0.432719 seconds
+2025-06-22 17:03:14 - INFO - Retrying request to /chat/completions in 0.850373 seconds
+2025-06-22 17:03:15 - INFO - Retrying request to /chat/completions in 0.444689 seconds
+2025-06-22 17:03:15 - INFO - Retrying request to /chat/completions in 0.873870 seconds
+2025-06-22 17:03:16 - WARNING - Left agent API error (lần thử 9): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 17:03:21 - INFO - Retrying request to /chat/completions in 0.467141 seconds
+2025-06-22 17:03:22 - INFO - Retrying request to /chat/completions in 0.918084 seconds
+2025-06-22 17:03:23 - INFO - Retrying request to /chat/completions in 0.404380 seconds
+2025-06-22 17:03:23 - INFO - Retrying request to /chat/completions in 0.983054 seconds
+2025-06-22 17:03:24 - WARNING - Left agent API error (lần thử 10): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 17:03:29 - INFO - Retrying request to /chat/completions in 0.454907 seconds
+2025-06-22 17:03:30 - INFO - Retrying request to /chat/completions in 0.760758 seconds
+2025-06-22 17:03:30 - INFO - Retrying request to /chat/completions in 0.392702 seconds
+2025-06-22 17:03:31 - INFO - Retrying request to /chat/completions in 0.984208 seconds
+2025-06-22 17:03:32 - ERROR - Left agent error sau 10 lần thử: API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 17:03:32 - INFO - Dialogue started
+2025-06-22 17:03:32 - INFO - Left: Xin lỗi, tôi đang gặp vấn đề kỹ thuật. Tôi sẽ liên hệ lại với bạn sau.
+2025-06-22 17:03:32 - INFO - Retrying request to /chat/completions in 0.415637 seconds
+2025-06-22 17:03:32 - INFO - Retrying request to /chat/completions in 0.957053 seconds
+2025-06-22 17:03:33 - INFO - Retrying request to /chat/completions in 0.385178 seconds
+2025-06-22 17:03:34 - INFO - Retrying request to /chat/completions in 0.993468 seconds
+2025-06-22 17:03:35 - WARNING - API request thất bại (lần thử 1): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 17:03:40 - INFO - Đang thử lại gọi API...
+2025-06-22 17:03:40 - INFO - Retrying request to /chat/completions in 0.403962 seconds
+2025-06-22 17:03:40 - INFO - Retrying request to /chat/completions in 0.945122 seconds
+2025-06-22 17:03:41 - INFO - Retrying request to /chat/completions in 0.473052 seconds
+2025-06-22 17:03:41 - INFO - Retrying request to /chat/completions in 0.793503 seconds
+2025-06-22 17:03:42 - WARNING - API request thất bại (lần thử 2): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 17:03:47 - INFO - Đang thử lại gọi API...
+2025-06-22 17:03:47 - INFO - Retrying request to /chat/completions in 0.388823 seconds
+2025-06-22 17:03:48 - INFO - Retrying request to /chat/completions in 0.757689 seconds
+2025-06-22 17:03:48 - INFO - Retrying request to /chat/completions in 0.392422 seconds
+2025-06-22 17:03:49 - INFO - Retrying request to /chat/completions in 0.792899 seconds
+2025-06-22 17:03:50 - WARNING - API request thất bại (lần thử 3): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 17:03:55 - INFO - Đang thử lại gọi API...
+2025-06-22 17:03:55 - INFO - Retrying request to /chat/completions in 0.469555 seconds
+2025-06-22 17:03:55 - INFO - Retrying request to /chat/completions in 0.994357 seconds
+2025-06-22 17:03:56 - INFO - Retrying request to /chat/completions in 0.411553 seconds
+2025-06-22 17:03:56 - INFO - Retrying request to /chat/completions in 0.882287 seconds
+2025-06-22 17:03:57 - WARNING - API request thất bại (lần thử 4): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 17:04:02 - INFO - Đang thử lại gọi API...
+2025-06-22 17:04:02 - INFO - Retrying request to /chat/completions in 0.488848 seconds
+2025-06-22 17:04:03 - INFO - Retrying request to /chat/completions in 0.936050 seconds
+2025-06-22 17:04:04 - INFO - Retrying request to /chat/completions in 0.429173 seconds
+2025-06-22 17:04:04 - INFO - Retrying request to /chat/completions in 0.759958 seconds
+2025-06-22 17:04:05 - WARNING - API request thất bại (lần thử 5): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 17:04:10 - INFO - Đang thử lại gọi API...
+2025-06-22 17:04:10 - INFO - Retrying request to /chat/completions in 0.487258 seconds
+2025-06-22 17:04:11 - INFO - Retrying request to /chat/completions in 0.835372 seconds
+2025-06-22 17:04:11 - INFO - Retrying request to /chat/completions in 0.380061 seconds
+2025-06-22 17:04:12 - INFO - Retrying request to /chat/completions in 0.828120 seconds
+2025-06-22 17:04:13 - WARNING - API request thất bại (lần thử 6): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 17:04:18 - INFO - Đang thử lại gọi API...
+2025-06-22 17:04:18 - INFO - Retrying request to /chat/completions in 0.499344 seconds
+2025-06-22 17:04:18 - INFO - Retrying request to /chat/completions in 0.919121 seconds
+2025-06-22 17:04:19 - INFO - Retrying request to /chat/completions in 0.474244 seconds
+2025-06-22 17:04:20 - INFO - Retrying request to /chat/completions in 0.888007 seconds
+2025-06-22 17:04:20 - WARNING - API request thất bại (lần thử 7): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 17:04:25 - INFO - Đang thử lại gọi API...
+2025-06-22 17:04:25 - INFO - Retrying request to /chat/completions in 0.421721 seconds
+2025-06-22 17:04:26 - INFO - Retrying request to /chat/completions in 0.968712 seconds
+2025-06-22 17:04:27 - INFO - Retrying request to /chat/completions in 0.474998 seconds
+2025-06-22 17:04:27 - INFO - Retrying request to /chat/completions in 0.996897 seconds
+2025-06-22 17:04:28 - WARNING - API request thất bại (lần thử 8): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 17:04:33 - INFO - Đang thử lại gọi API...
+2025-06-22 17:04:33 - INFO - Retrying request to /chat/completions in 0.425858 seconds
+2025-06-22 17:04:34 - INFO - Retrying request to /chat/completions in 0.756019 seconds
+2025-06-22 17:04:35 - INFO - Retrying request to /chat/completions in 0.376768 seconds
+2025-06-22 17:04:35 - INFO - Retrying request to /chat/completions in 0.866098 seconds
+2025-06-22 17:04:36 - WARNING - API request thất bại (lần thử 9): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 17:04:41 - INFO - Đang thử lại gọi API...
+2025-06-22 17:04:41 - INFO - Retrying request to /chat/completions in 0.382125 seconds
+2025-06-22 17:04:41 - INFO - Retrying request to /chat/completions in 0.917792 seconds
+2025-06-22 17:04:42 - INFO - Retrying request to /chat/completions in 0.486269 seconds
+2025-06-22 17:04:43 - INFO - Retrying request to /chat/completions in 0.976362 seconds
+2025-06-22 17:04:44 - WARNING - API request thất bại (lần thử 10): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 17:04:44 - ERROR - Đã đạt số lần thử tối đa (10), sử dụng phản hồi mặc định
+2025-06-22 17:04:44 - INFO - Right: Tôi cần thời gian để suy nghĩ. Bạn có thể cho tôi thêm thông tin không?
+2025-06-22 17:04:44 - INFO - Retrying request to /chat/completions in 0.455449 seconds
+2025-06-22 17:04:44 - INFO - Retrying request to /chat/completions in 0.983534 seconds
+2025-06-22 17:04:45 - INFO - Retrying request to /chat/completions in 0.483354 seconds
+2025-06-22 17:04:46 - INFO - Retrying request to /chat/completions in 0.804431 seconds
+2025-06-22 17:04:46 - WARNING - Manager agent error, retrying (1/3): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 17:04:51 - INFO - Retrying request to /chat/completions in 0.475799 seconds
+2025-06-22 17:04:52 - INFO - Retrying request to /chat/completions in 0.804541 seconds
+2025-06-22 17:04:53 - INFO - Retrying request to /chat/completions in 0.439389 seconds
+2025-06-22 17:04:53 - INFO - Retrying request to /chat/completions in 0.821189 seconds
+2025-06-22 17:04:54 - WARNING - Manager agent error, retrying (2/3): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 17:04:59 - INFO - Retrying request to /chat/completions in 0.436519 seconds
+2025-06-22 17:04:59 - INFO - Retrying request to /chat/completions in 0.802998 seconds
+2025-06-22 17:05:00 - INFO - Retrying request to /chat/completions in 0.465664 seconds
+2025-06-22 17:05:01 - INFO - Retrying request to /chat/completions in 0.833980 seconds
+2025-06-22 17:05:02 - WARNING - Manager agent error, retrying (3/3): API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 17:05:07 - INFO - Retrying request to /chat/completions in 0.447666 seconds
+2025-06-22 17:05:07 - INFO - Retrying request to /chat/completions in 0.893983 seconds
+2025-06-22 17:05:08 - INFO - Retrying request to /chat/completions in 0.436530 seconds
+2025-06-22 17:05:08 - INFO - Retrying request to /chat/completions in 0.891544 seconds
+2025-06-22 17:05:09 - ERROR - Manager agent error after 3 retries: API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 17:05:09 - INFO - Manager terminated the conversation: Lỗi hệ thống: API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 17:05:09 - INFO - Termination type: Natural end
+2025-06-22 17:05:09 - INFO - Retrying request to /chat/completions in 0.410284 seconds
+2025-06-22 17:05:10 - INFO - Retrying request to /chat/completions in 0.898773 seconds
+2025-06-22 17:05:11 - INFO - Retrying request to /chat/completions in 0.488539 seconds
+2025-06-22 17:05:11 - INFO - Retrying request to /chat/completions in 0.907720 seconds
+2025-06-22 17:05:12 - ERROR - Lỗi khi sinh hội thoại tts_normal_00001: API call failed, main model error: Connection error., fallback model error: Connection error.
+Traceback (most recent call last):
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpcore\_sync\connection_pool.py", line 207, in handle_request
+    raise UnsupportedProtocol(
+httpcore.UnsupportedProtocol: Request URL is missing an 'http://' or 'https://' protocol.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 960, in _request
+    response = self._client.send(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 914, in send
+    response = self._send_handling_auth(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.UnsupportedProtocol: Request URL is missing an 'http://' or 'https://' protocol.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpcore\_sync\connection_pool.py", line 207, in handle_request
+    raise UnsupportedProtocol(
+httpcore.UnsupportedProtocol: Request URL is missing an 'http://' or 'https://' protocol.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 960, in _request
+    response = self._client.send(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 914, in send
+    response = self._send_handling_auth(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.UnsupportedProtocol: Request URL is missing an 'http://' or 'https://' protocol.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpcore\_sync\connection_pool.py", line 207, in handle_request
+    raise UnsupportedProtocol(
+httpcore.UnsupportedProtocol: Request URL is missing an 'http://' or 'https://' protocol.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 960, in _request
+    response = self._client.send(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 914, in send
+    response = self._send_handling_auth(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.UnsupportedProtocol: Request URL is missing an 'http://' or 'https://' protocol.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\utils\openai_client.py", line 27, in chat_completion
+    response = self.client.chat.completions.create(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_utils\_utils.py", line 279, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\resources\chat\completions\completions.py", line 914, in create
+    return self._post(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 1247, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 920, in request
+    return self._request(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 984, in _request
+    return self._retry_request(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 1062, in _retry_request
+    return self._request(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 984, in _request
+    return self._retry_request(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 1062, in _retry_request
+    return self._request(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 994, in _request
+    raise APIConnectionError(request=request) from err
+openai.APIConnectionError: Connection error.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpcore\_sync\connection_pool.py", line 207, in handle_request
+    raise UnsupportedProtocol(
+httpcore.UnsupportedProtocol: Request URL is missing an 'http://' or 'https://' protocol.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 960, in _request
+    response = self._client.send(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 914, in send
+    response = self._send_handling_auth(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.UnsupportedProtocol: Request URL is missing an 'http://' or 'https://' protocol.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpcore\_sync\connection_pool.py", line 207, in handle_request
+    raise UnsupportedProtocol(
+httpcore.UnsupportedProtocol: Request URL is missing an 'http://' or 'https://' protocol.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 960, in _request
+    response = self._client.send(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 914, in send
+    response = self._send_handling_auth(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.UnsupportedProtocol: Request URL is missing an 'http://' or 'https://' protocol.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpcore\_sync\connection_pool.py", line 207, in handle_request
+    raise UnsupportedProtocol(
+httpcore.UnsupportedProtocol: Request URL is missing an 'http://' or 'https://' protocol.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 960, in _request
+    response = self._client.send(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 914, in send
+    response = self._send_handling_auth(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\contextlib.py", line 137, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\httpx\_transports\default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.UnsupportedProtocol: Request URL is missing an 'http://' or 'https://' protocol.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\utils\openai_client.py", line 58, in chat_completion
+    response = self.client.chat.completions.create(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_utils\_utils.py", line 279, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\resources\chat\completions\completions.py", line 914, in create
+    return self._post(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 1247, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 920, in request
+    return self._request(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 984, in _request
+    return self._retry_request(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 1062, in _retry_request
+    return self._request(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 984, in _request
+    return self._retry_request(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 1062, in _retry_request
+    return self._request(
+  File "C:\Users\ilove\AppData\Local\Programs\Python\Python39\lib\site-packages\openai\_base_client.py", line 994, in _request
+    raise APIConnectionError(request=request) from err
+openai.APIConnectionError: Connection error.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\generate_normal_dialogues.py", line 110, in generate_dialogue
+    dialogue_result = orchestrator.run_dialogue()
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\logic\dialogue_orchestrator.py", line 86, in run_dialogue
+    conclusion_messages = self.handle_termination(terminator)
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\logic\dialogue_orchestrator.py", line 249, in handle_termination
+    left_conclusion = self.get_conclusion_from_left()
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\logic\dialogue_orchestrator.py", line 277, in get_conclusion_from_left
+    reply = self.left_agent.client.chat_completion(
+  File "D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix-normal\utils\openai_client.py", line 68, in chat_completion
+    raise Exception(f"API call failed, main model error: {e}, fallback model error: {e2}")
+Exception: API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 17:05:12 - ERROR - Nhiệm vụ tts_normal_00001 thất bại: API call failed, main model error: Connection error., fallback model error: Connection error.
+2025-06-22 17:05:12 - INFO - Hoàn thành! Đã sinh 0 hội thoại, thành công: 0, thất bại: 1, đã lưu vào D:\Du-an\TeleAntiFraud\multi-agents-tools\dataset\normal_20250622_170012\normal_conversations.jsonl
+2025-06-22 17:05:12 - INFO - 
+Thống kê phân phối:
+Phân bố độ tuổi: {'18-25': 0, '26-40': 0, '41-55': 0, '56-70': 0}
+Phân bố mức độ cảnh giác: {'thấp': 0, 'trung bình': 0, 'cao': 0}
+Phân bố loại hội thoại: {'Tư vấn dịch vụ khách hàng': 0, 'Đặt đồ ăn': 0, 'Đặt lịch hẹn': 0, 'Tư vấn giao thông': 0, 'Mua sắm trực tuyến': 0, 'Dịch vụ sửa chữa': 0, 'Gọi taxi': 0, 'Tư vấn bảo hiểm': 0}
+Phân bố bên kết thúc: {'left': 0, 'right': 0, 'natural': 0}
+Phân bố nghề nghiệp: {'Học sinh/Sinh viên': 0, 'Giáo viên': 0, 'Kỹ sư': 0, 'Bác sĩ': 0, 'Người đã nghỉ hưu': 0, 'Thất nghiệp': 0, 'Chủ doanh nghiệp': 0, 'Nhân viên văn phòng': 0, 'Nông dân': 0, 'Nhân viên dịch vụ': 0}
+2025-06-22 17:05:12 - INFO - Tổng thời gian: 179.90 giây
+2025-06-22 17:11:14 - INFO - Bắt đầu sinh 1 hội thoại bình thường, model: gemini-2.0-flash, API: Gemini (built-in)
+2025-06-22 17:11:14 - INFO - Bắt đầu sinh hội thoại song song, số luồng: 3
+2025-06-22 17:11:14 - INFO - Bắt đầu sinh hội thoại tts_normal_00001: age=21, awareness=thấp, conversation_type=Tư vấn dịch vụ khách hàng
+2025-06-22 17:11:14 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:11:16 - INFO - ✅ Gemini API response thành công
+2025-06-22 17:11:16 - INFO - Dialogue started
+2025-06-22 17:11:16 - INFO - Left: Alo, tôi là Lan, nhân viên tư vấn của Viettel. Tôi có thể hỗ trợ gì cho anh/chị ạ?
+
+2025-06-22 17:11:16 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:11:17 - INFO - ✅ Gemini API response thành công
+2025-06-22 17:11:17 - INFO - Right: À, em muốn hỏi về gói cước 5G của Viettel ạ.
+
+2025-06-22 17:11:17 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:11:19 - INFO - ✅ Gemini API response thành công
+2025-06-22 17:11:19 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:11:21 - INFO - ✅ Gemini API response thành công
+2025-06-22 17:11:21 - INFO - Left: Dạ vâng, hiện tại Viettel có rất nhiều gói cước năm G ưu đãi. Mình muốn tham khảo gói data lớn, tốc độ cao hay là gói combo có cả gọi và nhắn tin ạ?
+
+2025-06-22 17:11:21 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:11:22 - INFO - ✅ Gemini API response thành công
+2025-06-22 17:11:22 - INFO - Right: Em hay dùng data thôi, gói nào data nhiều mà giá sinh viên ấy ạ.
+
+2025-06-22 17:11:22 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:11:24 - INFO - ✅ Gemini API response thành công
+2025-06-22 17:11:24 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:11:27 - INFO - ✅ Gemini API response thành công
+2025-06-22 17:11:27 - INFO - Left: Dạ, vậy thì em xin giới thiệu gói ST chín mươi K ạ. Gói này giá chín mươi nghìn đồng một tháng, mình sẽ có mười lăm GB data tốc độ cao, dùng hết thì vẫn truy cập được internet với tốc độ thường ạ.
+
+2025-06-22 17:11:27 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:11:27 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-22 17:11:28 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-22 17:11:28 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-22 17:11:30 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-22 17:11:31 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-22 17:11:35 - WARNING - API request thất bại (lần thử 1): Phản hồi trống hoặc không hợp lệ
+2025-06-22 17:11:40 - INFO - Đang thử lại gọi API...
+2025-06-22 17:11:40 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:11:41 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-22 17:11:42 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-22 17:11:43 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-22 17:11:45 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-22 17:11:46 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-22 17:11:50 - WARNING - API request thất bại (lần thử 2): Phản hồi trống hoặc không hợp lệ
+2025-06-22 17:11:55 - INFO - Đang thử lại gọi API...
+2025-06-22 17:11:55 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:11:57 - INFO - ✅ Gemini API response thành công
+2025-06-22 17:11:57 - INFO - Right: 15GB một tháng là đủ dùng thoải mái rồi đấy ạ. Mà gói này có giới hạn gì về ứng dụng không chị? Ví dụ như xem YouTube hay TikTok có bị trừ thêm dung lượng không?
+
+2025-06-22 17:11:57 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:11:59 - INFO - ✅ Gemini API response thành công
+2025-06-22 17:11:59 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:12:00 - INFO - ✅ Gemini API response thành công
+2025-06-22 17:12:00 - INFO - Left: Dạ không ạ, gói ST chín mươi K này không giới hạn ứng dụng. Mình dùng data để xem YouTube, TikTok hay lướt web đều được, không bị trừ thêm dung lượng ngoài gói đâu ạ.
+
+2025-06-22 17:12:00 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:12:02 - INFO - ✅ Gemini API response thành công
+2025-06-22 17:12:02 - INFO - Right: Thế ạ? Thế thì tốt quá. Em đăng ký gói này luôn được không chị?
+
+2025-06-22 17:12:02 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:12:04 - INFO - ✅ Gemini API response thành công
+2025-06-22 17:12:04 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:12:05 - INFO - ✅ Gemini API response thành công
+2025-06-22 17:12:05 - INFO - Left: Dạ được ạ. Để đăng ký gói ST chín mươi K, mình có thể soạn tin nhắn theo cú pháp ST chín mươi K gửi một chín một. Mình thực hiện thao tác này ngay bây giờ luôn được không ạ? Em sẽ hướng dẫn mình chi tiết ạ.
+
+2025-06-22 17:12:05 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:12:06 - INFO - ✅ Gemini API response thành công
+2025-06-22 17:12:06 - INFO - Right: Để em thử luôn xem sao. Soạn ST90K gửi 191 đúng không chị?
+
+2025-06-22 17:12:06 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:12:07 - INFO - ✅ Gemini API response thành công
+2025-06-22 17:12:07 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:12:08 - INFO - ✅ Gemini API response thành công
+2025-06-22 17:12:08 - INFO - Left: Dạ đúng rồi ạ. Mình soạn ST chín mươi K viết liền, không dấu, gửi một chín một ạ. Mình gửi tin nhắn đi rồi báo em biết nhé.
+
+2025-06-22 17:12:08 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:12:10 - INFO - ✅ Gemini API response thành công
+2025-06-22 17:12:10 - INFO - Right: Em gửi rồi ạ. Chắc phải đợi một lúc nữa mới có tin nhắn xác nhận đúng không chị?
+
+2025-06-22 17:12:10 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:12:12 - INFO - ✅ Gemini API response thành công
+2025-06-22 17:12:12 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:12:13 - INFO - ✅ Gemini API response thành công
+2025-06-22 17:12:13 - INFO - Left: Dạ vâng, thường thì tin nhắn xác nhận sẽ đến trong khoảng một đến ba phút ạ. Trong lúc chờ đợi, em xin phép được thông tin thêm một chút về gói cước để mình nắm rõ hơn nhé.
+
+2025-06-22 17:12:13 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:12:15 - INFO - ✅ Gemini API response thành công
+2025-06-22 17:12:15 - INFO - Right: Dạ vâng ạ. Chị cứ nói đi ạ.
+
+2025-06-22 17:12:15 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:12:16 - INFO - ✅ Gemini API response thành công
+2025-06-22 17:12:16 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:12:17 - INFO - ✅ Gemini API response thành công
+2025-06-22 17:12:17 - INFO - Left: Gói ST chín mươi K này có thời hạn ba mươi ngày kể từ ngày đăng ký thành công. Sau ba mươi ngày, gói cước sẽ tự động gia hạn nếu tài khoản của mình đủ tiền. Nếu mình không muốn gia hạn, có thể hủy gói cước bằng cách soạn tin nhắn HUY ST chín mươi K gửi một chín một ạ.
+
+2025-06-22 17:12:17 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:12:20 - INFO - ✅ Gemini API response thành công
+2025-06-22 17:12:20 - INFO - Right: Em hiểu rồi ạ. Để em ghi lại thông tin này vào điện thoại. Chị đọc lại cú pháp hủy giúp em với ạ.
+
+2025-06-22 17:12:20 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:12:21 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-22 17:12:22 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-22 17:12:23 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-22 17:12:25 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-22 17:12:27 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-22 17:12:31 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:12:32 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-22 17:12:33 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-22 17:12:33 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-22 17:12:35 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-22 17:12:36 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-22 17:12:40 - WARNING - API request thất bại (lần thử 1): Phản hồi trống hoặc không hợp lệ
+2025-06-22 17:12:45 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:12:46 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-22 17:12:47 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-22 17:12:48 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-22 17:12:50 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-22 17:12:53 - INFO - ✅ Gemini API response thành công
+2025-06-22 17:12:53 - INFO - Left: Dạ vâng, cú pháp hủy là HUY dấu cách ST chín mươi K gửi một chín một ạ. Mình nhớ viết hoa chữ HUY nhé.
+
+2025-06-22 17:12:53 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:12:54 - INFO - ✅ Gemini API response thành công
+2025-06-22 17:12:54 - INFO - Right: Okay chị. Em cảm ơn ạ. À mà em vừa nhận được tin nhắn báo đăng ký thành công rồi nè.
+
+2025-06-22 17:12:54 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:12:55 - INFO - ✅ Gemini API response thành công
+2025-06-22 17:12:55 - INFO - Manager terminated the conversation: Người dùng đã đăng ký thành công gói cước và nhận được thông tin đầy đủ về gói cước, bao gồm cách hủy. Hội thoại đã hoàn thành mục tiêu và có thể kết thúc tự nhiên.
+2025-06-22 17:12:55 - INFO - Termination type: Natural end
+2025-06-22 17:12:55 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:12:57 - INFO - ✅ Gemini API response thành công
+2025-06-22 17:12:57 - INFO - Left ended: Dạ, em thấy mình đã nhận được tin nhắn xác nhận đăng ký thành công gói ST chín mươi K rồi ạ. Mình còn cần em hỗ trợ gì thêm không ạ? Nếu không thì em xin phép kết thúc cuộc gọi tại đây ạ. Chúc mình một ngày tốt lành! ##ENDCALL_SIGNAL##
+
+2025-06-22 17:12:57 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:12:58 - INFO - ✅ Gemini API response thành công
+2025-06-22 17:12:58 - INFO - Right ended: Dạ không ạ, em cảm ơn chị nhiều nha. Tạm biệt chị.
+
+2025-06-22 17:12:58 - INFO - Dialogue ended
+2025-06-22 17:12:58 - INFO - Hội thoại tts_normal_00001 hoàn thành, tổng 20 lượt
+2025-06-22 17:12:58 - INFO - Lịch sử hội thoại tts_normal_00001:
+2025-06-22 17:12:58 - INFO - Nhân viên dịch vụ: Alo, tôi là Lan, nhân viên tư vấn của Viettel. Tôi có thể hỗ trợ gì cho anh/chị ạ?
+
+2025-06-22 17:12:58 - INFO - Khách hàng: À, em muốn hỏi về gói cước 5G của Viettel ạ.
+
+2025-06-22 17:12:58 - INFO - Nhân viên dịch vụ: Dạ vâng, hiện tại Viettel có rất nhiều gói cước năm G ưu đãi. Mình muốn tham khảo gói data lớn, tốc độ cao hay là gói combo có cả gọi và nhắn tin ạ?
+
+2025-06-22 17:12:58 - INFO - Khách hàng: Em hay dùng data thôi, gói nào data nhiều mà giá sinh viên ấy ạ.
+
+2025-06-22 17:12:58 - INFO - Nhân viên dịch vụ: Dạ, vậy thì em xin giới thiệu gói ST chín mươi K ạ. Gói này giá chín mươi nghìn đồng một tháng, mình sẽ có mười lăm GB data tốc độ cao, dùng hết thì vẫn truy cập được internet với tốc độ thường ạ.
+
+2025-06-22 17:12:58 - INFO - Khách hàng: 15GB một tháng là đủ dùng thoải mái rồi đấy ạ. Mà gói này có giới hạn gì về ứng dụng không chị? Ví dụ như xem YouTube hay TikTok có bị trừ thêm dung lượng không?
+
+2025-06-22 17:12:58 - INFO - Nhân viên dịch vụ: Dạ không ạ, gói ST chín mươi K này không giới hạn ứng dụng. Mình dùng data để xem YouTube, TikTok hay lướt web đều được, không bị trừ thêm dung lượng ngoài gói đâu ạ.
+
+2025-06-22 17:12:58 - INFO - Khách hàng: Thế ạ? Thế thì tốt quá. Em đăng ký gói này luôn được không chị?
+
+2025-06-22 17:12:58 - INFO - Nhân viên dịch vụ: Dạ được ạ. Để đăng ký gói ST chín mươi K, mình có thể soạn tin nhắn theo cú pháp ST chín mươi K gửi một chín một. Mình thực hiện thao tác này ngay bây giờ luôn được không ạ? Em sẽ hướng dẫn mình chi tiết ạ.
+
+2025-06-22 17:12:58 - INFO - Khách hàng: Để em thử luôn xem sao. Soạn ST90K gửi 191 đúng không chị?
+
+2025-06-22 17:12:58 - INFO - Nhân viên dịch vụ: Dạ đúng rồi ạ. Mình soạn ST chín mươi K viết liền, không dấu, gửi một chín một ạ. Mình gửi tin nhắn đi rồi báo em biết nhé.
+
+2025-06-22 17:12:58 - INFO - Khách hàng: Em gửi rồi ạ. Chắc phải đợi một lúc nữa mới có tin nhắn xác nhận đúng không chị?
+
+2025-06-22 17:12:58 - INFO - Nhân viên dịch vụ: Dạ vâng, thường thì tin nhắn xác nhận sẽ đến trong khoảng một đến ba phút ạ. Trong lúc chờ đợi, em xin phép được thông tin thêm một chút về gói cước để mình nắm rõ hơn nhé.
+
+2025-06-22 17:12:58 - INFO - Khách hàng: Dạ vâng ạ. Chị cứ nói đi ạ.
+
+2025-06-22 17:12:58 - INFO - Nhân viên dịch vụ: Gói ST chín mươi K này có thời hạn ba mươi ngày kể từ ngày đăng ký thành công. Sau ba mươi ngày, gói cước sẽ tự động gia hạn nếu tài khoản của mình đủ tiền. Nếu mình không muốn gia hạn, có thể hủy gói cước bằng cách soạn tin nhắn HUY ST chín mươi K gửi một chín một ạ.
+
+2025-06-22 17:12:58 - INFO - Khách hàng: Em hiểu rồi ạ. Để em ghi lại thông tin này vào điện thoại. Chị đọc lại cú pháp hủy giúp em với ạ.
+
+2025-06-22 17:12:58 - INFO - Nhân viên dịch vụ: Dạ vâng, cú pháp hủy là HUY dấu cách ST chín mươi K gửi một chín một ạ. Mình nhớ viết hoa chữ HUY nhé.
+
+2025-06-22 17:12:58 - INFO - Khách hàng: Okay chị. Em cảm ơn ạ. À mà em vừa nhận được tin nhắn báo đăng ký thành công rồi nè.
+
+2025-06-22 17:12:58 - INFO - Nhân viên dịch vụ: Dạ, em thấy mình đã nhận được tin nhắn xác nhận đăng ký thành công gói ST chín mươi K rồi ạ. Mình còn cần em hỗ trợ gì thêm không ạ? Nếu không thì em xin phép kết thúc cuộc gọi tại đây ạ. Chúc mình một ngày tốt lành! 
+
+2025-06-22 17:12:58 - INFO - Khách hàng: Dạ không ạ, em cảm ơn chị nhiều nha. Tạm biệt chị.
+
+2025-06-22 17:12:58 - INFO - Hội thoại tts_normal_00001 xử lý xong, lý do kết thúc: Người dùng đã đăng ký thành công gói cước và nhận được thông tin đầy đủ về gói cước, bao gồm cách hủ...
+2025-06-22 17:12:58 - INFO - Đã lưu hội thoại đầy đủ vào D:\Du-an\TeleAntiFraud\multi-agents-tools\dataset\normal_20250622_170832\full_dialogues\tts_normal_00001.json
+2025-06-22 17:12:58 - INFO - Hoàn thành! Đã sinh 1 hội thoại, thành công: 1, thất bại: 0, đã lưu vào D:\Du-an\TeleAntiFraud\multi-agents-tools\dataset\normal_20250622_170832\normal_conversations.jsonl
+2025-06-22 17:12:58 - INFO - 
+Thống kê phân phối:
+Phân bố độ tuổi: {'18-25': 1, '26-40': 0, '41-55': 0, '56-70': 0}
+Phân bố mức độ cảnh giác: {'thấp': 1, 'trung bình': 0, 'cao': 0}
+Phân bố loại hội thoại: {'Tư vấn dịch vụ khách hàng': 1, 'Đặt đồ ăn': 0, 'Đặt lịch hẹn': 0, 'Tư vấn giao thông': 0, 'Mua sắm trực tuyến': 0, 'Dịch vụ sửa chữa': 0, 'Gọi taxi': 0, 'Tư vấn bảo hiểm': 0}
+Phân bố bên kết thúc: {'left': 0, 'right': 0, 'natural': 1}
+Phân bố nghề nghiệp: {'Học sinh/Sinh viên': 1, 'Giáo viên': 0, 'Kỹ sư': 0, 'Bác sĩ': 0, 'Người đã nghỉ hưu': 0, 'Thất nghiệp': 0, 'Chủ doanh nghiệp': 0, 'Nhân viên văn phòng': 0, 'Nông dân': 0, 'Nhân viên dịch vụ': 0}
+2025-06-22 17:12:58 - INFO - Tổng thời gian: 103.61 giây
+2025-06-22 17:22:57 - INFO - Bắt đầu sinh 1 hội thoại bình thường, model: gemini-2.0-flash, API: Gemini (built-in)
+2025-06-22 17:22:57 - INFO - Bắt đầu sinh hội thoại song song, số luồng: 3
+2025-06-22 17:22:57 - INFO - Bắt đầu sinh hội thoại tts_normal_00001: age=22, awareness=thấp, conversation_type=Tư vấn dịch vụ khách hàng
+2025-06-22 17:22:57 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:22:59 - INFO - ✅ Gemini API response thành công
+2025-06-22 17:22:59 - INFO - Dialogue started
+2025-06-22 17:22:59 - INFO - Left: Alô, tôi là Lan, nhân viên tư vấn của Viettel, tôi có thể hỗ trợ gì cho anh/chị ạ?
+
+2025-06-22 17:22:59 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:23:00 - INFO - ✅ Gemini API response thành công
+2025-06-22 17:23:00 - INFO - Right: À, vâng ạ. Em muốn hỏi về gói cước 5G của Viettel mình ấy ạ.
+
+2025-06-22 17:23:00 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:23:01 - INFO - ✅ Gemini API response thành công
+2025-06-22 17:23:01 - INFO - Manager terminated the conversation: Hội thoại mới bắt đầu, người dùng đang muốn tìm hiểu về gói cước 5G, cần tiếp tục để cung cấp thông tin và hỗ trợ.
+2025-06-22 17:23:01 - INFO - Termination type: Natural end
+2025-06-22 17:23:01 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:23:03 - INFO - ✅ Gemini API response thành công
+2025-06-22 17:23:03 - INFO - Left ended: Dạ, nếu anh/chị không có câu hỏi nào khác thì em xin phép kết thúc cuộc gọi tại đây ạ. Cảm ơn anh/chị đã sử dụng dịch vụ của Viettel. Chúc anh/chị một ngày tốt lành.##ENDCALL_SIGNAL##
+
+2025-06-22 17:23:03 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-22 17:23:04 - INFO - ✅ Gemini API response thành công
+2025-06-22 17:23:04 - INFO - Right ended: Em chào chị ạ.
+
+2025-06-22 17:23:04 - INFO - Dialogue ended
+2025-06-22 17:23:04 - INFO - Hội thoại tts_normal_00001 hoàn thành, tổng 4 lượt
+2025-06-22 17:23:04 - INFO - Lịch sử hội thoại tts_normal_00001:
+2025-06-22 17:23:04 - INFO - Nhân viên dịch vụ: Alô, tôi là Lan, nhân viên tư vấn của Viettel, tôi có thể hỗ trợ gì cho anh/chị ạ?
+
+2025-06-22 17:23:04 - INFO - Khách hàng: À, vâng ạ. Em muốn hỏi về gói cước 5G của Viettel mình ấy ạ.
+
+2025-06-22 17:23:04 - INFO - Nhân viên dịch vụ: Dạ, nếu anh/chị không có câu hỏi nào khác thì em xin phép kết thúc cuộc gọi tại đây ạ. Cảm ơn anh/chị đã sử dụng dịch vụ của Viettel. Chúc anh/chị một ngày tốt lành.
+
+2025-06-22 17:23:04 - INFO - Khách hàng: Em chào chị ạ.
+
+2025-06-22 17:23:04 - INFO - Hội thoại tts_normal_00001 xử lý xong, lý do kết thúc: Hội thoại mới bắt đầu, người dùng đang muốn tìm hiểu về gói cước 5G, cần tiếp tục để cung cấp thông ...
+2025-06-22 17:23:04 - INFO - Đã lưu hội thoại đầy đủ vào D:\Du-an\TeleAntiFraud\multi-agents-tools\dataset\normal_20250622_172048\full_dialogues\tts_normal_00001.json
+2025-06-22 17:23:04 - INFO - Hoàn thành! Đã sinh 1 hội thoại, thành công: 1, thất bại: 0, đã lưu vào D:\Du-an\TeleAntiFraud\multi-agents-tools\dataset\normal_20250622_172048\normal_conversations.jsonl
+2025-06-22 17:23:04 - INFO - 
+Thống kê phân phối:
+Phân bố độ tuổi: {'18-25': 1, '26-40': 0, '41-55': 0, '56-70': 0}
+Phân bố mức độ cảnh giác: {'thấp': 1, 'trung bình': 0, 'cao': 0}
+Phân bố loại hội thoại: {'Tư vấn dịch vụ khách hàng': 1, 'Đặt đồ ăn': 0, 'Đặt lịch hẹn': 0, 'Tư vấn giao thông': 0, 'Mua sắm trực tuyến': 0, 'Dịch vụ sửa chữa': 0, 'Gọi taxi': 0, 'Tư vấn bảo hiểm': 0}
+Phân bố bên kết thúc: {'left': 0, 'right': 0, 'natural': 0}
+Phân bố nghề nghiệp: {'Học sinh/Sinh viên': 1, 'Giáo viên': 0, 'Kỹ sư': 0, 'Bác sĩ': 0, 'Người đã nghỉ hưu': 0, 'Thất nghiệp': 0, 'Chủ doanh nghiệp': 0, 'Nhân viên văn phòng': 0, 'Nông dân': 0, 'Nhân viên dịch vụ': 0}
+2025-06-22 17:23:04 - INFO - Tổng thời gian: 6.95 giây

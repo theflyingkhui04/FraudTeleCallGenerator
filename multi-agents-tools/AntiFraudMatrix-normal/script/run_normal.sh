@@ -1,29 +1,29 @@
 #!/bin/bash
 
-# Dialogue generation script
-# Usage example: ./generate_dialogues.sh 10
-# "sk-yjapnkiskowaksedsvcybiqccfwanqemwjalwwakibqxnvia"
-# Set default values
-DEFAULT_COUNT=2500
-DEFAULT_MODEL="deepseek-ai/DeepSeek-V2.5"
+# Script sinh hội thoại bình thường
+# Cách dùng ví dụ: ./run_normal.sh 10
+
+# Thiết lập giá trị mặc định
+DEFAULT_COUNT=100
+DEFAULT_MODEL="Qwen/Qwen2.5-72B-Instruct"
 DEFAULT_WORKERS=2
-API_KEY="sk-snqprjadkwbxggowrmzmzkdhsdajpdlqirgeopejlalyvbxb"
+API_KEY="sk-fpwiniyhjwughnzrzdckrrkiyxkebpgcoslhnenybgbxyvva"
 BASE_URL="https://api.siliconflow.cn/v1"
 
-# Get current timestamp
+# Lấy timestamp hiện tại
 TIMESTAMP=$(date +"%Y%m%d_%H%M%S")
 
-# Parse command line arguments
+# Xử lý tham số dòng lệnh
 COUNT=${1:-$DEFAULT_COUNT}
 MODEL=${2:-$DEFAULT_MODEL}
 WORKERS=${3:-$DEFAULT_WORKERS}
 
-# Set output file name
+# Thiết lập tên file xuất kết quả
 OUTPUT_FILE="results/normal_dialogues-${TIMESTAMP}.jsonl"
-FULL_OUTPUT_DIR="results/normal-full_dialogues_${TIMESTAMP}"
+FULL_OUTPUT_DIR="results/full_normal_dialogues_${TIMESTAMP}"
 
 echo "====================================="
-echo "Công việc tạo đối thoại đã bắt đầu"
+echo "Bắt đầu sinh hội thoại bình thường"
 echo "====================================="
 echo "Số lượng cần tạo: $COUNT"
 echo "Mô hình sử dụng: $MODEL"
@@ -36,15 +36,15 @@ echo "====================================="
 # Create log directory
 mkdir -p logs
 
-# Run command and record log
-python generate_dialogues.py \
+# Chạy lệnh và ghi log
+python generate_normal_dialogues.py \
   --count $COUNT \
   --base_url "$BASE_URL" \
   --api_key "$API_KEY" \
   --model "$MODEL" \
   --workers $WORKERS \
   --output "$OUTPUT_FILE" \
-  --full_output_dir "$FULL_OUTPUT_DIR" 2>&1 | tee "logs/generate_${TIMESTAMP}.log"
+  --full_output_dir "$FULL_OUTPUT_DIR" 2>&1 | tee "logs/generate_normal_${TIMESTAMP}.log"
 
 # Check command execution status
 EXIT_CODE=$?

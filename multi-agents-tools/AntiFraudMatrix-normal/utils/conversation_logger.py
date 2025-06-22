@@ -1,5 +1,6 @@
 import logging
 import time
+import sys
 from typing import Optional, TextIO
 
 class ConversationLogger:
@@ -16,8 +17,7 @@ class ConversationLogger:
         )
         
         self.logger = logging.getLogger("dialogue")
-        
-        # 如果提供了日志文件，添加文件处理器
+          # 如果提供了日志文件，添加文件处理器
         if log_file:
             file_handler = logging.FileHandler(log_file, encoding='utf-8')
             file_handler.setFormatter(logging.Formatter('%(asctime)s - %(message)s'))
@@ -26,5 +26,9 @@ class ConversationLogger:
     def log(self, message: str) -> None:
         """Log message"""
         if self.console_output:
-            print(f"[{time.strftime('%Y-%m-%d %H:%M:%S')}] {message}")
+            try:
+                print(f"[{time.strftime('%Y-%m-%d %H:%M:%S')}] {message}")
+            except UnicodeEncodeError:
+                # Fallback for encoding issues
+                print(f"[{time.strftime('%Y-%m-%d %H:%M:%S')}] {message.encode('ascii', errors='replace').decode('ascii')}")
         self.logger.info(message)
