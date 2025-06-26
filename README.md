@@ -1,111 +1,110 @@
 
-# TeleAntiFraud-28k
+# TeleAntiFraud: Hệ thống phát hiện lừa đảo qua điện thoại
 
-<p align="center">
-  <a href="https://modelscope.cn/datasets/YourOrg/TeleAntiFraud-28k">
-    <img alt="ModelScope Dataset" src="https://img.shields.io/badge/ModelScope-Dataset-orange.svg"/>
-  </a>
-  <a href="https://modelscope.cn/models/YourOrg/TeleAntiFraud-28k">
-    <img alt="ModelScope Model" src="https://img.shields.io/badge/ModelScope-Models-green.svg"/>
-  </a>
-  <a href="https://arxiv.org/abs/2503.24115">
-    <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2503.24115-b31b1b.svg"/>
-  </a>
-</p>
+Hệ thống AI đa tác nhân để tạo dataset hội thoại lừa đảo qua điện thoại phục vụ nghiên cứu và phát triển mô hình phát hiện gian lận viễn thông.
 
-TeleAntiFraud-28k is the first open-source audio-text slow-thinking dataset specifically designed for automated telecom fraud analysis. This dataset integrates audio signals with reasoning-oriented textual analysis, providing high-quality multimodal training data for telecom fraud detection research.
+## Giới thiệu
 
-## Dataset Overview
+TeleAntiFraud là dự án nghiên cứu sử dụng AI để tạo ra dataset hội thoại mô phỏng các cuộc gọi lừa đảo và bình thường. Hệ thống giúp phát triển các mô hình phát hiện lừa đảo hiệu quả cho ngành viễn thông.
 
-- **Total Samples**: 28,511 rigorously processed speech-text pairs
-- **Total Audio Duration**: 307 hours
-- **Unique Feature**: Detailed annotations for fraud reasoning
-- **Task Categories**: Scenario classification, fraud detection, fraud type classification
+### Tính năng chính
 
-## Dataset Construction Strategies
+- **Tạo hội thoại tự động**: Sử dụng nhiều AI agent để mô phỏng các cuộc hội thoại thực tế
+- **15+ loại lừa đảo**: Bao gồm các hình thức lừa đảo phổ biến tại Việt Nam
+- **Dataset cân bằng**: Tự động tạo cả hội thoại lừa đảo và bình thường
+- **Định dạng chuẩn**: Output JSONL với metadata đầy đủ
+- **Tích hợp API**: Hỗ trợ Gemini, OpenAI và các LLM khác
 
-### 1. Privacy-preserved Text-Truth Sample Generation
-- Using ASR-transcribed call recordings (with anonymized original audio)
-- Ensuring real-world consistency through TTS model regeneration
-- Strict adherence to privacy protection standards
+## Kiến trúc hệ thống
 
-### 2. Semantic Enhancement
-- LLM-based self-instruction sampling on authentic ASR outputs
-- Expanding scenario coverage to improve model generalization
-- Enriching the diversity of conversational contexts
+Hệ thống sử dụng 4 thành phần chính:
 
-### 3. Multi-agent Adversarial Synthesis
-- Simulation of emerging fraud tactics
-- Generation through predefined communication scenarios and fraud typologies
-- Enhancing dataset adaptability to new fraud techniques
+- **Left Agent**: Đóng vai kẻ lừa đảo, tạo các chiến thuật lừa đảo
+- **Right Agent**: Đóng vai nạn nhân với các mức độ cảnh giác khác nhau
+- **Manager Agent**: Giám sát và quyết định khi nào kết thúc hội thoại
+- **Dialogue Orchestrator**: Điều phối toàn bộ cuộc hội thoại
 
-## TeleAntiFraud-Bench
+## Cách sử dụng
 
-We have constructed TeleAntiFraud-Bench, a standardized evaluation benchmark comprising proportionally sampled instances from TeleAntiFraud-28k, to facilitate systematic testing of model performance and reasoning capabilities on telecom fraud detection tasks.
+### Cài đặt
 
-## Model Contribution
+```bash
+# Cài đặt dependencies
+pip install -r requirements.txt
+```
 
-We contribute a production-optimized supervised fine-tuning (SFT) model based on Qwen2-Audio, trained on the TeleAntiFraud training set.
+### Tạo dataset
 
-## Examples
+```bash
+# Di chuyển đến thư mục generator
+cd multi-agents-tools/generator
 
-Explore our dataset examples to better understand the telecom fraud detection capabilities:
+# Tạo dataset cân bằng
+python dataset_generator.py \
+    --total 100 \
+    --api_key "your-gemini-api-key" \
+    --model "gemini-2.0-flash"
+```
 
-- [Case 1: Normal Conversation Analysis](example/case1think.html) - Detailed analysis of a legitimate phone conversation
-- [Case 2: Fraud Conversation Analysis](example/case2think.html) - Step-by-step reasoning for detecting a fraudulent call
-- [Evaluation Sample](example/eval_sample.html) - Representative sample from our evaluation benchmark
-- [Model Output: Normal Conversation](example/result1think.html) - Our model's reasoning process on a legitimate call
-- [Model Output: Fraud Detection](example/result2think.html) - Model's analysis and detection of a fraudulent call
-
-## Multi-Agent Data Collection
-
-To collect fraudulent conversation data:
-1. Insert your API key in `multi-agents-tools/AntiFraudMatrix/main.py` (uses SiliconFlow API key)
-2. Run the following command to generate fraudulent dialog text:
-   ```bash
-   python multi-agents-tools/AntiFraudMatrix/main.py
-   ```
-3. Results will be saved in the `result` directory
-
-For normal conversation data:
-- Use `multi-agents-tools/AntiFraudMatrix-normal/main.py` following the same process
-
-## Voice Synthesis with ChatTTS
-
-To synthesize speech from the collected text:
-1. Install the necessary dependencies
-2. Run the API server:
-   ```bash
-   fastapi dev ChatTTS/examples/api/main_new_new.py --host 0.0.0.0 --port 8006
-   ```
-3. Use any of the scripts in `ChatTTS/examples/api/normal_run*.sh` or `ChatTTS/examples/api/run*.sh`
-
-   Modify the port in these scripts if needed, then run:
-   ```bash
-   bash ChatTTS/examples/api/run*.sh
-   ```
-
-## Open-Source Resources
-
-- TeleAntiFraud-28k dataset
-- TeleAntiFraud-Bench evaluation benchmark
-- Data processing framework (supporting community-driven dataset expansion)
-- TeleAntiFraud-Qwen2-Audio SFT model
-
-## Key Contributions
-
-1. Establishing a foundational framework for multimodal anti-fraud research
-2. Addressing critical challenges in data privacy and scenario diversity
-3. Providing high-quality training data for telecom fraud detection
-4. Open-sourcing data processing tools to enable community collaboration
-
-## Citation
+### Kết quả
 
 ```
-@inproceedings{Ma2025TeleAntiFraud28kAA,
-  title={TeleAntiFraud-28k: An Audio-Text Slow-Thinking Dataset for Telecom Fraud Detection},
-  author={Zhiming Ma and Peidong Wang and Minhua Huang and Jingpeng Wang and Kai Wu and Xiangzhao Lv and Yachun Pang and Yin Yang and Wenjie Tang and Yuchen Kang},
-  year={2025},
-  url={https://api.semanticscholar.org/CorpusID:277467703}
+dataset/balanced_dataset_20250622_170832/
+├── fraud_conversations.jsonl     # Hội thoại lừa đảo
+├── normal_conversations.jsonl    # Hội thoại bình thường
+└── merged_conversations.jsonl    # Dataset tổng hợp
+```
+
+## Các loại lừa đảo được hỗ trợ
+
+| Loại | Mô tả |
+|------|-------|
+| Đầu tư | Lừa đảo crypto, forex, chứng khoán |
+| Tình cảm | Lừa đảo qua mạng xã hội, hẹn hò |
+| Phishing | Giả mạo website, đánh cắp thông tin |
+| Trúng thưởng | Giả mạo trúng số, quà tặng |
+| Việc làm | Tuyển dụng giả, làm việc tại nhà |
+| Mạo danh | Giả mạo cảnh sát, ngân hàng, cơ quan |
+
+## Cấu trúc dự án
+
+```
+TeleAntiFraud/
+├── multi-agents-tools/
+│   ├── AntiFraudMatrix/          # Tạo hội thoại lừa đảo
+│   ├── AntiFraudMatrix-normal/   # Tạo hội thoại bình thường
+│   └── generator/                # Generator tổng hợp
+├── README.md
+└── .gitignore
+```
+
+## Ví dụ output
+
+```json
+{
+  "tts_id": "tts_fraud_00001",
+  "left": ["Chào anh, tôi gọi từ ngân hàng...", "Tài khoản anh có giao dịch lạ..."],
+  "right": ["Vâng ạ, có chuyện gì vậy?", "Thật sao? Tôi không làm gì cả..."],
+  "user_age": 45,
+  "user_awareness": "thấp", 
+  "fraud_type": "Ngân hàng",
+  "occupation": "Người nghỉ hưu",
+  "label": "fraud",
+  "is_fraud": 1
 }
 ```
+
+## Hiệu suất
+
+- Tốc độ: 2-3 hội thoại/phút
+- Tỷ lệ thành công: 95%+ hội thoại hợp lệ
+- Hỗ trợ xử lý song song
+- Tích hợp nhiều API LLM
+
+## Tài liệu
+
+- [Hướng dẫn tạo dataset](multi-agents-tools/AntiFraudMatrix/DATASET_GENERATION_GUIDE.md)
+
+## Giấy phép
+
+Dự án sử dụng giấy phép MIT.
