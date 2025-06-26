@@ -245,23 +245,28 @@ Dự án này chỉ dành cho mục đích nghiên cứu, giáo dục và phòng
 
 Hệ thống hỗ trợ cả tên tiếng Việt và tiếng Anh cho các loại lừa đảo:
 
-| Tiếng Việt | Tiếng Anh | Mô tả |
-|------------|-----------|-------|
-| Đầu tư | investment | Lừa đảo đầu tư tài chính |
-| Tình cảm | romance | Lừa đảo tình cảm online |
-| Phishing | phishing | Lừa đảo qua website/email giả |
-| Chiếm đoạt danh tính | identity_theft | Thu thập thông tin cá nhân |
-| Trúng thưởng | lottery | Thông báo trúng giải giả |
-| Việc làm giả | fake_job | Quảng cáo việc làm giả |
-| Ngân hàng | banking | Giả danh ngân hàng |
-| Giả danh công an | impersonation_police | Mạo danh cơ quan công an |
-| Giả danh tổng đài | impersonation_call_center | Giả danh dịch vụ khách hàng |
-| Lừa đảo bưu điện | postal_scam | Giả danh bưu điện |
-| Lừa đảo y tế | medical_scam | Giả danh cơ sở y tế |
-| Lừa đảo học phí | education_scam | Giả danh cơ sở giáo dục |
-| Lừa đảo thuế | tax_scam | Giả danh cơ quan thuế |
-| Lừa đảo từ thiện | charity_scam | Kêu gọi từ thiện giả |
-| Lừa đảo mua bán | ecommerce_scam | Lừa đảo thương mại điện tử |
+Chắc chắn rồi, đây là bảng được định dạng lại bằng các ký tự `|` và `--` để tạo thành một bảng văn bản thuần túy.
+
+```
+| Tiếng Việt                | Tiếng Anh                   | Mô tả                           |
+|---------------------------|-----------------------------|---------------------------------|
+| Đầu tư                    | investment                  | Lừa đảo đầu tư tài chính        |
+| Tình cảm                  | romance                     | Lừa đảo tình cảm online         |
+| Phishing                  | phishing                    | Lừa đảo qua website/email giả   |
+| Chiếm đoạt danh tính      | identity_theft              | Thu thập thông tin cá nhân      |
+| Trúng thưởng              | lottery                     | Thông báo trúng giải giả        |
+| Việc làm giả              | fake_job                    | Quảng cáo việc làm giả          |
+| Ngân hàng                 | banking                     | Giả danh ngân hàng              |
+| Giả danh công an          | impersonation_police        | Mạo danh cơ quan công an        |
+| Giả danh tổng đài         | impersonation_call_center   | Giả danh dịch vụ khách hàng     |
+| Lừa đảo bưu điện          | postal_scam                 | Giả danh bưu điện               |
+| Lừa đảo y tế              | medical_scam                | Giả danh cơ sở y tế             |
+| Lừa đảo học phí           | education_scam              | Giả danh cơ sở giáo dục         |
+| Lừa đảo thuế              | tax_scam                    | Giả danh cơ quan thuế           |
+| Lừa đảo từ thiện          | charity_scam                | Kêu gọi từ thiện giả            |
+| Lừa đảo mua bán           | ecommerce_scam              | Lừa đảo thương mại điện tử      |
+```
+
 
 ## Câu hỏi thường gặp
 

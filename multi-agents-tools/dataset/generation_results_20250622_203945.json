@@ -1,0 +1,24 @@
+{
+  "fraud": {
+    "status": "success",
+    "count": 1,
+    "output_file": "D:\\Du-an\\TeleAntiFraud\\multi-agents-tools\\dataset\\fraud_20250622_203945\\fraud_conversations.jsonl",
+    "full_dir": "D:\\Du-an\\TeleAntiFraud\\multi-agents-tools\\dataset\\fraud_20250622_203945\\full_dialogues"
+  },
+  "normal": {
+    "status": "success",
+    "count": 1,
+    "output_file": "D:\\Du-an\\TeleAntiFraud\\multi-agents-tools\\dataset\\normal_20250622_203945\\normal_conversations.jsonl",
+    "full_dir": "D:\\Du-an\\TeleAntiFraud\\multi-agents-tools\\dataset\\normal_20250622_203945\\full_dialogues"
+  },
+  "merged": {
+    "status": "success",
+    "total_conversations": 1,
+    "fraud_count": 1,
+    "normal_count": 0,
+    "fraud_ratio": 1.0,
+    "output_file": "D:\\Du-an\\TeleAntiFraud\\multi-agents-tools\\dataset\\balanced_dataset_20250622_203945\\merged_conversations.jsonl",
+    "output_dir": "D:\\Du-an\\TeleAntiFraud\\multi-agents-tools\\dataset\\balanced_dataset_20250622_203945",
+    "stats_file": "D:\\Du-an\\TeleAntiFraud\\multi-agents-tools\\dataset\\balanced_dataset_20250622_203945\\statistics.json"
+  }
+}

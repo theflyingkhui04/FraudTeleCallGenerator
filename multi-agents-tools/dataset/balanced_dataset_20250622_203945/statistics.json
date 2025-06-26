@@ -1,0 +1,34 @@
+{
+  "generation_info": {
+    "timestamp": "20250622_203945",
+    "total_conversations": 1,
+    "model": "gemini-2.0-flash",
+    "api_base": ""
+  },
+  "label_distribution": {
+    "fraud": 1,
+    "normal": 0
+  },
+  "fraud_types": {
+    "Đầu tư": 1
+  },
+  "conversation_types": {},
+  "user_demographics": {
+    "age_groups": {
+      "25": 1
+    },
+    "occupations": {
+      "công nhân": 1
+    },
+    "awareness_levels": {
+      "thấp": 1
+    }
+  },
+  "conversation_quality": {
+    "avg_turns": 0.0,
+    "turn_distribution": {
+      "0-4": 1
+    },
+    "avg_length": 0.0
+  }
+}

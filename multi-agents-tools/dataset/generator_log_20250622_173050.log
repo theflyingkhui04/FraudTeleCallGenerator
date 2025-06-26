@@ -1,0 +1,10 @@
+2025-06-22 17:30:50,208 - INFO - 🚀 Khởi tạo Dataset Generator
+2025-06-22 17:30:50,209 - INFO -    - API: Gemini (built-in)
+2025-06-22 17:30:50,209 - INFO -    - Model: gemini-2.0-flash
+2025-06-22 17:30:50,209 - INFO -    - Dataset dir: D:\Du-an\TeleAntiFraud\multi-agents-tools\dataset
+2025-06-22 17:30:50,210 - INFO - 🎯 Sinh dataset cân bằng:
+2025-06-22 17:30:50,210 - INFO -    - Tổng: 100 hội thoại
+2025-06-22 17:30:50,210 - INFO -    - Lừa đảo: 50 (50.0%)
+2025-06-22 17:30:50,210 - INFO -    - Bình thường: 50 (50.0%)
+2025-06-22 17:30:50,211 - INFO - 🚨 Sinh 50 hội thoại lừa đảo...
+2025-06-22 17:30:50,212 - INFO -    Chạy lệnh: C:\Users\ilove\AppData\Local\Programs\Python\Python39\python.exe D:\Du-an\TeleAntiFraud\multi-agents-tools\AntiFraudMatrix\generate_dialogues.py --count [với API params]

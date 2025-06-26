@@ -1,0 +1,121 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào anh/chị ạ, em là Lan, gọi từ bên bộ phận hỗ trợ khách hàng của Shopee. Mình đang có chương trình tri ân khách hàng thân thiết, không biết mình có hai phút để em giới thiệu nhanh không ạ?\n",
+      "timestamp": 1750588253.162895
+    },
+    {
+      "role": "right",
+      "content": "À, chào em. Tôi là [Tên của bạn]. Shopee hả? Cũng được, em nói đi.\n",
+      "timestamp": 1750588255.2263873
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, em cảm ơn anh/chị [Tên của bạn] đã dành thời gian ạ. Hiện tại Shopee đang có chương trình tặng voucher mua sắm trị giá một triệu đồng cho khách hàng có lịch sử mua sắm tốt và thường xuyên sử dụng ví ShopeePay. Mình có hay thanh toán qua ví ShopeePay không ạ?\n",
+      "timestamp": 1750588256.6818717
+    },
+    {
+      "role": "right",
+      "content": "Tôi cũng hay mua đồ trên Shopee, với lại cũng có dùng ShopeePay. Mà sao tự nhiên lại được tặng voucher vậy em? Mấy lần trước có thấy chương trình này đâu.\n",
+      "timestamp": 1750588258.0455787
+    },
+    {
+      "role": "left",
+      "content": "Dạ, chương trình này là bí mật, chỉ dành riêng cho một số khách hàng được lựa chọn ngẫu nhiên thôi ạ. Mình là một trong số ít khách hàng may mắn đó ạ. Để em kiểm tra lại thông tin xem mình có đủ điều kiện nhận voucher không nha. Anh/chị cho em xin lại số điện thoại mình đang dùng để em đối chiếu với hệ thống ạ.\n",
+      "timestamp": 1750588260.405225
+    },
+    {
+      "role": "right",
+      "content": "Ờ, số của tôi là [Số điện thoại của bạn]. Em kiểm tra giúp tôi xem thế nào nhé.\n",
+      "timestamp": 1750588311.2693708
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, em cảm ơn ạ. Mình vui lòng đợi em một chút xíu nha. ... Dạ, em đã kiểm tra xong rồi ạ. Mình hoàn toàn đủ điều kiện để nhận voucher một triệu đồng của Shopee ạ.\n",
+      "timestamp": 1750588314.6742136
+    },
+    {
+      "role": "right",
+      "content": "Vậy hả? Tốt quá! Mà tôi phải làm gì để nhận được voucher này? Có phức tạp không em?\n",
+      "timestamp": 1750588315.7736459
+    },
+    {
+      "role": "left",
+      "content": "Dạ không phức tạp đâu ạ. Để kích hoạt voucher, mình cần xác nhận thông tin tài khoản ShopeePay của mình với hệ thống. Mình có đang sử dụng ShopeePay trên điện thoại không ạ?\n",
+      "timestamp": 1750588317.8405325
+    },
+    {
+      "role": "right",
+      "content": "Có chứ, tôi vẫn dùng ShopeePay để thanh toán mà. Thế giờ tôi phải làm sao?\n",
+      "timestamp": 1750588319.801815
+    },
+    {
+      "role": "left",
+      "content": "Dạ, mình mở ứng dụng ShopeePay lên giúp em nha. Sau đó, em sẽ hướng dẫn mình từng bước để xác nhận thông tin và nhận voucher ạ. Mình đã mở ứng dụng ShopeePay chưa ạ?\n",
+      "timestamp": 1750588373.5652544
+    },
+    {
+      "role": "right",
+      "content": "Rồi, tôi mở rồi đây. Em bảo tôi làm gì tiếp theo đi.\n",
+      "timestamp": 1750588375.5929089
+    },
+    {
+      "role": "left",
+      "content": "Dạ, mình nhìn xuống phía dưới màn hình, có thấy chữ \"Tôi\" không ạ? Mình bấm vào đó giúp em nha.\n",
+      "timestamp": 1750588376.7886138
+    },
+    {
+      "role": "right",
+      "content": "Thấy rồi, bấm vào rồi.\n",
+      "timestamp": 1750588377.9548638
+    },
+    {
+      "role": "left",
+      "content": "Dạ, sau khi bấm vào chữ \"Tôi\", mình có thấy mục \"Ví ShopeePay\" không ạ? Mình bấm vào mục đó giúp em nha.\n",
+      "timestamp": 1750588381.4774103
+    },
+    {
+      "role": "right",
+      "content": "Đợi tí... Thấy rồi, để tôi bấm vào... Rồi, bấm rồi. Xong rồi đó em.\n",
+      "timestamp": 1750588382.9487143
+    },
+    {
+      "role": "left",
+      "content": "Dạ, mình đợi một chút để hệ thống load thông tin nha. Sau khi load xong, mình sẽ thấy số dư trong ví ShopeePay của mình. Mình thấy số dư chưa ạ?\n",
+      "timestamp": 1750588433.1227689
+    },
+    {
+      "role": "right",
+      "content": "Thấy rồi. Mà sao em lại bắt tôi vào xem số dư làm gì? Để nhận voucher thì liên quan gì đến số dư trong ví?\n",
+      "timestamp": 1750588434.4115355
+    },
+    {
+      "role": "left",
+      "content": "Dạ, em xin lỗi vì đã làm mình khó hiểu ạ. Việc này là để đảm bảo voucher được kích hoạt đúng vào tài khoản ShopeePay của mình thôi ạ. Mình yên tâm là em sẽ không yêu cầu mình thực hiện bất kỳ giao dịch nào đâu ạ. Mình cứ làm theo hướng dẫn của em nha. Tiếp theo, mình để ý phía dưới số dư, có thấy chữ \"Cài đặt\" không ạ?\n",
+      "timestamp": 1750588439.0006862
+    },
+    {
+      "role": "right",
+      "content": "Cài đặt hả? Để tôi xem... À, thấy rồi. Bấm vào đó hả em?\n",
+      "timestamp": 1750588440.929211
+    },
+    {
+      "role": "left",
+      "content": "Dạ đúng rồi ạ, mình bấm vào chữ \"Cài đặt\" giúp em nha. Sau khi bấm vào, mình sẽ thấy một danh sách các tùy chọn. Mình tìm và chọn mục \"Xác thực khuôn mặt\" hoặc \"Xác thực vân tay\" giúp em nha. Mình đã thấy mục đó chưa ạ?\n",
+      "timestamp": 1750588493.7000563
+    },
+    {
+      "role": "right",
+      "content": "Khoan... khoan đã em. Sao lại phải xác thực khuôn mặt hay vân tay gì ở đây? Tôi thấy cái này lạ à nha. Bình thường mua hàng có thấy bắt làm thế này đâu. Em nói rõ hơn cho tôi hiểu được không? \n",
+      "timestamp": 1750588495.2397966
+    }
+  ],
+  "turns": 10,
+  "terminated_by_manager": false,
+  "end_call_signal_detected": true,
+  "termination_reason": "Người dùng chủ động ngắt máy vì bắt đầu nghi ngờ đây là một cuộc gọi lừa đảo. Cụ thể, việc kẻ lừa đảo yêu cầu truy cập vào cài đặt và xác thực khuôn mặt/vân tay trong ShopeePay khiến người dùng cảm thấy bất thường và đáng ngờ. Người dùng đã đặt câu hỏi nghi ngờ trước đó, nhưng khi đến bước xác thực sinh trắc học, nghi ngờ đã lên đến đỉnh điểm và dẫn đến việc ngắt cuộc gọi. Người dùng muốn dừng lại trước khi bị lừa đảo sâu hơn.",
+  "terminator": "right",
+  "conclusion_messages": [],
+  "reached_max_turns": false
+}
