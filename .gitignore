@@ -189,11 +189,7 @@ site/
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
-# ============================
-# Research Papers & Large Files
-# ============================
-# PDF files (thường là papers, có thể lớn)
-*.pdf
+
 
 # ============================
 # Node.js (nếu có frontend)
@@ -233,25 +229,4 @@ models/
 checkpoints/
 weights/
 
-# ============================
-# Specific to this project
-# ============================
-# Mass generation outputs
-mass_dataset_*/
 
-# Batch generation
-batch_*/
-
-# Old/unused files
-main.py
-main_new.py
-debug_test.py
-dialogue_output.json
-
-# ============================
-# Keep these patterns but exclude
-# ============================
-# Nếu muốn giữ một số file cụ thể, dùng !filename
-# Ví dụ:
-# !important_dataset.json
-# !README_dataset.md
