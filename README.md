@@ -57,14 +57,25 @@ dataset/balanced_dataset_20250622_170832/
 
 ## Các loại lừa đảo được hỗ trợ
 
+Hệ thống hiện hỗ trợ **15 loại lừa đảo** phổ biến tại Việt Nam:
+
 | Loại | Mô tả |
 |------|-------|
-| Đầu tư | Lừa đảo crypto, forex, chứng khoán |
-| Tình cảm | Lừa đảo qua mạng xã hội, hẹn hò |
-| Phishing | Giả mạo website, đánh cắp thông tin |
-| Trúng thưởng | Giả mạo trúng số, quà tặng |
-| Việc làm | Tuyển dụng giả, làm việc tại nhà |
-| Mạo danh | Giả mạo cảnh sát, ngân hàng, cơ quan |
+| **Đầu tư** | Lừa đảo đầu tư tài chính, crypto, forex, chứng khoán với lời hứa lợi nhuận cao |
+| **Tình cảm** | Lừa đảo tình cảm, kết bạn online, tạo lập mối quan hệ rồi xin tiền |
+| **Phishing** | Lừa đảo qua email, SMS, website giả để đánh cắp thông tin đăng nhập |
+| **Chiếm đoạt danh tính** | Thu thập thông tin cá nhân (CMND, số thẻ) để mạo danh |
+| **Trúng thưởng** | Thông báo giả về việc trúng thưởng để lừa đóng phí thuế |
+| **Việc làm giả** | Quảng cáo việc nhẹ lương cao, yêu cầu đóng phí đào tạo |
+| **Ngân hàng** | Giả danh ngân hàng để lấy thông tin thẻ, mã PIN, OTP |
+| **Giả danh công an** | Mạo danh công an/viện kiểm sát để đe dọa và tống tiền |
+| **Giả danh tổng đài** | Giả danh tổng đài chăm sóc khách hàng để lấy thông tin |
+| **Lừa đảo bưu điện** | Giả danh bưu điện báo có bưu phẩm cần đóng phí |
+| **Lừa đảo y tế** | Giả danh bệnh viện/bác sĩ để lừa tiền điều trị hoặc bảo hiểm |
+| **Lừa đảo học phí** | Giả danh trường học về học bổng hoặc đóng học phí |
+| **Lừa đảo thuế** | Giả danh cơ quan thuế về hoàn thuế hoặc phạt thuế |
+| **Lừa đảo từ thiện** | Kêu gọi quyên góp giả cho các hoàn cảnh khó khăn |
+| **Lừa đảo mua bán** | Lừa đảo trong giao dịch mua bán online, ship COD giả |
 
 ## Cấu trúc dự án
 
