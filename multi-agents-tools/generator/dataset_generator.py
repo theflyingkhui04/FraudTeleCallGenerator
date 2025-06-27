@@ -71,8 +71,7 @@ class DatasetGenerator:
         full_dir = fraud_dir / "full_dialogues"
         full_dir.mkdir(exist_ok=True)
         
-        output_file = fraud_dir / "fraud_conversations.jsonl"
-          # Command để chạy script lừa đảo
+        output_file = fraud_dir / "fraud_conversations.jsonl"        # Command để chạy script lừa đảo
         cmd = [
             sys.executable, str(self.fraud_script),
             "--count", str(count),
@@ -83,7 +82,7 @@ class DatasetGenerator:
             "--workers", "3",
             "--max_turns", "25"
         ]
-          # Chỉ thêm base_url nếu được cung cấp (không phải Gemini)
+        # Chỉ thêm base_url nếu được cung cấp (không phải Gemini)
         if self.base_url:
             cmd.extend(["--base_url", self.base_url])
         
@@ -94,17 +93,36 @@ class DatasetGenerator:
             env = os.environ.copy()
             env['PYTHONIOENCODING'] = 'utf-8'
             
-            result = subprocess.run(
-                cmd, 
-                capture_output=True, 
-                text=True, 
+            # Sử dụng Popen để stream output real-time
+            process = subprocess.Popen(
+                cmd,
+                stdout=subprocess.PIPE,
+                stderr=subprocess.STDOUT,
+                text=True,
                 cwd=str(self.fraud_script.parent),
                 encoding='utf-8',
-                errors='replace',  # Thay thế ký tự không decode được
-                env=env
+                errors='replace',
+                env=env,
+                bufsize=1,
+                universal_newlines=True
             )
+              # Stream output real-time
+            stdout_lines = []
+            if process.stdout:
+                while True:
+                    output = process.stdout.readline()
+                    if output == '' and process.poll() is not None:
+                        break
+                    if output:
+                        # In ra terminal và lưu vào log
+                        line = output.strip()
+                        stdout_lines.append(line)
+                        # Thêm prefix để phân biệt
+                        print(f"[FRAUD] {line}")
             
-            if result.returncode == 0:
+            return_code = process.poll()
+            
+            if return_code == 0:
                 self.logger.info(f"✅ Sinh hội thoại lừa đảo thành công")
                 return {
                     "status": "success",
@@ -113,12 +131,11 @@ class DatasetGenerator:
                     "full_dir": str(full_dir)
                 }
             else:
-                self.logger.error(f"❌ Lỗi sinh hội thoại lừa đảo:")
-                self.logger.error(f"   STDERR: {result.stderr}")
+                self.logger.error(f"❌ Lỗi sinh hội thoại lừa đảo (exit code: {return_code})")
                 return {
                     "status": "error", 
-                    "error": result.stderr,
-                    "stdout": result.stdout
+                    "error": f"Process exited with code {return_code}",
+                    "stdout": stdout_lines
                 }
                 
         except Exception as e:
@@ -136,7 +153,7 @@ class DatasetGenerator:
         full_dir.mkdir(exist_ok=True)
         
         output_file = normal_dir / "normal_conversations.jsonl"
-          # Command để chạy script bình thường
+        # Command để chạy script bình thường
         cmd = [
             sys.executable, str(self.normal_script),
             "--count", str(count),
@@ -147,7 +164,7 @@ class DatasetGenerator:
             "--workers", "3",
             "--max_turns", "20"
         ]
-          # Chỉ thêm base_url nếu được cung cấp (không phải Gemini)
+        # Chỉ thêm base_url nếu được cung cấp (không phải Gemini)
         if self.base_url:
             cmd.extend(["--base_url", self.base_url])
         
@@ -158,17 +175,37 @@ class DatasetGenerator:
             env = os.environ.copy()
             env['PYTHONIOENCODING'] = 'utf-8'
             
-            result = subprocess.run(
-                cmd, 
-                capture_output=True, 
-                text=True, 
+            # Sử dụng Popen để stream output real-time
+            process = subprocess.Popen(
+                cmd,
+                stdout=subprocess.PIPE,
+                stderr=subprocess.STDOUT,
+                text=True,
                 cwd=str(self.normal_script.parent),
                 encoding='utf-8',
-                errors='replace',  # Thay thế ký tự không decode được
-                env=env
+                errors='replace',
+                env=env,
+                bufsize=1,
+                universal_newlines=True
             )
             
-            if result.returncode == 0:
+            # Stream output real-time
+            stdout_lines = []
+            if process.stdout:
+                while True:
+                    output = process.stdout.readline()
+                    if output == '' and process.poll() is not None:
+                        break
+                    if output:
+                        # In ra terminal và lưu vào log
+                        line = output.strip()
+                        stdout_lines.append(line)
+                        # Thêm prefix để phân biệt
+                        print(f"[NORMAL] {line}")
+            
+            return_code = process.poll()
+            
+            if return_code == 0:
                 self.logger.info(f"✅ Sinh hội thoại bình thường thành công")
                 return {
                     "status": "success",
@@ -177,13 +214,11 @@ class DatasetGenerator:
                     "full_dir": str(full_dir)
                 }
             else:
-                self.logger.error(f"❌ Lỗi sinh hội thoại bình thường:")
-                self.logger.error(f"   STDERR: {result.stderr}")
+                self.logger.error(f"❌ Lỗi sinh hội thoại bình thường (exit code: {return_code})")
                 return {
                     "status": "error", 
-                    "error": result.stderr,
-                    "stdout": result.stdout
-                }
+                    "error": f"Process exited with code {return_code}",
+                    "stdout": stdout_lines                }
                 
         except Exception as e:
             self.logger.error(f"❌ Exception sinh hội thoại bình thường: {e}")

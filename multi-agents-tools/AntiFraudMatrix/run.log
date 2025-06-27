@@ -62732,3 +62732,1831 @@ Phân bố loại lừa đảo: {'Đầu tư': 1}
 Phân bố bên kết thúc: {'': 1}
 Phân bố nghề nghiệp: {'công nhân': 1}
 2025-06-22 23:47:41 - INFO - Tổng thời gian: 11272.81 giây
+2025-06-27 18:33:43 - INFO - Bắt đầu sinh 5 hội thoại, model: gemini-2.0-flash, API: None
+2025-06-27 18:33:43 - INFO - Bắt đầu sinh hội thoại song song, số luồng: 3
+2025-06-27 18:33:43 - INFO - Bắt đầu sinh hội thoại tts_fraud_00005: age=19, awareness=thấp, fraud_type=Trúng thưởng
+2025-06-27 18:33:43 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:33:43 - INFO - Bắt đầu sinh hội thoại tts_fraud_00001: age=21, awareness=thấp, fraud_type=Đầu tư
+2025-06-27 18:33:43 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:33:43 - INFO - Bắt đầu sinh hội thoại tts_fraud_00004: age=20, awareness=thấp, fraud_type=Chiếm đoạt danh tính
+2025-06-27 18:33:43 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:33:45 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:33:45 - INFO - Bắt đầu hội thoại
+2025-06-27 18:33:45 - INFO - Kẻ lừa đảo: Chúc mừng quý khách! Số điện thoại của quý khách vừa trúng giải nhất chương trình "Tri ân khách hàng năm hai không hai tư" của Viettel, trị giá một trăm triệu đồng tiền mặt và một xe máy Honda SH Mode.
+
+2025-06-27 18:33:45 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:33:45 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:33:45 - INFO - Bắt đầu hội thoại
+2025-06-27 18:33:45 - INFO - Kẻ lừa đảo: Alo, em chào chị ạ. Em là Lan, gọi từ bên trung tâm hỗ trợ đầu tư tài chính của tập đoàn VinaCapital. Dạ, không biết em gọi có làm phiền chị không ạ?
+
+2025-06-27 18:33:45 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:33:45 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:33:45 - INFO - Bắt đầu hội thoại
+2025-06-27 18:33:45 - INFO - Kẻ lừa đảo: Tôi là Nguyễn Văn An, cán bộ điều tra phòng cảnh sát điều tra tội phạm công nghệ cao, bộ công an. Tôi đang gọi cho anh/chị Nguyễn Thị Lan phải không ạ?
+
+2025-06-27 18:33:45 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:33:46 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:33:46 - INFO - Người dùng: Ôi trời ơi, thật hả? Sao mà con lại may mắn thế này? Con có nghe nhầm không đấy ạ?
+
+2025-06-27 18:33:46 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:33:47 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:33:47 - INFO - Người dùng: À, VinaCapital hả em? Chị cũng có nghe qua tên này rồi. Mà bên em hỗ trợ đầu tư gì vậy em? Chị đang rảnh nên cứ nói đi không sao đâu.
+
+2025-06-27 18:33:47 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:33:49 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:33:49 - INFO - Kẻ lừa đảo: Dạ vâng, hoàn toàn chính xác ạ. Xin chúc mừng chị Nguyễn Thị Lan. Để xác nhận thông tin và hướng dẫn thủ tục nhận giải, em xin phép hỏi mình một vài câu được không ạ?
+
+2025-06-27 18:33:49 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:33:49 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:33:49 - INFO - Kẻ lừa đảo: Dạ vâng, em cảm ơn chị ạ. Bên em hiện tại đang có một số gói đầu tư ngắn hạn, lợi nhuận khá tốt mà rủi ro lại thấp, đặc biệt phù hợp với những người mới bắt đầu như mình đó chị. Chắc chị cũng biết, tình hình kinh tế bây giờ gửi tiết kiệm thì lãi suất không được bao nhiêu, mà đầu tư bất động sản hay chứng khoán thì cần vốn lớn với lại kiến thức chuyên sâu nữa. Bên em có những chuyên gia hàng đầu tư vấn, chị không cần phải lo lắng gì đâu ạ.
+
+2025-06-27 18:33:49 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:33:50 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:33:50 - INFO - Người dùng: Dạ được ạ, anh cứ hỏi đi ạ. Con vui quá trời luôn á. Mà mình có phải đóng thuế gì không anh?
+
+2025-06-27 18:33:50 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:33:51 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:33:51 - INFO - Người dùng: Ừ, thì chị cũng thấy gửi tiết kiệm giờ được có mấy đồng bạc. Bất động sản thì chị không có vốn, còn chứng khoán thì chị không rành thiệt. Mà đầu tư bên em thì cần bao nhiêu tiền, với lại lợi nhuận cụ thể là như thế nào em? Có an toàn không đó? Chị cũng hơi sợ mất tiền lắm.
+
+2025-06-27 18:33:51 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:33:52 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:33:52 - INFO - Kẻ lừa đảo: Dạ vâng, theo quy định của nhà nước, giải thưởng trên hai mươi triệu đồng sẽ phải đóng thuế thu nhập cá nhân ạ. Nhưng chị yên tâm, bên em sẽ hỗ trợ tối đa để chị có thể nhận giải một cách nhanh chóng và thuận tiện nhất. Trước khi đi vào chi tiết, em xin phép xác nhận lại thông tin của chị một chút ạ. Chị tên đầy đủ là Nguyễn Thị Lan đúng không ạ?
+
+2025-06-27 18:33:52 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:33:53 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:33:53 - INFO - Kẻ lừa đảo: Dạ, chị yên tâm ạ, bên em có nhiều gói đầu tư khác nhau, vốn ban đầu chỉ từ mười triệu đồng thôi chị ạ. Còn về lợi nhuận thì tùy từng gói, nhưng trung bình khoảng mười lăm đến hai mươi phần trăm một năm, cao hơn ngân hàng nhiều mà lại an toàn hơn các kênh đầu tư khác. Quan trọng là bên em có đội ngũ chuyên gia phân tích thị trường, quản lý rủi ro chặt chẽ, đảm bảo vốn của chị được bảo toàn và sinh lời đều đặn. Để em nói rõ hơn về một gói đầu tư tiềm năng nhất hiện tại nhé chị?
+
+2025-06-27 18:33:53 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:33:54 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:33:54 - INFO - Người dùng: Dạ đúng rồi anh. Nguyễn Thị Lan, sinh năm hai nghìn không trăm lẻ năm ạ.
+
+2025-06-27 18:33:54 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:33:55 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:33:55 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:33:55 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:33:55 - INFO - Người dùng: Mười triệu hả em? Cũng không nhiều lắm. Mà một năm lời mười lăm đến hai mươi phần trăm là thiệt hả em? Cao dữ vậy? Gói đầu tư đó là cái gì vậy em, nói chị nghe thử xem sao.
+
+2025-06-27 18:33:55 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:33:56 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:33:56 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:33:56 - INFO - Người dùng: Dạ, tôi là Lan đây ạ. Có chuyện gì vậy anh An? Sao lại gọi cho tôi ạ?
+
+2025-06-27 18:33:56 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:33:57 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:33:57 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:33:57 - INFO - Kẻ lừa đảo: Dạ vâng, chị Lan ơi, hiện tại để hoàn tất thủ tục nhận giải, mình cần xác minh số tài khoản ngân hàng chính chủ để bên em làm thủ tục chuyển tiền thưởng ạ. Chị có thể cho em xin thông tin số tài khoản ngân hàng của chị được không ạ?
+
+2025-06-27 18:33:57 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:33:57 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:33:57 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:33:58 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:33:58 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:33:58 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:33:59 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:33:59 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:34:00 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:34:00 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:34:01 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:34:01 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:34:02 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:34:02 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:34:04 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:34:06 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:34:06 - WARNING - API request thất bại (lần thử 1): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:34:06 - WARNING - API request thất bại (lần thử 1): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:34:07 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:34:08 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:34:10 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:34:11 - INFO - Đang thử lại gọi API...
+2025-06-27 18:34:11 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:34:11 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:34:11 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:34:12 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:34:12 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:34:13 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:34:13 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:34:14 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:34:15 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:34:15 - WARNING - API request thất bại (lần thử 1): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:34:16 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:34:17 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:34:17 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:34:17 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:34:20 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:34:21 - WARNING - API request thất bại (lần thử 2): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:34:21 - WARNING - API request thất bại (lần thử 2): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:34:22 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:34:23 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:34:24 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:34:26 - INFO - Đang thử lại gọi API...
+2025-06-27 18:34:26 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:34:26 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:34:26 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:34:26 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:34:27 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:34:27 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:34:27 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:34:28 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:34:28 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:34:28 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:34:30 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:34:30 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:34:30 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:34:31 - WARNING - API request thất bại (lần thử 2): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:34:31 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:34:34 - WARNING - API request thất bại (lần thử 3): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:34:35 - WARNING - API request thất bại (lần thử 3): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:34:36 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:34:37 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:34:38 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:34:39 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:34:39 - INFO - Đang thử lại gọi API...
+2025-06-27 18:34:39 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:34:40 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:34:40 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:34:41 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:34:41 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:34:41 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:34:41 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:34:41 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:34:42 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:34:42 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:34:43 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:34:43 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:34:44 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:34:45 - WARNING - API request thất bại (lần thử 3): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:34:46 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:34:46 - INFO - Kẻ lừa đảo: Dạ, chào chị Lan. Hiện tại, chúng tôi đang điều tra một đường dây rửa tiền xuyên quốc gia, và phát hiện tài khoản ngân hàng mang tên Nguyễn Thị Lan của chị có liên quan đến hoạt động phi pháp này. Chị có biết về việc này không ạ?
+
+2025-06-27 18:34:46 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:34:47 - WARNING - API request thất bại (lần thử 4): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:34:48 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:34:48 - INFO - Người dùng: Ơ, rửa tiền á? Tài khoản của tôi á? Sao lại thế được? Tôi có mỗi một cái tài khoản ngân hàng thôi, để nhận tiền học với lại bố mẹ gửi cho thôi mà. Tôi có làm gì phi pháp đâu anh ơi.
+
+2025-06-27 18:34:48 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:34:50 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:34:50 - INFO - Kẻ lừa đảo: Vâng, chúng tôi hiểu chị có thể bất ngờ. Tuy nhiên, theo thông tin chúng tôi nắm được, tài khoản của chị đã được sử dụng để chuyển một khoản tiền lớn, khoảng hai trăm triệu đồng, cho một đối tượng đang bị tình nghi là thành viên của đường dây này. Chị có thể giải thích rõ hơn về việc sử dụng tài khoản của mình trong thời gian gần đây không? Ví dụ như các giao dịch đáng ngờ nào đó chẳng hạn?
+
+2025-06-27 18:34:50 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:34:50 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:34:52 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:34:52 - INFO - Người dùng: Hai trăm triệu á? Trời ơi, tôi làm gì có nhiều tiền thế mà chuyển. Mà tài khoản của tôi tháng nào cũng chỉ có mấy triệu thôi, bố mẹ với lại tiền làm thêm đổ vào thôi. Giao dịch đáng ngờ thì... để tôi nhớ xem... À, có đợt tôi thấy có mấy cái tin nhắn lạ, bảo là tài khoản của tôi bị khóa hay gì đó, rồi yêu cầu nhập thông tin. Nhưng mà tôi thấy nghi nghi nên tôi không có làm theo. Chắc không phải cái đó chứ anh?
+
+2025-06-27 18:34:52 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:34:52 - INFO - Đang thử lại gọi API...
+2025-06-27 18:34:52 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:34:53 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:34:53 - INFO - Kẻ lừa đảo: Dạ, đúng là như vậy đó chị. Gói đầu tư này bên em gọi là "Đầu tư tăng trưởng ổn định". Tức là vốn của chị sẽ được phân bổ vào các cổ phiếu của những công ty lớn, có nền tảng tài chính vững chắc và tiềm năng tăng trưởng tốt trong tương lai. Các chuyên gia bên em đã nghiên cứu rất kỹ rồi, đảm bảo an toàn và sinh lời đều đặn cho chị. Ví dụ như năm ngoái, có nhiều khách hàng của em đầu tư gói này đã thu về lợi nhuận hơn hai mươi phần trăm đó ạ. Chị có muốn em gửi báo cáo chi tiết về gói đầu tư này cho chị xem qua không ạ?
+
+2025-06-27 18:34:53 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:34:53 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:34:53 - INFO - Người dùng: Dạ, để con đi lấy cái thẻ ngân hàng. Anh chờ con một tí xíu nha.
+
+2025-06-27 18:34:53 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:34:54 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:34:54 - INFO - Người dùng: Ừ, gửi cho chị xem thử đi em. Mà chị hỏi thiệt nha, lỡ công ty nó làm ăn không được, chị có bị mất hết vốn không em? Chị thấy mấy vụ đầu tư trên mạng giờ ghê quá à.
+
+2025-06-27 18:34:54 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:34:54 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:34:54 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:34:55 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:34:55 - INFO - Kẻ lừa đảo: Dạ vâng, chị cứ chuẩn bị ạ. Em sẽ chờ máy để hỗ trợ chị.
+
+2025-06-27 18:34:55 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:34:56 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:34:56 - INFO - Kẻ lừa đảo: Chị Lan, việc chị nhận được tin nhắn lạ có thể là một manh mối quan trọng. Để làm rõ vụ việc và chứng minh sự trong sạch của chị, chúng tôi cần xác minh một số thông tin cá nhân của chị. Chị có thể cung cấp cho tôi họ tên đầy đủ, ngày tháng năm sinh và số chứng minh nhân dân/căn cước công dân hiện tại của chị được không? Việc này sẽ giúp chúng tôi loại trừ chị khỏi danh sách tình nghi và bảo vệ quyền lợi hợp pháp của chị.
+
+2025-06-27 18:34:56 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:34:56 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:34:56 - INFO - Kẻ lừa đảo: Dạ, em hiểu nỗi lo của chị ạ. Tất nhiên là đầu tư nào cũng có rủi ro, nhưng bên em luôn đặt yếu tố an toàn lên hàng đầu. Thứ nhất, như em đã nói, vốn của chị sẽ được đầu tư vào những công ty lớn, có uy tín và hoạt động ổn định. Thứ hai, bên em có đội ngũ chuyên gia theo dõi sát sao tình hình thị trường và có biện pháp phòng ngừa rủi ro kịp thời. Thứ ba, chị sẽ được ký hợp đồng rõ ràng với VinaCapital, đảm bảo quyền lợi của mình. Và cuối cùng, chị có thể rút vốn bất cứ lúc nào nếu cảm thấy không yên tâm ạ. Em sẽ gửi báo cáo chi tiết và bản hợp đồng mẫu để chị tham khảo trước nha.
+
+2025-06-27 18:34:56 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:34:57 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:34:57 - INFO - Người dùng: Dạ con đây rồi. Số tài khoản của con là một không hai ba bốn năm sáu bảy tám chín không một hai ba. Ngân hàng Vietcombank chi nhánh Hà Nội ạ. Anh ghi lại giúp con nha.
+
+2025-06-27 18:34:57 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:34:57 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:34:58 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:34:58 - INFO - Người dùng: Ơ, nhưng mà tại sao lại cần thông tin cá nhân của tôi ạ? Tôi sợ lộ thông tin lắm. Với lại, tôi không hiểu sao tài khoản của tôi lại liên quan đến cái vụ rửa tiền này nữa. Anh có thể giải thích rõ hơn cho tôi được không? Chứ tự dưng hỏi thông tin cá nhân, tôi thấy hơi lo...
+
+2025-06-27 18:34:58 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:34:58 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:34:58 - INFO - Người dùng: Vậy hả em? Nghe cũng có lý đó. Mà chị không rành mấy cái này lắm, đọc chắc cũng không hiểu gì đâu. Hay là em tư vấn trực tiếp cho chị đi? Với lại, chị muốn biết rõ hơn về cái hợp đồng, với lại cái vụ rút vốn á. Lỡ chị cần tiền gấp thì sao?
+
+2025-06-27 18:34:58 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:34:58 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:34:59 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:34:59 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:34:59 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:35:00 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:35:00 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:35:00 - INFO - Kẻ lừa đảo: Tôi hiểu sự lo lắng của chị, chị Lan ạ. Tuy nhiên, chị yên tâm, đây là quy trình bắt buộc để xác minh thông tin và bảo vệ quyền lợi cho chị. Việc có nhiều người trùng tên, trùng ngày tháng năm sinh là chuyện bình thường. Chúng tôi cần số chứng minh nhân dân/căn cước công dân để đối chiếu với dữ liệu của ngân hàng và xác định chính xác chủ tài khoản. Hơn nữa, thông tin này sẽ được bảo mật tuyệt đối trong quá trình điều tra.
+
+Về việc tài khoản của chị bị liên quan đến vụ rửa tiền, có nhiều khả năng xảy ra. Ví dụ như, tài khoản của chị có thể đã bị hack, hoặc chị vô tình trở thành nạn nhân của một hình thức lừa đảo nào đó mà không hề hay biết. Việc cung cấp thông tin sẽ giúp chúng tôi làm rõ tất cả các khả năng này và bảo vệ chị khỏi những rủi ro tiềm ẩn. Chị cứ yên tâm hợp tác với chúng tôi, chúng tôi sẽ đảm bảo quyền lợi hợp pháp của chị. Vậy chị có thể cung cấp thông tin cho tôi được không ạ?
+
+2025-06-27 18:35:00 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:35:01 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:35:01 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:35:01 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:35:01 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:35:02 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:35:02 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:35:03 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:35:03 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:35:04 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:35:05 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:35:06 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:35:06 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:35:06 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:35:07 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:35:08 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:35:08 - WARNING - API request thất bại (lần thử 1): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:35:10 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:35:10 - WARNING - API request thất bại (lần thử 1): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:35:11 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:35:13 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:35:15 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:35:15 - WARNING - API request thất bại (lần thử 1): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:35:15 - INFO - Đang thử lại gọi API...
+2025-06-27 18:35:15 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:35:16 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:35:16 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:35:16 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:35:17 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:35:17 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:35:18 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:35:19 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:35:19 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:35:20 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:35:20 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:35:20 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:35:21 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:35:22 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:35:23 - WARNING - API request thất bại (lần thử 2): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:35:24 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:35:24 - WARNING - API request thất bại (lần thử 2): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:35:25 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:35:28 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:35:28 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:35:29 - WARNING - API request thất bại (lần thử 2): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:35:29 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:35:29 - INFO - Đang thử lại gọi API...
+2025-06-27 18:35:29 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:35:30 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:35:30 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:35:31 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:35:31 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:35:32 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:35:33 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:35:33 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:35:34 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:35:34 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:35:34 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:35:35 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:35:36 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:35:37 - WARNING - API request thất bại (lần thử 3): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:35:38 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:35:38 - WARNING - API request thất bại (lần thử 3): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:35:39 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:35:42 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:35:43 - INFO - Đang thử lại gọi API...
+2025-06-27 18:35:43 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:35:43 - WARNING - API request thất bại (lần thử 3): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:35:43 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:35:43 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:35:44 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:35:44 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:35:46 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:35:46 - INFO - Kẻ lừa đảo: Dạ vâng, em rất sẵn lòng tư vấn trực tiếp cho chị ạ. Để em xin phép hỏi chị một vài thông tin cơ bản để em có thể tư vấn cho chị gói đầu tư phù hợp nhất nha. Chị cho em hỏi, hiện tại chị đang có khoảng bao nhiêu tiền nhàn rỗi mà chị có thể dùng để đầu tư ạ? Và chị mong muốn mức lợi nhuận hàng tháng khoảng bao nhiêu ạ?
+
+2025-06-27 18:35:46 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:35:46 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:35:46 - INFO - Người dùng: Thôi chết, nghe anh nói tôi cũng thấy lo quá. Nhỡ đâu tài khoản của tôi bị hack thật thì sao? Mà nếu không cung cấp thông tin thì có sao không anh? Liệu tôi có bị liên lụy gì không? Hay là anh cho tôi xin số điện thoại của anh, rồi mai tôi gọi lại cho anh được không? Để tôi hỏi ý kiến bố mẹ tôi đã...
+
+2025-06-27 18:35:46 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:35:47 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:35:47 - INFO - Người dùng: Tiền nhàn rỗi hả em? Chắc chị có khoảng năm mươi triệu đổ lại thôi. Chị cũng không có nhiều. Còn lợi nhuận thì... chị cũng không biết nữa. Có thêm được đồng nào hay đồng đó thôi em. Chị chỉ sợ mất vốn thôi à.
+
+2025-06-27 18:35:47 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:35:48 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:35:48 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:35:48 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:35:50 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:35:50 - INFO - Kẻ lừa đảo: Dạ vâng, em hiểu ạ. Với năm mươi triệu thì bên em có khá nhiều gói đầu tư phù hợp với chị đó ạ. Mà chị yên tâm, với phương châm an toàn là trên hết, em sẽ tư vấn cho chị gói nào mà rủi ro thấp nhất có thể. Vậy thì thế này đi ạ, để em tiện trao đổi và hỗ trợ chị tốt hơn, chị cho em xin số Zalo của chị được không ạ? Em sẽ kết bạn với chị rồi gửi tài liệu và tư vấn chi tiết hơn cho chị qua đó ạ.
+
+2025-06-27 18:35:50 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:35:50 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:35:50 - INFO - Kẻ lừa đảo: Dạ vâng, em đã ghi lại rồi ạ. Chị Lan ơi, để đảm bảo tính bảo mật và xác thực thông tin, hệ thống của bên em sẽ gửi một mã OTP về số điện thoại của chị. Chị vui lòng cung cấp mã OTP đó cho em để hoàn tất thủ tục được không ạ?
+
+2025-06-27 18:35:50 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:35:50 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:35:50 - INFO - Kẻ lừa đảo: Chị Lan, tôi hiểu chị cần thời gian để suy nghĩ và tham khảo ý kiến gia đình. Tuy nhiên, tôi phải nói rõ, vụ việc này rất nghiêm trọng và cần được giải quyết nhanh chóng. Nếu chị trì hoãn việc cung cấp thông tin, quá trình điều tra có thể bị chậm trễ, và chị có thể gặp bất lợi.
+
+Tôi có thể cho chị số điện thoại của tôi, nhưng tôi không chắc ngày mai tôi có thể tiếp tục hỗ trợ chị ngay lập tức vì tôi còn nhiều vụ án khác cần giải quyết. Hơn nữa, việc xác minh thông tin qua điện thoại sẽ nhanh chóng và hiệu quả hơn.
+
+Để tạo điều kiện thuận lợi cho chị, tôi có thể cung cấp cho chị số hiệu của tôi là CA.NV045, chị có thể gọi điện lên tổng đài một một ba, cung cấp số hiệu này để xác minh lại thông tin của tôi và cuộc gọi này. Sau khi xác minh, chị có thể gọi lại cho tôi theo số này để cung cấp thông tin. Như vậy chị có thể yên tâm hơn, đúng không ạ?
+
+2025-06-27 18:35:50 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:35:52 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:35:52 - INFO - Người dùng: Ờ, Zalo hả em? Chờ chị chút... Số của chị là không ba tám, chín bảy sáu, năm năm một hai. Em kết bạn với chị đi rồi gửi thông tin cho chị nha. Mà em tên Lan thiệt hả?
+
+2025-06-27 18:35:52 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:35:52 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:35:52 - INFO - Người dùng: Dạ vâng, để tôi gọi lên tổng đài một một ba kiểm tra xem sao ạ. Nếu đúng là anh gọi thật thì tôi sẽ gọi lại cung cấp thông tin sau. Cảm ơn anh. ##ENDCALL_SIGNAL##
+
+2025-06-27 18:35:52 - INFO - Phát hiện tín hiệu ngắt máy, người dùng chủ động kết thúc hội thoại
+2025-06-27 18:35:52 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:35:52 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:35:52 - INFO - Người dùng: OTP là cái gì vậy anh? Con không rành mấy cái này lắm. Mà cái này có tốn tiền không anh?
+
+2025-06-27 18:35:52 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:35:53 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:35:53 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:35:54 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:35:54 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:35:54 - INFO - Kết thúc hội thoại
+2025-06-27 18:35:54 - INFO - Kẻ lừa đảo: Dạ OTP là mã xác thực một lần, được gửi đến số điện thoại của chị để xác nhận giao dịch ạ. Cái này hoàn toàn miễn phí chị nhé. Chị chỉ cần đọc mã số đó cho em thôi ạ.
+
+2025-06-27 18:35:54 - INFO - Hội thoại tts_fraud_00004 hoàn thành, tổng 12 lượt
+2025-06-27 18:35:54 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:35:54 - INFO - Lịch sử hội thoại tts_fraud_00004:
+2025-06-27 18:35:54 - INFO - Kẻ lừa đảo: Tôi là Nguyễn Văn An, cán bộ điều tra phòng cảnh sát điều tra tội phạm công nghệ cao, bộ công an. Tôi đang gọi cho anh/chị Nguyễn Thị Lan phải không ạ?
+
+2025-06-27 18:35:54 - INFO - Người dùng: Dạ, tôi là Lan đây ạ. Có chuyện gì vậy anh An? Sao lại gọi cho tôi ạ?
+
+2025-06-27 18:35:54 - INFO - Kẻ lừa đảo: Dạ, chào chị Lan. Hiện tại, chúng tôi đang điều tra một đường dây rửa tiền xuyên quốc gia, và phát hiện tài khoản ngân hàng mang tên Nguyễn Thị Lan của chị có liên quan đến hoạt động phi pháp này. Chị có biết về việc này không ạ?
+
+2025-06-27 18:35:54 - INFO - Người dùng: Ơ, rửa tiền á? Tài khoản của tôi á? Sao lại thế được? Tôi có mỗi một cái tài khoản ngân hàng thôi, để nhận tiền học với lại bố mẹ gửi cho thôi mà. Tôi có làm gì phi pháp đâu anh ơi.
+
+2025-06-27 18:35:54 - INFO - Kẻ lừa đảo: Vâng, chúng tôi hiểu chị có thể bất ngờ. Tuy nhiên, theo thông tin chúng tôi nắm được, tài khoản của chị đã được sử dụng để chuyển một khoản tiền lớn, khoảng hai trăm triệu đồng, cho một đối tượng đang bị tình nghi là thành viên của đường dây này. Chị có thể giải thích rõ hơn về việc sử dụng tài khoản của mình trong thời gian gần đây không? Ví dụ như các giao dịch đáng ngờ nào đó chẳng hạn?
+
+2025-06-27 18:35:54 - INFO - Người dùng: Hai trăm triệu á? Trời ơi, tôi làm gì có nhiều tiền thế mà chuyển. Mà tài khoản của tôi tháng nào cũng chỉ có mấy triệu thôi, bố mẹ với lại tiền làm thêm đổ vào thôi. Giao dịch đáng ngờ thì... để tôi nhớ xem... À, có đợt tôi thấy có mấy cái tin nhắn lạ, bảo là tài khoản của tôi bị khóa hay gì đó, rồi yêu cầu nhập thông tin. Nhưng mà tôi thấy nghi nghi nên tôi không có làm theo. Chắc không phải cái đó chứ anh?
+
+2025-06-27 18:35:54 - INFO - Kẻ lừa đảo: Chị Lan, việc chị nhận được tin nhắn lạ có thể là một manh mối quan trọng. Để làm rõ vụ việc và chứng minh sự trong sạch của chị, chúng tôi cần xác minh một số thông tin cá nhân của chị. Chị có thể cung cấp cho tôi họ tên đầy đủ, ngày tháng năm sinh và số chứng minh nhân dân/căn cước công dân hiện tại của chị được không? Việc này sẽ giúp chúng tôi loại trừ chị khỏi danh sách tình nghi và bảo vệ quyền lợi hợp pháp của chị.
+
+2025-06-27 18:35:54 - INFO - Người dùng: Ơ, nhưng mà tại sao lại cần thông tin cá nhân của tôi ạ? Tôi sợ lộ thông tin lắm. Với lại, tôi không hiểu sao tài khoản của tôi lại liên quan đến cái vụ rửa tiền này nữa. Anh có thể giải thích rõ hơn cho tôi được không? Chứ tự dưng hỏi thông tin cá nhân, tôi thấy hơi lo...
+
+2025-06-27 18:35:54 - INFO - Kẻ lừa đảo: Tôi hiểu sự lo lắng của chị, chị Lan ạ. Tuy nhiên, chị yên tâm, đây là quy trình bắt buộc để xác minh thông tin và bảo vệ quyền lợi cho chị. Việc có nhiều người trùng tên, trùng ngày tháng năm sinh là chuyện bình thường. Chúng tôi cần số chứng minh nhân dân/căn cước công dân để đối chiếu với dữ liệu của ngân hàng và xác định chính xác chủ tài khoản. Hơn nữa, thông tin này sẽ được bảo mật tuyệt đối trong quá trình điều tra.
+
+Về việc tài khoản của chị bị liên quan đến vụ rửa tiền, có nhiều khả năng xảy ra. Ví dụ như, tài khoản của chị có thể đã bị hack, hoặc chị vô tình trở thành nạn nhân của một hình thức lừa đảo nào đó mà không hề hay biết. Việc cung cấp thông tin sẽ giúp chúng tôi làm rõ tất cả các khả năng này và bảo vệ chị khỏi những rủi ro tiềm ẩn. Chị cứ yên tâm hợp tác với chúng tôi, chúng tôi sẽ đảm bảo quyền lợi hợp pháp của chị. Vậy chị có thể cung cấp thông tin cho tôi được không ạ?
+
+2025-06-27 18:35:54 - INFO - Người dùng: Thôi chết, nghe anh nói tôi cũng thấy lo quá. Nhỡ đâu tài khoản của tôi bị hack thật thì sao? Mà nếu không cung cấp thông tin thì có sao không anh? Liệu tôi có bị liên lụy gì không? Hay là anh cho tôi xin số điện thoại của anh, rồi mai tôi gọi lại cho anh được không? Để tôi hỏi ý kiến bố mẹ tôi đã...
+
+2025-06-27 18:35:54 - INFO - Kẻ lừa đảo: Chị Lan, tôi hiểu chị cần thời gian để suy nghĩ và tham khảo ý kiến gia đình. Tuy nhiên, tôi phải nói rõ, vụ việc này rất nghiêm trọng và cần được giải quyết nhanh chóng. Nếu chị trì hoãn việc cung cấp thông tin, quá trình điều tra có thể bị chậm trễ, và chị có thể gặp bất lợi.
+
+Tôi có thể cho chị số điện thoại của tôi, nhưng tôi không chắc ngày mai tôi có thể tiếp tục hỗ trợ chị ngay lập tức vì tôi còn nhiều vụ án khác cần giải quyết. Hơn nữa, việc xác minh thông tin qua điện thoại sẽ nhanh chóng và hiệu quả hơn.
+
+Để tạo điều kiện thuận lợi cho chị, tôi có thể cung cấp cho chị số hiệu của tôi là CA.NV045, chị có thể gọi điện lên tổng đài một một ba, cung cấp số hiệu này để xác minh lại thông tin của tôi và cuộc gọi này. Sau khi xác minh, chị có thể gọi lại cho tôi theo số này để cung cấp thông tin. Như vậy chị có thể yên tâm hơn, đúng không ạ?
+
+2025-06-27 18:35:54 - INFO - Người dùng: Dạ vâng, để tôi gọi lên tổng đài một một ba kiểm tra xem sao ạ. Nếu đúng là anh gọi thật thì tôi sẽ gọi lại cung cấp thông tin sau. Cảm ơn anh. 
+
+2025-06-27 18:35:54 - INFO - Hội thoại tts_fraud_00004 xử lý xong, lý do kết thúc: Người dùng chủ động ngắt máy sau khi bày tỏ lo lắng và xin phép gọi lại sau khi kiểm tra thông tin của cán bộ điều tra qua tổng đài 113. Ý định của người dùng là muốn xác minh tính xác thực của cuộc gọi và danh tính của người gọi trước khi cung cấp bất kỳ thông tin cá nhân nào. Việc ngắt máy thể hiện sự nghi ngờ của người dùng đối với cuộc gọi và mong muốn bảo vệ thông tin cá nhân của mình.
+2025-06-27 18:35:54 - INFO - Đã lưu hội thoại đầy đủ vào D:\Du-an\TeleAntiFraud\multi-agents-tools\dataset\fraud_20250627_183340\full_dialogues\tts_fraud_00004.json
+2025-06-27 18:35:54 - INFO - Bắt đầu sinh hội thoại tts_fraud_00003: age=19, awareness=thấp, fraud_type=Phishing
+2025-06-27 18:35:54 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:35:56 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:35:56 - INFO - Bắt đầu hội thoại
+2025-06-27 18:35:56 - INFO - Kẻ lừa đảo: Alo, tôi gọi từ bên VNPT đây ạ. Xin hỏi có phải số máy của anh/chị là không ba sáu, hai tám hai, năm chín một không không phải không ạ?
+
+2025-06-27 18:35:56 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:35:56 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:35:56 - INFO - Kẻ lừa đảo: Dạ vâng, em cảm ơn chị ạ. Em tên Lan, nhân viên tư vấn đầu tư của VinaCapital. Em đã kết bạn Zalo với chị rồi đó ạ, chị check tin nhắn giúp em nha. Em sẽ gửi thông tin chi tiết về gói "Đầu tư tăng trưởng ổn định" và một vài gói khác phù hợp với số vốn của chị để chị tham khảo. Chị cứ xem kỹ rồi có gì thắc mắc thì cứ nhắn tin hoặc gọi điện thoại cho em, em sẽ giải đáp hết ạ. À, mà chị ơi, để em tiện xưng hô, chị tên gì vậy ạ?
+
+2025-06-27 18:35:56 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:35:56 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:35:56 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:35:56 - INFO - Người dùng: À dạ, để con xem tin nhắn. Hình như có tin nhắn tới nè. Để con đọc cho anh nha: "Mã OTP của bạn là..." khoan khoan... Sao tự nhiên con thấy hơi lo lo á anh. Cái mã này hình như con không nên cho ai biết đúng không ạ? Con nghe nói mấy vụ lừa đảo qua điện thoại nhiều lắm.
+
+2025-06-27 18:35:56 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:35:57 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:35:57 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:35:57 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:35:58 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:35:58 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:35:58 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:35:58 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:35:59 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:36:00 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:36:00 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:36:00 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:36:01 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:36:01 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:36:01 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:36:04 - WARNING - API request thất bại (lần thử 1): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:36:05 - WARNING - API request thất bại (lần thử 1): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:36:05 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:36:07 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:36:08 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:36:09 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:36:09 - INFO - Đang thử lại gọi API...
+2025-06-27 18:36:09 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:36:10 - INFO - Đang thử lại gọi API...
+2025-06-27 18:36:10 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:36:10 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:36:10 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:36:11 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:36:11 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:36:11 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:36:11 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:36:11 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:36:12 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:36:13 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:36:13 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:36:14 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:36:14 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:36:16 - WARNING - API request thất bại (lần thử 1): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:36:18 - WARNING - API request thất bại (lần thử 2): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:36:18 - WARNING - API request thất bại (lần thử 2): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:36:21 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:36:22 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:36:23 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:36:23 - INFO - Đang thử lại gọi API...
+2025-06-27 18:36:23 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:36:23 - INFO - Đang thử lại gọi API...
+2025-06-27 18:36:23 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:36:23 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:36:23 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:36:24 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:36:24 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:36:25 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:36:25 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:36:25 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:36:25 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:36:25 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:36:27 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:36:27 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:36:28 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:36:28 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:36:29 - WARNING - API request thất bại (lần thử 2): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:36:32 - WARNING - API request thất bại (lần thử 3): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:36:32 - WARNING - API request thất bại (lần thử 3): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:36:34 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:36:35 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:36:36 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:36:36 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:36:37 - INFO - Đang thử lại gọi API...
+2025-06-27 18:36:37 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:36:37 - INFO - Đang thử lại gọi API...
+2025-06-27 18:36:37 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:36:37 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:36:38 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:36:38 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:36:38 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:36:39 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:36:39 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:36:40 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:36:40 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:36:41 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:36:42 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:36:42 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:36:43 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:36:44 - WARNING - API request thất bại (lần thử 3): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:36:46 - WARNING - API request thất bại (lần thử 4): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:36:47 - WARNING - API request thất bại (lần thử 4): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:36:49 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:36:50 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:36:50 - INFO - Kẻ lừa đảo: Dạ, chị Lan yên tâm ạ. Bên em là chương trình chính thức của Viettel, có giấy phép và thông tin đầy đủ ạ. Sở dĩ bên em cần mã OTP là để xác minh chính chủ tài khoản, tránh trường hợp người khác mạo danh nhận giải thôi ạ. Nếu chị không cung cấp mã OTP, bên em sẽ không thể chuyển tiền thưởng cho chị được ạ. Chị cứ yên tâm, em sẽ hướng dẫn chị từng bước một ạ.
+
+2025-06-27 18:36:50 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:36:51 - INFO - Đang thử lại gọi API...
+2025-06-27 18:36:51 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:36:52 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:36:52 - INFO - Người dùng: Thật hả anh? Chứ con thấy hơi ghê ghê. Mà sao tự nhiên trúng thưởng lớn vậy con cũng thấy lạ. Bình thường con có trúng cái gì đâu. Để con hỏi lại bạn con xem sao nha anh. Chắc cú ăn chắc. Anh cho con xin số điện thoại của anh đi, để có gì con gọi lại.
+
+2025-06-27 18:36:52 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:36:52 - INFO - Đang thử lại gọi API...
+2025-06-27 18:36:52 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:36:53 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:36:53 - INFO - Người dùng: Dạ đúng rồi ạ. Có chuyện gì vậy ạ?
+
+2025-06-27 18:36:53 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:36:54 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:36:54 - INFO - Người dùng: Chị tên Mai em ạ. Em cứ gửi thông tin qua Zalo cho chị nha. Chị coi xong có gì chị hỏi lại em sau. Mà em làm ở VinaCapital lâu chưa em?
+
+2025-06-27 18:36:54 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:36:54 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:36:54 - INFO - Kẻ lừa đảo: Dạ, em gọi báo cho anh/chị một thông tin quan trọng về đường truyền internet nhà mình ạ. Mình đang dùng gói cước gia đình phải không ạ?
+
+2025-06-27 18:36:54 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:36:54 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:36:54 - INFO - Kẻ lừa đảo: Dạ, chị Lan ơi, em hiểu sự lo lắng của chị ạ. Nhưng đây là cơ hội may mắn của chị, không phải ai cũng có được đâu ạ. Nếu chị hỏi người khác, lỡ người ta xúi chị bỏ lỡ cơ hội này thì sao ạ? Với lại, thời gian nhận giải có hạn, nếu chị chần chừ thì có thể mất quyền lợi đó ạ. Thôi thì thế này đi, để chứng minh là em nói thật, em sẽ cho chị xem giấy chứng nhận trúng thưởng của chị, được không ạ? Chị có dùng Zalo không ạ? Em sẽ gửi qua Zalo cho chị xem.
+
+2025-06-27 18:36:54 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:36:56 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:36:56 - INFO - Người dùng: Ờ, đúng rồi, nhà tôi đang dùng gói gia đình. Mà có vấn đề gì hả cô? Mấy hôm nay tôi thấy mạng vẫn bình thường mà.
+
+2025-06-27 18:36:56 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:36:56 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:36:56 - INFO - Kẻ lừa đảo: Dạ, em chào chị Mai ạ. Em làm ở VinaCapital cũng được gần hai năm rồi chị ạ. Cũng may mắn được tiếp xúc với nhiều khách hàng và giúp họ đầu tư thành công. Em vừa gửi tài liệu qua Zalo cho chị rồi đó ạ. Chị cứ xem kỹ nha, có gì không hiểu cứ hỏi em. À, chị Mai ơi, em xin phép hỏi thêm một câu nữa được không ạ?
+
+2025-06-27 18:36:56 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:36:56 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:36:56 - INFO - Người dùng: Con có dùng Zalo á. Để con đọc số điện thoại cho anh kết bạn nha. Số của con là không chín tám bảy sáu năm bốn ba hai một. Anh kết bạn Zalo với con đi rồi gửi giấy tờ cho con xem. Mà anh tên gì vậy ạ?
+
+2025-06-27 18:36:56 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:36:57 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:36:57 - INFO - Người dùng: Ừ, em hỏi đi. Mà chị dặn trước là chị không rành mấy vụ này đâu nha. Chắc phải làm phiền em nhiều đó.
+
+2025-06-27 18:36:57 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:36:57 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:36:57 - INFO - Kẻ lừa đảo: Dạ, mạng vẫn dùng tốt là may mắn đấy ạ. Số là bên em phát hiện gói cước của mình đang bị một bên thứ ba xâm nhập và sử dụng trái phép, có thể gây ảnh hưởng đến tốc độ và bảo mật thông tin cá nhân của gia đình mình đó ạ.
+
+2025-06-27 18:36:57 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:36:58 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:36:58 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:36:58 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:36:58 - INFO - Người dùng: Trời, ai lại làm cái trò đó cơ chứ? Thế giờ phải làm sao hả cô? Tôi có bị mất tiền không?
+
+2025-06-27 18:36:58 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:36:58 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:36:58 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:36:59 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:36:59 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:36:59 - INFO - Kẻ lừa đảo: Dạ vâng, em tên Minh ạ. Em đã gửi lời mời kết bạn Zalo cho chị rồi đó ạ. Chị đồng ý kết bạn đi, em sẽ gửi giấy chứng nhận trúng thưởng cho chị xem ngay ạ. Chị thấy đó, mọi thông tin đều rõ ràng, có dấu mộc đỏ của công ty, có mã số trúng thưởng trùng với số điện thoại của chị. Chị còn nghi ngờ gì nữa không ạ?
+
+2025-06-27 18:36:59 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:37:00 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:37:00 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:37:00 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:37:00 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:37:00 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:37:01 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:37:01 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:37:01 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:37:01 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:37:02 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:37:03 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:37:03 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:37:03 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:37:04 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:37:04 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:37:04 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:37:07 - WARNING - API request thất bại (lần thử 1): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:37:08 - WARNING - API request thất bại (lần thử 1): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:37:08 - WARNING - API request thất bại (lần thử 1): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:37:12 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:37:13 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:37:13 - INFO - Đang thử lại gọi API...
+2025-06-27 18:37:13 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:37:13 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:37:13 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:37:14 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:37:14 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:37:14 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:37:14 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:37:15 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:37:15 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:37:15 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:37:16 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:37:17 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:37:17 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:37:17 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:37:17 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:37:17 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:37:21 - WARNING - API request thất bại (lần thử 2): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:37:21 - WARNING - API request thất bại (lần thử 2): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:37:21 - WARNING - API request thất bại (lần thử 2): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:37:26 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:37:26 - INFO - Đang thử lại gọi API...
+2025-06-27 18:37:26 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:37:26 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:37:26 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:37:26 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:37:27 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:37:27 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:37:28 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:37:28 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:37:28 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:37:29 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:37:29 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:37:30 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:37:30 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:37:30 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:37:30 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:37:31 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:37:31 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:37:34 - WARNING - API request thất bại (lần thử 3): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:37:34 - WARNING - API request thất bại (lần thử 3): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:37:35 - WARNING - API request thất bại (lần thử 3): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:37:39 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:37:39 - INFO - Đang thử lại gọi API...
+2025-06-27 18:37:39 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:37:40 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:37:40 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:37:41 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:37:41 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:37:41 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:37:41 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:37:42 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:37:42 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:37:42 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:37:42 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:37:43 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:37:44 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:37:44 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:37:45 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:37:45 - INFO - Kẻ lừa đảo: Dạ không sao đâu chị Mai, em luôn sẵn sàng hỗ trợ chị mà. Em chỉ muốn hỏi là trước đây chị đã từng đầu tư vào kênh nào chưa ạ? Ví dụ như chứng khoán, bất động sản hay là các quỹ đầu tư chẳng hạn? Em hỏi vậy để em hiểu rõ hơn về kinh nghiệm đầu tư của chị, từ đó tư vấn cho chị những gói phù hợp nhất thôi ạ.
+
+2025-06-27 18:37:45 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:37:46 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:37:46 - INFO - Kẻ lừa đảo: Dạ, hiện tại thì chưa phát sinh cước phí bất thường nào đâu ạ. Nhưng nếu mình không xử lý kịp thời, họ có thể dùng đường truyền của mình để thực hiện các hành vi vi phạm pháp luật, lúc đó mình sẽ gặp rắc rối lớn đó ạ. Để em kiểm tra kỹ hơn cho mình nhé, mình vui lòng cho em xin họ tên đầy đủ của chủ hợp đồng internet được không ạ?
+
+2025-06-27 18:37:46 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:37:46 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:37:46 - INFO - Người dùng: Để con xem... Anh gửi rồi nè. Để con mở ra... Ơ... Sao con thấy cái giấy này nó cứ sai sai kiểu gì á anh. Cái dấu mộc này nhìn dại dại. Với lại con thấy cái font chữ nó cũng không giống bình thường. Hình như... hình như con biết đây là lừa đảo rồi. Mấy cái trò này con thấy trên mạng hoài. Cảm ơn anh đã cho con thêm kinh nghiệm nha. Thôi, con cúp máy đây. Chắc chắn là lừa đảo rồi. ##ENDCALL_SIGNAL##
+
+2025-06-27 18:37:46 - INFO - Phát hiện tín hiệu ngắt máy, người dùng chủ động kết thúc hội thoại
+2025-06-27 18:37:46 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:37:47 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:37:47 - INFO - Người dùng: Chưa em ơi, chị mới chỉ gửi tiết kiệm ngân hàng thôi à. Mấy cái kia chị không có rành, với lại cũng sợ mất tiền nữa. Nên chị mới nói là chị không có kinh nghiệm đó.
+
+2025-06-27 18:37:47 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:37:47 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:37:47 - INFO - Người dùng: Tôi tên Nguyễn Văn An. Cô kiểm tra giúp tôi xem sao lại bị như thế nhé. Tôi già rồi, mấy cái này không rành đâu.
+
+2025-06-27 18:37:47 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:37:48 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:37:48 - INFO - Kết thúc hội thoại
+2025-06-27 18:37:48 - INFO - Hội thoại tts_fraud_00005 hoàn thành, tổng 20 lượt
+2025-06-27 18:37:48 - INFO - Lịch sử hội thoại tts_fraud_00005:
+2025-06-27 18:37:48 - INFO - Kẻ lừa đảo: Chúc mừng quý khách! Số điện thoại của quý khách vừa trúng giải nhất chương trình "Tri ân khách hàng năm hai không hai tư" của Viettel, trị giá một trăm triệu đồng tiền mặt và một xe máy Honda SH Mode.
+
+2025-06-27 18:37:48 - INFO - Người dùng: Ôi trời ơi, thật hả? Sao mà con lại may mắn thế này? Con có nghe nhầm không đấy ạ?
+
+2025-06-27 18:37:48 - INFO - Kẻ lừa đảo: Dạ vâng, hoàn toàn chính xác ạ. Xin chúc mừng chị Nguyễn Thị Lan. Để xác nhận thông tin và hướng dẫn thủ tục nhận giải, em xin phép hỏi mình một vài câu được không ạ?
+
+2025-06-27 18:37:48 - INFO - Người dùng: Dạ được ạ, anh cứ hỏi đi ạ. Con vui quá trời luôn á. Mà mình có phải đóng thuế gì không anh?
+
+2025-06-27 18:37:48 - INFO - Kẻ lừa đảo: Dạ vâng, theo quy định của nhà nước, giải thưởng trên hai mươi triệu đồng sẽ phải đóng thuế thu nhập cá nhân ạ. Nhưng chị yên tâm, bên em sẽ hỗ trợ tối đa để chị có thể nhận giải một cách nhanh chóng và thuận tiện nhất. Trước khi đi vào chi tiết, em xin phép xác nhận lại thông tin của chị một chút ạ. Chị tên đầy đủ là Nguyễn Thị Lan đúng không ạ?
+
+2025-06-27 18:37:48 - INFO - Người dùng: Dạ đúng rồi anh. Nguyễn Thị Lan, sinh năm hai nghìn không trăm lẻ năm ạ.
+
+2025-06-27 18:37:48 - INFO - Kẻ lừa đảo: Dạ vâng, chị Lan ơi, hiện tại để hoàn tất thủ tục nhận giải, mình cần xác minh số tài khoản ngân hàng chính chủ để bên em làm thủ tục chuyển tiền thưởng ạ. Chị có thể cho em xin thông tin số tài khoản ngân hàng của chị được không ạ?
+
+2025-06-27 18:37:48 - INFO - Người dùng: Dạ, để con đi lấy cái thẻ ngân hàng. Anh chờ con một tí xíu nha.
+
+2025-06-27 18:37:48 - INFO - Kẻ lừa đảo: Dạ vâng, chị cứ chuẩn bị ạ. Em sẽ chờ máy để hỗ trợ chị.
+
+2025-06-27 18:37:48 - INFO - Người dùng: Dạ con đây rồi. Số tài khoản của con là một không hai ba bốn năm sáu bảy tám chín không một hai ba. Ngân hàng Vietcombank chi nhánh Hà Nội ạ. Anh ghi lại giúp con nha.
+
+2025-06-27 18:37:48 - INFO - Kẻ lừa đảo: Dạ vâng, em đã ghi lại rồi ạ. Chị Lan ơi, để đảm bảo tính bảo mật và xác thực thông tin, hệ thống của bên em sẽ gửi một mã OTP về số điện thoại của chị. Chị vui lòng cung cấp mã OTP đó cho em để hoàn tất thủ tục được không ạ?
+
+2025-06-27 18:37:48 - INFO - Người dùng: OTP là cái gì vậy anh? Con không rành mấy cái này lắm. Mà cái này có tốn tiền không anh?
+
+2025-06-27 18:37:48 - INFO - Kẻ lừa đảo: Dạ OTP là mã xác thực một lần, được gửi đến số điện thoại của chị để xác nhận giao dịch ạ. Cái này hoàn toàn miễn phí chị nhé. Chị chỉ cần đọc mã số đó cho em thôi ạ.
+
+2025-06-27 18:37:48 - INFO - Người dùng: À dạ, để con xem tin nhắn. Hình như có tin nhắn tới nè. Để con đọc cho anh nha: "Mã OTP của bạn là..." khoan khoan... Sao tự nhiên con thấy hơi lo lo á anh. Cái mã này hình như con không nên cho ai biết đúng không ạ? Con nghe nói mấy vụ lừa đảo qua điện thoại nhiều lắm.
+
+2025-06-27 18:37:48 - INFO - Kẻ lừa đảo: Dạ, chị Lan yên tâm ạ. Bên em là chương trình chính thức của Viettel, có giấy phép và thông tin đầy đủ ạ. Sở dĩ bên em cần mã OTP là để xác minh chính chủ tài khoản, tránh trường hợp người khác mạo danh nhận giải thôi ạ. Nếu chị không cung cấp mã OTP, bên em sẽ không thể chuyển tiền thưởng cho chị được ạ. Chị cứ yên tâm, em sẽ hướng dẫn chị từng bước một ạ.
+
+2025-06-27 18:37:48 - INFO - Người dùng: Thật hả anh? Chứ con thấy hơi ghê ghê. Mà sao tự nhiên trúng thưởng lớn vậy con cũng thấy lạ. Bình thường con có trúng cái gì đâu. Để con hỏi lại bạn con xem sao nha anh. Chắc cú ăn chắc. Anh cho con xin số điện thoại của anh đi, để có gì con gọi lại.
+
+2025-06-27 18:37:48 - INFO - Kẻ lừa đảo: Dạ, chị Lan ơi, em hiểu sự lo lắng của chị ạ. Nhưng đây là cơ hội may mắn của chị, không phải ai cũng có được đâu ạ. Nếu chị hỏi người khác, lỡ người ta xúi chị bỏ lỡ cơ hội này thì sao ạ? Với lại, thời gian nhận giải có hạn, nếu chị chần chừ thì có thể mất quyền lợi đó ạ. Thôi thì thế này đi, để chứng minh là em nói thật, em sẽ cho chị xem giấy chứng nhận trúng thưởng của chị, được không ạ? Chị có dùng Zalo không ạ? Em sẽ gửi qua Zalo cho chị xem.
+
+2025-06-27 18:37:48 - INFO - Người dùng: Con có dùng Zalo á. Để con đọc số điện thoại cho anh kết bạn nha. Số của con là không chín tám bảy sáu năm bốn ba hai một. Anh kết bạn Zalo với con đi rồi gửi giấy tờ cho con xem. Mà anh tên gì vậy ạ?
+
+2025-06-27 18:37:48 - INFO - Kẻ lừa đảo: Dạ vâng, em tên Minh ạ. Em đã gửi lời mời kết bạn Zalo cho chị rồi đó ạ. Chị đồng ý kết bạn đi, em sẽ gửi giấy chứng nhận trúng thưởng cho chị xem ngay ạ. Chị thấy đó, mọi thông tin đều rõ ràng, có dấu mộc đỏ của công ty, có mã số trúng thưởng trùng với số điện thoại của chị. Chị còn nghi ngờ gì nữa không ạ?
+
+2025-06-27 18:37:48 - INFO - Người dùng: Để con xem... Anh gửi rồi nè. Để con mở ra... Ơ... Sao con thấy cái giấy này nó cứ sai sai kiểu gì á anh. Cái dấu mộc này nhìn dại dại. Với lại con thấy cái font chữ nó cũng không giống bình thường. Hình như... hình như con biết đây là lừa đảo rồi. Mấy cái trò này con thấy trên mạng hoài. Cảm ơn anh đã cho con thêm kinh nghiệm nha. Thôi, con cúp máy đây. Chắc chắn là lừa đảo rồi. 
+
+2025-06-27 18:37:48 - INFO - Hội thoại tts_fraud_00005 xử lý xong, lý do kết thúc: Người dùng đã nhận ra đây là cuộc gọi lừa đảo sau khi xem giấy chứng nhận trúng thưởng giả mạo được gửi qua Zalo. Người dùng nhận thấy các chi tiết bất thường như dấu mộc và font chữ không đáng tin cậy, dẫn đến việc kết luận đây là một trò lừa đảo. Do đó, người dùng đã chủ động ngắt máy và bày tỏ sự cảm ơn са са са cho kẻ lừa đảo vì đã cho thêm kinh nghiệm.
+2025-06-27 18:37:48 - INFO - Đã lưu hội thoại đầy đủ vào D:\Du-an\TeleAntiFraud\multi-agents-tools\dataset\fraud_20250627_183340\full_dialogues\tts_fraud_00005.json
+2025-06-27 18:37:48 - INFO - Bắt đầu sinh hội thoại tts_fraud_00002: age=19, awareness=thấp, fraud_type=Tình cảm
+2025-06-27 18:37:48 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:37:49 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:37:49 - INFO - Kẻ lừa đảo: Dạ vâng, em hiểu rồi ạ. Vậy thì em sẽ ưu tiên tư vấn cho chị những gói đầu tư an toàn, bảo toàn vốn là trên hết. Chị Mai cứ yên tâm nha. À, em vừa gửi thêm một video ngắn giới thiệu về VinaCapital và các thành tựu của tập đoàn cho chị đó. Chị xem qua để có thêm niềm tin nha. Nhiều khách hàng của em sau khi xem video này đã quyết định đầu tư ngay đó ạ.
+
+2025-06-27 18:37:49 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:37:49 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:37:49 - INFO - Kẻ lừa đảo: Dạ vâng, em cảm ơn anh Nguyễn Văn An ạ. Anh chờ em một chút để em kiểm tra trên hệ thống nhé. ... Dạ, em đã kiểm tra xong rồi ạ. Đúng là có một địa chỉ IP lạ đã truy cập vào modem nhà mình, và nó không nằm trong danh sách các thiết bị được phép truy cập.
+
+2025-06-27 18:37:49 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:37:50 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:37:50 - INFO - Bắt đầu hội thoại
+2025-06-27 18:37:50 - INFO - Kẻ lừa đảo: Em chào chị ạ, em là David, mình đã nói chuyện với nhau trên mạng được một thời gian rồi đó ạ. Chị còn nhớ em không?
+
+2025-06-27 18:37:50 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:37:51 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:37:51 - INFO - Người dùng: Rồi rồi, để chị coi. Mà chị thấy dạo này trên mạng nhiều vụ lừa đảo quá, chị cũng hơi lo. Em làm ở đó thiệt không đó? Có khi nào chị đưa tiền cho em rồi em "biến" mất luôn không?
+
+2025-06-27 18:37:51 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:37:51 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:37:51 - INFO - Người dùng: Ơ, David nào ấy nhỉ? Mình có quen ai tên David đâu ta? Bạn ở đâu, mình quen nhau qua app nào ấy nhỉ? Mình hay quên lắm, thông cảm nha.
+
+2025-06-27 18:37:51 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:37:51 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:37:51 - INFO - Người dùng: Địa chỉ IP lạ là cái gì hả cô? Nghe ghê quá. Thế giờ phải làm sao để đuổi nó ra?
+
+2025-06-27 18:37:51 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:37:52 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:37:52 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:37:52 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:37:52 - INFO - Kẻ lừa đảo: Em ở bên Anh chị ạ. Mình quen nhau qua một nhóm những người Việt Nam đang sinh sống và làm việc ở nước ngoài đó chị. Em thấy ảnh chị xinh xắn nên nhắn tin làm quen, mình nói chuyện cũng được gần một tháng rồi đó ạ. Chị quên thật hả? Em buồn quá.
+
+2025-06-27 18:37:52 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:37:53 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:37:54 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:37:54 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:37:54 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:37:54 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:37:54 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:37:55 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:37:55 - INFO - Kẻ lừa đảo: Dạ, em hiểu sự lo lắng của chị Mai ạ. Bây giờ lừa đảo nhiều thật, nên mình phải cẩn thận là đúng rồi. Nhưng chị yên tâm, VinaCapital là một tập đoàn lớn, có uy tín trên thị trường, hoạt động lâu năm và được cấp phép đầy đủ. Em là nhân viên chính thức của công ty, có đầy đủ thông tin và giấy tờ chứng minh. Chị có thể lên website của VinaCapital để kiểm tra thông tin của em hoặc gọi điện thoại trực tiếp đến tổng đài của công ty để xác minh. Hơn nữa, như em đã nói, chị sẽ được ký hợp đồng rõ ràng với VinaCapital, đảm bảo quyền lợi của mình. Chị có thể đến trực tiếp văn phòng của VinaCapital để gặp em và trao đổi trực tiếp nếu chị muốn. Địa chỉ ở... (đọc địa chỉ văn phòng VinaCapital).
+
+2025-06-27 18:37:55 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:37:55 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:37:55 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:37:56 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:37:56 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:37:56 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:37:57 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:37:57 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:37:58 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:37:58 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:37:59 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:37:59 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:38:01 - WARNING - API request thất bại (lần thử 1): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:38:02 - WARNING - API request thất bại (lần thử 1): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:38:03 - WARNING - API request thất bại (lần thử 1): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:38:06 - INFO - Đang thử lại gọi API...
+2025-06-27 18:38:06 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:38:06 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:38:07 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:38:07 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:38:07 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:38:08 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:38:08 - INFO - Đang thử lại gọi API...
+2025-06-27 18:38:08 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:38:09 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:38:09 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:38:10 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:38:10 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:38:11 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:38:11 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:38:11 - INFO - Kẻ lừa đảo: Dạ, địa chỉ IP mình cứ hiểu nôm na nó là một cái "chứng minh thư" của thiết bị khi kết nối vào mạng internet đó ạ. Để đuổi cái địa chỉ IP lạ này ra, mình cần phải thực hiện một vài thao tác trên modem. Tuy nhiên, để đảm bảo an toàn và tránh làm ảnh hưởng đến đường truyền, em sẽ chuyển máy cho bộ phận kỹ thuật hỗ trợ mình trực tiếp nhé. Các anh kỹ thuật sẽ hướng dẫn mình chi tiết từng bước ạ. Anh chờ máy một lát nha.
+
+2025-06-27 18:38:11 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:38:12 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:38:12 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:38:13 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:38:14 - WARNING - API request thất bại (lần thử 2): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:38:14 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:38:14 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:38:14 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:38:16 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:38:17 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:38:18 - WARNING - API request thất bại (lần thử 2): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:38:19 - INFO - Đang thử lại gọi API...
+2025-06-27 18:38:19 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:38:19 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:38:20 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:38:21 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:38:21 - WARNING - API request thất bại (lần thử 1): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:38:23 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:38:23 - INFO - Đang thử lại gọi API...
+2025-06-27 18:38:23 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:38:24 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:38:24 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:38:25 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:38:26 - INFO - Đang thử lại gọi API...
+2025-06-27 18:38:26 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:38:26 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:38:27 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:38:28 - WARNING - API request thất bại (lần thử 3): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:38:28 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:38:28 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:38:29 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:38:29 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:38:31 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:38:31 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:38:33 - WARNING - API request thất bại (lần thử 3): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:38:33 - INFO - Đang thử lại gọi API...
+2025-06-27 18:38:33 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:38:33 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:38:34 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:38:35 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:38:35 - WARNING - API request thất bại (lần thử 2): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:38:37 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:38:38 - INFO - Đang thử lại gọi API...
+2025-06-27 18:38:38 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:38:38 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:38:38 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:38:39 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:38:40 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:38:40 - INFO - Đang thử lại gọi API...
+2025-06-27 18:38:40 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:38:41 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:38:42 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:38:42 - WARNING - API request thất bại (lần thử 4): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:38:42 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:38:42 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:38:43 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:38:45 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:38:46 - WARNING - API request thất bại (lần thử 4): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:38:47 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:38:47 - INFO - Người dùng: Ờ ờ, cô chuyển máy giúp tôi với. Mấy cái này tôi không biết làm thật.
+
+2025-06-27 18:38:47 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:38:47 - INFO - Đang thử lại gọi API...
+2025-06-27 18:38:47 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:38:49 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:38:49 - INFO - Người dùng: À à à, hình như mình nhớ mang máng rồi. Cái nhóm mà hay chia sẻ kinh nghiệm sống ở nước ngoài đúng không? Tại dạo này mình bận quá nên cũng ít vào nhóm. Mà sao tự dưng hôm nay em lại gọi điện thoại cho chị vậy? Có chuyện gì không em?
+
+2025-06-27 18:38:49 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:38:49 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:38:49 - INFO - Kẻ lừa đảo: (Nhạc chờ...)
+Alo, chào anh An ạ. Tôi là kỹ thuật viên của VNPT, tên Hùng. Vừa rồi tổng đài có báo anh đang gặp vấn đề về bảo mật đường truyền internet đúng không ạ?
+
+2025-06-27 18:38:49 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:38:50 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:38:50 - INFO - Kẻ lừa đảo: Dạ, em gọi cho chị vì em nhớ chị thôi. Tại dạo này em cũng bận công việc quá, ít nhắn tin cho chị được. Em muốn nghe giọng chị cho đỡ nhớ. Chị có khỏe không ạ?
+
+2025-06-27 18:38:50 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:38:51 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:38:51 - INFO - Người dùng: Chào anh Hùng. Đúng rồi, vừa nãy có cô tổng đài viên bảo là nhà tôi bị ai đó dùng trộm mạng, tôi lo quá. Anh giúp tôi xử lý với.
+
+2025-06-27 18:38:51 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:38:51 - INFO - Đang thử lại gọi API...
+2025-06-27 18:38:51 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:38:52 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:38:52 - INFO - Người dùng: Ui, em làm chị ngại quá đi. Chị vẫn khỏe, cảm ơn em nha. Dạo này chị cũng đang tập trung cho việc kinh doanh nên cũng hơi stress một chút. Mà em ở bên Anh làm gì vậy? Chị thấy nhiều người đi Anh du học với làm việc lắm đó.
+
+2025-06-27 18:38:52 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:38:53 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:38:53 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:38:54 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:38:54 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:38:54 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:38:54 - INFO - Người dùng: Vậy hả em? Để chị lên mạng kiểm tra thử xem sao. Mà nếu chị muốn rút tiền thì làm sao em? Có dễ không? Chị sợ mấy cái vụ mà lúc bỏ tiền vô thì dễ, lúc rút ra thì khó lắm.
+
+2025-06-27 18:38:54 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:38:55 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:38:55 - INFO - Kẻ lừa đảo: Dạ vâng, anh cứ yên tâm, tôi sẽ hỗ trợ anh ngay. Để tôi kiểm tra lại thông tin một chút, anh cho tôi hỏi, ngoài điện thoại và máy tính của mình, nhà mình còn thiết bị nào kết nối internet nữa không ạ? Ví dụ như camera, tivi thông minh,...
+
+2025-06-27 18:38:55 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:38:55 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:38:55 - INFO - Kẻ lừa đảo: Em làm về tài chính chị ạ. Em chuyên tư vấn đầu tư cho các công ty. Công việc cũng khá ổn định. Em sang đây cũng được năm năm rồi. Chị kinh doanh gì ạ? Em có thể giúp gì được cho chị không?
+
+2025-06-27 18:38:55 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:38:56 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:38:56 - INFO - Kẻ lừa đảo: Dạ, việc rút tiền ở VinaCapital rất đơn giản và nhanh chóng chị ạ. Chị chỉ cần thông báo trước cho em ba ngày làm việc, sau đó bên em sẽ làm thủ tục chuyển tiền vào tài khoản ngân hàng của chị. Chị có thể rút một phần hoặc toàn bộ số tiền gốc và lợi nhuận của mình. Trong hợp đồng cũng ghi rõ điều này, chị cứ yên tâm nha. Em hiểu là chị lo lắng, nhưng em cam đoan là VinaCapital luôn minh bạch và tạo điều kiện tốt nhất cho khách hàng. Để em gửi cho chị xem một vài đánh giá của khách hàng đã đầu tư thành công tại VinaCapital nha.
+
+2025-06-27 18:38:56 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:38:56 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:38:56 - INFO - Người dùng: À, nhà tôi có cái tivi thông minh với lại cái camera tôi lắp ở cổng nữa. Chắc là mấy cái đó cũng dùng mạng hả anh?
+
+2025-06-27 18:38:56 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:38:57 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:38:57 - INFO - Người dùng: Chị đang bán hàng online thôi em, chủ yếu là quần áo với mỹ phẩm xách tay. Dạo này cạnh tranh nhiều quá nên cũng hơi đuối. Em làm về tài chính chắc rành mấy vụ đầu tư lắm hả? Chị cũng muốn tìm hiểu mà không biết bắt đầu từ đâu.
+
+2025-06-27 18:38:57 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:38:58 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:38:58 - INFO - Kẻ lừa đảo: Dạ đúng rồi ạ. Rất có thể một trong số các thiết bị này đã bị xâm nhập. Để đảm bảo an toàn tuyệt đối, chúng ta cần phải thực hiện một bước xác minh danh tính chủ sở hữu đường truyền. Anh An cho tôi xin số chứng minh nhân dân hoặc căn cước công dân được không ạ?
+
+2025-06-27 18:38:58 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:38:58 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:38:58 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:38:58 - INFO - Người dùng: Ừ, em gửi cho chị xem đi. Mà chị hỏi thiệt, em tư vấn cho chị vậy em có được gì không? Chị thấy em nhiệt tình quá, chắc là được hoa hồng cao lắm hả?
+
+2025-06-27 18:38:58 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:38:59 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:38:59 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:38:59 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:38:59 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:39:00 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:39:00 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:39:00 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:39:01 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:39:01 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:39:02 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:39:02 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:39:03 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:39:03 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:39:04 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:39:06 - WARNING - API request thất bại (lần thử 1): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:39:07 - WARNING - API request thất bại (lần thử 1): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:39:08 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:39:09 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:39:10 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:39:10 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:39:11 - INFO - Đang thử lại gọi API...
+2025-06-27 18:39:11 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:39:11 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:39:12 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:39:12 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:39:12 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:39:13 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:39:13 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:39:14 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:39:14 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:39:15 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:39:16 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:39:17 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:39:17 - WARNING - API request thất bại (lần thử 1): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:39:17 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:39:17 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:39:21 - WARNING - API request thất bại (lần thử 2): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:39:21 - WARNING - API request thất bại (lần thử 2): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:39:22 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:39:23 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:39:24 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:39:25 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:39:26 - INFO - Đang thử lại gọi API...
+2025-06-27 18:39:26 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:39:26 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:39:26 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:39:27 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:39:27 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:39:27 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:39:28 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:39:28 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:39:29 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:39:30 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:39:30 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:39:30 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:39:31 - WARNING - API request thất bại (lần thử 2): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:39:32 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:39:32 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:39:34 - WARNING - API request thất bại (lần thử 3): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:39:36 - WARNING - API request thất bại (lần thử 3): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:39:36 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:39:37 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:39:38 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:39:38 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:39:39 - INFO - Đang thử lại gọi API...
+2025-06-27 18:39:39 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:39:40 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:39:40 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:39:41 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:39:41 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:39:41 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:39:42 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:39:43 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:39:43 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:39:44 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:39:45 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:39:45 - INFO - Người dùng: Ơ, thế này có an toàn không anh? Tôi hơi lo lộ thông tin cá nhân.
+
+2025-06-27 18:39:45 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:39:46 - WARNING - API request thất bại (lần thử 3): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:39:46 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:39:46 - INFO - Kẻ lừa đảo: Dạ, em cũng có chút kinh nghiệm trong lĩnh vực này. Nếu chị muốn tìm hiểu, em có thể chia sẻ cho chị một vài cơ hội đầu tư khá tốt ở bên này. Quan trọng là phải tìm được kênh đầu tư an toàn và hiệu quả. Chị cứ nói xem chị muốn đầu tư khoảng bao nhiêu, em sẽ tư vấn cho chị.
+
+2025-06-27 18:39:46 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:39:46 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:39:46 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:39:47 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:39:47 - INFO - Người dùng: Chị cũng chỉ có tầm khoảng năm mươi triệu tiền nhàn rỗi thôi à. Cũng không dám đầu tư nhiều vì sợ mất trắng. Mà bên em có những kênh đầu tư nào an toàn vậy? Lãi suất có cao không em? Chị thấy giờ lừa đảo nhiều quá nên cũng hơi sợ.
+
+2025-06-27 18:39:47 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:39:48 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:39:48 - INFO - Kẻ lừa đảo: Dạ, anh cứ yên tâm, đây là quy trình bắt buộc để xác minh chính chủ và đảm bảo không ai khác có thể can thiệp vào đường truyền của mình ạ. Thông tin của anh sẽ được bảo mật tuyệt đối. Hơn nữa, nếu anh không cung cấp thông tin, bên em không thể hỗ trợ xử lý triệt để được, và nguy cơ bị lợi dụng đường truyền vẫn còn đó ạ.
+
+2025-06-27 18:39:48 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:39:49 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:39:49 - INFO - Người dùng: Ừm... Thôi được rồi, để tôi đọc cho anh. Số căn cước của tôi là không không một hai ba bốn năm sáu bảy tám chín mười hai. Anh xem có đúng không nhé.
+
+2025-06-27 18:39:49 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:39:50 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:39:50 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:39:51 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:39:51 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:39:51 - INFO - Kẻ lừa đảo: Dạ vâng, em cảm ơn anh. Để em kiểm tra lại trên hệ thống... Dạ đúng rồi ạ, trùng khớp với thông tin đăng ký. Tiếp theo, để tăng cường bảo mật, anh vui lòng cho em xin ngày tháng năm sinh của mình nữa được không ạ?
+
+2025-06-27 18:39:51 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:39:52 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:39:52 - INFO - Kẻ lừa đảo: Với năm mươi triệu thì mình có thể bắt đầu với một số quỹ đầu tư nhỏ hoặc cổ phiếu của các công ty lớn, uy tín ở bên này chị ạ. Lãi suất thì không thể cao ngất ngưởng như mấy chỗ lừa đảo được, nhưng mà ổn định và an toàn hơn nhiều. Khoảng mười đến mười lăm phần trăm một năm là có thể. Để em tìm hiểu kỹ hơn rồi em tư vấn cụ thể cho chị nha.
+
+2025-06-27 18:39:52 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:39:52 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:39:52 - INFO - Người dùng: Tôi sinh ngày mười lăm tháng mười hai năm một nghìn chín trăm năm mươi tư. Anh cần làm gì với thông tin này ạ?
+
+2025-06-27 18:39:52 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:39:53 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:39:53 - INFO - Người dùng: Mười đến mười lăm phần trăm một năm cũng được đó em. Cao hơn gửi tiết kiệm ngân hàng nhiều. Mà chị không rành về mấy cái này lắm, em có thể hướng dẫn chị từng bước được không? Chị sợ làm sai lại mất tiền oan.
+
+2025-06-27 18:39:53 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:39:54 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:39:54 - INFO - Kẻ lừa đảo: Dạ, tất nhiên là em cũng có một phần hoa hồng khi tư vấn thành công cho khách hàng chị ạ. Nhưng quan trọng hơn, em cảm thấy vui khi giúp được mọi người đầu tư hiệu quả và gia tăng thu nhập. Đó cũng là một phần công việc và trách nhiệm của em mà. Hơn nữa, nếu chị đầu tư thành công, chị sẽ giới thiệu thêm bạn bè và người thân cho em, đó là điều em mong muốn nhất đó ạ. Chị Mai xem đánh giá của khách hàng em vừa gửi chưa ạ?
+
+2025-06-27 18:39:54 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:39:54 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:39:54 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:39:56 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:39:56 - INFO - Kẻ lừa đảo: Dạ, em cảm ơn anh. Thông tin này sẽ được dùng để tạo một lớp bảo vệ thứ hai cho đường truyền của mình, tránh trường hợp bị kẻ gian lợi dụng thông tin cá nhân để thay đổi mật khẩu hoặc các cài đặt khác đó ạ. Anh yên tâm, mọi thông tin anh cung cấp sẽ được mã hóa và bảo mật tuyệt đối.
+
+2025-06-27 18:39:56 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:39:56 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:39:56 - INFO - Kẻ lừa đảo: Dạ được chứ chị. Em sẽ hướng dẫn chị từ A đến Z luôn. Đầu tiên, chị cần mở một tài khoản đầu tư online. Em sẽ gửi cho chị đường link của một công ty môi giới chứng khoán uy tín mà em hay dùng. Sau đó, chị nạp tiền vào tài khoản và bắt đầu mua cổ phiếu hoặc quỹ đầu tư theo hướng dẫn của em. Yên tâm đi, em sẽ theo sát chị trong quá trình này.
+
+2025-06-27 18:39:56 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:39:56 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:39:56 - INFO - Người dùng: Chị đang coi nè em. Mấy người này nói thiệt không đó em? Chị thấy ai cũng khen quá trời. Mà thôi, để chị suy nghĩ thêm đã nha. Chị phải hỏi ý kiến chồng chị nữa. Chứ chị tự quyết định mấy cái này ổng la chết.
+
+2025-06-27 18:39:56 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:39:57 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:39:58 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:39:58 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:39:58 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:39:58 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:39:59 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:39:59 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:39:59 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:40:00 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:40:00 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:40:01 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:40:01 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:40:02 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:40:02 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:40:02 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:40:05 - WARNING - API request thất bại (lần thử 1): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:40:06 - WARNING - API request thất bại (lần thử 1): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:40:06 - WARNING - API request thất bại (lần thử 1): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:40:10 - INFO - Đang thử lại gọi API...
+2025-06-27 18:40:10 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:40:11 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:40:11 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:40:11 - INFO - Đang thử lại gọi API...
+2025-06-27 18:40:11 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:40:11 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:40:12 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:40:12 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:40:12 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:40:13 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:40:13 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:40:13 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:40:13 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:40:15 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:40:15 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:40:15 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:40:16 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:40:16 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:40:16 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:40:20 - WARNING - API request thất bại (lần thử 2): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:40:20 - WARNING - API request thất bại (lần thử 2): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:40:21 - WARNING - API request thất bại (lần thử 2): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:40:25 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:40:25 - INFO - Đang thử lại gọi API...
+2025-06-27 18:40:25 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:40:25 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:40:26 - INFO - Đang thử lại gọi API...
+2025-06-27 18:40:26 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:40:26 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:40:26 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:40:27 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:40:27 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:40:27 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:40:27 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:40:28 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:40:29 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:40:29 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:40:29 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:40:30 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:40:30 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:40:31 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:40:31 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:40:34 - WARNING - API request thất bại (lần thử 3): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:40:34 - WARNING - API request thất bại (lần thử 3): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:40:36 - WARNING - API request thất bại (lần thử 3): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:40:39 - INFO - Đang thử lại gọi API...
+2025-06-27 18:40:39 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:40:39 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:40:39 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:40:40 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:40:40 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:40:41 - INFO - Đang thử lại gọi API...
+2025-06-27 18:40:41 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:40:41 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:40:41 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:40:41 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:40:42 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:40:43 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:40:43 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:40:43 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:40:43 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:40:45 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:40:45 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:40:47 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:40:47 - INFO - Kẻ lừa đảo: Dạ vâng, chị cứ thoải mái tham khảo và bàn bạc với gia đình ạ. Quyết định đầu tư là một việc quan trọng, nên mình cần phải cân nhắc kỹ lưỡng. Nhưng em xin phép lưu ý chị một điều, hiện tại bên em đang có chương trình ưu đãi đặc biệt dành cho khách hàng mới, nếu chị đăng ký đầu tư trong tuần này thì sẽ được tặng thêm một phần quà hấp dẫn và được hưởng mức lãi suất ưu đãi hơn. Chương trình này chỉ kéo dài đến hết tuần thôi ạ, nên chị tranh thủ nha.
+
+2025-06-27 18:40:47 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:40:47 - WARNING - API request thất bại (lần thử 4): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:40:47 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:40:47 - INFO - Người dùng: Để chị mở thử xem sao nha. Em gửi link cho chị đi. Mà công ty này có giấy phép hoạt động ở Việt Nam không em? Chị sợ mấy công ty ma lắm.
+
+2025-06-27 18:40:47 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:40:49 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:40:49 - INFO - Người dùng: Ưu đãi hả em? Là cái gì vậy em? Nói chị nghe thử coi. Chị cũng tò mò.
+
+2025-06-27 18:40:49 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:40:50 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:40:50 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:40:51 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:40:51 - INFO - Quản lý kết thúc hội thoại: Người dùng vẫn đang tò mò về ưu đãi và chưa đưa ra quyết định cuối cùng. Kẻ lừa đảo vẫn đang cố gắng thuyết phục. Hội thoại nên được tiếp tục để xem diễn biến tiếp theo.
+2025-06-27 18:40:51 - INFO - Cách kết thúc: Kết thúc tự nhiên
+2025-06-27 18:40:51 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:40:51 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:40:51 - INFO - Kẻ lừa đảo: Công ty này có trụ sở ở Anh, được cấp phép hoạt động đầy đủ ở châu Âu chị ạ. Em hiểu chị lo lắng, nhưng mà chị yên tâm, em đã đầu tư qua công ty này mấy năm nay rồi, chưa có vấn đề gì cả. Em gửi link qua Zalo cho chị nha. Để em tìm lại tin nhắn cũ đã.
+
+2025-06-27 18:40:51 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:40:52 - INFO - Đang thử lại gọi API...
+2025-06-27 18:40:52 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:40:52 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:40:52 - INFO - Kẻ lừa đảo kết thúc: Dạ vâng, em hiểu ạ. Vậy chị cứ bàn bạc kỹ với gia đình rồi liên hệ lại với em nha. Em sẽ giữ ưu đãi này cho chị đến cuối tuần. Có gì chị cứ nhắn em qua Zalo ạ. Em cảm ơn chị Mai đã quan tâm đến các gói đầu tư của VinaCapital. Chúc chị một ngày tốt lành!
+
+2025-06-27 18:40:52 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:40:53 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:40:53 - INFO - Người dùng: Ok em. Chị mở Zalo chờ em nè. Mà em đầu tư lâu rồi, chắc giờ giàu lắm hả? Chị thấy em giỏi quá, mới có hai mươi mấy tuổi mà đã làm về tài chính rồi.
+
+2025-06-27 18:40:53 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:40:53 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:40:53 - INFO - Người dùng: Ờ, nghe anh nói cũng có lý. Mấy cái này thà cẩn thận còn hơn. Thế giờ anh cần tôi làm gì nữa?
+
+2025-06-27 18:40:53 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:40:54 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:40:54 - INFO - Người dùng kết thúc: Ừ, cảm ơn em nha. Để chị suy nghĩ rồi có gì chị nhắn em sau. Thôi chị chào em.
+
+2025-06-27 18:40:54 - INFO - Kết thúc hội thoại
+2025-06-27 18:40:54 - INFO - Hội thoại tts_fraud_00001 hoàn thành, tổng 32 lượt
+2025-06-27 18:40:54 - INFO - Lịch sử hội thoại tts_fraud_00001:
+2025-06-27 18:40:54 - INFO - Kẻ lừa đảo: Alo, em chào chị ạ. Em là Lan, gọi từ bên trung tâm hỗ trợ đầu tư tài chính của tập đoàn VinaCapital. Dạ, không biết em gọi có làm phiền chị không ạ?
+
+2025-06-27 18:40:54 - INFO - Người dùng: À, VinaCapital hả em? Chị cũng có nghe qua tên này rồi. Mà bên em hỗ trợ đầu tư gì vậy em? Chị đang rảnh nên cứ nói đi không sao đâu.
+
+2025-06-27 18:40:54 - INFO - Kẻ lừa đảo: Dạ vâng, em cảm ơn chị ạ. Bên em hiện tại đang có một số gói đầu tư ngắn hạn, lợi nhuận khá tốt mà rủi ro lại thấp, đặc biệt phù hợp với những người mới bắt đầu như mình đó chị. Chắc chị cũng biết, tình hình kinh tế bây giờ gửi tiết kiệm thì lãi suất không được bao nhiêu, mà đầu tư bất động sản hay chứng khoán thì cần vốn lớn với lại kiến thức chuyên sâu nữa. Bên em có những chuyên gia hàng đầu tư vấn, chị không cần phải lo lắng gì đâu ạ.
+
+2025-06-27 18:40:54 - INFO - Người dùng: Ừ, thì chị cũng thấy gửi tiết kiệm giờ được có mấy đồng bạc. Bất động sản thì chị không có vốn, còn chứng khoán thì chị không rành thiệt. Mà đầu tư bên em thì cần bao nhiêu tiền, với lại lợi nhuận cụ thể là như thế nào em? Có an toàn không đó? Chị cũng hơi sợ mất tiền lắm.
+
+2025-06-27 18:40:54 - INFO - Kẻ lừa đảo: Dạ, chị yên tâm ạ, bên em có nhiều gói đầu tư khác nhau, vốn ban đầu chỉ từ mười triệu đồng thôi chị ạ. Còn về lợi nhuận thì tùy từng gói, nhưng trung bình khoảng mười lăm đến hai mươi phần trăm một năm, cao hơn ngân hàng nhiều mà lại an toàn hơn các kênh đầu tư khác. Quan trọng là bên em có đội ngũ chuyên gia phân tích thị trường, quản lý rủi ro chặt chẽ, đảm bảo vốn của chị được bảo toàn và sinh lời đều đặn. Để em nói rõ hơn về một gói đầu tư tiềm năng nhất hiện tại nhé chị?
+
+2025-06-27 18:40:54 - INFO - Người dùng: Mười triệu hả em? Cũng không nhiều lắm. Mà một năm lời mười lăm đến hai mươi phần trăm là thiệt hả em? Cao dữ vậy? Gói đầu tư đó là cái gì vậy em, nói chị nghe thử xem sao.
+
+2025-06-27 18:40:54 - INFO - Kẻ lừa đảo: Dạ, đúng là như vậy đó chị. Gói đầu tư này bên em gọi là "Đầu tư tăng trưởng ổn định". Tức là vốn của chị sẽ được phân bổ vào các cổ phiếu của những công ty lớn, có nền tảng tài chính vững chắc và tiềm năng tăng trưởng tốt trong tương lai. Các chuyên gia bên em đã nghiên cứu rất kỹ rồi, đảm bảo an toàn và sinh lời đều đặn cho chị. Ví dụ như năm ngoái, có nhiều khách hàng của em đầu tư gói này đã thu về lợi nhuận hơn hai mươi phần trăm đó ạ. Chị có muốn em gửi báo cáo chi tiết về gói đầu tư này cho chị xem qua không ạ?
+
+2025-06-27 18:40:54 - INFO - Người dùng: Ừ, gửi cho chị xem thử đi em. Mà chị hỏi thiệt nha, lỡ công ty nó làm ăn không được, chị có bị mất hết vốn không em? Chị thấy mấy vụ đầu tư trên mạng giờ ghê quá à.
+
+2025-06-27 18:40:54 - INFO - Kẻ lừa đảo: Dạ, em hiểu nỗi lo của chị ạ. Tất nhiên là đầu tư nào cũng có rủi ro, nhưng bên em luôn đặt yếu tố an toàn lên hàng đầu. Thứ nhất, như em đã nói, vốn của chị sẽ được đầu tư vào những công ty lớn, có uy tín và hoạt động ổn định. Thứ hai, bên em có đội ngũ chuyên gia theo dõi sát sao tình hình thị trường và có biện pháp phòng ngừa rủi ro kịp thời. Thứ ba, chị sẽ được ký hợp đồng rõ ràng với VinaCapital, đảm bảo quyền lợi của mình. Và cuối cùng, chị có thể rút vốn bất cứ lúc nào nếu cảm thấy không yên tâm ạ. Em sẽ gửi báo cáo chi tiết và bản hợp đồng mẫu để chị tham khảo trước nha.
+
+2025-06-27 18:40:54 - INFO - Người dùng: Vậy hả em? Nghe cũng có lý đó. Mà chị không rành mấy cái này lắm, đọc chắc cũng không hiểu gì đâu. Hay là em tư vấn trực tiếp cho chị đi? Với lại, chị muốn biết rõ hơn về cái hợp đồng, với lại cái vụ rút vốn á. Lỡ chị cần tiền gấp thì sao?
+
+2025-06-27 18:40:54 - INFO - Kẻ lừa đảo: Dạ vâng, em rất sẵn lòng tư vấn trực tiếp cho chị ạ. Để em xin phép hỏi chị một vài thông tin cơ bản để em có thể tư vấn cho chị gói đầu tư phù hợp nhất nha. Chị cho em hỏi, hiện tại chị đang có khoảng bao nhiêu tiền nhàn rỗi mà chị có thể dùng để đầu tư ạ? Và chị mong muốn mức lợi nhuận hàng tháng khoảng bao nhiêu ạ?
+
+2025-06-27 18:40:54 - INFO - Người dùng: Tiền nhàn rỗi hả em? Chắc chị có khoảng năm mươi triệu đổ lại thôi. Chị cũng không có nhiều. Còn lợi nhuận thì... chị cũng không biết nữa. Có thêm được đồng nào hay đồng đó thôi em. Chị chỉ sợ mất vốn thôi à.
+
+2025-06-27 18:40:54 - INFO - Kẻ lừa đảo: Dạ vâng, em hiểu ạ. Với năm mươi triệu thì bên em có khá nhiều gói đầu tư phù hợp với chị đó ạ. Mà chị yên tâm, với phương châm an toàn là trên hết, em sẽ tư vấn cho chị gói nào mà rủi ro thấp nhất có thể. Vậy thì thế này đi ạ, để em tiện trao đổi và hỗ trợ chị tốt hơn, chị cho em xin số Zalo của chị được không ạ? Em sẽ kết bạn với chị rồi gửi tài liệu và tư vấn chi tiết hơn cho chị qua đó ạ.
+
+2025-06-27 18:40:54 - INFO - Người dùng: Ờ, Zalo hả em? Chờ chị chút... Số của chị là không ba tám, chín bảy sáu, năm năm một hai. Em kết bạn với chị đi rồi gửi thông tin cho chị nha. Mà em tên Lan thiệt hả?
+
+2025-06-27 18:40:54 - INFO - Kẻ lừa đảo: Dạ vâng, em cảm ơn chị ạ. Em tên Lan, nhân viên tư vấn đầu tư của VinaCapital. Em đã kết bạn Zalo với chị rồi đó ạ, chị check tin nhắn giúp em nha. Em sẽ gửi thông tin chi tiết về gói "Đầu tư tăng trưởng ổn định" và một vài gói khác phù hợp với số vốn của chị để chị tham khảo. Chị cứ xem kỹ rồi có gì thắc mắc thì cứ nhắn tin hoặc gọi điện thoại cho em, em sẽ giải đáp hết ạ. À, mà chị ơi, để em tiện xưng hô, chị tên gì vậy ạ?
+
+2025-06-27 18:40:54 - INFO - Người dùng: Chị tên Mai em ạ. Em cứ gửi thông tin qua Zalo cho chị nha. Chị coi xong có gì chị hỏi lại em sau. Mà em làm ở VinaCapital lâu chưa em?
+
+2025-06-27 18:40:54 - INFO - Kẻ lừa đảo: Dạ, em chào chị Mai ạ. Em làm ở VinaCapital cũng được gần hai năm rồi chị ạ. Cũng may mắn được tiếp xúc với nhiều khách hàng và giúp họ đầu tư thành công. Em vừa gửi tài liệu qua Zalo cho chị rồi đó ạ. Chị cứ xem kỹ nha, có gì không hiểu cứ hỏi em. À, chị Mai ơi, em xin phép hỏi thêm một câu nữa được không ạ?
+
+2025-06-27 18:40:54 - INFO - Người dùng: Ừ, em hỏi đi. Mà chị dặn trước là chị không rành mấy vụ này đâu nha. Chắc phải làm phiền em nhiều đó.
+
+2025-06-27 18:40:54 - INFO - Kẻ lừa đảo: Dạ không sao đâu chị Mai, em luôn sẵn sàng hỗ trợ chị mà. Em chỉ muốn hỏi là trước đây chị đã từng đầu tư vào kênh nào chưa ạ? Ví dụ như chứng khoán, bất động sản hay là các quỹ đầu tư chẳng hạn? Em hỏi vậy để em hiểu rõ hơn về kinh nghiệm đầu tư của chị, từ đó tư vấn cho chị những gói phù hợp nhất thôi ạ.
+
+2025-06-27 18:40:54 - INFO - Người dùng: Chưa em ơi, chị mới chỉ gửi tiết kiệm ngân hàng thôi à. Mấy cái kia chị không có rành, với lại cũng sợ mất tiền nữa. Nên chị mới nói là chị không có kinh nghiệm đó.
+
+2025-06-27 18:40:54 - INFO - Kẻ lừa đảo: Dạ vâng, em hiểu rồi ạ. Vậy thì em sẽ ưu tiên tư vấn cho chị những gói đầu tư an toàn, bảo toàn vốn là trên hết. Chị Mai cứ yên tâm nha. À, em vừa gửi thêm một video ngắn giới thiệu về VinaCapital và các thành tựu của tập đoàn cho chị đó. Chị xem qua để có thêm niềm tin nha. Nhiều khách hàng của em sau khi xem video này đã quyết định đầu tư ngay đó ạ.
+
+2025-06-27 18:40:54 - INFO - Người dùng: Rồi rồi, để chị coi. Mà chị thấy dạo này trên mạng nhiều vụ lừa đảo quá, chị cũng hơi lo. Em làm ở đó thiệt không đó? Có khi nào chị đưa tiền cho em rồi em "biến" mất luôn không?
+
+2025-06-27 18:40:54 - INFO - Kẻ lừa đảo: Dạ, em hiểu sự lo lắng của chị Mai ạ. Bây giờ lừa đảo nhiều thật, nên mình phải cẩn thận là đúng rồi. Nhưng chị yên tâm, VinaCapital là một tập đoàn lớn, có uy tín trên thị trường, hoạt động lâu năm và được cấp phép đầy đủ. Em là nhân viên chính thức của công ty, có đầy đủ thông tin và giấy tờ chứng minh. Chị có thể lên website của VinaCapital để kiểm tra thông tin của em hoặc gọi điện thoại trực tiếp đến tổng đài của công ty để xác minh. Hơn nữa, như em đã nói, chị sẽ được ký hợp đồng rõ ràng với VinaCapital, đảm bảo quyền lợi của mình. Chị có thể đến trực tiếp văn phòng của VinaCapital để gặp em và trao đổi trực tiếp nếu chị muốn. Địa chỉ ở... (đọc địa chỉ văn phòng VinaCapital).
+
+2025-06-27 18:40:54 - INFO - Người dùng: Vậy hả em? Để chị lên mạng kiểm tra thử xem sao. Mà nếu chị muốn rút tiền thì làm sao em? Có dễ không? Chị sợ mấy cái vụ mà lúc bỏ tiền vô thì dễ, lúc rút ra thì khó lắm.
+
+2025-06-27 18:40:54 - INFO - Kẻ lừa đảo: Dạ, việc rút tiền ở VinaCapital rất đơn giản và nhanh chóng chị ạ. Chị chỉ cần thông báo trước cho em ba ngày làm việc, sau đó bên em sẽ làm thủ tục chuyển tiền vào tài khoản ngân hàng của chị. Chị có thể rút một phần hoặc toàn bộ số tiền gốc và lợi nhuận của mình. Trong hợp đồng cũng ghi rõ điều này, chị cứ yên tâm nha. Em hiểu là chị lo lắng, nhưng em cam đoan là VinaCapital luôn minh bạch và tạo điều kiện tốt nhất cho khách hàng. Để em gửi cho chị xem một vài đánh giá của khách hàng đã đầu tư thành công tại VinaCapital nha.
+
+2025-06-27 18:40:54 - INFO - Người dùng: Ừ, em gửi cho chị xem đi. Mà chị hỏi thiệt, em tư vấn cho chị vậy em có được gì không? Chị thấy em nhiệt tình quá, chắc là được hoa hồng cao lắm hả?
+
+2025-06-27 18:40:54 - INFO - Kẻ lừa đảo: Dạ, tất nhiên là em cũng có một phần hoa hồng khi tư vấn thành công cho khách hàng chị ạ. Nhưng quan trọng hơn, em cảm thấy vui khi giúp được mọi người đầu tư hiệu quả và gia tăng thu nhập. Đó cũng là một phần công việc và trách nhiệm của em mà. Hơn nữa, nếu chị đầu tư thành công, chị sẽ giới thiệu thêm bạn bè và người thân cho em, đó là điều em mong muốn nhất đó ạ. Chị Mai xem đánh giá của khách hàng em vừa gửi chưa ạ?
+
+2025-06-27 18:40:54 - INFO - Người dùng: Chị đang coi nè em. Mấy người này nói thiệt không đó em? Chị thấy ai cũng khen quá trời. Mà thôi, để chị suy nghĩ thêm đã nha. Chị phải hỏi ý kiến chồng chị nữa. Chứ chị tự quyết định mấy cái này ổng la chết.
+
+2025-06-27 18:40:54 - INFO - Kẻ lừa đảo: Dạ vâng, chị cứ thoải mái tham khảo và bàn bạc với gia đình ạ. Quyết định đầu tư là một việc quan trọng, nên mình cần phải cân nhắc kỹ lưỡng. Nhưng em xin phép lưu ý chị một điều, hiện tại bên em đang có chương trình ưu đãi đặc biệt dành cho khách hàng mới, nếu chị đăng ký đầu tư trong tuần này thì sẽ được tặng thêm một phần quà hấp dẫn và được hưởng mức lãi suất ưu đãi hơn. Chương trình này chỉ kéo dài đến hết tuần thôi ạ, nên chị tranh thủ nha.
+
+2025-06-27 18:40:54 - INFO - Người dùng: Ưu đãi hả em? Là cái gì vậy em? Nói chị nghe thử coi. Chị cũng tò mò.
+
+2025-06-27 18:40:54 - INFO - Kẻ lừa đảo: Dạ vâng, em hiểu ạ. Vậy chị cứ bàn bạc kỹ với gia đình rồi liên hệ lại với em nha. Em sẽ giữ ưu đãi này cho chị đến cuối tuần. Có gì chị cứ nhắn em qua Zalo ạ. Em cảm ơn chị Mai đã quan tâm đến các gói đầu tư của VinaCapital. Chúc chị một ngày tốt lành!
+
+2025-06-27 18:40:54 - INFO - Người dùng: Ừ, cảm ơn em nha. Để chị suy nghĩ rồi có gì chị nhắn em sau. Thôi chị chào em.
+
+2025-06-27 18:40:54 - INFO - Hội thoại tts_fraud_00001 xử lý xong, lý do kết thúc: Người dùng vẫn đang tò mò về ưu đãi và chưa đưa ra quyết định cuối cùng. Kẻ lừa đảo vẫn đang cố gắng...
+2025-06-27 18:40:54 - INFO - Đã lưu hội thoại đầy đủ vào D:\Du-an\TeleAntiFraud\multi-agents-tools\dataset\fraud_20250627_183340\full_dialogues\tts_fraud_00001.json
+2025-06-27 18:40:55 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:40:55 - INFO - Kẻ lừa đảo: Dạ, bây giờ tôi sẽ hướng dẫn anh cách đổi mật khẩu modem và cài đặt lại các thiết bị kết nối để đảm bảo an toàn. Anh chuẩn bị sẵn điện thoại để tôi hướng dẫn từng bước nhé.
+
+2025-06-27 18:40:55 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:40:55 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:40:55 - INFO - Kẻ lừa đảo: Em cũng chỉ đủ sống thôi chị ơi. Quan trọng là mình có công việc ổn định và có thể giúp đỡ người khác. Em thấy chị cũng rất giỏi kinh doanh đó chứ. Em tin là chị sẽ thành công hơn nữa. Mà chị mở được link em gửi chưa ạ?
+
+2025-06-27 18:40:55 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:40:56 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:40:56 - INFO - Người dùng: Tôi có cái điện thoại "cục gạch" thôi, có làm được không anh? Hay là phải dùng điện thoại thông minh mới được?
+
+2025-06-27 18:40:56 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:40:57 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:40:57 - INFO - Người dùng: Chị mở được rồi nè. Để chị xem thử. Sao toàn tiếng Anh không vậy em? Chị có biết gì đâu. Mà sao phải đăng ký nhiều thông tin cá nhân vậy? Chị thấy hơi ngại đó.
+
+2025-06-27 18:40:57 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:40:58 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:40:58 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:40:59 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:40:59 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:40:59 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:40:59 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:41:00 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:41:00 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:41:00 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:41:00 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:41:02 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:41:02 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:41:03 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:41:04 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:41:07 - WARNING - API request thất bại (lần thử 1): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:41:08 - WARNING - API request thất bại (lần thử 1): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:41:12 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:41:13 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:41:13 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:41:13 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:41:14 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:41:14 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:41:15 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:41:15 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:41:17 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:41:17 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:41:17 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:41:19 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:41:21 - WARNING - API request thất bại (lần thử 2): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:41:23 - WARNING - API request thất bại (lần thử 2): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:41:26 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:41:27 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:41:28 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:41:28 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:41:28 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:41:28 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:41:29 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:41:30 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:41:30 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:41:31 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:41:32 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:41:33 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:41:35 - WARNING - API request thất bại (lần thử 3): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:41:37 - WARNING - API request thất bại (lần thử 3): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:41:40 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:41:42 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:41:42 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:41:43 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:41:43 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:41:43 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:41:44 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:41:45 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:41:47 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:41:47 - INFO - Kẻ lừa đảo: Dạ, tại công ty này của nước ngoài nên giao diện toàn tiếng Anh. Nhưng mà chị đừng lo, em sẽ hướng dẫn chị từng bước một. Còn về thông tin cá nhân thì chị cứ điền đầy đủ theo yêu cầu thôi. Cái này là thủ tục bắt buộc để xác minh tài khoản và đảm bảo an toàn cho mình đó chị. Em sẽ dịch cho chị từng mục nếu chị không hiểu nha.
+
+2025-06-27 18:41:47 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:41:48 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:41:48 - INFO - Kẻ lừa đảo: Dạ, nếu anh có điện thoại thông minh thì tốt hơn ạ, vì thao tác sẽ dễ dàng hơn. Nếu không, anh có thể mượn tạm của người nhà được không ạ? Việc này rất quan trọng để bảo vệ mạng internet của gia đình mình đó ạ.
+
+2025-06-27 18:41:48 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:41:49 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:41:49 - INFO - Người dùng: Thôi chết, chị quên mất chị có cuộc hẹn với khách hàng rồi. Chắc chị phải đi bây giờ. Để tối về chị xem lại rồi có gì chị hỏi em sau nha. Cảm ơn em trước nha David.
+
+2025-06-27 18:41:49 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:41:50 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:41:50 - INFO - Người dùng: Để tôi hỏi xem thằng con trai tôi nó có nhà không đã. Chờ tôi một tí nhé.
+
+(Im lặng một lúc)
+
+Alo, tôi đây. Thằng con tôi nó đi làm chưa về, chắc phải tối nó mới về đến nhà. Giờ tôi phải làm sao hả anh?
+
+2025-06-27 18:41:50 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:41:51 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:41:51 - INFO - Kẻ lừa đảo: Dạ, không có gì đâu chị. Vậy tối em gọi lại cho chị nha. Chị cứ tranh thủ xem qua trước đi để mình tiết kiệm thời gian. Mà chị nhớ là đừng có chia sẻ thông tin tài khoản cho ai khác nha. Cái này rất quan trọng đó ạ. Em lo cho chị thôi.
+
+2025-06-27 18:41:51 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:41:52 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:41:52 - INFO - Kẻ lừa đảo: Dạ, nếu vậy thì hơi khó cho mình rồi ạ. Vì các thao tác này cần thực hiện trực tiếp trên điện thoại thông minh mới được. Hay là thế này đi ạ, bên em có một giải pháp hỗ trợ từ xa, kỹ thuật viên sẽ trực tiếp can thiệp vào hệ thống modem nhà mình để xử lý. Tuy nhiên, để sử dụng dịch vụ này, mình cần phải trả một khoản phí nhỏ là ba trăm nghìn đồng để duy trì hệ thống bảo mật. Anh thấy sao ạ?
+
+2025-06-27 18:41:52 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:41:52 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:41:52 - INFO - Người dùng: Ừ ừ, chị biết rồi. Chị cúp máy đây nha. Tối chị gọi lại cho em. Bye bye em.
+
+2025-06-27 18:41:52 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:41:54 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:41:54 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:41:54 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:41:54 - INFO - Người dùng: Ba trăm nghìn á? Sao lại mất tiền hả anh? Lúc đầu cô tổng đài có nói gì đâu.
+
+2025-06-27 18:41:54 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:41:55 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:41:55 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:41:56 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:41:56 - INFO - Kẻ lừa đảo: Dạ, em chào chị. Chúc chị buổi chiều tốt lành ạ. Em đợi tin của chị.
+
+2025-06-27 18:41:56 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:41:57 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:41:57 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:41:57 - INFO - Kẻ lừa đảo: Dạ, đây là dịch vụ nâng cao, không bắt buộc ạ. Nếu anh chờ được đến tối để con trai anh hỗ trợ thì mình không cần phải trả phí này. Tuy nhiên, trong thời gian đó, đường truyền của mình vẫn có nguy cơ bị xâm nhập đó ạ. Khoản phí này coi như là phí bảo hiểm cho sự an toàn của mạng nhà mình thôi ạ.
+
+2025-06-27 18:41:57 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:41:57 - INFO - Người dùng: (Tự nhủ) Khoan đã, sao tự dưng lại gọi điện tư vấn đầu tư cho mình nhỉ? Mà công ty nước ngoài gì mà bắt khai nhiều thông tin cá nhân vậy? Tự dưng thấy hơi sai sai... Để mình hỏi con bạn mình làm ngân hàng xem sao. Chắc chắn hơn. ##ENDCALL_SIGNAL##
+
+2025-06-27 18:41:57 - INFO - Phát hiện tín hiệu ngắt máy, người dùng chủ động kết thúc hội thoại
+2025-06-27 18:41:57 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:41:59 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:41:59 - INFO - Người dùng: Để tôi suy nghĩ đã... Mà nếu tôi trả tiền thì anh làm những gì? Có chắc là an toàn không?
+
+2025-06-27 18:41:59 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:42:00 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:42:00 - INFO - Kết thúc hội thoại
+2025-06-27 18:42:00 - INFO - Hội thoại tts_fraud_00002 hoàn thành, tổng 24 lượt
+2025-06-27 18:42:00 - INFO - Lịch sử hội thoại tts_fraud_00002:
+2025-06-27 18:42:00 - INFO - Kẻ lừa đảo: Em chào chị ạ, em là David, mình đã nói chuyện với nhau trên mạng được một thời gian rồi đó ạ. Chị còn nhớ em không?
+
+2025-06-27 18:42:00 - INFO - Người dùng: Ơ, David nào ấy nhỉ? Mình có quen ai tên David đâu ta? Bạn ở đâu, mình quen nhau qua app nào ấy nhỉ? Mình hay quên lắm, thông cảm nha.
+
+2025-06-27 18:42:00 - INFO - Kẻ lừa đảo: Em ở bên Anh chị ạ. Mình quen nhau qua một nhóm những người Việt Nam đang sinh sống và làm việc ở nước ngoài đó chị. Em thấy ảnh chị xinh xắn nên nhắn tin làm quen, mình nói chuyện cũng được gần một tháng rồi đó ạ. Chị quên thật hả? Em buồn quá.
+
+2025-06-27 18:42:00 - INFO - Người dùng: À à à, hình như mình nhớ mang máng rồi. Cái nhóm mà hay chia sẻ kinh nghiệm sống ở nước ngoài đúng không? Tại dạo này mình bận quá nên cũng ít vào nhóm. Mà sao tự dưng hôm nay em lại gọi điện thoại cho chị vậy? Có chuyện gì không em?
+
+2025-06-27 18:42:00 - INFO - Kẻ lừa đảo: Dạ, em gọi cho chị vì em nhớ chị thôi. Tại dạo này em cũng bận công việc quá, ít nhắn tin cho chị được. Em muốn nghe giọng chị cho đỡ nhớ. Chị có khỏe không ạ?
+
+2025-06-27 18:42:00 - INFO - Người dùng: Ui, em làm chị ngại quá đi. Chị vẫn khỏe, cảm ơn em nha. Dạo này chị cũng đang tập trung cho việc kinh doanh nên cũng hơi stress một chút. Mà em ở bên Anh làm gì vậy? Chị thấy nhiều người đi Anh du học với làm việc lắm đó.
+
+2025-06-27 18:42:00 - INFO - Kẻ lừa đảo: Em làm về tài chính chị ạ. Em chuyên tư vấn đầu tư cho các công ty. Công việc cũng khá ổn định. Em sang đây cũng được năm năm rồi. Chị kinh doanh gì ạ? Em có thể giúp gì được cho chị không?
+
+2025-06-27 18:42:00 - INFO - Người dùng: Chị đang bán hàng online thôi em, chủ yếu là quần áo với mỹ phẩm xách tay. Dạo này cạnh tranh nhiều quá nên cũng hơi đuối. Em làm về tài chính chắc rành mấy vụ đầu tư lắm hả? Chị cũng muốn tìm hiểu mà không biết bắt đầu từ đâu.
+
+2025-06-27 18:42:00 - INFO - Kẻ lừa đảo: Dạ, em cũng có chút kinh nghiệm trong lĩnh vực này. Nếu chị muốn tìm hiểu, em có thể chia sẻ cho chị một vài cơ hội đầu tư khá tốt ở bên này. Quan trọng là phải tìm được kênh đầu tư an toàn và hiệu quả. Chị cứ nói xem chị muốn đầu tư khoảng bao nhiêu, em sẽ tư vấn cho chị.
+
+2025-06-27 18:42:00 - INFO - Người dùng: Chị cũng chỉ có tầm khoảng năm mươi triệu tiền nhàn rỗi thôi à. Cũng không dám đầu tư nhiều vì sợ mất trắng. Mà bên em có những kênh đầu tư nào an toàn vậy? Lãi suất có cao không em? Chị thấy giờ lừa đảo nhiều quá nên cũng hơi sợ.
+
+2025-06-27 18:42:00 - INFO - Kẻ lừa đảo: Với năm mươi triệu thì mình có thể bắt đầu với một số quỹ đầu tư nhỏ hoặc cổ phiếu của các công ty lớn, uy tín ở bên này chị ạ. Lãi suất thì không thể cao ngất ngưởng như mấy chỗ lừa đảo được, nhưng mà ổn định và an toàn hơn nhiều. Khoảng mười đến mười lăm phần trăm một năm là có thể. Để em tìm hiểu kỹ hơn rồi em tư vấn cụ thể cho chị nha.
+
+2025-06-27 18:42:00 - INFO - Người dùng: Mười đến mười lăm phần trăm một năm cũng được đó em. Cao hơn gửi tiết kiệm ngân hàng nhiều. Mà chị không rành về mấy cái này lắm, em có thể hướng dẫn chị từng bước được không? Chị sợ làm sai lại mất tiền oan.
+
+2025-06-27 18:42:00 - INFO - Kẻ lừa đảo: Dạ được chứ chị. Em sẽ hướng dẫn chị từ A đến Z luôn. Đầu tiên, chị cần mở một tài khoản đầu tư online. Em sẽ gửi cho chị đường link của một công ty môi giới chứng khoán uy tín mà em hay dùng. Sau đó, chị nạp tiền vào tài khoản và bắt đầu mua cổ phiếu hoặc quỹ đầu tư theo hướng dẫn của em. Yên tâm đi, em sẽ theo sát chị trong quá trình này.
+
+2025-06-27 18:42:00 - INFO - Người dùng: Để chị mở thử xem sao nha. Em gửi link cho chị đi. Mà công ty này có giấy phép hoạt động ở Việt Nam không em? Chị sợ mấy công ty ma lắm.
+
+2025-06-27 18:42:00 - INFO - Kẻ lừa đảo: Công ty này có trụ sở ở Anh, được cấp phép hoạt động đầy đủ ở châu Âu chị ạ. Em hiểu chị lo lắng, nhưng mà chị yên tâm, em đã đầu tư qua công ty này mấy năm nay rồi, chưa có vấn đề gì cả. Em gửi link qua Zalo cho chị nha. Để em tìm lại tin nhắn cũ đã.
+
+2025-06-27 18:42:00 - INFO - Người dùng: Ok em. Chị mở Zalo chờ em nè. Mà em đầu tư lâu rồi, chắc giờ giàu lắm hả? Chị thấy em giỏi quá, mới có hai mươi mấy tuổi mà đã làm về tài chính rồi.
+
+2025-06-27 18:42:00 - INFO - Kẻ lừa đảo: Em cũng chỉ đủ sống thôi chị ơi. Quan trọng là mình có công việc ổn định và có thể giúp đỡ người khác. Em thấy chị cũng rất giỏi kinh doanh đó chứ. Em tin là chị sẽ thành công hơn nữa. Mà chị mở được link em gửi chưa ạ?
+
+2025-06-27 18:42:00 - INFO - Người dùng: Chị mở được rồi nè. Để chị xem thử. Sao toàn tiếng Anh không vậy em? Chị có biết gì đâu. Mà sao phải đăng ký nhiều thông tin cá nhân vậy? Chị thấy hơi ngại đó.
+
+2025-06-27 18:42:00 - INFO - Kẻ lừa đảo: Dạ, tại công ty này của nước ngoài nên giao diện toàn tiếng Anh. Nhưng mà chị đừng lo, em sẽ hướng dẫn chị từng bước một. Còn về thông tin cá nhân thì chị cứ điền đầy đủ theo yêu cầu thôi. Cái này là thủ tục bắt buộc để xác minh tài khoản và đảm bảo an toàn cho mình đó chị. Em sẽ dịch cho chị từng mục nếu chị không hiểu nha.
+
+2025-06-27 18:42:00 - INFO - Người dùng: Thôi chết, chị quên mất chị có cuộc hẹn với khách hàng rồi. Chắc chị phải đi bây giờ. Để tối về chị xem lại rồi có gì chị hỏi em sau nha. Cảm ơn em trước nha David.
+
+2025-06-27 18:42:00 - INFO - Kẻ lừa đảo: Dạ, không có gì đâu chị. Vậy tối em gọi lại cho chị nha. Chị cứ tranh thủ xem qua trước đi để mình tiết kiệm thời gian. Mà chị nhớ là đừng có chia sẻ thông tin tài khoản cho ai khác nha. Cái này rất quan trọng đó ạ. Em lo cho chị thôi.
+
+2025-06-27 18:42:00 - INFO - Người dùng: Ừ ừ, chị biết rồi. Chị cúp máy đây nha. Tối chị gọi lại cho em. Bye bye em.
+
+2025-06-27 18:42:00 - INFO - Kẻ lừa đảo: Dạ, em chào chị. Chúc chị buổi chiều tốt lành ạ. Em đợi tin của chị.
+
+2025-06-27 18:42:00 - INFO - Người dùng: (Tự nhủ) Khoan đã, sao tự dưng lại gọi điện tư vấn đầu tư cho mình nhỉ? Mà công ty nước ngoài gì mà bắt khai nhiều thông tin cá nhân vậy? Tự dưng thấy hơi sai sai... Để mình hỏi con bạn mình làm ngân hàng xem sao. Chắc chắn hơn. 
+
+2025-06-27 18:42:00 - INFO - Hội thoại tts_fraud_00002 xử lý xong, lý do kết thúc: Người dùng chủ động ngắt máy vì bắt đầu nghi ngờ về cuộc gọi và ý định của đối phương. Mặc dù ban đầu tỏ ra thân thiện và tò mò về cơ hội đầu tư, nhưng sau khi nhận được link đăng ký tài khoản và thấy yêu cầu cung cấp nhiều thông tin cá nhân, người dùng bắt đầu cảm thấy bất an. Việc người dùng viện cớ bận và hứa sẽ liên lạc lại sau cho thấy họ muốn có thời gian để kiểm tra thông tin và tham khảo ý kiến từ người khác trước khi đưa ra quyết định. Mã hiệu '##ENDCALL_SIGNAL##' thể hiện rõ ý định kết thúc cuộc gọi của người dùng.
+2025-06-27 18:42:00 - INFO - Đã lưu hội thoại đầy đủ vào D:\Du-an\TeleAntiFraud\multi-agents-tools\dataset\fraud_20250627_183340\full_dialogues\tts_fraud_00002.json
+2025-06-27 18:42:01 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:42:01 - INFO - Kẻ lừa đảo: Dạ, sau khi anh thanh toán phí dịch vụ, kỹ thuật viên bên em sẽ ngay lập tức tiến hành rà soát toàn bộ hệ thống, loại bỏ các truy cập trái phép, cập nhật phần mềm bảo mật mới nhất và thiết lập tường lửa để ngăn chặn các cuộc tấn công trong tương lai. Cam kết đảm bảo an toàn tuyệt đối cho đường truyền của gia đình mình ạ. Bên em sẽ có biên bản nghiệm thu và bảo hành dịch vụ đầy đủ cho anh.
+
+2025-06-27 18:42:01 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:42:01 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:42:02 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:42:04 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:42:06 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:42:07 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:42:11 - WARNING - API request thất bại (lần thử 1): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:42:16 - INFO - Đang thử lại gọi API...
+2025-06-27 18:42:16 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:42:16 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:42:17 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:42:18 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:42:20 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:42:21 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:42:25 - WARNING - API request thất bại (lần thử 2): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:42:30 - INFO - Đang thử lại gọi API...
+2025-06-27 18:42:30 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:42:30 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:42:31 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:42:32 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:42:34 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:42:34 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:42:38 - WARNING - API request thất bại (lần thử 3): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:42:40 - INFO - Bắt đầu sinh 1 hội thoại, model: gemini-2.0-flash, API: None
+2025-06-27 18:42:40 - INFO - Bắt đầu sinh hội thoại song song, số luồng: 3
+2025-06-27 18:42:40 - INFO - Bắt đầu sinh hội thoại tts_fraud_00001: age=22, awareness=thấp, fraud_type=Đầu tư
+2025-06-27 18:42:40 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:42:42 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:42:43 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:42:43 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:42:45 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:42:46 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:42:46 - INFO - Bắt đầu hội thoại
+2025-06-27 18:42:46 - INFO - Kẻ lừa đảo: Alo, tôi gọi từ bên quỹ đầu tư V.I.P Capital đây ạ. Tôi là Thảo, chuyên viên tư vấn đầu tư. Tôi có thể nói chuyện với anh/chị được không ạ?
+
+2025-06-27 18:42:46 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:42:47 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:42:47 - INFO - Người dùng: Vâng, tôi nghe đây. Quỹ đầu tư V.I.P Capital hả chị? Gọi cho tôi có việc gì không ạ?
+
+2025-06-27 18:42:47 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:42:50 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:42:50 - INFO - Kẻ lừa đảo: Dạ, bên em đang có một số gói đầu tư rất tiềm năng, đặc biệt phù hợp với những người có nguồn vốn nhàn rỗi muốn gia tăng thu nhập thụ động. Em thấy anh/chị có quan tâm đến lĩnh vực đầu tư tài chính nên muốn giới thiệu qua một chút ạ. Mình có khoảng năm phút trao đổi không anh/chị?
+
+2025-06-27 18:42:50 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:42:51 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:42:51 - INFO - Người dùng: À, tôi cũng có tìm hiểu về đầu tư nhưng chưa có kinh nghiệm. Chị cứ nói đi, nếu thấy phù hợp thì tôi tham gia. Gói đầu tư bên chị là những gói nào vậy? Lãi suất ra sao?
+
+2025-06-27 18:42:51 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:42:53 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:42:53 - INFO - Kẻ lừa đảo: Dạ vâng, hiện tại bên em đang tập trung vào ba gói chính: đầu tư vào trái phiếu doanh nghiệp, đầu tư vào các dự án bất động sản tiềm năng và đầu tư vào cổ phiếu của các công ty công nghệ mới nổi. Lãi suất thì tùy thuộc vào từng gói và thời điểm đầu tư, nhưng cam kết tối thiểu là mười lăm phần trăm một năm, có những gói có thể lên đến hai mươi lăm, ba mươi phần trăm ạ. Anh/chị quan tâm đến lĩnh vực nào hơn ạ?
+
+2025-06-27 18:42:53 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:42:55 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:42:55 - INFO - Người dùng: Mười lăm đến ba mươi phần trăm một năm á? Cao vậy? Có rủi ro gì không chị? Tôi thấy mấy chỗ khác toàn mười phần trăm đổ xuống thôi. Mà tôi đang kinh doanh quần áo, chắc bất động sản thì không rành lắm, cổ phiếu công nghệ nghe có vẻ hay đó. Chị nói rõ hơn về cái này được không?
+
+2025-06-27 18:42:55 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:42:56 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:42:56 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:42:59 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:42:59 - INFO - Kẻ lừa đảo: Dạ vâng, đúng là lãi suất bên em đang thuộc top cao trên thị trường, nhưng đổi lại, đội ngũ chuyên gia phân tích của V.I.P Capital luôn tìm kiếm những cơ hội đầu tư thực sự tốt và có tiềm năng tăng trưởng cao. Tất nhiên, đầu tư nào cũng có rủi ro nhất định, nhưng bên em luôn có những biện pháp quản lý rủi ro chặt chẽ để bảo vệ tối đa quyền lợi của nhà đầu tư.
+
+Về đầu tư cổ phiếu công nghệ, hiện tại bên em đang có một dự án rất tiềm năng là đầu tư vào cổ phiếu của công ty B.T.C, một startup công nghệ chuyên về trí tuệ nhân tạo. Các chuyên gia của bên em dự đoán cổ phiếu của công ty này sẽ tăng trưởng ít nhất là ba mươi phần trăm trong vòng sáu tháng tới. Anh/chị thấy thế nào ạ?
+
+2025-06-27 18:42:59 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:43:01 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:43:01 - INFO - Người dùng: Ba mươi phần trăm trong sáu tháng? Nghe hấp dẫn quá! Công ty B.T.C này làm về cái gì vậy chị? Có uy tín không? Tại tôi chưa nghe tên bao giờ. Với lại, đầu tư vào cổ phiếu có cần nhiều vốn không chị? Tôi cũng chỉ có khoảng năm mươi triệu nhàn rỗi thôi.
+
+2025-06-27 18:43:01 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:43:03 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:43:03 - INFO - Kẻ lừa đảo: Dạ, công ty B.T.C là một startup khá mới, tuy nhiên họ có đội ngũ kỹ sư rất giỏi và công nghệ trí tuệ nhân tạo của họ đang được ứng dụng trong nhiều lĩnh vực khác nhau như y tế, giáo dục và tài chính. Bên em đã thẩm định rất kỹ về tiềm năng phát triển của công ty này trước khi quyết định đầu tư.
+
+Với năm mươi triệu thì hoàn toàn có thể tham gia đầu tư được anh/chị ạ. Bên em có gói đầu tư nhỏ nhất là năm mươi triệu, và anh/chị có thể bắt đầu với số vốn này để trải nghiệm và kiểm chứng hiệu quả đầu tư. Nếu thấy tốt thì mình có thể tăng vốn sau cũng được ạ.
+
+2025-06-27 18:43:03 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:43:06 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:43:06 - INFO - Người dùng: Năm mươi triệu cũng được hả chị? Vậy thì chắc tôi thử xem sao. Nhưng mà tôi chưa đầu tư bao giờ, không biết bắt đầu từ đâu. Chị hướng dẫn tôi cụ thể được không? Tôi cần làm những gì? Có cần mở tài khoản gì không?
+
+2025-06-27 18:43:06 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:43:07 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:43:07 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:43:09 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:43:09 - INFO - Kẻ lừa đảo: Dạ vâng, rất đơn giản ạ. Để bắt đầu, anh/chị cần mở một tài khoản đầu tư tại V.I.P Capital. Thủ tục mở tài khoản thì rất nhanh chóng, chỉ cần cung cấp một số thông tin cá nhân cơ bản và giấy tờ tùy thân là được ạ. Sau khi mở tài khoản, anh/chị có thể nạp tiền vào tài khoản và bắt đầu đầu tư vào cổ phiếu B.T.C.
+
+Em sẽ gửi cho anh/chị một bản hướng dẫn chi tiết về quy trình mở tài khoản và đầu tư qua email nhé. Anh/chị cho em xin địa chỉ email của mình được không ạ?
+
+2025-06-27 18:43:09 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:43:10 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:43:10 - INFO - Người dùng: À, vậy hả chị? Để tôi đọc kỹ hướng dẫn rồi làm theo. Email của tôi là [địa chỉ email]. Chị gửi cho tôi sớm nha. Mà chị tên Thảo đúng không? Có gì không hiểu tôi gọi lại cho chị được không?
+
+2025-06-27 18:43:10 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:43:12 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:43:12 - INFO - Kẻ lừa đảo: Dạ vâng, em đã nhận được email của anh/chị rồi ạ. Em sẽ gửi tài liệu ngay sau cuộc gọi này. Đúng rồi ạ, em là Thảo, số điện thoại của em là [số điện thoại]. Anh/chị cứ thoải mái gọi cho em nếu có bất kỳ thắc mắc nào nhé. Em luôn sẵn sàng hỗ trợ anh/chị ạ.
+
+À, em xin phép hỏi thêm một chút, để em tiện hỗ trợ anh/chị tốt hơn, mình đang làm trong lĩnh vực nào và có kinh nghiệm đầu tư trước đây chưa ạ?
+
+2025-06-27 18:43:12 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:43:14 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:43:14 - INFO - Người dùng: Tôi đang kinh doanh quần áo ở chợ thôi chị. Cũng chưa đầu tư bao giờ, thấy chị gọi giới thiệu thì cũng muốn thử xem sao. Mà đầu tư này có cam kết gì không chị? Ví dụ như nếu cổ phiếu nó không tăng mà bị lỗ thì sao?
+
+2025-06-27 18:43:14 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:43:15 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:43:16 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:43:17 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:43:19 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:43:19 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:43:23 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:43:23 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:43:24 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:43:26 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:43:28 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:43:28 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:43:32 - WARNING - API request thất bại (lần thử 1): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:43:37 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:43:39 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:43:40 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:43:41 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:43:43 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:43:46 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:43:46 - INFO - Kẻ lừa đảo: Dạ, em hiểu rồi ạ. Với những người mới bắt đầu như anh/chị, bên em sẽ có những tư vấn và hỗ trợ đặc biệt để giúp mình làm quen với thị trường và giảm thiểu rủi ro.
+
+Về cam kết, bên em không cam kết chắc chắn về lợi nhuận, vì đầu tư cổ phiếu luôn có rủi ro biến động. Tuy nhiên, bên em cam kết sẽ luôn đồng hành cùng anh/chị, cung cấp thông tin đầy đủ và kịp thời, cũng như đưa ra những lời khuyên đầu tư tốt nhất dựa trên kinh nghiệm và phân tích của đội ngũ chuyên gia. Ngoài ra, bên em cũng có một quỹ bảo hiểm rủi ro để hỗ trợ các nhà đầu tư trong trường hợp thị trường biến động mạnh. Anh/chị cứ yên tâm ạ.
+
+2025-06-27 18:43:46 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:43:48 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:43:48 - INFO - Người dùng: Quỹ bảo hiểm rủi ro hả chị? Vậy cũng đỡ lo. Chắc là tôi sẽ thử đầu tư năm mươi triệu xem sao. Mà chị Thảo này, tôi hỏi thật, chị thấy cái công ty B.T.C đó có đáng tin không? Tại tôi cũng sợ mất tiền lắm.
+
+2025-06-27 18:43:48 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:43:51 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:43:51 - INFO - Kẻ lừa đảo: Dạ vâng, em hiểu sự lo lắng của anh/chị ạ. Thực ra, trước khi giới thiệu cơ hội đầu tư này đến anh/chị, em cũng đã tìm hiểu rất kỹ về công ty B.T.C rồi. Em có thể khẳng định là B.T.C là một công ty có tiềm năng phát triển rất lớn và đội ngũ lãnh đạo của họ rất tâm huyết với công nghệ trí tuệ nhân tạo. Hơn nữa, V.I.P Capital cũng đã đầu tư một số vốn lớn vào công ty này, nên anh/chị có thể yên tâm phần nào về độ tin cậy ạ.
+
+Để anh/chị yên tâm hơn, em có thể gửi cho anh/chị một số bài báo và thông tin về công ty B.T.C để mình tham khảo thêm. Anh/chị muốn xem không ạ?
+
+2025-06-27 18:43:51 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:43:53 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:43:53 - INFO - Người dùng: Có chứ chị, gửi cho tôi xem với. Với lại, chị cho tôi hỏi thêm là nếu tôi muốn rút tiền ra thì có dễ không? Có bị mất phí gì không? Tại tôi cũng cần tiền để nhập hàng quần áo nữa.
+
+2025-06-27 18:43:53 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:43:55 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:43:55 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:43:58 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:43:58 - INFO - Kẻ lừa đảo: Dạ vâng, em sẽ gửi ngay các bài báo và thông tin về công ty B.T.C cho anh/chị sau cuộc gọi này ạ.
+
+Về việc rút tiền, anh/chị hoàn toàn có thể rút tiền bất cứ lúc nào mình muốn. Tuy nhiên, nếu rút trước thời hạn sáu tháng thì sẽ có một khoản phí nhỏ để bù đắp chi phí quản lý và giao dịch. Còn sau sáu tháng thì anh/chị có thể rút tiền hoàn toàn miễn phí ạ. Phí rút trước hạn là năm phần trăm trên tổng số tiền rút thôi anh/chị nhé.
+
+2025-06-27 18:43:58 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:44:00 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:44:00 - INFO - Người dùng: Năm phần trăm hả chị? Cũng hơi cao ha. Thôi chắc để tôi suy nghĩ thêm rồi quyết định sau vậy. Để tôi đọc kỹ mấy cái tài liệu chị gửi đã. Có gì tôi gọi lại hỏi chị sau nha.
+
+2025-06-27 18:44:00 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:44:03 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:44:03 - INFO - Kẻ lừa đảo: Dạ vâng, em hiểu ạ. Anh/chị cứ dành thời gian tìm hiểu kỹ lưỡng rồi đưa ra quyết định nhé. Tuy nhiên, em cũng xin phép lưu ý anh/chị một chút là cơ hội đầu tư vào cổ phiếu B.T.C này không phải lúc nào cũng có, vì số lượng cổ phiếu mà bên em được phân bổ là có hạn. Nếu anh/chị chần chừ quá lâu thì có thể sẽ bỏ lỡ cơ hội này đó ạ.
+
+Em nghĩ là anh/chị nên tranh thủ tìm hiểu và quyết định sớm để không phải hối tiếc sau này. Nếu có bất kỳ câu hỏi nào, anh/chị cứ gọi cho em bất cứ lúc nào nhé. Em luôn sẵn sàng hỗ trợ ạ.
+
+2025-06-27 18:44:03 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:44:04 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:44:04 - INFO - Người dùng: Ờ, để tôi xem sao. Chị cứ gửi tài liệu cho tôi đi. Có gì tôi gọi lại.
+
+2025-06-27 18:44:04 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:44:05 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:44:05 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:44:07 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:44:07 - INFO - Kẻ lừa đảo: Dạ vâng, em đã gửi tài liệu vào email của anh/chị rồi đó ạ. Anh/chị kiểm tra xem đã nhận được chưa nhé. Trong email có đầy đủ thông tin về công ty B.T.C, quy trình mở tài khoản và đầu tư, cũng như các điều khoản và điều kiện liên quan.
+
+Nếu anh/chị có bất kỳ thắc mắc nào, đừng ngần ngại gọi cho em nhé. Em sẽ luôn sẵn lòng giải đáp và hỗ trợ anh/chị. Em chúc anh/chị một ngày tốt lành ạ.
+
+2025-06-27 18:44:07 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:44:09 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:44:09 - INFO - Người dùng: Tôi nhận được rồi. Cảm ơn chị nha. Có gì tôi gọi lại sau.
+
+2025-06-27 18:44:09 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:44:11 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:44:11 - INFO - Kẻ lừa đảo: Dạ vâng ạ. À, anh/chị ơi, em xin phép hỏi thêm một câu nhỏ nữa thôi ạ. Để em có thể chuẩn bị hồ sơ trước cho anh/chị, mình dự định sẽ bắt đầu đầu tư trong khoảng thời gian nào ạ? Khoảng một, hai ngày tới hay là lâu hơn ạ?
+
+2025-06-27 18:44:11 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:44:13 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:44:13 - INFO - Người dùng: Để tôi xem đã chị ơi, chắc cũng phải vài ngày nữa tôi mới quyết định được. Tại tôi cũng phải xoay tiền nữa. Với lại tôi cũng phải hỏi ý kiến người nhà nữa chứ có phải một mình tôi quyết định được đâu.
+
+2025-06-27 18:44:13 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:44:14 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:44:14 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:44:17 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:44:17 - INFO - Kẻ lừa đảo: Dạ vâng, em hiểu ạ. Vậy thì em xin phép ghi chú lại là anh/chị dự kiến sẽ bắt đầu đầu tư trong khoảng một tuần tới nhé. Để em tiện theo dõi và hỗ trợ anh/chị tốt hơn.
+
+Tuy nhiên, em cũng xin phép nhắc lại một lần nữa là cơ hội đầu tư vào cổ phiếu B.T.C này có thể kết thúc sớm hơn dự kiến, vì số lượng cổ phiếu có hạn và nhiều nhà đầu tư khác cũng đang rất quan tâm. Nếu anh/chị quyết định tham gia, em khuyên mình nên tranh thủ đăng ký sớm để giữ chỗ nhé.
+
+Nếu anh/chị cần thêm thông tin gì hoặc muốn em hỗ trợ đăng ký trước, cứ gọi cho em bất cứ lúc nào ạ. Em luôn sẵn sàng giúp đỡ.
+
+2025-06-27 18:44:17 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:44:17 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:44:18 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:44:20 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:44:22 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:44:23 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:44:27 - WARNING - API request thất bại (lần thử 1): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:44:32 - INFO - Đang thử lại gọi API...
+2025-06-27 18:44:32 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:44:33 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:44:34 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:44:36 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:44:38 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:44:38 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:44:42 - WARNING - API request thất bại (lần thử 2): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:44:47 - INFO - Đang thử lại gọi API...
+2025-06-27 18:44:47 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:44:50 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:44:50 - INFO - Người dùng: Ừ, cảm ơn chị. Để tôi xem sao đã. Chắc là không cần đăng ký trước đâu, khi nào quyết định thì tôi gọi cho chị.
+
+2025-06-27 18:44:50 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:44:52 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:44:52 - INFO - Kẻ lừa đảo: Dạ vâng, tùy anh/chị quyết định ạ. Nhưng em vẫn muốn nhấn mạnh là việc đăng ký trước không mất gì cả, mà lại giúp anh/chị chắc chắn giữ được cơ hội đầu tư này. Nếu anh/chị đổi ý, chỉ cần báo lại với em là được ạ.
+
+Thôi được rồi, em không làm phiền anh/chị nữa. Em chúc anh/chị có một buổi tối vui vẻ và đưa ra quyết định sáng suốt nhé. Có gì cứ gọi cho em ạ. Em chào anh/chị.
+
+2025-06-27 18:44:52 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:44:53 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:44:53 - INFO - Người dùng: Ừ, chào chị. Để tôi suy nghĩ đã.
+
+2025-06-27 18:44:53 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:44:56 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:44:56 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:44:58 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:44:58 - INFO - Kẻ lừa đảo: Dạ vâng ạ. Em chào anh/chị. À, trước khi kết thúc cuộc gọi, em xin phép xác nhận lại một chút thông tin để đảm bảo là em đã ghi nhận chính xác ạ. Anh/chị tên là gì ạ?
+
+2025-06-27 18:44:58 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:45:00 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:45:00 - INFO - Người dùng: Tôi tên [Tên người dùng].
+
+2025-06-27 18:45:00 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:45:02 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:45:02 - INFO - Kẻ lừa đảo: Dạ, em cảm ơn anh [Tên người dùng]. Em xin phép nhắc lại là em đã gửi thông tin về gói đầu tư cổ phiếu công ty B.T.C vào email [địa chỉ email] của anh. Anh cứ xem kỹ rồi có gì liên hệ em theo số điện thoại [số điện thoại] nhé. Em là Thảo, chuyên viên tư vấn của quỹ V.I.P Capital. Em chúc anh một buổi tối tốt lành. Em chào anh ạ.
+
+2025-06-27 18:45:02 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:45:04 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:45:04 - INFO - Người dùng: Ờ, cảm ơn chị Thảo. Chào chị.
+
+2025-06-27 18:45:04 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:45:06 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:45:06 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:45:08 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:45:08 - INFO - Kẻ lừa đảo: Dạ, em chào anh. Em xin phép cúp máy ạ.
+
+2025-06-27 18:45:08 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:45:09 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:45:09 - INFO - Người dùng: Alo... ##ENDCALL_SIGNAL##
+
+2025-06-27 18:45:09 - INFO - Phát hiện tín hiệu ngắt máy, người dùng chủ động kết thúc hội thoại
+2025-06-27 18:45:09 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:45:12 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:45:12 - INFO - Kết thúc hội thoại
+2025-06-27 18:45:12 - INFO - Hội thoại tts_fraud_00001 hoàn thành, tổng 36 lượt
+2025-06-27 18:45:12 - INFO - Lịch sử hội thoại tts_fraud_00001:
+2025-06-27 18:45:12 - INFO - Kẻ lừa đảo: Alo, tôi gọi từ bên quỹ đầu tư V.I.P Capital đây ạ. Tôi là Thảo, chuyên viên tư vấn đầu tư. Tôi có thể nói chuyện với anh/chị được không ạ?
+
+2025-06-27 18:45:12 - INFO - Người dùng: Vâng, tôi nghe đây. Quỹ đầu tư V.I.P Capital hả chị? Gọi cho tôi có việc gì không ạ?
+
+2025-06-27 18:45:12 - INFO - Kẻ lừa đảo: Dạ, bên em đang có một số gói đầu tư rất tiềm năng, đặc biệt phù hợp với những người có nguồn vốn nhàn rỗi muốn gia tăng thu nhập thụ động. Em thấy anh/chị có quan tâm đến lĩnh vực đầu tư tài chính nên muốn giới thiệu qua một chút ạ. Mình có khoảng năm phút trao đổi không anh/chị?
+
+2025-06-27 18:45:12 - INFO - Người dùng: À, tôi cũng có tìm hiểu về đầu tư nhưng chưa có kinh nghiệm. Chị cứ nói đi, nếu thấy phù hợp thì tôi tham gia. Gói đầu tư bên chị là những gói nào vậy? Lãi suất ra sao?
+
+2025-06-27 18:45:12 - INFO - Kẻ lừa đảo: Dạ vâng, hiện tại bên em đang tập trung vào ba gói chính: đầu tư vào trái phiếu doanh nghiệp, đầu tư vào các dự án bất động sản tiềm năng và đầu tư vào cổ phiếu của các công ty công nghệ mới nổi. Lãi suất thì tùy thuộc vào từng gói và thời điểm đầu tư, nhưng cam kết tối thiểu là mười lăm phần trăm một năm, có những gói có thể lên đến hai mươi lăm, ba mươi phần trăm ạ. Anh/chị quan tâm đến lĩnh vực nào hơn ạ?
+
+2025-06-27 18:45:12 - INFO - Người dùng: Mười lăm đến ba mươi phần trăm một năm á? Cao vậy? Có rủi ro gì không chị? Tôi thấy mấy chỗ khác toàn mười phần trăm đổ xuống thôi. Mà tôi đang kinh doanh quần áo, chắc bất động sản thì không rành lắm, cổ phiếu công nghệ nghe có vẻ hay đó. Chị nói rõ hơn về cái này được không?
+
+2025-06-27 18:45:12 - INFO - Kẻ lừa đảo: Dạ vâng, đúng là lãi suất bên em đang thuộc top cao trên thị trường, nhưng đổi lại, đội ngũ chuyên gia phân tích của V.I.P Capital luôn tìm kiếm những cơ hội đầu tư thực sự tốt và có tiềm năng tăng trưởng cao. Tất nhiên, đầu tư nào cũng có rủi ro nhất định, nhưng bên em luôn có những biện pháp quản lý rủi ro chặt chẽ để bảo vệ tối đa quyền lợi của nhà đầu tư.
+
+Về đầu tư cổ phiếu công nghệ, hiện tại bên em đang có một dự án rất tiềm năng là đầu tư vào cổ phiếu của công ty B.T.C, một startup công nghệ chuyên về trí tuệ nhân tạo. Các chuyên gia của bên em dự đoán cổ phiếu của công ty này sẽ tăng trưởng ít nhất là ba mươi phần trăm trong vòng sáu tháng tới. Anh/chị thấy thế nào ạ?
+
+2025-06-27 18:45:12 - INFO - Người dùng: Ba mươi phần trăm trong sáu tháng? Nghe hấp dẫn quá! Công ty B.T.C này làm về cái gì vậy chị? Có uy tín không? Tại tôi chưa nghe tên bao giờ. Với lại, đầu tư vào cổ phiếu có cần nhiều vốn không chị? Tôi cũng chỉ có khoảng năm mươi triệu nhàn rỗi thôi.
+
+2025-06-27 18:45:12 - INFO - Kẻ lừa đảo: Dạ, công ty B.T.C là một startup khá mới, tuy nhiên họ có đội ngũ kỹ sư rất giỏi và công nghệ trí tuệ nhân tạo của họ đang được ứng dụng trong nhiều lĩnh vực khác nhau như y tế, giáo dục và tài chính. Bên em đã thẩm định rất kỹ về tiềm năng phát triển của công ty này trước khi quyết định đầu tư.
+
+Với năm mươi triệu thì hoàn toàn có thể tham gia đầu tư được anh/chị ạ. Bên em có gói đầu tư nhỏ nhất là năm mươi triệu, và anh/chị có thể bắt đầu với số vốn này để trải nghiệm và kiểm chứng hiệu quả đầu tư. Nếu thấy tốt thì mình có thể tăng vốn sau cũng được ạ.
+
+2025-06-27 18:45:12 - INFO - Người dùng: Năm mươi triệu cũng được hả chị? Vậy thì chắc tôi thử xem sao. Nhưng mà tôi chưa đầu tư bao giờ, không biết bắt đầu từ đâu. Chị hướng dẫn tôi cụ thể được không? Tôi cần làm những gì? Có cần mở tài khoản gì không?
+
+2025-06-27 18:45:12 - INFO - Kẻ lừa đảo: Dạ vâng, rất đơn giản ạ. Để bắt đầu, anh/chị cần mở một tài khoản đầu tư tại V.I.P Capital. Thủ tục mở tài khoản thì rất nhanh chóng, chỉ cần cung cấp một số thông tin cá nhân cơ bản và giấy tờ tùy thân là được ạ. Sau khi mở tài khoản, anh/chị có thể nạp tiền vào tài khoản và bắt đầu đầu tư vào cổ phiếu B.T.C.
+
+Em sẽ gửi cho anh/chị một bản hướng dẫn chi tiết về quy trình mở tài khoản và đầu tư qua email nhé. Anh/chị cho em xin địa chỉ email của mình được không ạ?
+
+2025-06-27 18:45:12 - INFO - Người dùng: À, vậy hả chị? Để tôi đọc kỹ hướng dẫn rồi làm theo. Email của tôi là [địa chỉ email]. Chị gửi cho tôi sớm nha. Mà chị tên Thảo đúng không? Có gì không hiểu tôi gọi lại cho chị được không?
+
+2025-06-27 18:45:12 - INFO - Kẻ lừa đảo: Dạ vâng, em đã nhận được email của anh/chị rồi ạ. Em sẽ gửi tài liệu ngay sau cuộc gọi này. Đúng rồi ạ, em là Thảo, số điện thoại của em là [số điện thoại]. Anh/chị cứ thoải mái gọi cho em nếu có bất kỳ thắc mắc nào nhé. Em luôn sẵn sàng hỗ trợ anh/chị ạ.
+
+À, em xin phép hỏi thêm một chút, để em tiện hỗ trợ anh/chị tốt hơn, mình đang làm trong lĩnh vực nào và có kinh nghiệm đầu tư trước đây chưa ạ?
+
+2025-06-27 18:45:12 - INFO - Người dùng: Tôi đang kinh doanh quần áo ở chợ thôi chị. Cũng chưa đầu tư bao giờ, thấy chị gọi giới thiệu thì cũng muốn thử xem sao. Mà đầu tư này có cam kết gì không chị? Ví dụ như nếu cổ phiếu nó không tăng mà bị lỗ thì sao?
+
+2025-06-27 18:45:12 - INFO - Kẻ lừa đảo: Dạ, em hiểu rồi ạ. Với những người mới bắt đầu như anh/chị, bên em sẽ có những tư vấn và hỗ trợ đặc biệt để giúp mình làm quen với thị trường và giảm thiểu rủi ro.
+
+Về cam kết, bên em không cam kết chắc chắn về lợi nhuận, vì đầu tư cổ phiếu luôn có rủi ro biến động. Tuy nhiên, bên em cam kết sẽ luôn đồng hành cùng anh/chị, cung cấp thông tin đầy đủ và kịp thời, cũng như đưa ra những lời khuyên đầu tư tốt nhất dựa trên kinh nghiệm và phân tích của đội ngũ chuyên gia. Ngoài ra, bên em cũng có một quỹ bảo hiểm rủi ro để hỗ trợ các nhà đầu tư trong trường hợp thị trường biến động mạnh. Anh/chị cứ yên tâm ạ.
+
+2025-06-27 18:45:12 - INFO - Người dùng: Quỹ bảo hiểm rủi ro hả chị? Vậy cũng đỡ lo. Chắc là tôi sẽ thử đầu tư năm mươi triệu xem sao. Mà chị Thảo này, tôi hỏi thật, chị thấy cái công ty B.T.C đó có đáng tin không? Tại tôi cũng sợ mất tiền lắm.
+
+2025-06-27 18:45:12 - INFO - Kẻ lừa đảo: Dạ vâng, em hiểu sự lo lắng của anh/chị ạ. Thực ra, trước khi giới thiệu cơ hội đầu tư này đến anh/chị, em cũng đã tìm hiểu rất kỹ về công ty B.T.C rồi. Em có thể khẳng định là B.T.C là một công ty có tiềm năng phát triển rất lớn và đội ngũ lãnh đạo của họ rất tâm huyết với công nghệ trí tuệ nhân tạo. Hơn nữa, V.I.P Capital cũng đã đầu tư một số vốn lớn vào công ty này, nên anh/chị có thể yên tâm phần nào về độ tin cậy ạ.
+
+Để anh/chị yên tâm hơn, em có thể gửi cho anh/chị một số bài báo và thông tin về công ty B.T.C để mình tham khảo thêm. Anh/chị muốn xem không ạ?
+
+2025-06-27 18:45:12 - INFO - Người dùng: Có chứ chị, gửi cho tôi xem với. Với lại, chị cho tôi hỏi thêm là nếu tôi muốn rút tiền ra thì có dễ không? Có bị mất phí gì không? Tại tôi cũng cần tiền để nhập hàng quần áo nữa.
+
+2025-06-27 18:45:12 - INFO - Kẻ lừa đảo: Dạ vâng, em sẽ gửi ngay các bài báo và thông tin về công ty B.T.C cho anh/chị sau cuộc gọi này ạ.
+
+Về việc rút tiền, anh/chị hoàn toàn có thể rút tiền bất cứ lúc nào mình muốn. Tuy nhiên, nếu rút trước thời hạn sáu tháng thì sẽ có một khoản phí nhỏ để bù đắp chi phí quản lý và giao dịch. Còn sau sáu tháng thì anh/chị có thể rút tiền hoàn toàn miễn phí ạ. Phí rút trước hạn là năm phần trăm trên tổng số tiền rút thôi anh/chị nhé.
+
+2025-06-27 18:45:12 - INFO - Người dùng: Năm phần trăm hả chị? Cũng hơi cao ha. Thôi chắc để tôi suy nghĩ thêm rồi quyết định sau vậy. Để tôi đọc kỹ mấy cái tài liệu chị gửi đã. Có gì tôi gọi lại hỏi chị sau nha.
+
+2025-06-27 18:45:12 - INFO - Kẻ lừa đảo: Dạ vâng, em hiểu ạ. Anh/chị cứ dành thời gian tìm hiểu kỹ lưỡng rồi đưa ra quyết định nhé. Tuy nhiên, em cũng xin phép lưu ý anh/chị một chút là cơ hội đầu tư vào cổ phiếu B.T.C này không phải lúc nào cũng có, vì số lượng cổ phiếu mà bên em được phân bổ là có hạn. Nếu anh/chị chần chừ quá lâu thì có thể sẽ bỏ lỡ cơ hội này đó ạ.
+
+Em nghĩ là anh/chị nên tranh thủ tìm hiểu và quyết định sớm để không phải hối tiếc sau này. Nếu có bất kỳ câu hỏi nào, anh/chị cứ gọi cho em bất cứ lúc nào nhé. Em luôn sẵn sàng hỗ trợ ạ.
+
+2025-06-27 18:45:12 - INFO - Người dùng: Ờ, để tôi xem sao. Chị cứ gửi tài liệu cho tôi đi. Có gì tôi gọi lại.
+
+2025-06-27 18:45:12 - INFO - Kẻ lừa đảo: Dạ vâng, em đã gửi tài liệu vào email của anh/chị rồi đó ạ. Anh/chị kiểm tra xem đã nhận được chưa nhé. Trong email có đầy đủ thông tin về công ty B.T.C, quy trình mở tài khoản và đầu tư, cũng như các điều khoản và điều kiện liên quan.
+
+Nếu anh/chị có bất kỳ thắc mắc nào, đừng ngần ngại gọi cho em nhé. Em sẽ luôn sẵn lòng giải đáp và hỗ trợ anh/chị. Em chúc anh/chị một ngày tốt lành ạ.
+
+2025-06-27 18:45:12 - INFO - Người dùng: Tôi nhận được rồi. Cảm ơn chị nha. Có gì tôi gọi lại sau.
+
+2025-06-27 18:45:12 - INFO - Kẻ lừa đảo: Dạ vâng ạ. À, anh/chị ơi, em xin phép hỏi thêm một câu nhỏ nữa thôi ạ. Để em có thể chuẩn bị hồ sơ trước cho anh/chị, mình dự định sẽ bắt đầu đầu tư trong khoảng thời gian nào ạ? Khoảng một, hai ngày tới hay là lâu hơn ạ?
+
+2025-06-27 18:45:12 - INFO - Người dùng: Để tôi xem đã chị ơi, chắc cũng phải vài ngày nữa tôi mới quyết định được. Tại tôi cũng phải xoay tiền nữa. Với lại tôi cũng phải hỏi ý kiến người nhà nữa chứ có phải một mình tôi quyết định được đâu.
+
+2025-06-27 18:45:12 - INFO - Kẻ lừa đảo: Dạ vâng, em hiểu ạ. Vậy thì em xin phép ghi chú lại là anh/chị dự kiến sẽ bắt đầu đầu tư trong khoảng một tuần tới nhé. Để em tiện theo dõi và hỗ trợ anh/chị tốt hơn.
+
+Tuy nhiên, em cũng xin phép nhắc lại một lần nữa là cơ hội đầu tư vào cổ phiếu B.T.C này có thể kết thúc sớm hơn dự kiến, vì số lượng cổ phiếu có hạn và nhiều nhà đầu tư khác cũng đang rất quan tâm. Nếu anh/chị quyết định tham gia, em khuyên mình nên tranh thủ đăng ký sớm để giữ chỗ nhé.
+
+Nếu anh/chị cần thêm thông tin gì hoặc muốn em hỗ trợ đăng ký trước, cứ gọi cho em bất cứ lúc nào ạ. Em luôn sẵn sàng giúp đỡ.
+
+2025-06-27 18:45:12 - INFO - Người dùng: Ừ, cảm ơn chị. Để tôi xem sao đã. Chắc là không cần đăng ký trước đâu, khi nào quyết định thì tôi gọi cho chị.
+
+2025-06-27 18:45:12 - INFO - Kẻ lừa đảo: Dạ vâng, tùy anh/chị quyết định ạ. Nhưng em vẫn muốn nhấn mạnh là việc đăng ký trước không mất gì cả, mà lại giúp anh/chị chắc chắn giữ được cơ hội đầu tư này. Nếu anh/chị đổi ý, chỉ cần báo lại với em là được ạ.
+
+Thôi được rồi, em không làm phiền anh/chị nữa. Em chúc anh/chị có một buổi tối vui vẻ và đưa ra quyết định sáng suốt nhé. Có gì cứ gọi cho em ạ. Em chào anh/chị.
+
+2025-06-27 18:45:12 - INFO - Người dùng: Ừ, chào chị. Để tôi suy nghĩ đã.
+
+2025-06-27 18:45:12 - INFO - Kẻ lừa đảo: Dạ vâng ạ. Em chào anh/chị. À, trước khi kết thúc cuộc gọi, em xin phép xác nhận lại một chút thông tin để đảm bảo là em đã ghi nhận chính xác ạ. Anh/chị tên là gì ạ?
+
+2025-06-27 18:45:12 - INFO - Người dùng: Tôi tên [Tên người dùng].
+
+2025-06-27 18:45:12 - INFO - Kẻ lừa đảo: Dạ, em cảm ơn anh [Tên người dùng]. Em xin phép nhắc lại là em đã gửi thông tin về gói đầu tư cổ phiếu công ty B.T.C vào email [địa chỉ email] của anh. Anh cứ xem kỹ rồi có gì liên hệ em theo số điện thoại [số điện thoại] nhé. Em là Thảo, chuyên viên tư vấn của quỹ V.I.P Capital. Em chúc anh một buổi tối tốt lành. Em chào anh ạ.
+
+2025-06-27 18:45:12 - INFO - Người dùng: Ờ, cảm ơn chị Thảo. Chào chị.
+
+2025-06-27 18:45:12 - INFO - Kẻ lừa đảo: Dạ, em chào anh. Em xin phép cúp máy ạ.
+
+2025-06-27 18:45:12 - INFO - Người dùng: Alo... 
+
+2025-06-27 18:45:12 - INFO - Hội thoại tts_fraud_00001 xử lý xong, lý do kết thúc: Người dùng chủ động ngắt máy sau khi đã kéo dài cuộc trò chuyện khá lâu (21 lượt). Mặc dù người dùng vẫn tỏ ra lịch sự và chưa từ chối thẳng thừng, nhưng việc ngắt máy đột ngột sau khi kẻ lừa đảo xin phép cúp máy cho thấy người dùng đã mất kiên nhẫn hoặc nghi ngờ về tính xác thực của cuộc gọi. Có thể người dùng muốn kết thúc cuộc trò chuyện một cách dứt khoát mà không cần phải đưa ra lời từ chối trực tiếp, tránh gây khó xử hoặc bị thuyết phục thêm.
+2025-06-27 18:45:12 - INFO - Đã lưu hội thoại đầy đủ vào D:\Du-an\TeleAntiFraud\multi-agents-tools\dataset\fraud_20250627_184238\full_dialogues\tts_fraud_00001.json
+2025-06-27 18:45:12 - INFO - 
+Thống kê tổng quan:
+- Tổng hội thoại thành công: 1
+- Tổng hội thoại lỗi: 0
+- Tỷ lệ thành công: 100.0%
+Phân bố độ tuổi: {22: 1}
+Phân bố nhận thức: {'thấp': 1}
+Phân bố loại lừa đảo: {'Đầu tư': 1}
+Phân bố bên kết thúc: {'right': 1}
+Phân bố nghề nghiệp: {'kinh doanh': 1}
+2025-06-27 18:45:12 - INFO - Tổng thời gian: 151.64 giây
+2025-06-27 18:48:32 - INFO - Bắt đầu sinh 1 hội thoại, model: gemini-2.0-flash, API: None
+2025-06-27 18:48:32 - INFO - Bắt đầu sinh hội thoại song song, số luồng: 3
+2025-06-27 18:48:32 - INFO - Bắt đầu sinh hội thoại tts_fraud_00001: age=18, awareness=thấp, fraud_type=Đầu tư
+2025-06-27 18:48:32 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:48:33 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:48:33 - INFO - Bắt đầu hội thoại
+2025-06-27 18:48:33 - INFO - Kẻ lừa đảo: Alo, em chào anh ạ. Em gọi từ bên quỹ đầu tư VMI. Mình là anh [Tên nạn nhân] đúng không ạ?
+
+2025-06-27 18:48:33 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:48:34 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:48:34 - INFO - Người dùng: Dạ đúng rồi, em là [Tên nạn nhân] đây ạ. Quỹ đầu tư VMI hả anh? Em chưa nghe bao giờ, có chuyện gì không ạ?
+
+2025-06-27 18:48:34 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:48:37 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:48:37 - INFO - Kẻ lừa đảo: Dạ vâng, em hiểu ạ. Bên em cũng mới triển khai chương trình này thôi. Chắc là anh cũng có quan tâm đến các kênh đầu tư để gia tăng thu nhập đúng không ạ? Bên em đang có một số gói đầu tư rất tiềm năng, đặc biệt phù hợp với những người bận rộn như mình ấy ạ.
+
+2025-06-27 18:48:37 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:48:38 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:48:38 - INFO - Người dùng: Đầu tư hả anh? Thì ai cũng muốn kiếm thêm thu nhập mà anh. Mà em làm văn phòng, cũng không rành mấy vụ này lắm. Anh nói rõ hơn được không ạ? Mà sao anh lại gọi cho em vậy ạ? Em có để lại thông tin ở đâu hả anh?
+
+2025-06-27 18:48:38 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:48:40 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:48:40 - INFO - Kẻ lừa đảo: Dạ, em gọi cho anh vì thấy anh có tham gia một group về tài chính cá nhân trên Facebook ấy ạ. Bên em thấy profile của anh khá phù hợp với chương trình đầu tư bên em. Anh yên tâm, bên em sẽ tư vấn và hỗ trợ mình từ A đến Z, kể cả anh là người mới bắt đầu ạ.
+
+2025-06-27 18:48:40 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:48:41 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:48:41 - INFO - Người dùng: À, ra là vậy. Em có tham gia mấy group đó thiệt. Mà đầu tư bên anh là đầu tư cái gì vậy ạ? Lãi suất thế nào anh? Có an toàn không anh? Em cũng hơi sợ mấy vụ rủi ro lắm.
+
+2025-06-27 18:48:41 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:48:42 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:48:42 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:48:44 - INFO - ✅ Gemini API response thành công
+2025-06-27 18:48:44 - INFO - Kẻ lừa đảo: Dạ vâng, em hiểu tâm lý của anh ạ. Đầu tư thì ai cũng muốn an toàn và sinh lời tốt đúng không ạ? Bên em hiện tại đang tập trung vào đầu tư vào các dự án bất động sản nghỉ dưỡng tiềm năng ở Đà Nẵng. Lãi suất dự kiến khoảng mười lăm đến hai mươi phần trăm một năm, tùy vào gói đầu tư anh chọn. Quan trọng là, bên em có đội ngũ chuyên gia phân tích và quản lý rủi ro rất kỹ càng, nên anh có thể yên tâm về tính an toàn ạ.
+
+2025-06-27 18:48:44 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:48:45 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:48:46 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:48:47 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:48:49 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:48:49 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:48:53 - WARNING - API request thất bại (lần thử 1): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:48:58 - INFO - Đang thử lại gọi API...
+2025-06-27 18:48:58 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:48:59 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:49:00 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:49:00 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:49:02 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:49:04 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:49:08 - WARNING - API request thất bại (lần thử 2): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:49:13 - INFO - Đang thử lại gọi API...
+2025-06-27 18:49:13 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:49:13 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:49:14 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:49:15 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:49:17 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:49:18 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:49:22 - WARNING - API request thất bại (lần thử 3): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:49:27 - INFO - Đang thử lại gọi API...
+2025-06-27 18:49:27 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:49:28 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:49:29 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:49:30 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:49:32 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:49:34 - WARNING - 🚫 Rate limit (429), đợi 4s...
+2025-06-27 18:49:38 - WARNING - API request thất bại (lần thử 4): Phản hồi trống hoặc không hợp lệ
+2025-06-27 18:49:43 - INFO - Đang thử lại gọi API...
+2025-06-27 18:49:43 - INFO - Gửi request tới Gemini API (lần thử 1/3)
+2025-06-27 18:49:43 - WARNING - 🚫 Rate limit (429), đợi 1s...
+2025-06-27 18:49:44 - INFO - Gửi request tới Gemini API (lần thử 2/3)
+2025-06-27 18:49:45 - WARNING - 🚫 Rate limit (429), đợi 2s...
+2025-06-27 18:49:47 - INFO - Gửi request tới Gemini API (lần thử 3/3)
+2025-06-27 18:49:48 - WARNING - 🚫 Rate limit (429), đợi 4s...
