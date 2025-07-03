@@ -7,9 +7,7 @@ Hệ thống tích hợp sinh dataset hội thoại lừa đảo viễn thông v
 ```
 generator/
 ├── dataset_generator.py    # Script chính sinh dataset
-├── quick_generate.py      # Script sinh nhanh với cấu hình có sẵn
-├── README.md             # Hướng dẫn sử dụng
-└── batch_configs/        # Các file cấu hình batch
+└── README.md             # Hướng dẫn sử dụng
 
 dataset/                  # Thư mục chứa dataset được sinh
 ├── fraud_YYYYMMDD_HHMMSS/
@@ -46,7 +44,7 @@ dataset/                  # Thư mục chứa dataset được sinh
 ### Yêu cầu
 - Python 3.8+
 - Các module: `pathlib`, `subprocess`, `logging`, `argparse`
-- API key và endpoint LLM (SiliconFlow, OpenAI, v.v.)
+- API key và endpoint LLM (SiliconFlow, OpenAI, Google Gemini v.v.)
 
 ### 1. Cách sử dụng cơ bản
 

@@ -1,7 +1,3 @@
-# ==================================
-# TeleAntiFraud Project .gitignore
-# ==================================
-
 # ============================
 # Dataset Files (Keep Local)
 # ============================
@@ -183,17 +179,6 @@ docs/_build/
 docs/build/
 site/
 
-# ============================
-# Jupyter Notebook
-# ============================
-.ipynb_checkpoints
-*/.ipynb_checkpoints/*
-
-# ============================
-# Research Papers & Large Files
-# ============================
-# PDF files (thường là papers, có thể lớn)
-*.pdf
 
 # ============================
 # Node.js (nếu có frontend)
@@ -242,16 +227,10 @@ mass_dataset_*/
 # Batch generation
 batch_*/
 
-# Old/unused files
-main.py
-main_new.py
-debug_test.py
-dialogue_output.json
-
-# ============================
-# Keep these patterns but exclude
-# ============================
-# Nếu muốn giữ một số file cụ thể, dùng !filename
-# Ví dụ:
-# !important_dataset.json
-# !README_dataset.md
+# Test & Debug Files (Temporary)
+test_*.py
+**/test_*.py
+debug_*.py
+**/debug_*.py
+temp_*.py
+**/temp_*.py

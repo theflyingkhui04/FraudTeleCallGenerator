@@ -35,7 +35,7 @@ class DatasetGenerator:
         
         # Tạo thư mục dataset
         self.dataset_dir.mkdir(exist_ok=True)
-          # Cấu hình logging với encoding an toàn cho Windows
+        # Cấu hình logging với encoding an toàn cho Windows
         log_file = self.dataset_dir / f"generator_log_{self.timestamp}.log"
         
         # Tạo formatter với encoding UTF-8
@@ -48,7 +48,7 @@ class DatasetGenerator:
         # Stream handler với UTF-8 (Windows safe)
         stream_handler = logging.StreamHandler(sys.stdout)
         stream_handler.setFormatter(formatter)
-          # Configure root logger
+        # Configure root logger
         logging.basicConfig(
             level=logging.INFO,
             handlers=[file_handler, stream_handler],
@@ -71,7 +71,8 @@ class DatasetGenerator:
         full_dir = fraud_dir / "full_dialogues"
         full_dir.mkdir(exist_ok=True)
         
-        output_file = fraud_dir / "fraud_conversations.jsonl"        # Command để chạy script lừa đảo
+        output_file = fraud_dir / "fraud_conversations.jsonl"   
+        # Command để chạy script lừa đảo
         cmd = [
             sys.executable, str(self.fraud_script),
             "--count", str(count),
@@ -79,7 +80,7 @@ class DatasetGenerator:
             "--full_output_dir", str(full_dir),
             "--api_key", self.api_key,
             "--model", self.model,
-            "--workers", "3",
+            "--workers", "1",
             "--max_turns", "25"
         ]
         # Chỉ thêm base_url nếu được cung cấp (không phải Gemini)
@@ -405,19 +406,20 @@ class DatasetGenerator:
 def main():
     parser = argparse.ArgumentParser(
         description="Sinh dataset hội thoại lừa đảo và bình thường",
-        formatter_class=argparse.RawDescriptionHelpFormatter,        epilog="""
-Ví dụ sử dụng:
-  # Sinh 1000 hội thoại cân bằng (50% lừa đảo, 50% bình thường)
-  python dataset_generator.py --total 1000 --api_key YOUR_GEMINI_KEY --model gemini-2.0-flash
+        formatter_class=argparse.RawDescriptionHelpFormatter,        
+        epilog="""
+        Ví dụ sử dụng:
+        # Sinh 1000 hội thoại cân bằng (50% lừa đảo, 50% bình thường)
+        python dataset_generator.py --total 1000 --api_key YOUR_GEMINI_KEY --model gemini-2.0-flash
 
-  # Sinh 500 hội thoại với 70% lừa đảo
-  python dataset_generator.py --total 500 --fraud_ratio 0.7 --api_key YOUR_GEMINI_KEY --model gemini-2.0-flash
+        # Sinh 500 hội thoại với 70% lừa đảo
+        python dataset_generator.py --total 500 --fraud_ratio 0.7 --api_key YOUR_GEMINI_KEY --model gemini-2.0-flash
 
-  # Chỉ sinh hội thoại lừa đảo
-  python dataset_generator.py --fraud_only 300 --api_key YOUR_GEMINI_KEY --model gemini-2.0-flash
+        # Chỉ sinh hội thoại lừa đảo
+        python dataset_generator.py --fraud_only 300 --api_key YOUR_GEMINI_KEY --model gemini-2.0-flash
 
-  # Chỉ sinh hội thoại bình thường
-  python dataset_generator.py --normal_only 200 --api_key YOUR_GEMINI_KEY --model gemini-2.0-flash
+        # Chỉ sinh hội thoại bình thường
+        python dataset_generator.py --normal_only 200 --api_key YOUR_GEMINI_KEY --model gemini-2.0-flash
         """
     )
     
