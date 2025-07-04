@@ -3747,3 +3747,188 @@ Phân bố loại hội thoại: {'Tư vấn dịch vụ khách hàng': 1, 'Đ�
 Phân bố bên kết thúc: {'left': 0, 'right': 0, 'natural': 1}
 Phân bố nghề nghiệp: {'Học sinh/Sinh viên': 1, 'Giáo viên': 0, 'Kỹ sư': 0, 'Bác sĩ': 0, 'Người đã nghỉ hưu': 0, 'Thất nghiệp': 0, 'Chủ doanh nghiệp': 0, 'Nhân viên văn phòng': 0, 'Nông dân': 0, 'Nhân viên dịch vụ': 0}
 2025-07-03 15:24:28 - INFO - Tổng thời gian: 35.99 giây
+2025-07-04 21:23:17 - INFO - Bắt đầu sinh 1 hội thoại bình thường, model: gemini-2.0-flash, API: Gemini (built-in)
+2025-07-04 21:23:17 - INFO - Bắt đầu sinh hội thoại song song, số luồng: 3
+2025-07-04 21:23:17 - INFO - Bắt đầu sinh hội thoại tts_normal_00001: age=21, awareness=thấp, conversation_type=Tư vấn dịch vụ khách hàng
+2025-07-04 21:23:17 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:23:18 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:23:18 - INFO - Dialogue started
+2025-07-04 21:23:18 - INFO - Left: Alo, tôi là Lan, nhân viên tư vấn của VNPT, tôi có thể hỗ trợ gì cho anh/chị ạ?
+
+2025-07-04 21:23:18 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:23:20 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:23:20 - INFO - Right: À, Lan hả, cho mình hỏi về gói cước internet mới nhất bên mình với.
+
+2025-07-04 21:23:20 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:23:22 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:23:22 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:23:25 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:23:25 - INFO - Left: Dạ vâng, hiện tại VNPT đang có gói Home Mesh, tốc độ ba trăm megabit trên giây, giá chỉ hai trăm chín mươi chín nghìn đồng một tháng, đã bao gồm Wi-Fi Mesh phủ sóng toàn nhà, mình thấy gói này đang được nhiều khách hàng quan tâm đó ạ.
+
+2025-07-04 21:23:25 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:23:26 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:23:26 - INFO - Right: Giá đó là đã bao gồm VAT chưa Lan? Với lại lắp đặt có mất phí gì không?
+
+2025-07-04 21:23:26 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:23:28 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:23:28 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:23:30 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:23:30 - INFO - Left: Dạ giá này đã bao gồm VAT rồi ạ. Còn phí lắp đặt thì mình miễn phí hoàn toàn nếu anh/chị trả trước sáu tháng cước hoặc đóng trước một năm sẽ được tặng thêm hai tháng sử dụng nữa ạ.
+
+2025-07-04 21:23:30 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:23:31 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:23:31 - INFO - Right: Vậy nếu không trả trước thì phí lắp đặt là bao nhiêu nhỉ?
+
+2025-07-04 21:23:31 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:23:32 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:23:32 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:23:34 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:23:34 - INFO - Left: Nếu mình không trả trước thì phí lắp đặt là ba trăm nghìn đồng ạ. Anh/chị có muốn em tư vấn thêm về các ưu đãi khi trả trước để mình cân nhắc không ạ?
+
+2025-07-04 21:23:34 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:23:36 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:23:36 - INFO - Right: Ừ, nói rõ hơn cho mình về vụ trả trước đi.
+
+2025-07-04 21:23:36 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:23:38 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:23:38 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:23:40 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:23:40 - INFO - Left: Dạ, nếu mình trả trước sáu tháng thì mình sẽ được miễn phí lắp đặt, tặng thêm một tháng cước sử dụng, còn nếu mình trả trước một năm thì mình cũng được miễn phí lắp đặt và tặng thêm hai tháng cước sử dụng nữa ạ. Tính ra thì trả trước lợi hơn nhiều đó ạ.
+
+2025-07-04 21:23:40 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:23:42 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:23:42 - INFO - Right: Để mình xem lại rồi báo bạn sau nha. Cảm ơn Lan.
+
+2025-07-04 21:23:42 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:23:44 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:23:44 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:23:47 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:23:47 - INFO - Left: Dạ vâng ạ. Anh/chị cứ xem kỹ rồi có gì cần hỗ trợ thêm cứ gọi lại cho em theo số này nhé. Em là Lan, VNPT. Chúc anh/chị một ngày tốt lành ạ.##ENDCALL_SIGNAL##
+
+2025-07-04 21:23:47 - INFO - End signal detected, left agent actively ended the conversation
+2025-07-04 21:23:47 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:23:49 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:23:49 - INFO - Dialogue ended
+2025-07-04 21:23:49 - INFO - Hội thoại tts_normal_00001 hoàn thành, tổng 11 lượt
+2025-07-04 21:23:49 - INFO - Lịch sử hội thoại tts_normal_00001:
+2025-07-04 21:23:49 - INFO - Nhân viên dịch vụ: Alo, tôi là Lan, nhân viên tư vấn của VNPT, tôi có thể hỗ trợ gì cho anh/chị ạ?
+
+2025-07-04 21:23:49 - INFO - Khách hàng: À, Lan hả, cho mình hỏi về gói cước internet mới nhất bên mình với.
+
+2025-07-04 21:23:49 - INFO - Nhân viên dịch vụ: Dạ vâng, hiện tại VNPT đang có gói Home Mesh, tốc độ ba trăm megabit trên giây, giá chỉ hai trăm chín mươi chín nghìn đồng một tháng, đã bao gồm Wi-Fi Mesh phủ sóng toàn nhà, mình thấy gói này đang được nhiều khách hàng quan tâm đó ạ.
+
+2025-07-04 21:23:49 - INFO - Khách hàng: Giá đó là đã bao gồm VAT chưa Lan? Với lại lắp đặt có mất phí gì không?
+
+2025-07-04 21:23:49 - INFO - Nhân viên dịch vụ: Dạ giá này đã bao gồm VAT rồi ạ. Còn phí lắp đặt thì mình miễn phí hoàn toàn nếu anh/chị trả trước sáu tháng cước hoặc đóng trước một năm sẽ được tặng thêm hai tháng sử dụng nữa ạ.
+
+2025-07-04 21:23:49 - INFO - Khách hàng: Vậy nếu không trả trước thì phí lắp đặt là bao nhiêu nhỉ?
+
+2025-07-04 21:23:49 - INFO - Nhân viên dịch vụ: Nếu mình không trả trước thì phí lắp đặt là ba trăm nghìn đồng ạ. Anh/chị có muốn em tư vấn thêm về các ưu đãi khi trả trước để mình cân nhắc không ạ?
+
+2025-07-04 21:23:49 - INFO - Khách hàng: Ừ, nói rõ hơn cho mình về vụ trả trước đi.
+
+2025-07-04 21:23:49 - INFO - Nhân viên dịch vụ: Dạ, nếu mình trả trước sáu tháng thì mình sẽ được miễn phí lắp đặt, tặng thêm một tháng cước sử dụng, còn nếu mình trả trước một năm thì mình cũng được miễn phí lắp đặt và tặng thêm hai tháng cước sử dụng nữa ạ. Tính ra thì trả trước lợi hơn nhiều đó ạ.
+
+2025-07-04 21:23:49 - INFO - Khách hàng: Để mình xem lại rồi báo bạn sau nha. Cảm ơn Lan.
+
+2025-07-04 21:23:49 - INFO - Nhân viên dịch vụ: Dạ vâng ạ. Anh/chị cứ xem kỹ rồi có gì cần hỗ trợ thêm cứ gọi lại cho em theo số này nhé. Em là Lan, VNPT. Chúc anh/chị một ngày tốt lành ạ.
+
+2025-07-04 21:23:49 - INFO - Hội thoại tts_normal_00001 xử lý xong, lý do kết thúc: Left chủ động kết thúc cuộc hội thoại vì đã cung cấp đầy đủ thông tin về các gói cước và ưu đãi trả trước cho Right. Right cũng đã bày tỏ ý định xem xét lại và sẽ liên hệ lại nếu cần thêm thông tin. Left đã chủ động kết thúc một cách lịch sự bằng cách nhắc lại thông tin liên lạc và chúc Right một ngày tốt lành. Điều này cho thấy Left đã hoàn thành nhiệm vụ tư vấn và thể hiện sự chuyên nghiệp.
+2025-07-04 21:23:49 - INFO - Đã lưu hội thoại đầy đủ vào D:\Du-an\TeleAntiFraud\multi-agents-tools\dataset\normal_20250704_212033\full_dialogues\tts_normal_00001.json
+2025-07-04 21:23:49 - INFO - Hoàn thành! Đã sinh 1 hội thoại, thành công: 1, thất bại: 0, đã lưu vào D:\Du-an\TeleAntiFraud\multi-agents-tools\dataset\normal_20250704_212033\normal_conversations.jsonl
+2025-07-04 21:23:49 - INFO - 
+Thống kê phân phối:
+Phân bố độ tuổi: {'18-25': 1, '26-40': 0, '41-55': 0, '56-70': 0}
+Phân bố mức độ cảnh giác: {'thấp': 1, 'trung bình': 0, 'cao': 0}
+Phân bố loại hội thoại: {'Tư vấn dịch vụ khách hàng': 1, 'Đặt đồ ăn': 0, 'Đặt lịch hẹn': 0, 'Tư vấn giao thông': 0, 'Mua sắm trực tuyến': 0, 'Dịch vụ sửa chữa': 0, 'Gọi taxi': 0, 'Tư vấn bảo hiểm': 0}
+Phân bố bên kết thúc: {'left': 1, 'right': 0, 'natural': 0}
+Phân bố nghề nghiệp: {'Học sinh/Sinh viên': 0, 'Giáo viên': 0, 'Kỹ sư': 0, 'Bác sĩ': 0, 'Người đã nghỉ hưu': 0, 'Thất nghiệp': 0, 'Chủ doanh nghiệp': 0, 'Nhân viên văn phòng': 1, 'Nông dân': 0, 'Nhân viên dịch vụ': 0}
+2025-07-04 21:23:49 - INFO - Tổng thời gian: 31.77 giây
+2025-07-04 21:34:03 - INFO - Bắt đầu sinh 1 hội thoại bình thường, model: gemini-2.0-flash, API: Gemini (built-in)
+2025-07-04 21:34:03 - INFO - Bắt đầu sinh hội thoại song song, số luồng: 3
+2025-07-04 21:34:03 - INFO - Bắt đầu sinh hội thoại tts_normal_00001: age=20, awareness=thấp, conversation_type=Tư vấn dịch vụ khách hàng
+2025-07-04 21:34:03 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:34:04 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:34:04 - INFO - Dialogue started
+2025-07-04 21:34:04 - INFO - Left: Alo, tôi là Lan, nhân viên tư vấn của Viettel, tôi có thể hỗ trợ gì cho anh/chị ạ?
+2025-07-04 21:34:04 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:34:05 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:34:05 - INFO - Right: À vâng, em muốn hỏi về gói cước 5G của Viettel ạ.
+2025-07-04 21:34:05 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:34:07 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:34:07 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:34:08 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:34:08 - INFO - Left: Dạ vâng, hiện tại Viettel có nhiều gói cước năm G khác nhau, mình muốn tìm gói có dung lượng data lớn hay ưu đãi về gọi thoại ạ? Hoặc mình có thể cho em biết nhu cầu sử dụng của mình để em tư vấn gói phù hợp nhất được không ạ?
+2025-07-04 21:34:08 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:34:09 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:34:09 - INFO - Right: Em chủ yếu dùng data thôi, xem video với lướt mạng xã hội nhiều. Chắc là cần gói nào nhiều data một chút.
+2025-07-04 21:34:09 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:34:11 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:34:11 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:34:13 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:34:13 - INFO - Left: Dạ vâng, vậy thì em xin giới thiệu gói Super Data ạ. Gói này có ưu đãi là một trăm năm mươi GB data tốc độ cao mỗi tháng, dùng thoải mái xem video và lướt mạng xã hội ạ. Giá gói là một trăm hai mươi nghìn đồng một tháng thôi ạ. Mình thấy gói này có phù hợp với nhu cầu của mình không ạ?
+2025-07-04 21:34:13 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:34:14 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:34:14 - INFO - Right: 150 GB một tháng là dùng thoải mái luôn á chị. Gói này có giới hạn dung lượng dùng mỗi ngày không ạ? Với cả hết 150 GB thì có bị tính phí phát sinh không chị?
+2025-07-04 21:34:14 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:34:15 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:34:15 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:34:17 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:34:17 - INFO - Left: Dạ, gói Super Data này không giới hạn dung lượng sử dụng mỗi ngày ạ, mình dùng bao nhiêu tùy thích trong tháng, miễn là không vượt quá một trăm năm mươi GB thôi ạ. Hết dung lượng thì mình vẫn có thể truy cập internet ở tốc độ thường, không bị tính phí phát sinh chị nhé.
+2025-07-04 21:34:17 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:34:18 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:34:18 - INFO - Right: Vậy tốc độ thường là bao nhiêu vậy ạ? Chậm lắm không chị?
+2025-07-04 21:34:18 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:34:20 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:34:20 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:34:21 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:34:21 - INFO - Left: Dạ, tốc độ thường thì mình vẫn có thể đọc báo, nhắn tin được ạ, nhưng xem video thì hơi khó một chút ạ. Nếu mình có nhu cầu dùng data nhiều thì em khuyên mình nên đăng ký thêm gói data bổ sung để đảm bảo tốc độ cao ạ. Bên em cũng có nhiều gói data bổ sung giá cả phải chăng lắm ạ.
+2025-07-04 21:34:21 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:34:23 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:34:23 - INFO - Right: Chắc em dùng gói 150GB là đủ rồi. Mà gói này đăng ký như thế nào vậy ạ? Với lại em thanh toán bằng Momo được không chị?
+2025-07-04 21:34:23 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:34:25 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:34:25 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:34:27 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:34:27 - INFO - Left: Dạ vâng, để đăng ký gói Super Data thì mình có thể soạn tin nhắn theo cú pháp SD dấu cách gửi một chín một ạ. Hoặc là mình có thể đăng ký trực tiếp qua ứng dụng My Viettel cũng được ạ. Về thanh toán thì mình hoàn toàn có thể thanh toán bằng Momo qua ứng dụng My Viettel chị nhé. Rất tiện lợi luôn ạ.
+2025-07-04 21:34:27 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:34:27 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:34:27 - INFO - Right: Để em thử đăng ký xem sao. Cảm ơn chị Lan nha.
+2025-07-04 21:34:27 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:34:29 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:34:29 - INFO - Manager terminated the conversation: Người dùng đã nhận được đầy đủ thông tin về gói cước và cách đăng ký. Hội thoại đã kết thúc tự nhiên khi người dùng cảm ơn và cho biết sẽ tự đăng ký.
+2025-07-04 21:34:29 - INFO - Termination type: Natural end
+2025-07-04 21:34:29 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:34:31 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:34:31 - INFO - Left ended: Dạ, em đã hướng dẫn chi tiết cách đăng ký và thanh toán gói Super Data rồi đó ạ. Mình còn thắc mắc gì nữa không ạ? Nếu không thì em xin phép kết thúc cuộc gọi tại đây. Cảm ơn anh/chị đã sử dụng dịch vụ của Viettel. Chúc anh/chị một ngày tốt lành ạ. ##ENDCALL_SIGNAL##
+2025-07-04 21:34:31 - INFO - Gửi request tới Gemini API (lần thử 1/5)
+2025-07-04 21:34:33 - INFO - ✅ Gemini API response thành công
+2025-07-04 21:34:33 - INFO - Right ended: Em không còn gì nữa ạ. Em cảm ơn chị, tạm biệt chị.
+2025-07-04 21:34:33 - INFO - Dialogue ended
+2025-07-04 21:34:33 - INFO - Hội thoại tts_normal_00001 hoàn thành, tổng 14 lượt
+2025-07-04 21:34:33 - INFO - Lịch sử hội thoại tts_normal_00001:
+2025-07-04 21:34:33 - INFO - Nhân viên dịch vụ: Alo, tôi là Lan, nhân viên tư vấn của Viettel, tôi có thể hỗ trợ gì cho anh/chị ạ?
+2025-07-04 21:34:33 - INFO - Khách hàng: À vâng, em muốn hỏi về gói cước 5G của Viettel ạ.
+2025-07-04 21:34:33 - INFO - Nhân viên dịch vụ: Dạ vâng, hiện tại Viettel có nhiều gói cước năm G khác nhau, mình muốn tìm gói có dung lượng data lớn hay ưu đãi về gọi thoại ạ? Hoặc mình có thể cho em biết nhu cầu sử dụng của mình để em tư vấn gói phù hợp nhất được không ạ?
+2025-07-04 21:34:33 - INFO - Khách hàng: Em chủ yếu dùng data thôi, xem video với lướt mạng xã hội nhiều. Chắc là cần gói nào nhiều data một chút.
+2025-07-04 21:34:33 - INFO - Nhân viên dịch vụ: Dạ vâng, vậy thì em xin giới thiệu gói Super Data ạ. Gói này có ưu đãi là một trăm năm mươi GB data tốc độ cao mỗi tháng, dùng thoải mái xem video và lướt mạng xã hội ạ. Giá gói là một trăm hai mươi nghìn đồng một tháng thôi ạ. Mình thấy gói này có phù hợp với nhu cầu của mình không ạ?
+2025-07-04 21:34:33 - INFO - Khách hàng: 150 GB một tháng là dùng thoải mái luôn á chị. Gói này có giới hạn dung lượng dùng mỗi ngày không ạ? Với cả hết 150 GB thì có bị tính phí phát sinh không chị?
+2025-07-04 21:34:33 - INFO - Nhân viên dịch vụ: Dạ, gói Super Data này không giới hạn dung lượng sử dụng mỗi ngày ạ, mình dùng bao nhiêu tùy thích trong tháng, miễn là không vượt quá một trăm năm mươi GB thôi ạ. Hết dung lượng thì mình vẫn có thể truy cập internet ở tốc độ thường, không bị tính phí phát sinh chị nhé.
+2025-07-04 21:34:33 - INFO - Khách hàng: Vậy tốc độ thường là bao nhiêu vậy ạ? Chậm lắm không chị?
+2025-07-04 21:34:33 - INFO - Nhân viên dịch vụ: Dạ, tốc độ thường thì mình vẫn có thể đọc báo, nhắn tin được ạ, nhưng xem video thì hơi khó một chút ạ. Nếu mình có nhu cầu dùng data nhiều thì em khuyên mình nên đăng ký thêm gói data bổ sung để đảm bảo tốc độ cao ạ. Bên em cũng có nhiều gói data bổ sung giá cả phải chăng lắm ạ.
+2025-07-04 21:34:33 - INFO - Khách hàng: Chắc em dùng gói 150GB là đủ rồi. Mà gói này đăng ký như thế nào vậy ạ? Với lại em thanh toán bằng Momo được không chị?
+2025-07-04 21:34:33 - INFO - Nhân viên dịch vụ: Dạ vâng, để đăng ký gói Super Data thì mình có thể soạn tin nhắn theo cú pháp SD dấu cách gửi một chín một ạ. Hoặc là mình có thể đăng ký trực tiếp qua ứng dụng My Viettel cũng được ạ. Về thanh toán thì mình hoàn toàn có thể thanh toán bằng Momo qua ứng dụng My Viettel chị nhé. Rất tiện lợi luôn ạ.
+2025-07-04 21:34:33 - INFO - Khách hàng: Để em thử đăng ký xem sao. Cảm ơn chị Lan nha.
+2025-07-04 21:34:33 - INFO - Nhân viên dịch vụ: Dạ, em đã hướng dẫn chi tiết cách đăng ký và thanh toán gói Super Data rồi đó ạ. Mình còn thắc mắc gì nữa không ạ? Nếu không thì em xin phép kết thúc cuộc gọi tại đây. Cảm ơn anh/chị đã sử dụng dịch vụ của Viettel. Chúc anh/chị một ngày tốt lành ạ. 
+2025-07-04 21:34:33 - INFO - Khách hàng: Em không còn gì nữa ạ. Em cảm ơn chị, tạm biệt chị.
+2025-07-04 21:34:33 - INFO - Hội thoại tts_normal_00001 xử lý xong, lý do kết thúc: Người dùng đã nhận được đầy đủ thông tin về gói cước và cách đăng ký...
+2025-07-04 21:34:33 - INFO - Đã lưu hội thoại đầy đủ vào D:\Du-an\TeleAntiFraud\multi-agents-tools\dataset\normal_20250704_213314\full_dialogues\tts_normal_00001.json
+2025-07-04 21:34:33 - INFO - Hoàn thành! Đã sinh 1 hội thoại, thành công: 1, thất bại: 0, đã lưu vào D:\Du-an\TeleAntiFraud\multi-agents-tools\dataset\normal_20250704_213314\normal_conversations.jsonl
+2025-07-04 21:34:33 - INFO - 
+Thống kê phân phối:
+Phân bố độ tuổi: {'18-25': 1, '26-40': 0, '41-55': 0, '56-70': 0}
+Phân bố mức độ cảnh giác: {'thấp': 1, 'trung bình': 0, 'cao': 0}
+Phân bố loại hội thoại: {'Tư vấn dịch vụ khách hàng': 1, 'Đặt đồ ăn': 0, 'Đặt lịch hẹn': 0, 'Tư vấn giao thông': 0, 'Mua sắm trực tuyến': 0, 'Dịch vụ sửa chữa': 0, 'Gọi taxi': 0, 'Tư vấn bảo hiểm': 0}
+Phân bố bên kết thúc: {'left': 0, 'right': 0, 'natural': 1}
+Phân bố nghề nghiệp: {'Học sinh/Sinh viên': 1, 'Giáo viên': 0, 'Kỹ sư': 0, 'Bác sĩ': 0, 'Người đã nghỉ hưu': 0, 'Thất nghiệp': 0, 'Chủ doanh nghiệp': 0, 'Nhân viên văn phòng': 0, 'Nông dân': 0, 'Nhân viên dịch vụ': 0}
+2025-07-04 21:34:33 - INFO - Tổng thời gian: 30.07 giây

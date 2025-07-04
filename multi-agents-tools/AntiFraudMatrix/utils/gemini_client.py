@@ -117,12 +117,13 @@ class GeminiClient:
                 
                 if response.status_code == 200:
                     result = response.json()
-                    
-                    # Parse response
+                      # Parse response
                     if "candidates" in result and len(result["candidates"]) > 0:
                         candidate = result["candidates"][0]
                         if "content" in candidate and "parts" in candidate["content"]:
                             text = candidate["content"]["parts"][0].get("text", "")
+                            # Normalize newlines để đảm bảo JSONL format đúng
+                            text = text.replace('\n', ' ').replace('\r', ' ').strip()
                             self.logger.info("✅ Gemini API response thành công")
                             return text
                     
