@@ -1,0 +1,12 @@
+# TTS Generator Requirements
+
+# TTS Engines
+gtts>=2.3.0              # Google Text-to-Speech (online)
+pyttsx3>=2.90            # Offline TTS engine
+
+# Core dependencies
+pathlib2>=2.3.0
+
+# Optional: Advanced TTS
+# azure-cognitiveservices-speech>=1.30.0  # Azure Speech Services
+# speechsdk>=1.30.0                       # Microsoft Speech SDK
