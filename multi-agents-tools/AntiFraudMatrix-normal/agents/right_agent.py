@@ -20,7 +20,7 @@ class RightAgent(BaseAgent):
         )
         self.user_profile = user_profile or {
             "age": 35,
-            "communication_style": "medium",  # low, medium, high
+            "communication_style": "medium",  # thấp, trung bình, cao
             "occupation": "office_worker"
         }
         self.retry_delay = retry_delay

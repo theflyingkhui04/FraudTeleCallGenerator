@@ -6,7 +6,7 @@ OPENAI_BASE_URL = ""  # Không cần base_url cho Gemini
 DEFAULT_MODEL = "gemini-2.0-flash"  # Model Gemini mặc định
 FALLBACK_MODEL = "gemini-2.0-flash"  # Backup model
 
-# 对话配置
+# Conversation configuration
 MAX_DIALOGUE_TURNS = 20
 MAX_TOKENS_PER_MESSAGE = 500
 
@@ -85,7 +85,7 @@ FRAUD_TYPE_DESCRIPTIONS = {
     "Lừa đảo mua bán": "Lừa đảo trong giao dịch mua bán online, ship COD giả"
 }
 
-# 用户画像配置
+# Thông tin người dùng mẫu để kiểm tra
 USER_PROFILES = {
     "elderly": {
         "age": 70,

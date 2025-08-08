@@ -242,17 +242,17 @@ def main():
     
     args = parser.parse_args()
     
-    # Create output directory
+    # tạo đường dẫn đầu ra
     os.makedirs(args.output_dir, exist_ok=True)
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     
-    # Initialize generator
+    # khởi tạo generator
     generator = OptimizedDialogueGenerator(
         args.api_key, args.base_url, args.model, 
         args.max_workers, args.delay
     )
     
-    # Generate fraud dialogues
+    # tạo cuộc hội thoại lừa đảo
     if args.fraud_count > 0:
         print(f"Generating {args.fraud_count} fraud dialogues...")
         fraud_tasks = create_fraud_tasks(args.fraud_count)
@@ -260,7 +260,7 @@ def main():
         fraud_results = generator.generate_batch(fraud_tasks, fraud_output)
         print(f"Fraud dialogues: {fraud_results['success_count']} success, {fraud_results['error_count']} errors")
     
-    # Generate normal dialogues
+    # tạo cuộc hội thoại bình thường
     if args.normal_count > 0:
         print(f"Generating {args.normal_count} normal dialogues...")
         normal_tasks = create_normal_tasks(args.normal_count)
