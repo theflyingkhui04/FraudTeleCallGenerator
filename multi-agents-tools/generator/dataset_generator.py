@@ -25,13 +25,13 @@ class DatasetGenerator:
         self.base_url = base_url or ""  # Empty string for Gemini
         self.model = model
         self.timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        
+
         # Đường dẫn các thư mục
         self.current_dir = Path(__file__).parent
         self.project_root = self.current_dir.parent
         self.dataset_dir = self.project_root / "dataset"
-        self.fraud_script = self.project_root / "AntiFraudMatrix" / "generate_dialogues.py"
-        self.normal_script = self.project_root / "AntiFraudMatrix-normal" / "generate_normal_dialogues.py"
+        self.fraud_script = self.project_root / "FraudTeleCallGenerator" / "generate_dialogues.py"
+        self.normal_script = self.project_root / "NormalTeleCallGenerator" / "generate_normal_dialogues.py"
         
         # Tạo thư mục dataset
         self.dataset_dir.mkdir(exist_ok=True)

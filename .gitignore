@@ -4,12 +4,12 @@
 # Tất cả dataset giữ local, không upload lên GitHub
 multi-agents-tools/dataset/
 multi-agents-tools/generator/dataset/
-multi-agents-tools/AntiFraudMatrix/results/
-multi-agents-tools/AntiFraudMatrix/full_dialogues/
-multi-agents-tools/AntiFraudMatrix/test_full_dialogues/
-multi-agents-tools/AntiFraudMatrix/test_full_fixed/
-multi-agents-tools/AntiFraudMatrix-normal/results/
-multi-agents-tools/AntiFraudMatrix-normal/full_dialogues/
+multi-agents-tools/FraudTeleCallGenerator/results/
+multi-agents-tools/FraudTeleCallGenerator/full_dialogues/
+multi-agents-tools/FraudTeleCallGenerator/test_full_dialogues/
+multi-agents-tools/FraudTeleCallGenerator/test_full_fixed/
+multi-agents-tools/NormalTeleCallGenerator/results/
+multi-agents-tools/NormalTeleCallGenerator/full_dialogues/
 
 # Dataset files với pattern
 **/fraud_*.json
@@ -27,8 +27,8 @@ multi-agents-tools/AntiFraudMatrix-normal/full_dialogues/
 # Log Files
 # ============================
 *.log
-multi-agents-tools/AntiFraudMatrix/logs/
-multi-agents-tools/AntiFraudMatrix-normal/logs/
+multi-agents-tools/FraudTeleCallGenerator/logs/
+multi-agents-tools/NormalTeleCallGenerator/logs/
 multi-agents-tools/generator/run.log
 **/generate_*.log
 **/generator_log_*.log

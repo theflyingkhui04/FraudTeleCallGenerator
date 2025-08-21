@@ -80,10 +80,10 @@ Hệ thống hiện hỗ trợ **15 loại lừa đảo** phổ biến tại Vi�
 ## Cấu trúc dự án
 
 ```
-TeleAntiFraud/
+FraudTeleCallGenerator/
 ├── multi-agents-tools/
-│   ├── AntiFraudMatrix/          # Tạo hội thoại lừa đảo
-│   ├── AntiFraudMatrix-normal/   # Tạo hội thoại bình thường
+│   ├── FraudTeleCallGenerator/   # Tạo hội thoại lừa đảo
+│   ├── NormalTeleCallGenerator/  # Tạo hội thoại bình thường
 │   └── generator/                # Generator tổng hợp
 ├── README.md
 └── .gitignore
@@ -114,7 +114,7 @@ TeleAntiFraud/
 
 ## Tài liệu
 
-- [Hướng dẫn tạo dataset](multi-agents-tools/AntiFraudMatrix/DATASET_GENERATION_GUIDE.md)
+- [Hướng dẫn tạo dataset](multi-agents-tools/FraudTeleCallGenerator/DATASET_GENERATION_GUIDE.md)
 
 ## Giấy phép
 

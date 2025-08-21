@@ -143,8 +143,8 @@ python quick_generate.py
 ## Tích hợp với hệ thống hiện tại
 
 Generator tự động gọi các script hiện có:
-- `../AntiFraudMatrix/generate_dialogues.py` - Sinh hội thoại lừa đảo
-- `../AntiFraudMatrix-normal/generate_normal_dialogues.py` - Sinh hội thoại bình thường
+- `../FraudTeleCallGenerator/generate_dialogues.py` - Sinh hội thoại lừa đảo
+- `../NormalTeleCallGenerator/generate_normal_dialogues.py` - Sinh hội thoại bình thường
 
 Đảm bảo các script này hoạt động đúng với tham số:
 - `--count`: Số lượng hội thoại
@@ -186,12 +186,12 @@ STDERR: API key invalid
 ### 3. Test script con
 ```bash
 # Test script lừa đảo
-cd ../AntiFraudMatrix
+cd ../FraudTeleCallGenerator
 python generate_dialogues.py --count 1 --output test.jsonl \
   --full_output_dir test_full --api_key KEY --base_url URL --model MODEL
 
 # Test script bình thường  
-cd ../AntiFraudMatrix-normal
+cd ../NormalTeleCallGenerator
 python generate_normal_dialogues.py --count 1 --output test.jsonl \
   --full_output_dir test_full --api_key KEY --base_url URL --model MODEL
 ```
