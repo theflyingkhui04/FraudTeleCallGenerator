@@ -38,7 +38,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-# Cấu hình tham số
+# Cấu hình tham số với stratified sampling cho normal calls
 AGE_RANGES = [
     (18, 25),  # Thanh niên
     (26, 40),  # Trung niên
@@ -46,22 +46,34 @@ AGE_RANGES = [
     (56, 70),  # Cao tuổi
 ]
 
-AWARENESS_LEVELS = ["thấp", "trung bình", "cao"]
+AWARENESS_LEVELS = config.AWARENESS_LEVELS
+CONVERSATION_TYPES = config.CONVERSATION_TYPES  
+OCCUPATIONS = config.OCCUPATIONS
 
-CONVERSATION_TYPES = [
-    "Tư vấn dịch vụ khách hàng", "Đặt đồ ăn", "Đặt lịch hẹn",
-    "Tư vấn giao thông", "Mua sắm trực tuyến", "Dịch vụ sửa chữa", 
-    "Gọi taxi", "Tư vấn bảo hiểm"
-]
-
-OCCUPATIONS = [
-    "Học sinh/Sinh viên", "Giáo viên", "Kỹ sư", "Bác sĩ", 
-    "Người đã nghỉ hưu", "Thất nghiệp", "Chủ doanh nghiệp", 
-    "Nhân viên văn phòng", "Nông dân", "Nhân viên dịch vụ"
-]
+def _choose_occupation_by_age(age_range):
+    """
+    Chọn nghề nghiệp chỉ dựa vào độ tuổi P(o|a) cho normal calls.
+    Conversation type không ảnh hưởng đến occupation choice.
+    
+    Args:
+        age_range: Tuple (min_age, max_age)
+    
+    Returns:
+        Nghề nghiệp phù hợp với độ tuổi
+    """
+    # Age-occupation mapping for realistic combinations
+    age_mapping = {
+        (18, 25): ["sinh viên", "nhân viên văn phòng", "tự do", "khác"],
+        (26, 40): ["nhân viên văn phòng", "kinh doanh", "giáo viên", "tự do", "khác"],  
+        (41, 55): ["kinh doanh", "giáo viên", "nhân viên văn phòng", "nội trợ", "khác"],
+        (56, 70): ["người nghỉ hưu", "nội trợ", "nông dân", "khác"]
+    }
+    
+    age_appropriate_occs = age_mapping.get(age_range, OCCUPATIONS)
+    return random.choice(age_appropriate_occs)
 
 def generate_dialogue(args, tts_id: str, user_age: int, user_awareness: str, conversation_type: str) -> Dict[str, Any]:
-    """Sinh một hội thoại và trả về kết quả"""
+    """Sinh một hội thoại và trả về kết quả (với P(o|a) cho normal calls)"""
     try:
         # Ghi log tham số hội thoại
         logger.info(f"Bắt đầu sinh hội thoại {tts_id}: age={user_age}, awareness={user_awareness}, conversation_type={conversation_type}")
@@ -73,8 +85,19 @@ def generate_dialogue(args, tts_id: str, user_age: int, user_awareness: str, con
             api_key=args.api_key
         )
         
-        # Random chọn nghề nghiệp
-        occupation = random.choice(OCCUPATIONS)
+        # Chọn nghề nghiệp theo P(o|a) - chỉ phụ thuộc vào tuổi
+        # Xác định age_range từ user_age cụ thể
+        user_age_range = None
+        for age_range in AGE_RANGES:
+            if age_range[0] <= user_age <= age_range[1]:
+                user_age_range = age_range
+                break
+        
+        if user_age_range is None:
+            # Fallback nếu user_age nằm ngoài ranges đã định nghĩa  
+            user_age_range = AGE_RANGES[0]  # Default to first range
+            
+        occupation = _choose_occupation_by_age(user_age_range)
         
         right_agent = RightAgent(
             model=args.model,
@@ -183,24 +206,29 @@ def main():
     if not os.path.exists(args.full_output_dir):
         os.makedirs(args.full_output_dir)
     
-    # Chuẩn bị danh sách nhiệm vụ
+    # Chuẩn bị danh sách nhiệm vụ theo stratified sampling (c,a,w) + P(o|a)
     tasks = []
     
-    # Đảm bảo phân phối đều các tham số
+    # Tạo tất cả combinations (conversation_type, age_range, awareness) 
+    # Khác với fraud generation: conversation_type không ảnh hưởng occupation choice
     combinations = []
-    for age_range in AGE_RANGES:
-        for awareness in AWARENESS_LEVELS:
-            for conv_type in CONVERSATION_TYPES:
-                combinations.append((age_range, awareness, conv_type))
+    for conv_type in CONVERSATION_TYPES:
+        for age_range in AGE_RANGES:  
+            for awareness in AWARENESS_LEVELS:
+                combinations.append((conv_type, age_range, awareness))
+    
+    logger.info(f"Total combinations (c,a,w): {len(CONVERSATION_TYPES)} × {len(AGE_RANGES)} × {len(AWARENESS_LEVELS)} = {len(combinations)}")
     
     # Phân bổ số lượng cho mỗi combination
     per_combination = args.count // len(combinations)
     remainder = args.count % len(combinations)
     
-    # Thêm nhiệm vụ
+    logger.info(f"Base quota per combination: {per_combination}, remainder: {remainder}")
+    
+    # Thêm nhiệm vụ với stratified distribution
     tts_counter = 1
-    for combo in combinations:
-        age_range, awareness, conv_type = combo
+    for i, combo in enumerate(combinations):
+        conv_type, age_range, awareness = combo
         # Số lượng cho combination này
         combo_count = per_combination + (1 if remainder > 0 else 0)
         if remainder > 0:
@@ -209,6 +237,7 @@ def main():
         for _ in range(combo_count):
             user_age = random.randint(age_range[0], age_range[1])
             tts_id = f"tts_normal_{tts_counter:05d}"
+            # Note: occupation sẽ được chọn trong generate_dialogue() theo P(o|a)
             tasks.append((tts_id, user_age, awareness, conv_type))
             tts_counter += 1
     

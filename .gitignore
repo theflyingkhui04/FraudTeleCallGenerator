@@ -11,6 +11,16 @@ multi-agents-tools/FraudTeleCallGenerator/test_full_fixed/
 multi-agents-tools/NormalTeleCallGenerator/results/
 multi-agents-tools/NormalTeleCallGenerator/full_dialogues/
 
+# Audio datasets (large files)
+audio-generation/voice_dataset*/
+audio-generation/audio_*/
+audio-generation/**/voice_*/
+audio-generation/**/*.mp3
+audio-generation/**/*.wav
+audio-generation/**/*.m4a
+audio-generation/converted_dataset.jsonl
+audio-generation/readme_test/
+
 # Dataset files với pattern
 **/fraud_*.json
 **/fraud_*.jsonl

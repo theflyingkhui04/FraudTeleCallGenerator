@@ -15,6 +15,41 @@ from logic.dialogue_orchestrator import DialogueOrchestrator
 from utils.conversation_logger import ConversationLogger
 import config
 
+# Thực hiện P(o|f,a) với fraud weights và age compatibility để tránh "sinh viên 90 tuổi"
+def _choose_occupation_with_weights(fraud_type: str, age_range: tuple) -> str:
+    """Chọn nghề nghiệp theo P(o|f,a) - phụ thuộc cả fraud type và age range
+    Tránh tình trạng vô lý như sinh viên 70 tuổi hay người nghỉ hưu 20 tuổi
+    
+    Args:
+        fraud_type: Loại lừa đảo
+        age_range: Tuple (min_age, max_age) 
+    
+    Returns:
+        Nghề nghiệp phù hợp với cả fraud type và độ tuổi
+    """
+    # Lấy danh sách nghề phù hợp với độ tuổi trước
+    age_range_key = f"{age_range[0]}-{age_range[1]}"
+    age_appropriate_occs = config.AGE_RANGES_WEIGHTED.get(age_range_key, {}).get("occupations", config.OCCUPATIONS)
+    
+    # Lấy trọng số fraud-specific
+    fraud_weights = config.FRAUD_OCCUPATION_WEIGHTS.get(fraud_type, {})
+    
+    if fraud_weights:
+        # Kết hợp: chỉ lấy nghề vừa phù hợp tuổi VÀ có trong fraud weights
+        combined_weights = {}
+        for occ in age_appropriate_occs:
+            if occ in fraud_weights:
+                combined_weights[occ] = fraud_weights[occ]
+        
+        # Nếu có nghề phù hợp cả 2 tiêu chí thì dùng P(o|f,a)
+        if combined_weights:
+            occupations = list(combined_weights.keys())
+            weights = list(combined_weights.values()) 
+            return random.choices(occupations, weights=weights, k=1)[0]
+    
+    # Fallback: chọn random từ nghề phù hợp tuổi (ít nhất cũng logical)
+    return random.choice(age_appropriate_occs)
+
 # Cấu hình ghi log toàn cục với UTF-8 cho Windows
 import sys
 
@@ -38,7 +73,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-# Cấu hình các giá trị
+# Cấu hình các giá trị theo chuẩn TeleAntiFraud gốc
 AGE_RANGES = [
     (18, 25),  # Thanh niên
     (26, 40),  # Trung niên
@@ -53,24 +88,34 @@ OCCUPATIONS = config.OCCUPATIONS
 AWARENESS_LEVELS = config.AWARENESS_LEVELS
 
 def generate_dialogue(args, tts_id: str, user_age: int, user_awareness: str, fraud_type: str) -> Dict[str, Any]:
-    """Sinh một hội thoại và trả về kết quả"""
+    """Sinh một hội thoại và trả về kết quả (theo chuẩn TeleAntiFraud gốc)"""
     try:
         # Ghi log tham số hội thoại
-        logger.info(f"Bắt đầu sinh hội thoại {tts_id}: age={user_age}, awareness={user_awareness}, fraud_type={fraud_type}")
-        
+        logger.info(
+            f"Bắt đầu sinh hội thoại {tts_id}: age={user_age}, awareness={user_awareness}, fraud_type={fraud_type}"
+        )
+
         # Tạo agent bên trái (Kẻ lừa đảo)
         left_agent = LeftAgent(
             model=args.model,
             fraud_type=fraud_type,
             api_key=getattr(args, 'api_key', None)
         )
+
+        # Tạo agent bên phải (Người dùng): chọn nghề theo P(o|f,a) 
+        # Xác định age_range từ user_age cụ thể
+        user_age_range = None
+        for age_range in AGE_RANGES:
+            if age_range[0] <= user_age <= age_range[1]:
+                user_age_range = age_range
+                break
         
-        # Tạo agent bên phải (Người dùng)
-        # user_age đã được truyền vào function, không cần random lại
-        
-        # Ngẫu nhiên chọn một nghề nghiệp
-        occupation = random.choice(OCCUPATIONS)
-        
+        if user_age_range is None:
+            # Fallback nếu user_age nằm ngoài ranges đã định nghĩa
+            user_age_range = AGE_RANGES[0]  # Default to first range
+            
+        occupation = _choose_occupation_with_weights(fraud_type, user_age_range)
+
         right_agent = RightAgent(
             model=args.model,
             user_profile={
@@ -80,14 +125,14 @@ def generate_dialogue(args, tts_id: str, user_age: int, user_awareness: str, fra
             },
             api_key=getattr(args, 'api_key', None)
         )
-        
+
         # Tạo agent quản lý
         manager_agent = ManagerAgent(
             model=args.model,
             strictness="medium",
             api_key=getattr(args, 'api_key', None)
         )
-        
+
         # Tạo bộ điều phối hội thoại
         conv_logger = ConversationLogger(console_output=False)
         orchestrator = DialogueOrchestrator(
@@ -97,38 +142,40 @@ def generate_dialogue(args, tts_id: str, user_age: int, user_awareness: str, fra
             max_turns=args.max_turns,
             logger=conv_logger
         )
-        
+
         # Sinh hội thoại
         dialogue_result = orchestrator.run_dialogue()
-        
+
         # Ghi log lịch sử hội thoại
-        logger.info(f"Hội thoại {tts_id} hoàn thành, tổng {len(dialogue_result['dialogue_history'])} lượt")
+        logger.info(
+            f"Hội thoại {tts_id} hoàn thành, tổng {len(dialogue_result['dialogue_history'])} lượt"
+        )
         logger.info(f"Lịch sử hội thoại {tts_id}:")
         for msg in dialogue_result['dialogue_history']:
             role = "Kẻ lừa đảo" if msg['role'] == "left" else "Người dùng"
             logger.info(f"{role}: {msg['content']}")
-        
+
         # Trích xuất lý do kết thúc
-        termination_reason = "Đạt tối đa lượt" if dialogue_result.get("reached_max_turns", False) else dialogue_result.get("termination_reason", "Không xác định")
+        termination_reason = (
+            "Đạt tối đa lượt" if dialogue_result.get("reached_max_turns", False)
+            else dialogue_result.get("termination_reason", "Không xác định")
+        )
         # Nếu do quản lý kết thúc, rút ngắn lý do
         if dialogue_result.get("terminated_by_manager", False) and isinstance(termination_reason, str) and len(termination_reason) > 100:
-            # Lấy 100 ký tự đầu hoặc đến dấu chấm đầu tiên
             short_reason = termination_reason.split("。")[0] if "。" in termination_reason[:100] else termination_reason[:100]
             termination_reason = short_reason + "..."
-          # Tách biệt nội dung hội thoại của hai bên
-        left_messages = []
-        right_messages = []
-        
+
+        # Tách biệt nội dung hội thoại của hai bên
+        left_messages: List[str] = []
+        right_messages: List[str] = []
         for message in dialogue_result["dialogue_history"]:
             if message["role"] == "left":
-                # Loại bỏ newlines thừa trong content
                 content = message["content"].replace('\n', ' ').strip()
                 left_messages.append(content)
             elif message["role"] == "right":
-                # Loại bỏ newlines thừa trong content
                 content = message["content"].replace('\n', ' ').strip()
                 right_messages.append(content)
-        
+
         # Tạo entry dữ liệu JSONL
         entry = {
             "tts_id": tts_id,
@@ -141,17 +188,17 @@ def generate_dialogue(args, tts_id: str, user_age: int, user_awareness: str, fra
             "termination_reason": termination_reason,
             "terminator": dialogue_result.get("terminator", "natural")
         }
-        
+
         # Lưu trữ hội thoại đầy đủ
         full_dialogue_path = os.path.join(args.full_output_dir, f"{tts_id}.json")
         with open(full_dialogue_path, 'w', encoding='utf-8') as f:
             json.dump(dialogue_result, f, ensure_ascii=False, indent=2)
-        
+
         logger.info(f"Hội thoại {tts_id} xử lý xong, lý do kết thúc: {termination_reason}")
         logger.info(f"Đã lưu hội thoại đầy đủ vào {full_dialogue_path}")
-        
+
         return entry
-    
+
     except Exception as e:
         logger.error(f"Lỗi khi sinh hội thoại {tts_id}: {e}", exc_info=True)
         return {"error": str(e), "tts_id": tts_id}
@@ -187,7 +234,7 @@ def main():
     # Tạo danh sách nhiệm vụ
     tasks = []
     
-    # Đảm bảo phân phối đều các tham số
+    # Đảm bảo coverage đều theo tổ hợp (fraud_type, age_range, awareness) như TeleAntiFraud gốc
     combinations = []
     for age_range in AGE_RANGES:
         for awareness in AWARENESS_LEVELS:
@@ -216,6 +263,7 @@ def main():
     success_count = 0
     error_count = 0
     age_stats = {}
+    age_range_stats = {}
     awareness_stats = {}
     fraud_stats = {}
     terminator_stats = {}
@@ -248,7 +296,7 @@ def main():
                     fraud = result["fraud_type"]
                     terminator = result["terminator"]
                     occupation = result["occupation"]
-                    
+
                     age_stats[age] = age_stats.get(age, 0) + 1
                     awareness_stats[awareness] = awareness_stats.get(awareness, 0) + 1
                     fraud_stats[fraud] = fraud_stats.get(fraud, 0) + 1
@@ -271,7 +319,16 @@ def main():
     stats_msg += f"\n- Tổng hội thoại thành công: {success_count}"
     stats_msg += f"\n- Tổng hội thoại lỗi: {error_count}"
     stats_msg += f"\n- Tỷ lệ thành công: {success_count/(success_count+error_count)*100:.1f}%"
-    stats_msg += f"\nPhân bố độ tuổi: {dict(sorted(age_stats.items()))}"
+    stats_msg += f"\nPhân bố tuổi (tuổi cụ thể): {dict(sorted(age_stats.items()))}"
+    # Age range order as tuples for readability
+    age_range_counts = {}
+    for age, count in age_stats.items():
+        for i, (min_age, max_age) in enumerate(AGE_RANGES):
+            if min_age <= age <= max_age:
+                range_key = f"{min_age}-{max_age}"
+                age_range_counts[range_key] = age_range_counts.get(range_key, 0) + count
+                break
+    stats_msg += f"\nPhân bố nhóm tuổi (range): {age_range_counts}"
     stats_msg += f"\nPhân bố nhận thức: {awareness_stats}"
     stats_msg += f"\nPhân bố loại lừa đảo: {fraud_stats}"
     stats_msg += f"\nPhân bố bên kết thúc: {terminator_stats}"
