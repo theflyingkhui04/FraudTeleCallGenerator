@@ -165,13 +165,15 @@ def generate_dialogue(args, tts_id: str, user_age: int, user_awareness: str, con
             "terminator": dialogue_result.get("terminator", "natural")
         }
         
-        # Lưu hội thoại đầy đủ
-        full_dialogue_path = os.path.join(args.full_output_dir, f"{tts_id}.json")
-        with open(full_dialogue_path, 'w', encoding='utf-8') as f:
-            json.dump(dialogue_result, f, ensure_ascii=False, indent=2)
-        
-        logger.info(f"Hội thoại {tts_id} xử lý xong, lý do kết thúc: {termination_reason}")
-        logger.info(f"Đã lưu hội thoại đầy đủ vào {full_dialogue_path}")
+        # Lưu hội thoại đầy đủ (tùy chọn)
+        if args.save_full_dialogues:
+            full_dialogue_path = os.path.join(args.full_output_dir, f"{tts_id}.json")
+            with open(full_dialogue_path, 'w', encoding='utf-8') as f:
+                json.dump(dialogue_result, f, ensure_ascii=False, indent=2)
+            logger.info(f"Hội thoại {tts_id} xử lý xong, lý do kết thúc: {termination_reason}")
+            logger.info(f"Đã lưu hội thoại đầy đủ vào {full_dialogue_path}")
+        else:
+            logger.info(f"Hội thoại {tts_id} xử lý xong, lý do kết thúc: {termination_reason}")
         
         return entry
     
@@ -185,6 +187,7 @@ def main():
     parser.add_argument("--count", type=int, default=20, help="Số lượng hội thoại cần sinh")
     parser.add_argument("--output", default="normal_dialogues.jsonl", help="Đường dẫn file kết quả")
     parser.add_argument("--full_output_dir", default="full_normal_dialogues", help="Thư mục lưu hội thoại đầy đủ")
+    parser.add_argument("--save_full_dialogues", action="store_true", help="Luu file hoi thoai day du (debug)")
     parser.add_argument("--api_key", required=True, help="Gemini API key")
     parser.add_argument("--model", required=True, help="Tên model Gemini sử dụng")
     parser.add_argument("--max_turns", type=int, default=15, help="Số lượt hội thoại tối đa")
@@ -202,8 +205,8 @@ def main():
     if output_dir and not os.path.exists(output_dir):
         os.makedirs(output_dir)
     
-    # Tạo thư mục lưu hội thoại đầy đủ
-    if not os.path.exists(args.full_output_dir):
+    # Tạo thư mục lưu hội thoại đầy đủ (chỉ khi cần)
+    if args.save_full_dialogues and not os.path.exists(args.full_output_dir):
         os.makedirs(args.full_output_dir)
     
     # Chuẩn bị danh sách nhiệm vụ theo stratified sampling (c,a,w) + P(o|a)

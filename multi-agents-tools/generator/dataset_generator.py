@@ -20,16 +20,17 @@ from pathlib import Path
 class DatasetGenerator:
     """Class sinh dataset hội thoại lừa đảo và bình thường"""
     
-    def __init__(self, api_key: str, base_url: Optional[str] = None, model: str = "gemini-2.0-flash"):
+    def __init__(self, api_key: str, base_url: Optional[str] = None, model: str = "gemini-2.0-flash", save_full: bool = False):
         self.api_key = api_key
         self.base_url = base_url or ""  # Empty string for Gemini
         self.model = model
+        self.save_full = save_full
         self.timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
 
         # Đường dẫn các thư mục
         self.current_dir = Path(__file__).parent
         self.project_root = self.current_dir.parent
-        self.dataset_dir = self.project_root / "dataset"
+        self.dataset_dir = self.project_root / "text_dataset"
         self.fraud_script = self.project_root / "FraudTeleCallGenerator" / "generate_dialogues.py"
         self.normal_script = self.project_root / "NormalTeleCallGenerator" / "generate_normal_dialogues.py"
         
@@ -60,6 +61,7 @@ class DatasetGenerator:
         self.logger.info(f"   - API: {base_url or 'Gemini (built-in)'}")
         self.logger.info(f"   - Model: {model}")
         self.logger.info(f"   - Dataset dir: {self.dataset_dir}")
+        self.logger.info(f"   - Save full dialogues: {self.save_full}")
     
     def generate_fraud_conversations(self, count: int) -> Dict[str, Any]:
         """Sinh hội thoại lừa đảo"""
@@ -68,8 +70,10 @@ class DatasetGenerator:
         # Tạo thư mục output
         fraud_dir = self.dataset_dir / f"fraud_{self.timestamp}"
         fraud_dir.mkdir(exist_ok=True)
-        full_dir = fraud_dir / "full_dialogues"
-        full_dir.mkdir(exist_ok=True)
+        full_dir: Optional[Path] = None
+        if self.save_full:
+            full_dir = fraud_dir / "full_dialogues"
+            full_dir.mkdir(exist_ok=True)
         
         output_file = fraud_dir / "fraud_conversations.jsonl"   
         # Command để chạy script lừa đảo
@@ -77,12 +81,13 @@ class DatasetGenerator:
             sys.executable, str(self.fraud_script),
             "--count", str(count),
             "--output", str(output_file),
-            "--full_output_dir", str(full_dir),
             "--api_key", self.api_key,
             "--model", self.model,
             "--workers", "1",
             "--max_turns", "25"
         ]
+        if self.save_full and full_dir:
+            cmd.extend(["--save_full_dialogues", "--full_output_dir", str(full_dir)])
         # Chỉ thêm base_url nếu được cung cấp (không phải Gemini)
         if self.base_url:
             cmd.extend(["--base_url", self.base_url])
@@ -125,12 +130,14 @@ class DatasetGenerator:
             
             if return_code == 0:
                 self.logger.info(f"✅ Sinh hội thoại lừa đảo thành công")
-                return {
+                result = {
                     "status": "success",
                     "count": count,
                     "output_file": str(output_file),
-                    "full_dir": str(full_dir)
                 }
+                if full_dir:
+                    result["full_dir"] = str(full_dir)
+                return result
             else:
                 self.logger.error(f"❌ Lỗi sinh hội thoại lừa đảo (exit code: {return_code})")
                 return {
@@ -150,8 +157,10 @@ class DatasetGenerator:
         # Tạo thư mục output
         normal_dir = self.dataset_dir / f"normal_{self.timestamp}"
         normal_dir.mkdir(exist_ok=True)
-        full_dir = normal_dir / "full_dialogues"
-        full_dir.mkdir(exist_ok=True)
+        full_dir: Optional[Path] = None
+        if self.save_full:
+            full_dir = normal_dir / "full_dialogues"
+            full_dir.mkdir(exist_ok=True)
         
         output_file = normal_dir / "normal_conversations.jsonl"
         # Command để chạy script bình thường
@@ -159,12 +168,13 @@ class DatasetGenerator:
             sys.executable, str(self.normal_script),
             "--count", str(count),
             "--output", str(output_file),
-            "--full_output_dir", str(full_dir),
             "--api_key", self.api_key,
             "--model", self.model,
             "--workers", "3",
             "--max_turns", "20"
         ]
+        if self.save_full and full_dir:
+            cmd.extend(["--save_full_dialogues", "--full_output_dir", str(full_dir)])
         # Chỉ thêm base_url nếu được cung cấp (không phải Gemini)
         if self.base_url:
             cmd.extend(["--base_url", self.base_url])
@@ -208,12 +218,14 @@ class DatasetGenerator:
             
             if return_code == 0:
                 self.logger.info(f"✅ Sinh hội thoại bình thường thành công")
-                return {
+                result = {
                     "status": "success",
                     "count": count,
                     "output_file": str(output_file),
-                    "full_dir": str(full_dir)
                 }
+                if full_dir:
+                    result["full_dir"] = str(full_dir)
+                return result
             else:
                 self.logger.error(f"❌ Lỗi sinh hội thoại bình thường (exit code: {return_code})")
                 return {
@@ -432,6 +444,7 @@ def main():
     parser.add_argument("--api_key", required=True, help="API key (bắt buộc)")
     parser.add_argument("--base_url", help="Base URL API (không cần cho Gemini)")
     parser.add_argument("--model", default="gemini-2.0-flash", help="Model AI")
+    parser.add_argument("--save_full", action="store_true", help="Luu hoi thoai day du (debug)")
     # Tham số tùy chỉnh
     parser.add_argument("--fraud_ratio", type=float, default=0.5, 
                        help="Ty le hoi thoai lua dao (0.0-1.0, mac dinh 0.5)")
@@ -442,7 +455,7 @@ def main():
     if args.fraud_ratio < 0 or args.fraud_ratio > 1:
         parser.error("fraud_ratio phải trong khoảng 0.0-1.0")
       # Tạo generator
-    generator = DatasetGenerator(args.api_key, args.base_url, args.model)
+    generator = DatasetGenerator(args.api_key, args.base_url, args.model, args.save_full)
     
     start_time = time.time()
     results = {}
