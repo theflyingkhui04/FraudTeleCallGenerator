@@ -1,0 +1,100 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đã gọi đến tổng đài của FPT Telecom. Tôi là Thu Trang, rất vui được hỗ trợ quý khách hôm nay. Xin hỏi quý khách đang cần tư vấn về dịch vụ gì ạ?",
+      "timestamp": 1757404103.8012905
+    },
+    {
+      "role": "right",
+      "content": "Chào bạn, tôi muốn hỏi về đường truyền internet ở nhà tôi. Mấy hôm nay nó cứ chập chờn, dùng rất khó chịu. Bạn kiểm tra giúp tôi được không?",
+      "timestamp": 1757404108.0629327
+    },
+    {
+      "role": "left",
+      "content": "Chào anh/chị. Tôi rất tiếc khi nghe về sự cố đường truyền mà anh/chị đang gặp phải. Để tôi có thể kiểm tra và hỗ trợ anh/chị một cách nhanh chóng nhất, anh/chị vui lòng cung cấp giúp tôi số hợp đồng hoặc số điện thoại đã đăng ký dịch vụ ạ.",
+      "timestamp": 1757404112.9935908
+    },
+    {
+      "role": "right",
+      "content": "À số điện thoại đăng ký của tôi là 0901234567 nhé. Bạn kiểm tra giúp tôi với.",
+      "timestamp": 1757404114.4929779
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn anh/chị đã cung cấp số điện thoại. Tôi xin phép kiểm tra thông tin trên hệ thống một chút ạ.  (Chờ một lát để kiểm tra...)  Dạ, theo thông tin tôi kiểm tra, số điện thoại 0901234567 đang đứng tên hợp đồng của anh/chị Nguyễn Thị A tại địa chỉ số 123, đường Trần Hưng Đạo, Quận 1, TP.HCM, gói dịch vụ Super 100. Thông tin này có đúng không ạ?",
+      "timestamp": 1757404119.9871051
+    },
+    {
+      "role": "right",
+      "content": "Đúng rồi bạn, thông tin đó chính xác. Đường truyền của tôi dạo này hay bị rớt mạng giữa chừng, đặc biệt là buổi tối. Nhiều lúc đang làm việc online mà cứ bị ngắt kết nối hoài, khó chịu lắm.",
+      "timestamp": 1757404121.8489442
+    },
+    {
+      "role": "left",
+      "content": "Tôi đã nắm được thông tin về tình trạng đường truyền của anh/chị. Hiện tại, tôi không thấy có thông báo sự cố diện rộng nào tại khu vực của anh/chị trên hệ thống. Có thể vấn đề này phát sinh từ một số nguyên nhân cục bộ tại nhà anh/chị hoặc do thiết bị.  Để tôi có thể khoanh vùng nguyên nhân chính xác hơn, anh/chị vui lòng cho tôi biết thêm một vài thông tin sau ạ: 1. Anh/chị có đang sử dụng modem/router do FPT cung cấp không, và thiết bị đó đã được bật liên tục trong bao lâu rồi ạ? 2. Anh/chị có thử khởi động lại modem/router chưa ạ? 3. Anh/chị sử dụng internet trên bao nhiêu thiết bị cùng lúc, và có thiết bị nào kết nối bằng dây LAN không ạ? 4. Tình trạng chập chờn này có xảy ra trên tất cả các thiết bị hay chỉ một thiết bị cụ thể nào đó không ạ?",
+      "timestamp": 1757404129.5373228
+    },
+    {
+      "role": "right",
+      "content": "À tôi dùng modem của FPT cung cấp đó. Thường thì tôi bật 24/7 luôn, ít khi tắt lắm. Tôi cũng thử khởi động lại modem mấy lần rồi nhưng cũng không ăn thua.  Nhà tôi thì thường có 3-4 thiết bị dùng cùng lúc, chủ yếu là điện thoại, laptop với cái TV thông minh. Laptop thì thỉnh thoảng tôi có cắm dây LAN nhưng đa số vẫn dùng Wi-Fi. Tình trạng chập chờn này thì bị trên tất cả các thiết bị luôn, cả khi cắm dây hay dùng Wi-Fi đều thế.",
+      "timestamp": 1757404132.1596725
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn anh/chị đã cung cấp thông tin chi tiết. Việc anh/chị đã thử khởi động lại modem và tình trạng chập chờn xảy ra trên tất cả các thiết bị, cả khi kết nối Wi-Fi lẫn dây LAN, cho thấy vấn đề có thể nằm ở đường truyền tín hiệu từ bên ngoài hoặc thiết bị modem đang gặp trục trặc.  Để có thể xác định nguyên nhân chính xác hơn, tôi xin phép thực hiện một số kiểm tra kỹ thuật từ xa trên hệ thống đường truyền của anh/chị ngay bây giờ. Quá trình này sẽ mất khoảng 2-3 phút. Trong lúc đó, anh/chị vui lòng giữ modem/router đang bật và không ngắt kết nối internet ạ.  Sau khi kiểm tra xong, tôi sẽ thông báo kết quả và đề xuất phương án xử lý tốt nhất cho anh/chị. Anh/chị vui lòng chờ tôi một lát nhé.",
+      "timestamp": 1757404140.1978724
+    },
+    {
+      "role": "right",
+      "content": "Ok bạn, vậy bạn cứ kiểm tra giúp tôi nhé. Tôi chờ được. Mong là khắc phục được sớm.",
+      "timestamp": 1757404141.8756034
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn anh/chị đã kiên nhẫn chờ đợi. Tôi đã hoàn tất việc kiểm tra tín hiệu từ xa trên hệ thống đường truyền của anh/chị.  Kết quả kiểm tra cho thấy tín hiệu đến modem của anh/chị có một số dao động bất thường so với mức ổn định. Điều này có thể là nguyên nhân gây ra tình trạng chập chờn mà anh/chị đang gặp phải, và nó cũng giải thích tại sao việc khởi động lại modem không giải quyết được vấn đề.  Để khắc phục triệt để tình trạng này, phương án tốt nhất là chúng tôi sẽ cử kỹ thuật viên đến tận nhà anh/chị để kiểm tra trực tiếp. Kỹ thuật viên sẽ kiểm tra lại toàn bộ đường dây từ hộp cáp đến modem, kiểm tra chất lượng tín hiệu thực tế và thiết bị modem/router của anh/chị. Nếu cần, họ có thể thay thế modem hoặc điều chỉnh lại đường truyền để đảm bảo ổn định nhất.  Anh/chị có muốn tôi đặt lịch hẹn kỹ thuật viên đến hỗ trợ không ạ? Nếu có, anh/chị vui lòng cho tôi biết thời gian nào trong ngày là tiện nhất cho anh/chị (ví dụ: sáng, chiều, hoặc khoảng giờ cụ thể nào đó) trong 1-2 ngày tới ạ.",
+      "timestamp": 1757404159.18063
+    },
+    {
+      "role": "right",
+      "content": "À, vậy là có vấn đề thật rồi. Nghe bạn nói thế thì chắc phải cho người xuống kiểm tra thôi.  Bạn cứ đặt lịch giúp tôi nhé. Sáng mai hoặc chiều mai đều được, miễn là trước 5 giờ chiều là tiện nhất cho tôi. Hy vọng là sớm ổn định lại đường truyền.",
+      "timestamp": 1757404162.363896
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi đã nắm được thông tin ạ. Vậy để tiện cho anh/chị, tôi xin phép đặt lịch hẹn kỹ thuật viên đến kiểm tra vào **chiều mai, khoảng từ 14h00 đến 17h00 (2h chiều đến 5h chiều)** nhé. Thời gian này có phù hợp với anh/chị không ạ?  Địa chỉ kỹ thuật viên sẽ đến là số 123, đường Trần Hưng Đạo, Quận 1, TP.HCM, đúng không ạ?  Sau khi tôi đặt lịch thành công, hệ thống sẽ gửi một tin nhắn SMS xác nhận lịch hẹn đến số điện thoại 0901234567 của anh/chị. Kỹ thuật viên cũng sẽ chủ động liên hệ với anh/chị trước khi đến để xác nhận lại thời gian ạ.",
+      "timestamp": 1757404174.734459
+    },
+    {
+      "role": "right",
+      "content": "Vâng, chiều mai, khoảng 2h đến 5h chiều là được bạn. Địa chỉ đó đúng rồi. Cảm ơn bạn nhé.",
+      "timestamp": 1757404179.2694614
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, địa chỉ và thời gian đó đã được ghi nhận ạ. Tôi đã đặt lịch hẹn kỹ thuật viên đến hỗ trợ anh/chị vào chiều mai, từ 14h00 đến 17h00 tại địa chỉ 123 Trần Hưng Đạo, Quận 1. Anh/chị sẽ nhận được tin nhắn SMS xác nhận lịch hẹn trong ít phút nữa. Kỹ thuật viên cũng sẽ liên hệ trước khi đến ạ.  FPT Telecom rất mong sự cố của anh/chị sẽ được khắc phục nhanh chóng. Nếu có bất kỳ thay đổi nào hoặc cần hỗ trợ thêm, anh/chị đừng ngần ngại liên hệ lại tổng đài FPT Telecom nhé. Chúc anh/chị một ngày tốt lành!",
+      "timestamp": 1757404190.2647307
+    },
+    {
+      "role": "right",
+      "content": "Cảm ơn bạn nhé.",
+      "timestamp": 1757404192.5854151
+    }
+  ],
+  "turns": 6,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại đã đạt được: vấn đề đường truyền internet đã được chẩn đoán (dao động tín hiệu bất thường) và phương án giải quyết (cử kỹ thuật viên đến kiểm tra tận nhà) đã được đề xuất và đặt lịch thành công. Người dùng đã xác nhận lại lịch hẹn và địa chỉ, đồng thời gửi lời cảm ơn, cho thấy sự hài lòng và không có nhu cầu hỗ trợ thêm trong luồng hội thoại hiện tại. Bên cung cấp dịch vụ nên chủ động kết thúc bằng một lời chào tạm biệt lịch sự.",
+  "terminator": "dịch vụ kết thúc",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Dạ vâng, địa chỉ và thời gian đó đã được ghi nhận ạ. Tôi đã đặt lịch hẹn kỹ thuật viên đến hỗ trợ anh/chị vào chiều mai, từ 14h00 đến 17h00 tại địa chỉ 123 Trần Hưng Đạo, Quận 1. Anh/chị sẽ nhận được tin nhắn SMS xác nhận lịch hẹn trong ít phút nữa. Kỹ thuật viên cũng sẽ liên hệ trước khi đến ạ.  FPT Telecom rất mong sự cố của anh/chị sẽ được khắc phục nhanh chóng. Nếu có bất kỳ thay đổi nào hoặc cần hỗ trợ thêm, anh/chị đừng ngần ngại liên hệ lại tổng đài FPT Telecom nhé. Chúc anh/chị một ngày tốt lành!"
+    },
+    {
+      "role": "right",
+      "content": "Cảm ơn bạn nhé."
+    }
+  ],
+  "reached_max_turns": false
+}

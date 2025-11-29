@@ -1,0 +1,90 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đến với Phòng khám Đa khoa An Khang. Tôi là Linh, rất hân hạnh được hỗ trợ quý khách. Quý khách cần tôi giúp đỡ vấn đề gì ạ?",
+      "timestamp": 1757407724.8459604
+    },
+    {
+      "role": "right",
+      "content": "Chào bạn. Mình đến để khám tổng quát, mình có đặt lịch trước rồi.",
+      "timestamp": 1757407726.9089923
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, chào quý khách. Quý khách vui lòng cho tôi biết tên đầy đủ và số điện thoại mà quý khách đã dùng để đặt lịch hẹn ạ, để tôi có thể kiểm tra thông tin nhanh chóng hơn.",
+      "timestamp": 1757407730.693195
+    },
+    {
+      "role": "right",
+      "content": "À, mình tên là Nguyễn Thị Thu Thảo, số điện thoại là 0901234567.",
+      "timestamp": 1757407732.0315554
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn chị Thảo. Để tôi kiểm tra lại trên hệ thống một chút ạ.  Dạ vâng, tôi đã tìm thấy thông tin đặt lịch của chị Nguyễn Thị Thu Thảo, số điện thoại 0901234567, vào lúc 9 giờ sáng hôm nay, ngày 15 tháng 5, để khám tổng quát. Thông tin này đã đúng rồi phải không ạ?",
+      "timestamp": 1757407737.086587
+    },
+    {
+      "role": "right",
+      "content": "Đúng rồi bạn. Chính xác.",
+      "timestamp": 1757407738.2838569
+    },
+    {
+      "role": "left",
+      "content": "Tuyệt vời ạ. Chị Thảo đã đến đúng giờ hẹn. Hiện tại, chúng tôi có thể sắp xếp cho chị gặp Bác sĩ Trần Văn Bình, chuyên khoa Nội tổng quát, để tiến hành khám tổng quát. Bác sĩ Bình là một trong những bác sĩ giàu kinh nghiệm của phòng khám chúng tôi. Chị có muốn tiếp tục với lịch hẹn này không ạ?",
+      "timestamp": 1757407746.551361
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, được ạ. Bác sĩ Bình khám có tốt không bạn?",
+      "timestamp": 1757407751.98993
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, chị Thảo hoàn toàn có thể yên tâm ạ. Bác sĩ Trần Văn Bình là một trong những bác sĩ chuyên khoa Nội tổng quát hàng đầu tại Phòng khám An Khang, với hơn 15 năm kinh nghiệm trong lĩnh vực khám và điều trị các bệnh lý tổng quát. Bác sĩ luôn được đánh giá cao về chuyên môn, sự tận tâm và thái độ thân thiện với bệnh nhân. Chị sẽ được thăm khám kỹ lưỡng và tư vấn chi tiết về tình trạng sức khỏe của mình.",
+      "timestamp": 1757407761.0962431
+    },
+    {
+      "role": "right",
+      "content": "À vậy thì tốt quá. Vậy mình đi theo hướng dẫn của bạn nhé.",
+      "timestamp": 1757407762.7112074
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, rất cảm ơn chị Thảo đã tin tưởng. Bây giờ, tôi xin hướng dẫn chị Thảo đến khu vực tiếp đón ban đầu để làm thủ tục và sau đó sẽ có nhân viên y tế đưa chị đến phòng khám của Bác sĩ Bình ạ.  Chị vui lòng đi thẳng về phía trước khoảng 10 mét, sau đó rẽ trái. Quầy tiếp đón sẽ ở ngay đó với biển hiệu \"Đăng ký khám bệnh\". Chị chỉ cần nói tên và cho biết đã đặt lịch hẹn khám tổng quát là được ạ.  Nếu có bất kỳ thắc mắc nào trong quá trình di chuyển, chị đừng ngần ngại hỏi bất kỳ nhân viên nào của phòng khám nhé. Chúc chị có một buổi thăm khám hiệu quả ạ!",
+      "timestamp": 1757407770.2253792
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, mình cảm ơn bạn nhiều nhé.",
+      "timestamp": 1757407772.9539108
+    },
+    {
+      "role": "right",
+      "content": "Vâng, không có gì ạ. Chào bạn.",
+      "timestamp": 1757407783.5600283
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, Phòng khám Đa khoa An Khang rất hân hạnh được phục vụ chị Thảo. Chúc chị có một buổi thăm khám sức khỏe thật tốt đẹp ạ. Nếu cần hỗ trợ thêm bất cứ điều gì, chị đừng ngần ngại liên hệ lại với chúng tôi nhé.",
+      "timestamp": 1757407784.769061
+    }
+  ],
+  "turns": 5,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại đã đạt được. Người dùng đã nhận được đầy đủ thông tin xác nhận lịch hẹn, giới thiệu bác sĩ và hướng dẫn chi tiết để tiếp tục quy trình khám bệnh. Người dùng đã bày tỏ sự hài lòng và cảm ơn rõ ràng ở cuối hội thoại, cho thấy không cần hỗ trợ thêm trong tương tác này. ##TERMINATE_SIGNAL##",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Vâng, không có gì ạ. Chào bạn."
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, Phòng khám Đa khoa An Khang rất hân hạnh được phục vụ chị Thảo. Chúc chị có một buổi thăm khám sức khỏe thật tốt đẹp ạ. Nếu cần hỗ trợ thêm bất cứ điều gì, chị đừng ngần ngại liên hệ lại với chúng tôi nhé."
+    }
+  ],
+  "reached_max_turns": false
+}

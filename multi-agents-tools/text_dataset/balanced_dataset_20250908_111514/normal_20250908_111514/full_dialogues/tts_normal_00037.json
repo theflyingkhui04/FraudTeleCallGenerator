@@ -1,0 +1,80 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào bạn, tôi là Minh Anh từ bộ phận Chăm sóc Khách hàng của [Tên Công ty Dịch vụ - ví dụ: FPT Telecom]. Rất vui được hỗ trợ bạn. Không biết tôi có thể giúp gì cho bạn hôm nay ạ?",
+      "timestamp": 1757409482.3383195
+    },
+    {
+      "role": "right",
+      "content": "Chào bạn. Tôi đang gặp vấn đề với mạng internet ở nhà. Nó cứ chập chờn mãi mấy hôm nay rồi, làm tôi làm việc cũng khó.",
+      "timestamp": 1757409484.380646
+    },
+    {
+      "role": "left",
+      "content": "Tôi rất tiếc khi nghe về sự bất tiện này, đặc biệt là khi nó ảnh hưởng đến công việc của bạn. Để tôi có thể kiểm tra và hỗ trợ bạn một cách tốt nhất, bạn vui lòng cung cấp cho tôi một số thông tin được không ạ?  Bạn có thể cho tôi biết tên chủ hợp đồng hoặc số điện thoại đăng ký dịch vụ của mình là gì không ạ? Ngoài ra, nếu bạn nhớ, mã hợp đồng hoặc địa chỉ lắp đặt dịch vụ cũng sẽ rất hữu ích ạ.",
+      "timestamp": 1757409489.8198576
+    },
+    {
+      "role": "right",
+      "content": "À vâng, số điện thoại đăng ký của tôi là 0903 123 456. Tên chủ hợp đồng là Nguyễn Thị Lan. Địa chỉ lắp đặt là số 15, đường Trần Hưng Đạo, phường 2, quận 5 nhé. Bạn kiểm tra giúp tôi với.",
+      "timestamp": 1757409492.352985
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn bạn Lan đã cung cấp thông tin. Tôi đã tra cứu trên hệ thống và tìm thấy hợp đồng dịch vụ Internet của bạn tại địa chỉ 15, đường Trần Hưng Đạo, phường 2, quận 5. Gói cước hiện tại của bạn là Gói Super 100Mbps.  Để xác định nguyên nhân chính xác của tình trạng mạng chập chờn, bạn có thể mô tả chi tiết hơn về vấn đề không ạ? Ví dụ, bạn thấy mạng chập chờn vào những thời điểm nào trong ngày, tất cả các thiết bị đều bị hay chỉ một vài thiết bị, đèn tín hiệu trên modem nhà mình có màu gì và có nhấp nháy bất thường không ạ?",
+      "timestamp": 1757409497.7067456
+    },
+    {
+      "role": "right",
+      "content": "Ừm, mấy hôm nay thì nó chập chờn liên tục, không riêng buổi nào cả đâu. Cả điện thoại lẫn máy tính đều bị, vào mạng rất chậm, có khi còn không load được trang nào. Còn cái modem ấy à, tôi thấy đèn tín hiệu vẫn màu xanh nhưng mà nó cứ nhấp nháy liên tục, không ổn định chút nào. Bình thường thì nó chỉ sáng đứng thôi mà.",
+      "timestamp": 1757409500.4774535
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, cảm ơn bạn đã mô tả chi tiết. Tình trạng đèn tín hiệu trên modem nhấp nháy liên tục thay vì sáng đứng, cùng với việc tất cả các thiết bị đều bị ảnh hưởng và mạng chậm hoặc không tải được trang, cho thấy khả năng cao là tín hiệu đường truyền đến modem của bạn đang gặp vấn đề.  Có thể có một số nguyên nhân như: 1.  **Lỗi cáp quang ngoại vi:** Có thể cáp quang từ hộp nối đến nhà bạn bị đứt, gập hoặc bị ảnh hưởng bởi tác động bên ngoài. 2.  **Lỗi thiết bị tại trung tâm:** Mặc dù ít xảy ra hơn, đôi khi thiết bị tại trạm phát tín hiệu của chúng tôi cũng có thể gặp sự cố. 3.  **Lỗi modem/router:** Modem của bạn có thể đang gặp trục trặc về phần cứng hoặc phần mềm.  Để khắc phục tình trạng này một cách nhanh chóng, tôi sẽ tạo một yêu cầu hỗ trợ kỹ thuật để kỹ thuật viên của chúng tôi đến tận nơi kiểm tra và xử lý sự cố cho bạn. Bạn có muốn tôi tạo yêu cầu ngay bây giờ không ạ?",
+      "timestamp": 1757409507.561256
+    },
+    {
+      "role": "right",
+      "content": "Vâng, tạo giúp tôi yêu cầu đó đi. Khoảng bao lâu thì có kỹ thuật viên qua kiểm tra được vậy bạn? Tôi muốn sắp xếp thời gian ở nhà.",
+      "timestamp": 1757409509.4390914
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi đã tạo yêu cầu hỗ trợ kỹ thuật số **TK20240715-001** cho trường hợp của bạn Lan.  Thông thường, kỹ thuật viên của chúng tôi sẽ liên hệ lại với bạn trong vòng **2-4 giờ làm việc** kể từ khi yêu cầu được tạo để xác nhận thời gian đến kiểm tra cụ thể. Tùy thuộc vào lịch trình và mức độ ưu tiên của các sự cố trong khu vực, kỹ thuật viên có thể sắp xếp đến nhà bạn trong vòng **24 giờ tiếp theo**.  Bạn có muốn tôi ghi chú thêm giờ giấc nào bạn thường có mặt ở nhà hoặc giờ giấc nào bạn không tiện để kỹ thuật viên liên hệ không ạ?",
+      "timestamp": 1757409514.8968818
+    },
+    {
+      "role": "right",
+      "content": "À vậy à, cảm ơn bạn. Bạn cứ ghi chú giúp tôi là tôi thường có mặt ở nhà sau 3 giờ chiều các ngày trong tuần nhé, trừ thứ Bảy và Chủ Nhật thì tôi ở nhà cả ngày. Cứ gọi điện trước khi đến giúp tôi là được.",
+      "timestamp": 1757409517.388435
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi đã ghi chú lại thông tin về thời gian bạn thường có mặt ở nhà là sau 3 giờ chiều các ngày trong tuần, và cả ngày thứ Bảy, Chủ Nhật, đồng thời yêu cầu kỹ thuật viên gọi điện trước khi đến rồi ạ. Bạn cứ yên tâm, kỹ thuật viên sẽ liên hệ với bạn sớm nhất để sắp xếp lịch hẹn phù hợp.  Nếu có bất kỳ thắc mắc nào khác hoặc cần hỗ trợ gì thêm, bạn đừng ngần ngại liên hệ lại với [Tên Công ty Dịch vụ - ví dụ: FPT Telecom] nhé. Cảm ơn bạn rất nhiều và chúc bạn một ngày tốt lành!",
+      "timestamp": 1757409530.7628105
+    },
+    {
+      "role": "right",
+      "content": "Vâng, cảm ơn bạn nhiều nhé. Chúc bạn cũng một ngày tốt lành!",
+      "timestamp": 1757409532.7537599
+    }
+  ],
+  "turns": 4,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại đã đạt được. Kẻ lừa đảo đã tiếp nhận vấn đề, chẩn đoán sơ bộ, tạo yêu cầu hỗ trợ kỹ thuật và cung cấp thông tin về thời gian kỹ thuật viên sẽ liên hệ. Người dùng đã cung cấp đầy đủ thông tin cần thiết, bao gồm cả thời gian tiện lợi để kỹ thuật viên liên hệ. Các bước tiếp theo sẽ diễn ra ngoại tuyến (kỹ thuật viên đến kiểm tra). Kẻ lừa đảo nên xác nhận lại thông tin cuối cùng từ người dùng và kết thúc hội thoại.",
+  "terminator": "left",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi đã ghi chú lại thông tin về thời gian bạn thường có mặt ở nhà là sau 3 giờ chiều các ngày trong tuần, và cả ngày thứ Bảy, Chủ Nhật, đồng thời yêu cầu kỹ thuật viên gọi điện trước khi đến rồi ạ. Bạn cứ yên tâm, kỹ thuật viên sẽ liên hệ với bạn sớm nhất để sắp xếp lịch hẹn phù hợp.  Nếu có bất kỳ thắc mắc nào khác hoặc cần hỗ trợ gì thêm, bạn đừng ngần ngại liên hệ lại với [Tên Công ty Dịch vụ - ví dụ: FPT Telecom] nhé. Cảm ơn bạn rất nhiều và chúc bạn một ngày tốt lành!"
+    },
+    {
+      "role": "right",
+      "content": "Vâng, cảm ơn bạn nhiều nhé. Chúc bạn cũng một ngày tốt lành!"
+    }
+  ],
+  "reached_max_turns": false
+}

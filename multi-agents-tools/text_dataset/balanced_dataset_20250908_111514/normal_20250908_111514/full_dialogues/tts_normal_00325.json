@@ -1,0 +1,60 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đến với Nha khoa Sáng Rạng! Tôi là Lan Anh, chuyên viên tư vấn. Không biết tôi có thể hỗ trợ quý khách đặt lịch hẹn hoặc tư vấn dịch vụ nào hôm nay ạ?",
+      "timestamp": 1757406162.4843044
+    },
+    {
+      "role": "right",
+      "content": "Chào Lan Anh. Mình muốn đặt lịch hẹn khám tổng quát cho mình. Bên bạn còn lịch vào buổi chiều tầm thứ 5 hoặc thứ 6 tuần này không?",
+      "timestamp": 1757406164.5652475
+    },
+    {
+      "role": "left",
+      "content": "Chào bạn! Rất vui được hỗ trợ bạn đặt lịch khám tổng quát. Để tôi kiểm tra lịch trống vào chiều thứ 5 hoặc thứ 6 tuần này cho bạn nhé.  Bạn có thể cho tôi biết tên đầy đủ và số điện thoại của bạn để tôi tiện đặt lịch và liên hệ xác nhận không ạ? Ngoài ra, bạn có khung giờ cụ thể nào trong buổi chiều mà bạn muốn không, ví dụ như từ 14h-16h hay 16h-18h chẳng hạn?",
+      "timestamp": 1757406169.4107506
+    },
+    {
+      "role": "right",
+      "content": "À mình là Nguyễn Thị Mai, số điện thoại của mình là 0987123456. Mình muốn đặt tầm 3 giờ chiều đổ đi là đẹp, nếu có thể là thứ 5 thì tốt.",
+      "timestamp": 1757406171.9597394
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn bạn Mai đã cung cấp thông tin. Để tôi kiểm tra ngay lịch hẹn vào chiều thứ 5 này, cụ thể là từ 15h trở đi.  Bạn vui lòng đợi tôi một lát nhé.  ...  Vâng, tôi đã kiểm tra xong rồi ạ. Vào chiều thứ 5, ngày 18 tháng 7, Nha khoa Sáng Rạng vẫn còn một khung giờ trống lúc 15h30 với Bác sĩ Minh. Bác sĩ Minh là một trong những bác sĩ giàu kinh nghiệm của chúng tôi, chuyên về khám tổng quát và điều trị nha khoa tổng quát. Khung giờ này khá phù hợp với yêu cầu của bạn.  Bạn thấy lịch hẹn này có ổn không ạ?",
+      "timestamp": 1757406177.952977
+    },
+    {
+      "role": "right",
+      "content": "À vậy tốt quá. 15h30 thứ 5 tuần này với Bác sĩ Minh là được đó Lan Anh. Cảm ơn bạn nhé.",
+      "timestamp": 1757406180.1331766
+    },
+    {
+      "role": "right",
+      "content": "Vậy là xong rồi ha. Cảm ơn Lan Anh nhiều nhé. Hẹn gặp lại vào 15h30 thứ 5 tuần này.",
+      "timestamp": 1757406188.405161
+    },
+    {
+      "role": "left",
+      "content": "Bạn Mai ơi, rất xin lỗi vì đã làm bạn hiểu lầm. Lịch hẹn chưa hoàn tất đâu ạ. Tôi cần xác nhận lại với bạn một lần nữa để đảm bảo thông tin chính xác và không có sai sót.  Vậy là bạn Nguyễn Thị Mai, số điện thoại 0987123456, sẽ có lịch hẹn khám tổng quát với Bác sĩ Minh vào lúc 15h30 chiều thứ 5, ngày 18 tháng 7 tại Nha khoa Sáng Rạng, đúng không ạ?  Sau khi bạn xác nhận, tôi sẽ gửi tin nhắn SMS xác nhận lịch hẹn đến số điện thoại của bạn, trong đó có đầy đủ thông tin về ngày, giờ, bác sĩ và địa chỉ phòng khám để bạn tiện theo dõi. Bạn có muốn tôi gửi thêm thông tin hướng dẫn đường đi hoặc chuẩn bị gì trước khi đến không ạ?",
+      "timestamp": 1757406190.094631
+    }
+  ],
+  "turns": 2,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại đã đạt được: người dùng đã đặt lịch hẹn khám tổng quát thành công và xác nhận lịch hẹn phù hợp. Người dùng đã bày tỏ sự hài lòng và cảm ơn chuyên viên tư vấn, cho thấy họ không còn nhu cầu hỗ trợ thêm. Do đó, hội thoại có thể kết thúc.",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Vậy là xong rồi ha. Cảm ơn Lan Anh nhiều nhé. Hẹn gặp lại vào 15h30 thứ 5 tuần này."
+    },
+    {
+      "role": "left",
+      "content": "Bạn Mai ơi, rất xin lỗi vì đã làm bạn hiểu lầm. Lịch hẹn chưa hoàn tất đâu ạ. Tôi cần xác nhận lại với bạn một lần nữa để đảm bảo thông tin chính xác và không có sai sót.  Vậy là bạn Nguyễn Thị Mai, số điện thoại 0987123456, sẽ có lịch hẹn khám tổng quát với Bác sĩ Minh vào lúc 15h30 chiều thứ 5, ngày 18 tháng 7 tại Nha khoa Sáng Rạng, đúng không ạ?  Sau khi bạn xác nhận, tôi sẽ gửi tin nhắn SMS xác nhận lịch hẹn đến số điện thoại của bạn, trong đó có đầy đủ thông tin về ngày, giờ, bác sĩ và địa chỉ phòng khám để bạn tiện theo dõi. Bạn có muốn tôi gửi thêm thông tin hướng dẫn đường đi hoặc chuẩn bị gì trước khi đến không ạ?"
+    }
+  ],
+  "reached_max_turns": false
+}

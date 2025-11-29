@@ -1,0 +1,50 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đến với tổng đài hỗ trợ của Viễn Thông ABC. Tôi là Mai Anh, tôi có thể hỗ trợ gì cho quý khách ngày hôm nay ạ?",
+      "timestamp": 1757406265.776564
+    },
+    {
+      "role": "right",
+      "content": "Chào Mai Anh. Chị gọi để hỏi về gói cước internet bên mình. Dạo này chị thấy mạng nhà hơi chập chờn, muốn xem có gói nào ổn hơn không.",
+      "timestamp": 1757406268.6218903
+    },
+    {
+      "role": "left",
+      "content": "Chào chị ạ. Em rất vui được hỗ trợ chị tìm hiểu về các gói cước internet của Viễn Thông ABC. Để em có thể tư vấn gói cước phù hợp nhất với nhu cầu sử dụng của gia đình mình, chị vui lòng cho em biết một vài thông tin nhé: 1.  Gói cước hiện tại nhà mình đang sử dụng là gói nào ạ? 2.  Gia đình mình có khoảng bao nhiêu thành viên và thường có bao nhiêu thiết bị kết nối internet cùng lúc (ví dụ: điện thoại, máy tính, TV thông minh...)? 3.  Nhu cầu sử dụng internet chính của gia đình mình là gì (ví dụ: lướt web, xem phim HD/4K, chơi game online, học/làm việc trực tuyến, livestream...)? 4.  Khu vực nhà mình đang ở là quận/huyện nào ạ?",
+      "timestamp": 1757406273.647062
+    },
+    {
+      "role": "right",
+      "content": "À, gói cước hiện tại nhà chị hình như là gói Home 200 thì phải, tốc độ 200 Mbps. Chị đăng ký cũng mấy năm rồi.  Gia đình chị có 4 người, hai vợ chồng và hai đứa con lớn. Thường thì có khoảng 5-6 thiết bị kết nối cùng lúc: 4 cái điện thoại, 1-2 cái laptop với cái TV thông minh nữa.  Nhu cầu thì chủ yếu là xem phim, lướt web, con cái thì học online với chơi game nhẹ. Chị thì làm văn phòng nên cũng chỉ dùng để làm việc, gửi mail thôi.  Chị ở quận Gò Vấp nhé.",
+      "timestamp": 1757406277.2933958
+    },
+    {
+      "role": "right",
+      "content": "Vậy Mai Anh xem giúp chị nhé, có gì tư vấn lại chị sau. Cảm ơn em nhiều.",
+      "timestamp": 1757406284.2713237
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, chị muốn em xem giúp thông tin gói cước hiện tại của gia đình mình hay chị muốn em tư vấn ngay các gói cước mới mà không cần cung cấp thêm thông tin ạ?  Nếu chị muốn em xem giúp thông tin gói cước hiện tại, chị vui lòng cung cấp số điện thoại hoặc mã hợp đồng mà chị đã đăng ký dịch vụ để em có thể tra cứu ạ.  Nếu chị muốn em tư vấn ngay các gói cước mới dựa trên thông tin cơ bản, em có thể giới thiệu một số gói phổ biến nhất hiện nay, nhưng để đảm bảo gói cước phù hợp nhất, em vẫn rất khuyến khích chị cung cấp thêm các thông tin về nhu cầu sử dụng như em đã hỏi ở trên. Điều này sẽ giúp em đưa ra lời khuyên chính xác và hữu ích hơn cho chị ạ.",
+      "timestamp": 1757406285.9138222
+    }
+  ],
+  "turns": 1,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "```json {   \"should_terminate\": false,   \"reason\": \"Hội thoại đang diễn ra theo đúng luồng. Người dù...",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Vậy Mai Anh xem giúp chị nhé, có gì tư vấn lại chị sau. Cảm ơn em nhiều."
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, chị muốn em xem giúp thông tin gói cước hiện tại của gia đình mình hay chị muốn em tư vấn ngay các gói cước mới mà không cần cung cấp thêm thông tin ạ?  Nếu chị muốn em xem giúp thông tin gói cước hiện tại, chị vui lòng cung cấp số điện thoại hoặc mã hợp đồng mà chị đã đăng ký dịch vụ để em có thể tra cứu ạ.  Nếu chị muốn em tư vấn ngay các gói cước mới dựa trên thông tin cơ bản, em có thể giới thiệu một số gói phổ biến nhất hiện nay, nhưng để đảm bảo gói cước phù hợp nhất, em vẫn rất khuyến khích chị cung cấp thêm các thông tin về nhu cầu sử dụng như em đã hỏi ở trên. Điều này sẽ giúp em đưa ra lời khuyên chính xác và hữu ích hơn cho chị ạ."
+    }
+  ],
+  "reached_max_turns": false
+}

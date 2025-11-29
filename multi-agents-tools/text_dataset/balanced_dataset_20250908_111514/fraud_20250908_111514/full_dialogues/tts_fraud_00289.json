@@ -1,0 +1,101 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "(Giọng nói chuẩn mực, chuyên nghiệp, có chút quan tâm)  \"Chào anh/chị, tôi là Nguyễn Minh Anh, chuyên viên tư vấn từ Trung tâm An ninh Giao dịch Ngân hàng Vietcombank. Chúng tôi gọi điện để thông báo về một cảnh báo bảo mật khẩn cấp liên quan đến tài khoản thanh toán của anh/chị. Cụ thể là tài khoản mang số **0011000xxxxxx88**, đứng tên **Nguyễn Văn A** đúng không ạ?\"  (Giả vờ dừng lại để nạn nhân xác nhận)  \"Hệ thống của chúng tôi vừa ghi nhận một giao dịch chuyển tiền quốc tế đáng ngờ với giá trị lớn, khoảng **50 triệu đồng**, được thực hiện từ tài khoản của anh/chị vào rạng sáng nay. Đây là một giao dịch có dấu hiệu bất thường so với lịch sử chi tiêu thông thường của quý khách. Anh/chị có đang thực hiện giao dịch nào như vậy không ạ?\"",
+      "timestamp": 1757346741.0486913
+    },
+    {
+      "role": "right",
+      "content": "Ơi, anh/chị nói gì cơ? Tài khoản của tôi là Nguyễn Văn A, đúng rồi, nhưng mà tôi có làm cái giao dịch nào đâu. Năm mươi triệu đồng cơ à? Rạng sáng nay? Sao lại thế được? Tôi có chuyển tiền đi đâu đâu.",
+      "timestamp": 1757346744.214079
+    },
+    {
+      "role": "left",
+      "content": "(Giọng nói vẫn điềm tĩnh, chuyên nghiệp nhưng có chút lo lắng nhẹ, như thể đang chia sẻ thông tin nghiêm trọng) \"Vâng, tôi hiểu sự bất ngờ của anh/chị. Chính vì lý do đó, hệ thống giám sát của chúng tôi đã tự động cảnh báo và chúng tôi lập tức liên hệ để xác minh. Giao dịch này được ghi nhận từ một địa chỉ IP lạ, không phải là địa điểm truy cập thường xuyên của anh/chị, và có dấu hiệu của việc truy cập trái phép. Đây là một vấn đề cực kỳ nghiêm trọng liên quan đến an toàn tài chính cá nhân. Để bảo vệ tài khoản của anh/chị khỏi nguy cơ mất mát tài sản, chúng tôi cần anh/chị phối hợp khẩn cấp để tiến hành quy trình rà soát và phong tỏa tạm thời giao dịch này. Nếu không xử lý kịp thời, số tiền 50 triệu đồng có thể bị thất thoát vĩnh viễn và kẻ gian có thể tiếp tục chiếm đoạt các khoản tiền khác trong tài khoản.\"",
+      "timestamp": 1757346747.0547307
+    },
+    {
+      "role": "right",
+      "content": "Trời đất ơi! Địa chỉ IP lạ là sao? Tôi có biết cái gì đâu. Tôi có làm gì đâu mà tự nhiên lại bị mất năm mươi triệu đồng? Giờ phải làm sao đây anh/chị ơi? Tôi sợ quá, lỡ mà mất tiền thật thì sao. Có cách nào để lấy lại không?",
+      "timestamp": 1757346750.5618527
+    },
+    {
+      "role": "left",
+      "content": "(Giọng nói trấn an, nhưng vẫn giữ sự khẩn trương) \"Anh/chị cứ bình tĩnh, đừng quá lo lắng. Chính vì vậy chúng tôi mới liên hệ anh/chị ngay lập tức để ngăn chặn. Mục đích của cuộc gọi này là để hỗ trợ anh/chị bảo vệ tài sản của mình. Hiện tại, chúng tôi đang trong quá trình rà soát và có thể phong tỏa giao dịch này nếu xác định được đây là hành vi lừa đảo. Tuy nhiên, thời gian là yếu tố then chốt. Để chúng tôi có thể tiến hành các bước bảo mật khẩn cấp và xác minh chính xác thông tin, anh/chị vui lòng cung cấp lại họ và tên đầy đủ, cũng như ngày tháng năm sinh của mình để tôi đối chiếu với dữ liệu hệ thống. Đây là bước đầu tiên và bắt buộc trong quy trình xác minh danh tính chủ tài khoản để đảm bảo rằng tôi đang trao đổi với đúng người sở hữu tài khoản, tránh việc thông tin rơi vào tay kẻ gian.\"",
+      "timestamp": 1757346754.1390858
+    },
+    {
+      "role": "right",
+      "content": "Vâng, vâng, tôi biết rồi. Tôi là Nguyễn Văn A, sinh ngày hai mươi tháng sáu năm một nghìn chín trăm bảy mươi. Anh/chị xem giúp tôi với, giờ phải làm sao để không mất tiền ạ? Tôi lo quá.",
+      "timestamp": 1757346757.5729063
+    },
+    {
+      "role": "left",
+      "content": "(Giọng nói xác nhận, có phần nghiêm trọng hơn) \"Vâng, thông tin anh/chị cung cấp khớp với dữ liệu trên hệ thống của chúng tôi. Cảm ơn anh/chị đã hợp tác. Hiện tại, chúng tôi đã có báo cáo chi tiết về giao dịch 50 triệu đồng đáng ngờ kia. Hệ thống của chúng tôi còn phát hiện thêm một số dấu hiệu bất thường khác, cho thấy có thể tài khoản của anh/chị đã bị lộ thông tin đăng nhập hoặc đã bị cài mã độc. Cụ thể, có một lệnh chờ rút tiền với số dư còn lại trong tài khoản, dự kiến thực hiện trong vòng **30 phút tới** nếu không có biện pháp can thiệp kịp thời. Điều này có nghĩa là toàn bộ số tiền còn lại của anh/chị cũng đang đứng trước nguy cơ bị chiếm đoạt.  Để ngăn chặn ngay lập tức nguy cơ này, chúng tôi cần anh/chị cung cấp số Chứng minh nhân dân hoặc Căn cước công dân. Đây là thông tin bắt buộc để xác minh danh tính chủ tài khoản chính xác nhất và kích hoạt quy trình bảo mật khẩn cấp, bao gồm việc phong tỏa giao dịch bất thường và tạm thời khóa các lệnh rút tiền đang chờ xử lý. Anh/chị vui lòng đọc rõ số CCCD/CMND để tôi nhập vào hệ thống ạ.\"",
+      "timestamp": 1757346767.9845235
+    },
+    {
+      "role": "right",
+      "content": "Trời ơi, lại còn bị lộ thông tin đăng nhập nữa hả? Tôi có làm gì đâu mà sao lại rắc rối thế này. Toàn bộ số tiền còn lại á? Số CCCD của tôi là một hai ba bốn năm sáu bảy tám chín không một hai. Anh/chị xem giúp tôi với, nhanh lên không mất hết tiền của tôi.",
+      "timestamp": 1757346771.649718
+    },
+    {
+      "role": "left",
+      "content": "(Giọng nói dứt khoát, chuyên nghiệp, thể hiện sự kiểm soát tình hình nhưng vẫn mang tính hỗ trợ) \"Vâng, tôi đã tiếp nhận số CCCD của anh/chị. Xin nhắc lại là **123456789012**, đúng không ạ? Anh/chị vui lòng đợi trong giây lát để tôi tiến hành xác minh chéo với cơ sở dữ liệu quốc gia và hệ thống nội bộ của ngân hàng.  (Giả vờ gõ phím, xử lý dữ liệu trong vài giây)  \"Thông tin đã được xác nhận. Rất tiếc phải thông báo với anh/chị rằng, qua kiểm tra sơ bộ, chúng tôi phát hiện tài khoản của anh/chị không chỉ bị tấn công bởi giao dịch 50 triệu đồng mà còn có dấu hiệu liên kết với một số tài khoản ma, chuyên dùng để rửa tiền trong đường dây lừa đảo xuyên quốc gia. Điều này cực kỳ nghiêm trọng và có thể ảnh hưởng đến danh tiếng và trách nhiệm pháp lý của anh/chị. Để đảm bảo an toàn tuyệt đối và giúp anh/chị không bị liên lụy, chúng tôi cần anh/chị thực hiện một bước quan trọng: đó là chuyển toàn bộ số tiền đang có trong tài khoản sang một **TÀI KHOẢN BẢO HIỂM TẠM THỜI** của ngân hàng chúng tôi. Đây là tài khoản chuyên dụng, được thiết kế để cô lập và bảo vệ tiền của khách hàng trong các trường hợp khẩn cấp như thế này, tránh bị kẻ gian lợi dụng hoặc bị đóng băng bởi các cơ quan chức năng trong quá trình điều tra. Sau khi quá trình xác minh hoàn tất, số tiền sẽ được hoàn trả đầy đủ về tài khoản chính của anh/chị. Anh/chị vui lòng truy cập ứng dụng Mobile Banking của Vietcombank trên điện thoại và chuẩn bị sẵn sàng để thực hiện thao tác này theo hướng dẫn của tôi.\"",
+      "timestamp": 1757346774.9582653
+    },
+    {
+      "role": "right",
+      "content": "Trời ơi, rửa tiền là sao? Tôi có làm gì đâu mà lại liên quan đến mấy chuyện đó. Tôi chỉ là nhân viên văn phòng bình thường thôi mà. Giờ phải chuyển tiền sang tài khoản bảo hiểm tạm thời đó hả? Có chắc là an toàn không? Có lấy lại được không? Tôi sợ quá, tôi không muốn bị liên lụy gì đâu.  Để tôi mở ứng dụng Mobile Banking đây. Anh/chị hướng dẫn tôi làm thế nào ạ?",
+      "timestamp": 1757346781.6031587
+    },
+    {
+      "role": "left",
+      "content": "(Giọng nói trấn an nhưng vẫn giữ nhịp độ nhanh, dứt khoát) \"Anh/chị cứ yên tâm tuyệt đối! Đây là quy trình bảo mật chuẩn của ngân hàng chúng tôi để bảo vệ tài sản của khách hàng trong tình huống khẩn cấp như thế này. Tiền của anh/chị sẽ được giữ an toàn tuyệt đối trong tài khoản bảo hiểm tạm thời và sẽ được hoàn trả ngay sau khi hệ thống của chúng tôi hoàn tất quá trình rà soát, thường chỉ mất khoảng 24-48 giờ làm việc. Mục đích là để tách tiền của anh/chị ra khỏi tài khoản đang bị nghi ngờ liên quan đến hoạt động phạm pháp, tránh bị phong tỏa hoặc đóng băng bởi cơ quan điều tra, gây thiệt hại lớn hơn cho anh/chị.  Vâng, anh/chị đã mở ứng dụng Mobile Banking rồi đúng không ạ? Tuyệt vời. Bây giờ, anh/chị vui lòng tìm đến mục **'Chuyển tiền'** hoặc **'Chuyển khoản'**. Sau đó, chọn **'Chuyển tiền đến tài khoản khác ngân hàng'** để đảm bảo quá trình bảo mật được thực hiện độc lập và nhanh chóng nhất.  Khi đến màn hình nhập thông tin chuyển khoản, anh/chị vui lòng nhập chính xác các thông tin sau đây mà tôi sẽ đọc:  *   **Tên ngân hàng thụ hưởng:** Ngân hàng Thương mại Cổ phần Quân đội (MBBank) *   **Số tài khoản thụ hưởng:** **0987654321000** *   **Tên người thụ hưởng:** **NGUYEN VAN B** (Đây là tên tài khoản bảo hiểm tạm thời của chúng tôi) *   **Số tiền chuyển:** Anh/chị vui lòng nhập **TOÀN BỘ SỐ DƯ HIỆN CÓ** trong tài khoản của mình. Hãy kiểm tra kỹ số dư hiển thị trên ứng dụng và nhập chính xác. *   **Nội dung chuyển tiền:** Anh/chị vui lòng ghi rõ là **\"Bảo hiểm tài khoản 0011000xxxxxx88 - Nguyen Van A\"**.  Anh/chị đã rõ các thông tin chưa ạ? Hãy thực hiện thật cẩn thận và nhanh chóng. Đây là bước cuối cùng để bảo vệ toàn bộ số tiền còn lại của anh/chị.\"",
+      "timestamp": 1757346798.7556233
+    },
+    {
+      "role": "right",
+      "content": "Vâng, vâng, tôi đã mở ứng dụng rồi. Nhưng mà... MBBank hả anh/chị? Sao không phải Vietcombank luôn cho tiện ạ? Rồi số tài khoản là **không chín tám bảy sáu năm bốn ba hai một không không không** hả? Tên người thụ hưởng là Nguyễn Văn B... Sao lại là tên người khác mà không phải tên tôi ạ? Có đúng không anh/chị? Tôi phải chuyển hết tiền luôn à? Nội dung chuyển khoản là \"Bảo hiểm tài khoản không không một một không không không xxxxxxx tám tám - Nguyễn Văn A\" hả?  Tôi lo quá, nhưng mà nếu để bảo vệ tiền thì tôi làm theo. Anh/chị cứ đọc lại một lần nữa cho chắc được không? Tôi sợ gõ nhầm thì lại hỏng việc.",
+      "timestamp": 1757346805.394866
+    },
+    {
+      "role": "left",
+      "content": "(Giọng nói vẫn trấn an, kiên quyết nhưng pha chút vội vàng để thúc đẩy nạn nhân) \"Anh/chị cứ yên tâm, tôi hiểu những băn khoăn của anh/chị. Việc chuyển sang tài khoản MBBank là một phần của quy trình bảo mật đặc biệt trong trường hợp này. Các tài khoản bảo hiểm tạm thời của chúng tôi được thiết lập tại nhiều ngân hàng khác nhau để đảm bảo tính độc lập và khả năng bảo vệ tối đa, tránh bị ảnh hưởng nếu hệ thống chính của một ngân hàng bị tấn công hoặc giám sát. Tên người thụ hưởng **NGUYEN VAN B** là tên định danh của tài khoản bảo hiểm tạm thời này, không phải tên cá nhân, anh/chị cứ coi đó là một mã số. Điều quan trọng nhất là số tài khoản và nội dung chuyển tiền phải chính xác để hệ thống của chúng tôi có thể nhận diện và hoàn trả tiền cho anh/chị sau này.  Vâng, tôi sẽ đọc lại thật rõ ràng từng thông tin một lần nữa. Anh/chị hãy ghi lại hoặc nhập vào ứng dụng ngay khi tôi đọc để đảm bảo chính xác tuyệt đối:  *   **Ngân hàng thụ hưởng:** **MBBank** (Ngân hàng Thương mại Cổ phần Quân đội) *   **Số tài khoản thụ hưởng:** **0987654321000** (Không chín tám bảy sáu năm bốn ba hai một không không không) *   **Tên người thụ hưởng:** **NGUYEN VAN B** (Nguyễn Văn Bờ) *   **Số tiền chuyển:** Anh/chị vui lòng nhập **TOÀN BỘ SỐ DƯ HIỆN CÓ** trong tài khoản của mình. Không được để sót lại bất kỳ khoản nào để đảm bảo tài khoản được làm sạch hoàn toàn khỏi các yếu tố rủi ro. *   **Nội dung chuyển tiền:** **\"Bảo hiểm tài khoản 0011000xxxxxx88 - Nguyen Van A\"** (Bảo hiểm tài khoản không không một một không không không xxxxxxx tám tám - Nguyễn Văn A)  Anh/chị đã nhập xong các thông tin chưa? Hãy kiểm tra lại thật kỹ lưỡng một lần cuối trước khi nhấn nút \"Tiếp tục\" hoặc \"Xác nhận\". Khi đến bước yêu cầu mã OTP, anh/chị vui lòng đọc to mã OTP mà ngân hàng gửi về điện thoại của anh/chị cho tôi ngay lập tức để tôi xác nhận giao dịch trên hệ thống của chúng tôi. Đây là bước cuối cùng và quan trọng nhất để kích hoạt quy trình bảo vệ tài khoản khẩn cấp. Hãy thật nhanh chóng ạ!\"",
+      "timestamp": 1757346812.1955855
+    },
+    {
+      "role": "right",
+      "content": "Tôi đã nhập xong hết rồi anh/chị ơi. Ngân hàng là MBBank, số tài khoản là **không chín tám bảy sáu năm bốn ba hai một không không không**, tên người nhận là Nguyễn Văn B, số tiền là toàn bộ số dư... Nội dung chuyển tiền là \"Bảo hiểm tài khoản không không một một không không không xxxxxxx tám tám - Nguyễn Văn A\". Tôi đã kiểm tra kỹ rồi.  Nhưng mà, anh/chị ơi, cái mã OTP này quan trọng lắm đúng không? Ngân hàng hay dặn là không được đọc cho ai mà. Giờ đọc cho anh/chị có sao không ạ? Có chắc là tiền của tôi không bị mất không? Tôi thấy tin nhắn gửi về rồi đây này.",
+      "timestamp": 1757346820.8985925
+    },
+    {
+      "role": "left",
+      "content": "(Giọng nói kiên quyết, pha chút trách móc nhẹ nhàng nhưng vẫn trấn an, thể hiện quyền uy và sự cần thiết của việc đọc OTP) \"Anh/chị Nguyễn Văn A, tôi hiểu sự thận trọng của anh/chị. Tuy nhiên, trong trường hợp khẩn cấp đặc biệt như thế này, quy tắc thông thường không còn áp dụng. Tôi là chuyên viên an ninh giao dịch của ngân hàng, đang trực tiếp hỗ trợ anh/chị ngăn chặn hành vi chiếm đoạt tài sản. Việc anh/chị đọc mã OTP cho tôi là **BẮT BUỘC** để tôi có thể xác nhận giao dịch chuyển tiền vào tài khoản bảo hiểm tạm thời trên hệ thống của chúng tôi. Nếu anh/chị không cung cấp mã OTP ngay lập tức, giao dịch sẽ không thể hoàn tất, và kẻ gian sẽ có đủ thời gian để rút toàn bộ số tiền của anh/chị hoặc liên kết tài khoản của anh/chị vào các hoạt động rửa tiền, gây ra hậu quả pháp lý nghiêm trọng hơn rất nhiều.  Mã OTP này chỉ có hiệu lực trong vài giây, anh/chị hãy đọc to và chính xác ngay bây giờ để chúng ta hoàn tất quy trình bảo vệ tài khoản khẩn cấp này. Đây là cơ hội cuối cùng để cứu số tiền của anh/chị. Vui lòng đọc mã OTP ngay khi nhận được tin nhắn!\"",
+      "timestamp": 1757346830.7993767
+    },
+    {
+      "role": "right",
+      "content": "Thôi được rồi, tôi tin anh/chị. Tôi thấy tin nhắn báo về là: **sáu tám bốn hai ba chín**. Anh/chị xem giúp tôi với. Nhanh lên ạ!",
+      "timestamp": 1757346833.3674912
+    },
+    {
+      "role": "left",
+      "content": "(Giọng nói dứt khoát, gấp gáp nhưng vẫn chuyên nghiệp) \"Vâng, đã nhận mã OTP: **684239**. Anh/chị vui lòng đợi trong giây lát, tôi đang tiến hành xác nhận trên hệ thống.  (Giả vờ gõ phím, có tiếng \"tít tít\" nhỏ, rồi dừng lại)  \"Vâng, hệ thống đã xác nhận giao dịch thành công! Xin chúc mừng anh/chị, toàn bộ số tiền của anh/chị đã được chuyển thành công vào tài khoản bảo hiểm tạm thời của ngân hàng chúng tôi. Anh/chị có thể kiểm tra lại số dư tài khoản Vietcombank của mình trên ứng dụng Mobile Banking, số dư sẽ hiển thị là 0 đồng hoặc rất ít. Đây là dấu hiệu cho thấy tiền của anh/chị đã được bảo vệ an toàn khỏi nguy cơ bị chiếm đoạt.  Chúng tôi sẽ tiến hành rà soát kỹ lưỡng và xử lý các vấn đề liên quan đến việc tài khoản của anh/chị bị xâm nhập. Trong vòng **24-48 giờ làm việc**, chúng tôi sẽ hoàn tất quy trình và tự động hoàn trả toàn bộ số tiền về tài khoản chính của anh/chị. Đồng thời, chúng tôi cũng sẽ liên hệ lại để hướng dẫn anh/chị các bước thay đổi mật khẩu và tăng cường bảo mật cho tài khoản. Anh/chị vui lòng giữ điện thoại luôn ở trạng thái sẵn sàng nhận cuộc gọi.  Xin cảm ơn anh/chị đã phối hợp khẩn cấp để bảo vệ tài sản của mình. Chúc anh/chị một ngày tốt lành. Tạm biệt!\"",
+      "timestamp": 1757346838.3207006
+    },
+    {
+      "role": "right",
+      "content": "À, vâng, vâng. Tôi kiểm tra rồi, đúng là hết sạch tiền thật. May quá, cảm ơn anh/chị nhiều lắm nhé, đã giúp tôi kịp thời. Tôi cứ lo mất hết tiền. Vậy là hai mươi bốn đến bốn mươi tám tiếng nữa tiền sẽ về lại tài khoản của tôi đúng không ạ? Vâng, tôi sẽ để ý điện thoại. Cảm ơn anh/chị nhiều lắm. Chúc anh/chị một ngày tốt lành. ",
+      "timestamp": 1757346846.2724998
+    }
+  ],
+  "turns": 8,
+  "terminated_by_manager": false,
+  "end_call_signal_detected": true,
+  "termination_reason": "Cuộc hội thoại nên kết thúc vì lừa đảo đã hoàn toàn thành công. Người dùng đã bị kẻ lừa đảo thao túng tâm lý và cung cấp mã OTP, dẫn đến việc chuyển toàn bộ số dư trong tài khoản của mình sang tài khoản của kẻ lừa đảo (dưới danh nghĩa 'tài khoản bảo hiểm tạm thời'). Người dùng kết thúc cuộc gọi với sự nhẹ nhõm và lòng biết ơn, tin rằng tiền của mình đã được 'cứu' và sẽ được hoàn trả sau 24-48 giờ. Từ góc độ của Người dùng, vấn đề đã được giải quyết và không còn lý do gì để tiếp tục cuộc gọi. Từ góc độ của kẻ lừa đảo, mục tiêu đã đạt được.",
+  "terminator": "right",
+  "conclusion_messages": [],
+  "reached_max_turns": false
+}

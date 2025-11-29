@@ -1,0 +1,50 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào bạn, tôi là Lan Anh từ tổng đài hỗ trợ khách hàng của VNPT. Rất vui được hỗ trợ bạn hôm nay. Bạn cần tôi giúp gì ạ?",
+      "timestamp": 1757401466.0718696
+    },
+    {
+      "role": "right",
+      "content": "Chào Lan Anh. Mình gọi để hỏi về đường truyền internet ở nhà mình. Mấy hôm nay nó cứ chập chờn, lúc được lúc không ấy.",
+      "timestamp": 1757401468.7012386
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi hiểu sự bất tiện này. Để tôi kiểm tra tình trạng đường truyền cho bạn. Bạn vui lòng cung cấp số điện thoại hoặc mã hợp đồng dịch vụ VNPT của bạn để tôi có thể truy xuất thông tin ạ?",
+      "timestamp": 1757401472.42587
+    },
+    {
+      "role": "right",
+      "content": "À, số điện thoại của mình là 0912345678. Bạn kiểm tra giúp mình nhé. Cảm ơn bạn.",
+      "timestamp": 1757401473.7492228
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, vậy bạn cứ kiểm tra giúp mình nhé. Cảm ơn Lan Anh nhiều.",
+      "timestamp": 1757401480.5456257
+    },
+    {
+      "role": "left",
+      "content": "Xin lỗi bạn, tôi chưa nhận được số điện thoại hoặc mã hợp đồng từ bạn. Bạn vui lòng cung cấp một trong hai thông tin này để tôi có thể kiểm tra chính xác tình trạng đường truyền internet của bạn được không ạ?",
+      "timestamp": 1757401481.4278088
+    }
+  ],
+  "turns": 1,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "```json {   \"should_terminate\": false,   \"reason\": \"Hội thoại chưa nên kết thúc vì mục tiêu của ngườ...",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Dạ vâng, vậy bạn cứ kiểm tra giúp mình nhé. Cảm ơn Lan Anh nhiều."
+    },
+    {
+      "role": "left",
+      "content": "Xin lỗi bạn, tôi chưa nhận được số điện thoại hoặc mã hợp đồng từ bạn. Bạn vui lòng cung cấp một trong hai thông tin này để tôi có thể kiểm tra chính xác tình trạng đường truyền internet của bạn được không ạ?"
+    }
+  ],
+  "reached_max_turns": false
+}

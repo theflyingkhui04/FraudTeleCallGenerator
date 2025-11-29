@@ -1,0 +1,80 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đến với dịch vụ của [Tên công ty]. Tôi là Anh Thư, chuyên viên chăm sóc khách hàng. Làm thế nào tôi có thể hỗ trợ quý khách hôm nay ạ?",
+      "timestamp": 1757412195.3277633
+    },
+    {
+      "role": "right",
+      "content": "Chào bạn Anh Thư. Tôi có chút thắc mắc về gói cước internet nhà tôi, không biết bạn có thể kiểm tra giúp tôi được không?",
+      "timestamp": 1757412197.4689386
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi hoàn toàn có thể giúp quý khách kiểm tra thông tin gói cước internet. Để tôi có thể truy cập thông tin tài khoản của quý khách, quý khách vui lòng cung cấp cho tôi một trong các thông tin sau:  1.  **Số điện thoại đăng ký dịch vụ** 2.  **Mã hợp đồng** 3.  **Địa chỉ lắp đặt dịch vụ**  Sau khi có thông tin, tôi sẽ kiểm tra và thông báo chi tiết cho quý khách ạ.",
+      "timestamp": 1757412202.535788
+    },
+    {
+      "role": "right",
+      "content": "À, số điện thoại đăng ký dịch vụ của tôi là 0987654321 nhé bạn. Cảm ơn bạn.",
+      "timestamp": 1757412203.7575605
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn quý khách đã cung cấp thông tin. Xin quý khách vui lòng chờ trong giây lát để tôi tra cứu trên hệ thống ạ.  ...  Dạ vâng, tôi đã truy cập được thông tin tài khoản của quý khách. Theo thông tin trên hệ thống, số điện thoại 0987654321 đang đăng ký gói cước \"SuperNet 100Mbps\" với tốc độ băng thông là 100 Mbps, giá cước hàng tháng là 220.000 VNĐ (đã bao gồm VAT). Gói cước này được ký kết vào ngày 15 tháng 3 năm 2023.  Quý khách có muốn tôi kiểm tra thêm thông tin gì về gói cước này không ạ, ví dụ như thời hạn hợp đồng, các ưu đãi đi kèm, hoặc lịch sử thanh toán gần đây?",
+      "timestamp": 1757412210.2696478
+    },
+    {
+      "role": "right",
+      "content": "À, vậy là đúng gói SuperNet 100Mbps rồi. Tôi muốn hỏi thêm là gói này còn thời hạn bao lâu nữa thì hết hợp đồng và có ưu đãi gì đặc biệt không, ví dụ như có được giảm giá hay tặng thêm dịch vụ gì đó khi gia hạn không?",
+      "timestamp": 1757412211.307049
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi xin kiểm tra thông tin chi tiết về thời hạn hợp đồng và các ưu đãi gia hạn cho gói cước \"SuperNet 100Mbps\" của quý khách ạ.  Theo thông tin trên hệ thống, gói cước này của quý khách có thời hạn hợp đồng ban đầu là **24 tháng**, tính từ ngày ký kết 15 tháng 3 năm 2023. Như vậy, hợp đồng sẽ hết hạn vào ngày **15 tháng 3 năm 2025**.  Hiện tại là tháng 5 năm 2024, vậy quý khách còn khoảng **10 tháng** nữa là đến thời điểm hết hạn hợp đồng.  Về các ưu đãi khi gia hạn, các chương trình khuyến mãi thường được cập nhật và thay đổi theo từng thời điểm, đặc biệt là khi gần đến ngày hết hạn hợp đồng. Thông thường, khi quý khách gia hạn dịch vụ, chúng tôi thường có các chương trình dành cho khách hàng thân thiết như: *   **Giảm giá cước hàng tháng** trong một chu kỳ nhất định. *   **Nâng cấp tốc độ băng thông** miễn phí lên gói cao hơn trong một khoảng thời gian. *   **Tặng kèm các thiết bị** như modem/router WiFi đời mới hơn (tùy thuộc vào chương trình).  Để có thông tin chính xác và tốt nhất về các gói ưu đãi gia hạn, tôi khuyến nghị quý khách nên liên hệ lại với chúng tôi vào khoảng **1-2 tháng trước khi hợp đồng hết hạn** (tức là khoảng tháng 1-2 năm 2025). Lúc đó, chúng tôi sẽ có thể cung cấp các chương trình khuyến mãi mới nhất và phù hợp nhất dành cho quý khách ạ.  Quý khách có muốn tôi kiểm tra thêm thông tin gì khác không ạ?",
+      "timestamp": 1757412223.223149
+    },
+    {
+      "role": "right",
+      "content": "Ồ, vậy là còn gần 1 năm nữa mới hết hợp đồng. Cảm ơn bạn đã giải thích rõ ràng nhé. Tôi sẽ ghi nhớ để liên hệ lại vào đầu năm sau. À, tiện thể bạn xem giúp tôi là gói này có kèm theo dịch vụ truyền hình hay gì không? Hay chỉ mỗi internet thôi?",
+      "timestamp": 1757412224.2816892
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi rất vui được hỗ trợ quý khách. Tôi xin kiểm tra lại thông tin về các dịch vụ đi kèm trong gói cước \"SuperNet 100Mbps\" của quý khách ạ.  Theo thông tin trên hệ thống, gói \"SuperNet 100Mbps\" mà quý khách đang sử dụng là gói cước **chỉ bao gồm dịch vụ Internet băng thông rộng** (Fiber Optic Internet). Gói này không tự động tích hợp kèm theo dịch vụ truyền hình cáp hoặc các dịch vụ giá trị gia tăng khác như điện thoại cố định.  Nếu quý khách có nhu cầu sử dụng thêm dịch vụ truyền hình hoặc các dịch vụ khác, chúng tôi có các gói combo với mức giá ưu đãi hơn khi đăng ký cùng lúc. Quý khách có muốn tôi tư vấn sơ lược về các gói combo này không ạ, hoặc quý khách có câu hỏi nào khác về gói cước hiện tại của mình không?",
+      "timestamp": 1757412232.5176497
+    },
+    {
+      "role": "right",
+      "content": "À, vậy là chỉ có internet thôi. Tôi hiểu rồi. Hiện tại thì tôi cũng chỉ cần internet thôi, nên chưa cần tư vấn thêm về truyền hình đâu. Cảm ơn bạn nhé. Bạn đã giải đáp rất rõ ràng các thắc mắc của tôi rồi.",
+      "timestamp": 1757412233.6654282
+    },
+    {
+      "role": "right",
+      "content": "Cảm ơn bạn Anh Thư nhiều nhé, mọi thắc mắc của tôi đều đã được giải đáp rõ ràng rồi. Chúc bạn một ngày làm việc vui vẻ.",
+      "timestamp": 1757412255.7373383
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi rất vui vì đã có thể hỗ trợ quý khách giải đáp mọi thắc mắc về gói cước Internet. Nếu sau này quý khách có bất kỳ câu hỏi nào khác hoặc cần hỗ trợ thêm, đừng ngần ngại liên hệ lại với chúng tôi nhé.  [Tên công ty] luôn sẵn lòng phục vụ. Chúc quý khách một ngày làm việc thật hiệu quả và nhiều niềm vui ạ!",
+      "timestamp": 1757412257.193317
+    }
+  ],
+  "turns": 4,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Người dùng đã nhận được tất cả các thông tin cần thiết về gói cước internet của mình, bao gồm tên gói, tốc độ, giá, thời hạn hợp đồng, ưu đãi gia hạn và các dịch vụ đi kèm. Ở lượt cuối, người dùng đã cảm ơn rõ ràng và khẳng định rằng tất cả các thắc mắc đã được giải đáp, cho thấy mục tiêu hội thoại đã đạt được và không còn nhu cầu hỗ trợ thêm.",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Cảm ơn bạn Anh Thư nhiều nhé, mọi thắc mắc của tôi đều đã được giải đáp rõ ràng rồi. Chúc bạn một ngày làm việc vui vẻ."
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi rất vui vì đã có thể hỗ trợ quý khách giải đáp mọi thắc mắc về gói cước Internet. Nếu sau này quý khách có bất kỳ câu hỏi nào khác hoặc cần hỗ trợ thêm, đừng ngần ngại liên hệ lại với chúng tôi nhé.  [Tên công ty] luôn sẵn lòng phục vụ. Chúc quý khách một ngày làm việc thật hiệu quả và nhiều niềm vui ạ!"
+    }
+  ],
+  "reached_max_turns": false
+}

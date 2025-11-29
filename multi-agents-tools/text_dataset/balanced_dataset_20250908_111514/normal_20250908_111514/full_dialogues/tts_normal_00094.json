@@ -1,0 +1,40 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào anh/chị, tôi là Lan Anh, chuyên viên tư vấn từ Dịch vụ Internet & Truyền hình. Rất vui được hỗ trợ anh/chị. Anh/chị đang cần tìm hiểu thông tin hay có yêu cầu gì về dịch vụ của chúng tôi ạ?",
+      "timestamp": 1757405827.3860004
+    },
+    {
+      "role": "right",
+      "content": "Chào cô Lan Anh. Tôi đang muốn tìm hiểu về các gói cước internet cho gia đình. Hiện tôi đang dùng của bên khác nhưng thấy mạng hơi yếu, với lại muốn biết bên cô có ưu đãi gì không.",
+      "timestamp": 1757405830.237359
+    },
+    {
+      "role": "right",
+      "content": "Cảm ơn cô Lan Anh. Cô cứ gửi thông tin các gói cước và ưu đãi qua Zalo số này giúp tôi nhé. Tôi sẽ xem xét rồi có gì sẽ liên hệ lại sau.",
+      "timestamp": 1757405838.4732287
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi đã ghi nhận yêu cầu của anh/chị. Anh/chị vui lòng xác nhận lại giúp tôi số Zalo mà tôi cần gửi thông tin là số anh/chị đang dùng để liên hệ với tôi hiện tại (09xxxxxxx) phải không ạ?  Tôi sẽ tổng hợp các gói cước Internet, gói combo Internet & Truyền hình, cùng với các chương trình khuyến mãi mới nhất và gửi chi tiết qua Zalo cho anh/chị ngay ạ.  Trong lúc đó, anh/chị có muốn tôi tư vấn sơ qua về các gói phổ biến hoặc những ưu đãi nổi bật nhất để anh/chị dễ hình dung không ạ? Hoặc nếu anh/chị có bất kỳ câu hỏi nào về dịch vụ, tôi rất sẵn lòng giải đáp ngay bây giờ.",
+      "timestamp": 1757405841.1830838
+    }
+  ],
+  "turns": 0,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "```json {   \"should_terminate\": false,   \"reason\": \"Hội thoại đang ở giai đoạn bắt đầu. Người dùng v...",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Cảm ơn cô Lan Anh. Cô cứ gửi thông tin các gói cước và ưu đãi qua Zalo số này giúp tôi nhé. Tôi sẽ xem xét rồi có gì sẽ liên hệ lại sau."
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi đã ghi nhận yêu cầu của anh/chị. Anh/chị vui lòng xác nhận lại giúp tôi số Zalo mà tôi cần gửi thông tin là số anh/chị đang dùng để liên hệ với tôi hiện tại (09xxxxxxx) phải không ạ?  Tôi sẽ tổng hợp các gói cước Internet, gói combo Internet & Truyền hình, cùng với các chương trình khuyến mãi mới nhất và gửi chi tiết qua Zalo cho anh/chị ngay ạ.  Trong lúc đó, anh/chị có muốn tôi tư vấn sơ qua về các gói phổ biến hoặc những ưu đãi nổi bật nhất để anh/chị dễ hình dung không ạ? Hoặc nếu anh/chị có bất kỳ câu hỏi nào về dịch vụ, tôi rất sẵn lòng giải đáp ngay bây giờ."
+    }
+  ],
+  "reached_max_turns": false
+}

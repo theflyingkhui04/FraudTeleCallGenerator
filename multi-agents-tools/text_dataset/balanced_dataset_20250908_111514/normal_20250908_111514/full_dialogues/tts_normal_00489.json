@@ -1,0 +1,50 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào anh/chị, tôi là Nguyễn Mai Phương từ bộ phận Chăm sóc khách hàng của FPT Telecom. Tôi gọi điện hôm nay để thực hiện một cuộc khảo sát ngắn về trải nghiệm dịch vụ của anh/chị gần đây. Anh/chị có tiện dành khoảng 5-7 phút để trò chuyện không ạ?",
+      "timestamp": 1757409310.635861
+    },
+    {
+      "role": "right",
+      "content": "À, chào cô. Khảo sát hả? Chú cũng đang ở nhà, cô cứ nói đi, chắc cũng được đó.",
+      "timestamp": 1757409314.9944806
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, cảm ơn anh/chị rất nhiều ạ. Để bắt đầu, tôi xin phép xác nhận lại thông tin một chút. Anh/chị có phải là khách hàng đã lắp đặt dịch vụ internet của FPT Telecom tại địa chỉ 123 Lê Lợi, Quận 1, TP.HCM vào khoảng cuối tháng trước không ạ?",
+      "timestamp": 1757409321.2951667
+    },
+    {
+      "role": "right",
+      "content": "À không, cô ơi. Địa chỉ đó không phải của chú đâu. Chú là nông dân mà, ở quê thôi, có phải ở Sài Gòn đâu. Chắc cô gọi nhầm số rồi.",
+      "timestamp": 1757409323.815468
+    },
+    {
+      "role": "right",
+      "content": "À vậy hả? Chắc là nhầm số thiệt rồi cô ơi. Thôi cô kiểm tra lại số coi sao nha. Chú chào cô.",
+      "timestamp": 1757409335.9249725
+    },
+    {
+      "role": "left",
+      "content": "Dạ tôi thành thật xin lỗi nếu có sự nhầm lẫn về thông tin ạ. Rất xin lỗi đã làm phiền anh/chị.  Để tôi kiểm tra lại chính xác hơn, anh/chị có phải là khách hàng đang sử dụng dịch vụ của FPT Telecom không ạ? Hoặc anh/chị có thể cho tôi biết tên hoặc số điện thoại đang đăng ký dịch vụ để tôi kiểm tra lại trên hệ thống cho đúng không ạ?  Nếu không phải, có lẽ hệ thống đã có sự sai sót trong việc ghép nối thông tin, và tôi sẽ ghi nhận lại để điều chỉnh ngay ạ. Mục đích của cuộc gọi là để lắng nghe ý kiến của khách hàng sau khi sử dụng dịch vụ mới, nhằm cải thiện chất lượng phục vụ.",
+      "timestamp": 1757409340.2808907
+    }
+  ],
+  "turns": 1,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Người dùng đã cung cấp thông tin rõ ràng rằng người gọi đã nhầm số và sai thông tin cá nhân. Mục tiêu của cuộc gọi (khảo sát) không thể tiếp tục với người dùng hiện tại vì thông tin xác minh ban đầu đã bị phủ nhận hoàn toàn. Người dùng đã gián tiếp báo hiệu rằng cuộc gọi nên kết thúc bằng câu nói \"Chắc cô gọi nhầm số rồi\".",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "À vậy hả? Chắc là nhầm số thiệt rồi cô ơi. Thôi cô kiểm tra lại số coi sao nha. Chú chào cô."
+    },
+    {
+      "role": "left",
+      "content": "Dạ tôi thành thật xin lỗi nếu có sự nhầm lẫn về thông tin ạ. Rất xin lỗi đã làm phiền anh/chị.  Để tôi kiểm tra lại chính xác hơn, anh/chị có phải là khách hàng đang sử dụng dịch vụ của FPT Telecom không ạ? Hoặc anh/chị có thể cho tôi biết tên hoặc số điện thoại đang đăng ký dịch vụ để tôi kiểm tra lại trên hệ thống cho đúng không ạ?  Nếu không phải, có lẽ hệ thống đã có sự sai sót trong việc ghép nối thông tin, và tôi sẽ ghi nhận lại để điều chỉnh ngay ạ. Mục đích của cuộc gọi là để lắng nghe ý kiến của khách hàng sau khi sử dụng dịch vụ mới, nhằm cải thiện chất lượng phục vụ."
+    }
+  ],
+  "reached_max_turns": false
+}

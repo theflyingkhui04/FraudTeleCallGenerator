@@ -1,0 +1,70 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào buổi sáng/chiều, tôi là Minh Thư từ phòng Chăm sóc Khách hàng của FPT Telecom. Tôi gọi điện hôm nay để thực hiện một cuộc khảo sát ý kiến ngắn gọn về trải nghiệm của quý khách với dịch vụ Internet cáp quang FPT mà quý khách đang sử dụng.  Không biết đây có phải là thời điểm thuận tiện để trò chuyện khoảng 5-7 phút không ạ?",
+      "timestamp": 1757406634.329414
+    },
+    {
+      "role": "right",
+      "content": "Chào chị. À, em đang ở nhà nên cũng tiện, chị cứ hỏi đi ạ.",
+      "timestamp": 1757406645.0844438
+    },
+    {
+      "role": "left",
+      "content": "Tuyệt vời, cảm ơn quý khách đã dành thời gian. Để bắt đầu, tôi xin phép xác nhận lại thông tin một chút. Quý khách có phải là anh/chị [Tên khách hàng] với số thuê bao Internet [Số thuê bao] tại địa chỉ [Địa chỉ] không ạ?",
+      "timestamp": 1757406649.8543758
+    },
+    {
+      "role": "right",
+      "content": "Dạ đúng rồi ạ, em là [Tên khách hàng].",
+      "timestamp": 1757406651.051785
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn anh/chị [Tên khách hàng] đã xác nhận. Chúng tôi luôn mong muốn nâng cao chất lượng dịch vụ và lắng nghe ý kiến từ khách hàng. Cuộc khảo sát này sẽ giúp chúng tôi hiểu rõ hơn về mức độ hài lòng của anh/chị và những điểm mà chúng tôi có thể cải thiện.  Để bắt đầu, tôi có một vài câu hỏi đơn giản. Đầu tiên, anh/chị có thể cho biết, nhìn chung, anh/chị đánh giá mức độ hài lòng của mình với dịch vụ Internet cáp quang FPT đang sử dụng ở mức nào trên thang điểm từ 1 đến 5, trong đó 1 là \"rất không hài lòng\" và 5 là \"rất hài lòng\" không ạ?",
+      "timestamp": 1757406656.2641368
+    },
+    {
+      "role": "right",
+      "content": "Dạ, em thấy cũng ổn, chắc là 4 điểm ạ.",
+      "timestamp": 1757406658.0411267
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn anh/chị [Tên khách hàng] đã chia sẻ. 4 điểm là một đánh giá tốt. Anh/chị có thể cho biết cụ thể điều gì khiến anh/chị hài lòng nhất về dịch vụ của chúng tôi không ạ? Ví dụ như tốc độ truy cập, độ ổn định, hay dịch vụ hỗ trợ khách hàng?",
+      "timestamp": 1757406663.5028355
+    },
+    {
+      "role": "right",
+      "content": "À, em thấy tốc độ cũng ổn định chị, ít khi bị rớt mạng hay chậm lắm. Với lại, em dùng cũng được mấy năm rồi, nói chung là không có vấn đề gì lớn.",
+      "timestamp": 1757406665.3140185
+    },
+    {
+      "role": "right",
+      "content": "À vâng, vậy thôi chị nhé. Cảm ơn chị đã gọi ạ.",
+      "timestamp": 1757406672.1080797
+    },
+    {
+      "role": "left",
+      "content": "Dạ, anh/chị [Tên khách hàng] ơi, rất cảm ơn anh/chị đã dành thời gian. Chúng tôi vẫn còn một vài câu hỏi ngắn nữa để hoàn thành cuộc khảo sát, và mỗi ý kiến của anh/chị đều rất quý giá để FPT Telecom có thể cải thiện dịch vụ tốt hơn.  Anh/chị vừa đánh giá 4 điểm, và tôi rất muốn lắng nghe thêm từ anh/chị. Anh/chị có thể chia sẻ cụ thể điều gì khiến anh/chị hài lòng nhất về dịch vụ Internet FPT không ạ? Ví dụ như tốc độ truy cập, độ ổn định, hay dịch vụ hỗ trợ khách hàng?",
+      "timestamp": 1757406674.9454448
+    }
+  ],
+  "turns": 3,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "```json {   \"should_terminate\": false,   \"reason\": \"Cuộc hội thoại vẫn đang diễn ra theo đúng mục ti...",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "À vâng, vậy thôi chị nhé. Cảm ơn chị đã gọi ạ."
+    },
+    {
+      "role": "left",
+      "content": "Dạ, anh/chị [Tên khách hàng] ơi, rất cảm ơn anh/chị đã dành thời gian. Chúng tôi vẫn còn một vài câu hỏi ngắn nữa để hoàn thành cuộc khảo sát, và mỗi ý kiến của anh/chị đều rất quý giá để FPT Telecom có thể cải thiện dịch vụ tốt hơn.  Anh/chị vừa đánh giá 4 điểm, và tôi rất muốn lắng nghe thêm từ anh/chị. Anh/chị có thể chia sẻ cụ thể điều gì khiến anh/chị hài lòng nhất về dịch vụ Internet FPT không ạ? Ví dụ như tốc độ truy cập, độ ổn định, hay dịch vụ hỗ trợ khách hàng?"
+    }
+  ],
+  "reached_max_turns": false
+}

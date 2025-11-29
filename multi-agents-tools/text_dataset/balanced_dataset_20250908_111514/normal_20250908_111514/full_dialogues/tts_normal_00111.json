@@ -1,0 +1,80 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đã gọi đến tổng đài hỗ trợ của FPT Telecom. Tôi là Mai Anh, rất vui được hỗ trợ quý khách hôm nay. Xin quý khách cho biết tôi có thể giúp gì ạ?",
+      "timestamp": 1757407878.2752948
+    },
+    {
+      "role": "right",
+      "content": "Chào cô Mai Anh. Cô ơi, mạng nhà tôi tự nhiên hôm nay không vào được. Cục đèn cứ nháy đỏ liên tục à.",
+      "timestamp": 1757407881.592353
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi rất tiếc khi nghe thấy quý khách đang gặp sự cố với dịch vụ Internet. Để tôi kiểm tra tình trạng đường truyền và hỗ trợ quý khách khắc phục ạ. Quý khách vui lòng cung cấp số hợp đồng hoặc số điện thoại đã đăng ký dịch vụ để tôi tra cứu thông tin nhé.",
+      "timestamp": 1757407894.3297095
+    },
+    {
+      "role": "right",
+      "content": "À số điện thoại của tôi là 0903 555 888. Cô kiểm tra giúp tôi nhé.",
+      "timestamp": 1757407896.1341405
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, quý khách vui lòng chờ trong giây lát để tôi kiểm tra thông tin.  ...Dạ tôi đã tìm thấy thông tin hợp đồng đứng tên ông Nguyễn Văn An, địa chỉ tại 123 Đường Trần Phú, Quận Hải Châu, Đà Nẵng, số điện thoại 0903 555 888. Có đúng là thông tin của quý khách không ạ?",
+      "timestamp": 1757407904.3008795
+    },
+    {
+      "role": "right",
+      "content": "Dạ đúng rồi cô. Giờ cô xem giúp tôi sao mạng lại không vào được vậy ạ?",
+      "timestamp": 1757407906.4507391
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng. Theo thông tin tôi kiểm tra trên hệ thống, tín hiệu đường truyền đến thiết bị modem của quý khách đang gặp sự cố, có thể là do lỗi tín hiệu từ phía nhà mạng hoặc thiết bị modem đang có vấn đề.  Để xác định chính xác nguyên nhân, quý khách vui lòng kiểm tra giúp tôi một vài điều sau đây nhé: 1.  **Vui lòng nhìn vào modem và cho tôi biết tất cả các đèn trên modem đang hiển thị màu gì và trạng thái như thế nào (đứng yên hay nhấp nháy)?** Đặc biệt là đèn LOS (Loss of Signal) và đèn Internet/WAN. 2.  **Quý khách có thể thử tắt modem và bật lại sau khoảng 30 giây không ạ?** Đây là thao tác đơn giản nhưng thường giúp khắc phục các lỗi nhỏ.",
+      "timestamp": 1757407913.7706926
+    },
+    {
+      "role": "right",
+      "content": "À cô ơi, cái đèn LOS nó nháy đỏ liên tục đó cô. Còn mấy đèn khác thì bình thường, không thấy sáng hay nháy gì hết. Tôi cũng thử rút điện ra cắm lại mấy lần rồi mà vẫn không được cô ạ.",
+      "timestamp": 1757407916.7470152
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, cảm ơn quý khách đã cung cấp thông tin chi tiết. Đèn LOS nhấp nháy đỏ liên tục thường báo hiệu rằng modem không nhận được tín hiệu quang từ FPT Telecom. Điều này có thể do đứt cáp quang ở bên ngoài, hoặc lỗi tại thiết bị chuyển đổi tín hiệu ở hộp kỹ thuật gần nhà quý khách.  Với tình trạng này, khả năng cao là sự cố nằm ngoài phạm vi quý khách có thể tự khắc phục được. Tôi sẽ tạo một yêu cầu hỗ trợ kỹ thuật và điều phối nhân viên kỹ thuật đến tận nhà để kiểm tra và xử lý sự cố cho quý khách trong thời gian sớm nhất.  Quý khách có thể cho tôi biết thời gian nào thuận tiện nhất để kỹ thuật viên đến kiểm tra không ạ? Chúng tôi có thể sắp xếp trong khung giờ hành chính từ 8h sáng đến 5h chiều, hoặc buổi tối từ 5h chiều đến 8h tối.",
+      "timestamp": 1757407923.2997792
+    },
+    {
+      "role": "right",
+      "content": "À vậy à cô. Vậy cô cứ cho kỹ thuật qua kiểm tra giúp tôi đi. Sáng mai tầm 9-10 giờ gì đó được không cô? Hay chiều cũng được, tầm 2-3 giờ đi. Tôi ở nhà cả ngày mà.",
+      "timestamp": 1757407927.1429641
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, vậy tôi sẽ tạo yêu cầu hỗ trợ kỹ thuật ngay lập tức để nhân viên kỹ thuật có thể liên hệ và sắp xếp lịch hẹn kiểm tra tại nhà quý khách. Thông thường, trong vòng 2-4 giờ làm việc, kỹ thuật viên sẽ liên hệ lại quý khách qua số điện thoại 0903 555 888 để xác nhận thời gian cụ thể trước khi đến ạ. Quý khách vui lòng giữ điện thoại để tiện cho kỹ thuật viên liên hệ nhé.  Tôi hy vọng sự cố sẽ sớm được khắc phục. Quý khách còn có câu hỏi nào khác cần tôi hỗ trợ không ạ? Nếu không, tôi xin phép kết thúc cuộc gọi tại đây. Cảm ơn quý khách đã tin tưởng và sử dụng dịch vụ của FPT Telecom. Chúc quý khách một ngày tốt lành!",
+      "timestamp": 1757407939.852282
+    },
+    {
+      "role": "right",
+      "content": "Dạ vậy được rồi cô. Cảm ơn cô nhé. Vậy tôi chờ kỹ thuật viên gọi lại ạ.",
+      "timestamp": 1757407944.4249249
+    }
+  ],
+  "turns": 4,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu của cuộc gọi là chẩn đoán sự cố và sắp xếp lịch hẹn với kỹ thuật viên đã đạt được. Người dùng đã cung cấp đủ thông tin cần thiết (thời gian rảnh) để bên dịch vụ tiếp tục xử lý (lên lịch hẹn). Bên dịch vụ hiện đang ở vị thế để tổng kết lại thông tin đã ghi nhận và kết thúc cuộc gọi này, chuyển sang bước xử lý nội bộ (điều phối kỹ thuật viên). Hội thoại đã hoàn thành quy trình dịch vụ trong phạm vi cuộc gọi này.",
+  "terminator": "dịch vụ kết thúc",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Dạ vâng, vậy tôi sẽ tạo yêu cầu hỗ trợ kỹ thuật ngay lập tức để nhân viên kỹ thuật có thể liên hệ và sắp xếp lịch hẹn kiểm tra tại nhà quý khách. Thông thường, trong vòng 2-4 giờ làm việc, kỹ thuật viên sẽ liên hệ lại quý khách qua số điện thoại 0903 555 888 để xác nhận thời gian cụ thể trước khi đến ạ. Quý khách vui lòng giữ điện thoại để tiện cho kỹ thuật viên liên hệ nhé.  Tôi hy vọng sự cố sẽ sớm được khắc phục. Quý khách còn có câu hỏi nào khác cần tôi hỗ trợ không ạ? Nếu không, tôi xin phép kết thúc cuộc gọi tại đây. Cảm ơn quý khách đã tin tưởng và sử dụng dịch vụ của FPT Telecom. Chúc quý khách một ngày tốt lành!"
+    },
+    {
+      "role": "right",
+      "content": "Dạ vậy được rồi cô. Cảm ơn cô nhé. Vậy tôi chờ kỹ thuật viên gọi lại ạ."
+    }
+  ],
+  "reached_max_turns": false
+}

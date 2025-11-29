@@ -1,0 +1,40 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đến với Dịch vụ Chăm sóc Khách hàng của [Tên công ty dịch vụ]. Tôi là Minh Thư, rất vui được hỗ trợ quý khách hôm nay.  Xin quý khách vui lòng cho biết tôi có thể giúp gì ạ?",
+      "timestamp": 1757403650.7045825
+    },
+    {
+      "role": "right",
+      "content": "Chào bạn, tôi là Lan Anh. Tôi muốn hỏi về gói cước internet của gia đình tôi. Tháng này tôi thấy cước phí có vẻ cao hơn bình thường một chút mà tôi chưa rõ lý do.",
+      "timestamp": 1757403653.2209826
+    },
+    {
+      "role": "right",
+      "content": "À vâng, cảm ơn bạn nhé. Vậy bạn cứ kiểm tra giúp tôi xem sao, rồi có gì báo lại cho tôi biết nhé. Cảm ơn bạn.",
+      "timestamp": 1757403660.3397894
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng ạ. Để tôi có thể kiểm tra và hỗ trợ quý khách một cách chính xác nhất, xin quý khách vui lòng cho tôi biết quý khách muốn tôi kiểm tra về vấn đề gì, hoặc quý khách đang có thắc mắc liên quan đến dịch vụ hay sản phẩm nào của chúng tôi ạ?  Ví dụ như: thông tin gói cước, hóa đơn, tình trạng đơn hàng, hay một dịch vụ cụ thể nào đó. Tôi rất sẵn lòng lắng nghe ạ.",
+      "timestamp": 1757403662.4516263
+    }
+  ],
+  "turns": 0,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "```json {   \"should_terminate\": false,   \"reason\": \"Hội thoại vừa mới bắt đầu. Người dùng đã nêu rõ ...",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "À vâng, cảm ơn bạn nhé. Vậy bạn cứ kiểm tra giúp tôi xem sao, rồi có gì báo lại cho tôi biết nhé. Cảm ơn bạn."
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng ạ. Để tôi có thể kiểm tra và hỗ trợ quý khách một cách chính xác nhất, xin quý khách vui lòng cho tôi biết quý khách muốn tôi kiểm tra về vấn đề gì, hoặc quý khách đang có thắc mắc liên quan đến dịch vụ hay sản phẩm nào của chúng tôi ạ?  Ví dụ như: thông tin gói cước, hóa đơn, tình trạng đơn hàng, hay một dịch vụ cụ thể nào đó. Tôi rất sẵn lòng lắng nghe ạ."
+    }
+  ],
+  "reached_max_turns": false
+}

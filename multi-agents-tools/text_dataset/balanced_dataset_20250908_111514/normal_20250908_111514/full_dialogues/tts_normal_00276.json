@@ -1,0 +1,60 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Xin chào quý khách, tôi là Lan Anh, chuyên viên tư vấn của [Tên Công ty Dịch vụ - ví dụ: Dịch vụ Internet Vạn Tín]. Rất vui được hỗ trợ quý khách ngày hôm nay.  Tôi gọi điện để thông báo một thông tin quan trọng liên quan đến việc nâng cấp và bảo trì hệ thống của chúng tôi nhằm cải thiện chất lượng dịch vụ. Quý khách có tiện nghe máy trong vài phút không ạ?",
+      "timestamp": 1757402623.8180563
+    },
+    {
+      "role": "right",
+      "content": "Chào bạn, mình là [Tên của bạn - ví dụ: Minh]. À vâng, bạn cứ nói đi, mình đang tiện nghe máy đây. Có chuyện gì vậy bạn?",
+      "timestamp": 1757402625.641441
+    },
+    {
+      "role": "left",
+      "content": "Tuyệt vời ạ, cảm ơn anh Minh. Như tôi đã đề cập, chúng tôi sẽ tiến hành bảo trì và nâng cấp hệ thống định kỳ. Mục đích của việc này là để đảm bảo đường truyền ổn định hơn, tốc độ truy cập nhanh hơn và nâng cao tính bảo mật cho tất cả các khách hàng của Dịch vụ Internet Vạn Tín. Đây là một phần trong cam kết của chúng tôi nhằm mang lại trải nghiệm tốt nhất cho quý khách.",
+      "timestamp": 1757402630.6203575
+    },
+    {
+      "role": "right",
+      "content": "À, nghe cũng tốt đấy chứ, để chất lượng dịch vụ tốt hơn thì mình ủng hộ. Vậy việc này sẽ diễn ra khi nào và có ảnh hưởng gì đến việc sử dụng internet của mình không bạn?",
+      "timestamp": 1757402633.195152
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, cảm ơn anh Minh đã thấu hiểu ạ. Kế hoạch bảo trì dự kiến sẽ diễn ra vào **ngày 15 tháng 10 năm 2024**, bắt đầu từ **1 giờ sáng đến 5 giờ sáng**. Chúng tôi đã cố gắng chọn khung giờ có ít người sử dụng nhất để giảm thiểu sự bất tiện.  Trong khoảng thời gian này, dịch vụ internet của anh Minh có thể sẽ bị gián đoạn hoàn toàn trong vòng **khoảng 1 đến 2 giờ**. Sau khi quá trình bảo trì hoàn tất, dịch vụ sẽ tự động khôi phục. Anh Minh sẽ không cần thực hiện bất kỳ thao tác nào ạ.",
+      "timestamp": 1757402638.5367014
+    },
+    {
+      "role": "right",
+      "content": "À, vậy là ngày 15 tháng 10, từ 1 giờ sáng đến 5 giờ sáng. Gián đoạn khoảng 1-2 tiếng thôi rồi tự động có lại, mình không cần làm gì đúng không? Giờ đó thì cũng không ảnh hưởng nhiều đến mình lắm, cảm ơn bạn đã báo trước nhé.",
+      "timestamp": 1757402642.9621987
+    },
+    {
+      "role": "right",
+      "content": "Vâng, vậy là mình nắm được thông tin rồi. Cảm ơn Lan Anh nhiều nhé đã gọi báo trước. Chúc bạn một ngày tốt lành.",
+      "timestamp": 1757402652.0042818
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi rất vui khi anh Minh đã nắm được thông tin ạ. Tôi cũng xin nhấn mạnh lại một chút là việc gián đoạn này là tạm thời và cần thiết để chúng tôi có thể mang đến dịch vụ tốt nhất sau này.  À, nhân tiện, tôi xin phép cung cấp thêm một vài thông tin nhỏ nữa để anh Minh hoàn toàn yên tâm nhé: 1.  **Nếu dịch vụ không tự động khôi phục:** Trong trường hợp rất hiếm là sau 5 giờ sáng mà dịch vụ vẫn chưa hoạt động trở lại, anh Minh vui lòng thử khởi động lại modem/router bằng cách rút dây nguồn ra khoảng 30 giây rồi cắm lại. Đa số các trường hợp sẽ được khắc phục ngay lập tức. 2.  **Kênh hỗ trợ:** Nếu sau khi khởi động lại mà vẫn không được, hoặc anh Minh có bất kỳ thắc mắc nào khác, xin đừng ngần ngại liên hệ tổng đài hỗ trợ kỹ thuật của chúng tôi qua số **1900 1234** hoặc truy cập website **vantin.vn** để xem các thông báo cập nhật mới nhất.  Anh Minh có còn câu hỏi nào khác về việc bảo trì này không ạ, hoặc có cần tôi làm rõ thêm điểm nào không?",
+      "timestamp": 1757402656.9939346
+    }
+  ],
+  "turns": 2,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại đã đạt được: người dùng đã nhận đủ thông tin về kế hoạch bảo trì, thời gian, ảnh hưởng và xác nhận không cần thực hiện thao tác gì. Người dùng cũng đã cảm ơn rõ ràng và bày tỏ sự hài lòng, cho thấy không còn nhu cầu hỗ trợ thêm. Đây là tín hiệu rõ ràng cho thấy hội thoại đã hoàn thành và có thể kết thúc do người dùng đã nhận được đủ thông tin.",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Vâng, vậy là mình nắm được thông tin rồi. Cảm ơn Lan Anh nhiều nhé đã gọi báo trước. Chúc bạn một ngày tốt lành."
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi rất vui khi anh Minh đã nắm được thông tin ạ. Tôi cũng xin nhấn mạnh lại một chút là việc gián đoạn này là tạm thời và cần thiết để chúng tôi có thể mang đến dịch vụ tốt nhất sau này.  À, nhân tiện, tôi xin phép cung cấp thêm một vài thông tin nhỏ nữa để anh Minh hoàn toàn yên tâm nhé: 1.  **Nếu dịch vụ không tự động khôi phục:** Trong trường hợp rất hiếm là sau 5 giờ sáng mà dịch vụ vẫn chưa hoạt động trở lại, anh Minh vui lòng thử khởi động lại modem/router bằng cách rút dây nguồn ra khoảng 30 giây rồi cắm lại. Đa số các trường hợp sẽ được khắc phục ngay lập tức. 2.  **Kênh hỗ trợ:** Nếu sau khi khởi động lại mà vẫn không được, hoặc anh Minh có bất kỳ thắc mắc nào khác, xin đừng ngần ngại liên hệ tổng đài hỗ trợ kỹ thuật của chúng tôi qua số **1900 1234** hoặc truy cập website **vantin.vn** để xem các thông báo cập nhật mới nhất.  Anh Minh có còn câu hỏi nào khác về việc bảo trì này không ạ, hoặc có cần tôi làm rõ thêm điểm nào không?"
+    }
+  ],
+  "reached_max_turns": false
+}

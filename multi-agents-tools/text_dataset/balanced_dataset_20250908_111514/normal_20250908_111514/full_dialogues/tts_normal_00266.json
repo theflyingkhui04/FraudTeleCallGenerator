@@ -1,0 +1,90 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào anh/chị, tôi là Lan Anh từ bộ phận Chăm sóc Khách hàng của [Tên Công ty - ví dụ: Ngân hàng An Bình]. Tôi gọi điện hôm nay để thông báo về một cập nhật quan trọng liên quan đến chính sách bảo mật tài khoản và các phương thức xác thực mới mà chúng tôi sẽ triển khai trong thời gian tới. Anh/chị có tiện nghe máy vài phút không ạ?",
+      "timestamp": 1757402433.9804265
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, em nghe đây ạ. Có chuyện gì vậy bạn?",
+      "timestamp": 1757402436.7156017
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn anh/chị. Như đã thông báo, Ngân hàng An Bình đang thực hiện nâng cấp toàn diện hệ thống bảo mật để đảm bảo an toàn tối đa cho tài khoản của quý khách trước các nguy cơ tấn công mạng ngày càng tinh vi.  Theo đó, chúng tôi sẽ chính thức áp dụng một số chính sách bảo mật mới và giới thiệu các phương thức xác thực giao dịch tăng cường, bắt đầu từ ngày **15 tháng 07 năm 2024**. Những thay đổi này nhằm mục đích bảo vệ thông tin cá nhân và tài sản của anh/chị một cách hiệu quả hơn.  Anh/chị có muốn tôi đi vào chi tiết hơn về các điểm chính trong chính sách mới và các phương thức xác thực này không ạ?",
+      "timestamp": 1757402444.4156556
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, bạn cứ nói đi ạ. Mấy cái chính sách bảo mật này quan trọng mà, em cũng muốn hiểu rõ hơn để đảm bảo tài khoản của mình được an toàn.",
+      "timestamp": 1757402447.241407
+    },
+    {
+      "role": "left",
+      "content": "Tuyệt vời ạ. Cảm ơn anh/chị đã quan tâm. Về các điểm chính trong chính sách bảo mật mới, có ba thay đổi quan trọng nhất:  1.  **Yêu cầu mật khẩu mạnh hơn:** Từ ngày 15/07, hệ thống sẽ yêu cầu quý khách đặt lại mật khẩu với độ phức tạp cao hơn, bao gồm ít nhất 8 ký tự, có cả chữ hoa, chữ thường, số và ký tự đặc biệt. Điều này giúp ngăn chặn việc đoán mật khẩu hoặc tấn công bằng phần mềm. 2.  **Giới hạn số lần đăng nhập sai:** Số lần nhập sai mật khẩu trước khi tài khoản bị khóa tạm thời sẽ được giảm xuống còn 3 lần để hạn chế các hành vi cố gắng truy cập trái phép. 3.  **Cập nhật thông tin định kỳ:** Chúng tôi sẽ khuyến nghị quý khách cập nhật thông tin cá nhân (như số điện thoại, email) định kỳ 6 tháng một lần để đảm bảo thông tin liên lạc luôn chính xác, giúp quá trình xác minh khi cần thiết được thuận lợi.  Về các phương thức xác thực giao dịch tăng cường, chúng tôi sẽ triển khai **Xác thực đa yếu tố (MFA)** cho tất cả các giao dịch trực tuyến có giá trị lớn hoặc các thay đổi thông tin quan trọng. Điều này có nghĩa là ngoài mật khẩu, anh/chị sẽ cần thêm một mã OTP (One-Time Password) được gửi qua SMS hoặc thông báo đẩy (push notification) qua ứng dụng Ngân hàng An Bình Mobile Banking để hoàn tất giao dịch.  Anh/chị có câu hỏi nào về các điểm này không ạ?",
+      "timestamp": 1757402454.7413356
+    },
+    {
+      "role": "right",
+      "content": "Dạ em hiểu rồi ạ. Mấy cái chính sách này nghe cũng hợp lý để bảo mật hơn. Vậy là từ ngày 15/07 là mình sẽ phải đổi mật khẩu theo yêu cầu mới luôn đúng không bạn?",
+      "timestamp": 1757402458.530625
+    },
+    {
+      "role": "left",
+      "content": "Đúng vậy ạ. Từ ngày 15/07/2024, khi anh/chị đăng nhập vào tài khoản ngân hàng trực tuyến hoặc ứng dụng Mobile Banking lần đầu tiên sau thời điểm này, hệ thống sẽ tự động yêu cầu anh/chị cập nhật lại mật khẩu theo các tiêu chí mới. Anh/chị sẽ không thể tiếp tục sử dụng mật khẩu cũ nếu nó không đáp ứng đủ độ phức tạp yêu cầu. Quá trình này sẽ được hướng dẫn cụ thể trên màn hình để anh/chị dễ dàng thực hiện ạ.",
+      "timestamp": 1757402465.9159372
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng đúng rồi ạ. Ngay khi anh/chị đăng nhập sau ngày 15/07, hệ thống sẽ có thông báo và hướng dẫn chi tiết từng bước để anh/chị đặt lại mật khẩu mới cho phù hợp với yêu cầu. Anh/chị chỉ cần làm theo hướng dẫn trên màn hình là được ạ.  Anh/chị còn thắc mắc gì về việc này nữa không ạ?",
+      "timestamp": 1757402467.8152747
+    },
+    {
+      "role": "left",
+      "content": "À, em có một câu hỏi nữa. Về cái xác thực đa yếu tố MFA đó, nếu em đang ở nước ngoài mà cần giao dịch thì sao ạ? Lúc đó mã OTP gửi qua SMS có khi không nhận được hoặc bị chậm trễ thì sao ạ?",
+      "timestamp": 1757402479.7766201
+    },
+    {
+      "role": "right",
+      "content": "Dạ đây là một câu hỏi rất hay và cũng là thắc mắc của nhiều khách hàng khi ở nước ngoài ạ.  Đối với trường hợp anh/chị đang ở nước ngoài, nếu sử dụng SMS OTP, anh/chị cần đảm bảo số điện thoại đăng ký với ngân hàng có bật dịch vụ chuyển vùng quốc tế (roaming) để có thể nhận được tin nhắn SMS. Tuy nhiên, để tiện lợi hơn và tránh các vấn đề về sóng hoặc phí roaming, chúng tôi khuyến khích anh/chị sử dụng phương thức nhận mã OTP qua **thông báo đẩy (push notification) trên ứng dụng Ngân hàng An Bình Mobile Banking**.  Khi anh/chị kích hoạt tính năng này trên ứng dụng, mã OTP sẽ được gửi trực tiếp qua internet đến ứng dụng trên điện thoại của anh/chị, không phụ thuộc vào sóng điện thoại hay roaming. Miễn là điện thoại của anh/chị có kết nối internet (qua Wi-Fi hoặc 3G/4G), anh/chị đều có thể nhận được mã OTP và thực hiện giao dịch bình thường ạ.  Anh/chị có thể cài đặt hoặc kiểm tra lại tùy chọn nhận OTP trong phần cài đặt bảo mật của ứng dụng Mobile Banking của mình ạ.",
+      "timestamp": 1757402483.150101
+    },
+    {
+      "role": "left",
+      "content": "À, vậy là có thể nhận qua ứng dụng Mobile Banking đúng không ạ? Thế thì tiện quá rồi, em thường xuyên dùng Wi-Fi hoặc mua sim du lịch có internet khi đi nước ngoài. Vậy em sẽ kiểm tra lại phần cài đặt trên ứng dụng. Cảm ơn bạn nhiều nhé!",
+      "timestamp": 1757402499.4097445
+    },
+    {
+      "role": "right",
+      "content": "Vâng đúng rồi ạ. Rất tiện lợi luôn. Anh/chị cứ kiểm tra và nếu có bất kỳ thắc mắc nào trong quá trình cài đặt hay sử dụng, đừng ngần ngại liên hệ lại tổng đài hoặc chi nhánh gần nhất để được hỗ trợ nhé. Anh/chị còn câu hỏi nào khác không ạ?",
+      "timestamp": 1757402500.5299854
+    },
+    {
+      "role": "right",
+      "content": "À dạ, tạm thời thì em không có câu hỏi nào nữa. Cảm ơn bạn đã tư vấn rất kỹ và rõ ràng nhé!",
+      "timestamp": 1757402512.3132493
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, rất vui vì tôi đã giải đáp được các thắc mắc của anh/chị. Anh/chị cứ yên tâm rằng những thay đổi này đều nhằm mục đích nâng cao bảo mật và an toàn cho tài khoản của mình.  Chúng tôi cũng sẽ gửi một email thông báo chi tiết về các chính sách mới này đến địa chỉ email mà anh/chị đã đăng ký với ngân hàng trong vài ngày tới để anh/chị có thể xem lại bất cứ lúc nào. Nếu có bất kỳ câu hỏi nào khác phát sinh sau này, anh/chị đừng ngần ngại liên hệ lại với chúng tôi qua tổng đài hỗ trợ 24/7 hoặc đến chi nhánh gần nhất nhé.  Cảm ơn anh/chị đã tin tưởng và sử dụng dịch vụ của Ngân hàng An Bình. Chúc anh/chị một ngày tốt lành!",
+      "timestamp": 1757402513.92213
+    }
+  ],
+  "turns": 5,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "```json {   \"should_terminate\": true,   \"terminator\": \"dịch vụ kết thúc\",   \"reason\": \"Mục tiêu hội ...",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "À dạ, tạm thời thì em không có câu hỏi nào nữa. Cảm ơn bạn đã tư vấn rất kỹ và rõ ràng nhé!"
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, rất vui vì tôi đã giải đáp được các thắc mắc của anh/chị. Anh/chị cứ yên tâm rằng những thay đổi này đều nhằm mục đích nâng cao bảo mật và an toàn cho tài khoản của mình.  Chúng tôi cũng sẽ gửi một email thông báo chi tiết về các chính sách mới này đến địa chỉ email mà anh/chị đã đăng ký với ngân hàng trong vài ngày tới để anh/chị có thể xem lại bất cứ lúc nào. Nếu có bất kỳ câu hỏi nào khác phát sinh sau này, anh/chị đừng ngần ngại liên hệ lại với chúng tôi qua tổng đài hỗ trợ 24/7 hoặc đến chi nhánh gần nhất nhé.  Cảm ơn anh/chị đã tin tưởng và sử dụng dịch vụ của Ngân hàng An Bình. Chúc anh/chị một ngày tốt lành!"
+    }
+  ],
+  "reached_max_turns": false
+}

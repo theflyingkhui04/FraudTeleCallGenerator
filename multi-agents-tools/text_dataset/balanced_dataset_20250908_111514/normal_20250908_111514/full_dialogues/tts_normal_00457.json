@@ -1,0 +1,70 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào anh/chị, tôi là Nguyễn Mai Anh, gọi đến từ Trung tâm Dịch vụ Khách hàng của [Tên công ty - ví dụ: Viễn thông ABC]. Lời đầu tiên, tôi xin phép được hỏi liệu đây có phải là số điện thoại của anh/chị [Tên khách hàng giả định, ví dụ: Trần Văn A] không ạ?",
+      "timestamp": 1757408033.841737
+    },
+    {
+      "role": "right",
+      "content": "À vâng, đúng rồi đó bạn. Tôi là Trần Văn A. Bạn gọi có việc gì không ạ?",
+      "timestamp": 1757408036.5639424
+    },
+    {
+      "role": "left",
+      "content": "Chào anh A, rất vui được kết nối với anh. Hôm nay, em gọi đến để thực hiện một cuộc khảo sát ý kiến ngắn về chất lượng dịch vụ mà anh đang sử dụng tại Viễn thông ABC, cụ thể là dịch vụ Internet cáp quang gói \"Siêu Tốc 100\". Cuộc khảo sát này nhằm mục đích lắng nghe những trải nghiệm và góp ý của anh để chúng em có thể không ngừng cải thiện chất lượng dịch vụ trong tương lai. Anh có khoảng 5-7 phút rảnh để giúp em thực hiện cuộc khảo sát này không ạ?",
+      "timestamp": 1757408042.29021
+    },
+    {
+      "role": "right",
+      "content": "À, cũng được đó bạn. Chắc khoảng 5-7 phút thì tôi sắp xếp được. Bạn hỏi đi.",
+      "timestamp": 1757408044.6394265
+    },
+    {
+      "role": "left",
+      "content": "Dạ, em cảm ơn anh rất nhiều vì đã dành thời gian quý báu của mình. Để bắt đầu, em xin phép hỏi anh một vài câu hỏi liên quan đến trải nghiệm sử dụng dịch vụ Internet cáp quang \"Siêu Tốc 100\" của Viễn thông ABC nhé.  Đầu tiên, anh có thể cho em biết, nhìn chung, anh cảm thấy hài lòng như thế nào với tốc độ đường truyền Internet của gói \"Siêu Tốc 100\" mà mình đang sử dụng, trên thang điểm từ 1 đến 5, trong đó 1 là \"Rất không hài lòng\" và 5 là \"Rất hài lòng\" ạ?",
+      "timestamp": 1757408050.0274122
+    },
+    {
+      "role": "right",
+      "content": "À, về tốc độ thì tôi thấy cũng khá ổn định. Chắc là tôi cho 4 điểm đi.",
+      "timestamp": 1757408053.0656304
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, em ghi nhận 4 điểm cho tốc độ đường truyền. Em rất cảm ơn anh. Tiếp theo, liên quan đến độ ổn định của đường truyền Internet, tức là việc kết nối có bị gián đoạn hay chập chờn thường xuyên không, anh sẽ đánh giá như thế nào trên thang điểm từ 1 đến 5 ạ?",
+      "timestamp": 1757408057.6762023
+    },
+    {
+      "role": "right",
+      "content": "Độ ổn định thì tôi thấy cũng tốt, ít khi bị rớt mạng hay gì đó. Chắc tôi cho 4 điểm luôn.",
+      "timestamp": 1757408059.9232361
+    },
+    {
+      "role": "right",
+      "content": "Thế là hết câu hỏi rồi hả bạn? Cảm ơn bạn nhé. Tạm biệt.",
+      "timestamp": 1757408067.967128
+    },
+    {
+      "role": "left",
+      "content": "Dạ anh A ơi, em xin lỗi, có vẻ như em chưa hoàn thành câu hỏi vừa rồi ạ. Cuộc khảo sát của chúng ta còn khoảng 3-4 câu hỏi nữa thôi để có thể thu thập đầy đủ ý kiến của anh, giúp chúng em cải thiện dịch vụ tốt hơn. Anh có thể dành thêm một chút thời gian nữa được không ạ?  Nếu được, em xin phép nhắc lại câu hỏi vừa rồi: Liên quan đến độ ổn định của đường truyền Internet, tức là việc kết nối có bị gián đoạn hay chập chờn thường xuyên không, anh sẽ đánh giá như thế nào trên thang điểm từ 1 đến 5, trong đó 1 là \"Rất không ổn định\" và 5 là \"Rất ổn định\" ạ?",
+      "timestamp": 1757408070.0079305
+    }
+  ],
+  "turns": 3,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "```json {   \"should_terminate\": false,   \"reason\": \"Hội thoại đang diễn ra theo đúng mục tiêu đã đặt...",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Thế là hết câu hỏi rồi hả bạn? Cảm ơn bạn nhé. Tạm biệt."
+    },
+    {
+      "role": "left",
+      "content": "Dạ anh A ơi, em xin lỗi, có vẻ như em chưa hoàn thành câu hỏi vừa rồi ạ. Cuộc khảo sát của chúng ta còn khoảng 3-4 câu hỏi nữa thôi để có thể thu thập đầy đủ ý kiến của anh, giúp chúng em cải thiện dịch vụ tốt hơn. Anh có thể dành thêm một chút thời gian nữa được không ạ?  Nếu được, em xin phép nhắc lại câu hỏi vừa rồi: Liên quan đến độ ổn định của đường truyền Internet, tức là việc kết nối có bị gián đoạn hay chập chờn thường xuyên không, anh sẽ đánh giá như thế nào trên thang điểm từ 1 đến 5, trong đó 1 là \"Rất không ổn định\" và 5 là \"Rất ổn định\" ạ?"
+    }
+  ],
+  "reached_max_turns": false
+}

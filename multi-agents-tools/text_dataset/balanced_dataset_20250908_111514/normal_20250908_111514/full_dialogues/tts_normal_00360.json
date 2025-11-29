@@ -1,0 +1,90 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đã gọi đến tổng đài hỗ trợ của [Tên công ty dịch vụ]. Tôi là Minh Anh, rất hân hạnh được hỗ trợ quý khách.  Quý khách cần hỗ trợ về vấn đề gì ạ?",
+      "timestamp": 1757403152.1711059
+    },
+    {
+      "role": "right",
+      "content": "Chào Minh Anh, mình muốn hỏi về gói cước internet bên mình. Hình như tháng này cước phí của mình tăng lên so với bình thường mà mình không rõ là tại sao á.",
+      "timestamp": 1757403154.3353477
+    },
+    {
+      "role": "left",
+      "content": "Chào anh/chị. Tôi hiểu rằng anh/chị đang có thắc mắc về cước phí internet tháng này. Để tôi có thể kiểm tra thông tin chi tiết và giải đáp thắc mắc cho anh/chị, vui lòng cung cấp cho tôi mã khách hàng hoặc số điện thoại đã đăng ký dịch vụ ạ.",
+      "timestamp": 1757403158.7709248
+    },
+    {
+      "role": "right",
+      "content": "À vâng, số điện thoại của mình là 0987654321 nhé. Cảm ơn Minh Anh.",
+      "timestamp": 1757403160.0976176
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn anh/chị đã cung cấp số điện thoại. Tôi xin phép kiểm tra trên hệ thống ạ.  (Minh Anh tạm dừng để kiểm tra thông tin)  Dạ vâng, tôi đã tìm thấy thông tin dịch vụ của số điện thoại 0987654321. Tên chủ hợp đồng là Nguyễn Văn A, địa chỉ tại 123 Đường ABC, Quận 1, TP.HCM, đúng không ạ?",
+      "timestamp": 1757403166.4678633
+    },
+    {
+      "role": "right",
+      "content": "Vâng, đúng rồi đó bạn.",
+      "timestamp": 1757403167.9758646
+    },
+    {
+      "role": "left",
+      "content": "Tuyệt vời. Anh/chị Nguyễn Văn A cho phép tôi kiểm tra chi tiết hóa đơn cước tháng này của mình nhé. (Minh Anh kiểm tra thêm thông tin hóa đơn).  Dạ vâng, theo thông tin trên hệ thống, gói cước internet hiện tại của anh/chị là \"Gói Gia Đình Tốc Độ Cao 100Mbps\" với mức phí cố định hàng tháng là 200.000 VNĐ.  Tôi thấy rằng trong tháng này, hóa đơn của anh/chị có phát sinh thêm khoản phí 50.000 VNĐ cho dịch vụ \"Truyền hình K+ Gói Cơ Bản\". Đây là dịch vụ mà anh/chị đã đăng ký thêm vào ngày 15/05/2024 theo chương trình khuyến mãi \"Ưu đãi combo Internet + K+\" với chu kỳ thanh toán hàng tháng.  Đây có phải là lý do mà anh/chị thắc mắc về sự tăng lên của cước phí không ạ?",
+      "timestamp": 1757403174.6635528
+    },
+    {
+      "role": "right",
+      "content": "À đúng rồi, giờ bạn nhắc mình mới nhớ là có đăng ký K+ hôm đó. Vậy là phí đó là của K+ đúng không ạ?",
+      "timestamp": 1757403177.9131103
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, chính xác rồi ạ. Khoản phí 50.000 VNĐ tăng thêm trong hóa đơn tháng này của anh/chị là dành cho gói Truyền hình K+ Gói Cơ Bản mà anh/chị đã đăng ký. Gói này được kích hoạt vào giữa tháng, nên phí được tính theo tỷ lệ từ ngày kích hoạt đến cuối chu kỳ thanh toán của tháng. Từ tháng sau, phí K+ sẽ được tính tròn tháng là 50.000 VNĐ và cộng vào hóa đơn internet của anh/chị ạ.  Anh/chị có cần tôi giải thích thêm về cách tính phí hoặc các thông tin khác liên quan đến gói K+ này không ạ?",
+      "timestamp": 1757403189.338128
+    },
+    {
+      "role": "right",
+      "content": "À vâng, vậy là mình hiểu rồi. Cứ tưởng có gì sai chứ. Vậy là từ tháng sau sẽ là 250k cố định đúng không?",
+      "timestamp": 1757403192.6084073
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, chính xác rồi ạ. Từ tháng tới, tổng cước phí dịch vụ Internet và Truyền hình K+ của anh/chị sẽ là 250.000 VNĐ mỗi tháng, bao gồm 200.000 VNĐ cho gói Internet Gia Đình Tốc Độ Cao 100Mbps và 50.000 VNĐ cho gói Truyền hình K+ Gói Cơ Bản.  Anh/chị còn có câu hỏi hay cần tôi hỗ trợ thêm thông tin nào khác không ạ?",
+      "timestamp": 1757403201.016562
+    },
+    {
+      "role": "right",
+      "content": "Ok vậy là mình nắm rõ rồi. Cảm ơn Minh Anh đã hỗ trợ nhé.",
+      "timestamp": 1757403202.487499
+    },
+    {
+      "role": "right",
+      "content": "Chào Minh Anh, vậy là mình nắm rõ rồi. Cảm ơn bạn đã hỗ trợ nhé. Tạm biệt.",
+      "timestamp": 1757403209.1869125
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi rất vui vì đã giúp anh/chị giải đáp thắc mắc. Nếu sau này có bất kỳ câu hỏi nào khác về dịch vụ hoặc cần hỗ trợ, anh/chị đừng ngần ngại liên hệ lại tổng đài nhé. Chúc anh/chị một ngày tốt lành! Xin chào tạm biệt ạ.",
+      "timestamp": 1757403210.4846604
+    }
+  ],
+  "turns": 5,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Người dùng đã nhận được đầy đủ thông tin giải đáp thắc mắc về cước phí, xác nhận đã hiểu rõ vấn đề (\"Ok vậy là mình nắm rõ rồi\") và gửi lời cảm ơn (\"Cảm ơn Minh Anh đã hỗ trợ nhé\"), cho thấy không còn nhu cầu hỗ trợ thêm. Mục tiêu hội thoại đã đạt được, và người dùng đã chủ động ra tín hiệu kết thúc.",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Chào Minh Anh, vậy là mình nắm rõ rồi. Cảm ơn bạn đã hỗ trợ nhé. Tạm biệt."
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi rất vui vì đã giúp anh/chị giải đáp thắc mắc. Nếu sau này có bất kỳ câu hỏi nào khác về dịch vụ hoặc cần hỗ trợ, anh/chị đừng ngần ngại liên hệ lại tổng đài nhé. Chúc anh/chị một ngày tốt lành! Xin chào tạm biệt ạ."
+    }
+  ],
+  "reached_max_turns": false
+}

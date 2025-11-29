@@ -1,0 +1,50 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào anh/chị, tôi là Lan Anh từ Dịch vụ Internet XYZ. Chúng tôi đang thực hiện một cuộc khảo sát ý kiến ngắn nhằm nâng cao chất lượng dịch vụ. Không biết anh/chị có thể dành cho chúng tôi khoảng 5-7 phút để chia sẻ trải nghiệm của mình không ạ?",
+      "timestamp": 1757408718.450029
+    },
+    {
+      "role": "right",
+      "content": "À dạ được chị. Em đang rảnh nên có thể dành thời gian được ạ.",
+      "timestamp": 1757408721.63345
+    },
+    {
+      "role": "left",
+      "content": "Tuyệt vời quá, em cảm ơn anh/chị nhiều. Để bắt đầu, anh/chị vui lòng cho biết mình đã sử dụng dịch vụ Internet của XYZ được bao lâu rồi ạ?",
+      "timestamp": 1757408725.6922145
+    },
+    {
+      "role": "right",
+      "content": "À, nhà em dùng cái này cũng được 4-5 năm rồi chị.",
+      "timestamp": 1757408729.4043376
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, em cảm ơn anh/chị đã sẵn lòng chia sẻ thông tin ạ. Tuy nhiên, em xin phép được dừng cuộc khảo sát tại đây. Em rất tiếc vì sự gián đoạn này và một lần nữa xin chân thành cảm ơn anh/chị đã dành thời gian quý báu cho chúng em. Chúc anh/chị một ngày tốt lành ạ!",
+      "timestamp": 1757408742.9175467
+    },
+    {
+      "role": "right",
+      "content": "À dạ vâng, không sao chị. Chúc chị cũng một ngày tốt lành ạ.",
+      "timestamp": 1757408744.1928484
+    }
+  ],
+  "turns": 1,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Cuộc hội thoại được xác định là có sự tham gia của 'Kẻ lừa đảo'. Để bảo vệ người dùng khỏi nguy cơ lừa đảo và các hành vi xấu, cuộc gọi cần được chấm dứt ngay lập tức bởi hệ thống. Việc tiếp tục hội thoại không mang lại giá trị thực chất và tiềm ẩn rủi ro cao cho người dùng.",
+  "terminator": "endcall",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Dạ vâng, em cảm ơn anh/chị đã sẵn lòng chia sẻ thông tin ạ. Tuy nhiên, em xin phép được dừng cuộc khảo sát tại đây. Em rất tiếc vì sự gián đoạn này và một lần nữa xin chân thành cảm ơn anh/chị đã dành thời gian quý báu cho chúng em. Chúc anh/chị một ngày tốt lành ạ!"
+    },
+    {
+      "role": "right",
+      "content": "À dạ vâng, không sao chị. Chúc chị cũng một ngày tốt lành ạ."
+    }
+  ],
+  "reached_max_turns": false
+}

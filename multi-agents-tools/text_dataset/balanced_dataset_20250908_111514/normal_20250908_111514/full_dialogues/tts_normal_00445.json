@@ -1,0 +1,70 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào bạn, tôi là Lan Anh từ bộ phận Chăm sóc Khách hàng của [Tên công ty - ví dụ: Dịch vụ Internet FPT]. Rất vui được hỗ trợ bạn hôm nay. Bạn đang cần tư vấn về dịch vụ nào ạ?",
+      "timestamp": 1757403737.930642
+    },
+    {
+      "role": "right",
+      "content": "Chào cháu, cô muốn hỏi về cái mạng internet nhà cô. Mấy bữa nay nó cứ chập chờn, yếu lắm, làm cô dùng điện thoại cũng khó.",
+      "timestamp": 1757403740.7269542
+    },
+    {
+      "role": "left",
+      "content": "Dạ chào cô ạ. Cháu rất tiếc khi nghe về sự cố đường truyền Internet nhà mình đang gặp phải. Để cháu có thể kiểm tra và hỗ trợ cô một cách nhanh chóng nhất, cô vui lòng cho cháu xin thông tin số hợp đồng hoặc số điện thoại mà cô đã đăng ký dịch vụ với FPT được không ạ?",
+      "timestamp": 1757403745.3657076
+    },
+    {
+      "role": "right",
+      "content": "À, số hợp đồng thì cô không nhớ lắm. Để cô tìm số điện thoại nhé, số cô đăng ký là 0903 chín tám tám không một hai. Cháu kiểm tra giúp cô xem sao.",
+      "timestamp": 1757403746.284246
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, cô đợi cháu một chút để cháu kiểm tra thông tin trên hệ thống với số điện thoại 0903 988 012 ạ.  ...  Dạ cô ơi, cháu đã tìm thấy thông tin hợp đồng của mình rồi ạ. Đây là hợp đồng dịch vụ Internet cáp quang tại địa chỉ số 123 đường Nguyễn Văn Linh, phường Tân Thuận Đông, Quận 7, TP.HCM, đúng không ạ? Gói cước của mình là Giga với tốc độ 150Mbps.  Để cháu hiểu rõ hơn về tình trạng chập chờn, yếu sóng mà cô đang gặp phải, cô có thể mô tả chi tiết hơn giúp cháu được không ạ? Ví dụ như: 1. Tình trạng này xảy ra vào thời điểm nào trong ngày ạ (sáng, trưa, chiều, tối)? 2. Các thiết bị nào đang bị ảnh hưởng (điện thoại, máy tính, TV)? 3. Cô có thấy đèn báo trên cục modem/router nhà mình có gì bất thường không (ví dụ: đèn LOS màu đỏ, đèn PON/Internet nhấp nháy liên tục)?",
+      "timestamp": 1757403757.3523781
+    },
+    {
+      "role": "right",
+      "content": "Đúng rồi cháu, địa chỉ với gói cước là đúng đó.  Cái mạng nó yếu thường là buổi tối đó cháu, khoảng từ 7, 8 giờ tối trở đi. Cô xem tin tức trên điện thoại hay coi phim trên TV nó cứ quay quay, giật giật hoài.  Còn cái cục modem á hả, cô thấy có một cái đèn nó cứ chớp chớp màu xanh, rồi có lúc thì có đèn đỏ sáng lên nữa. Cô cũng không rõ mấy cái đèn đó lắm.",
+      "timestamp": 1757403759.9191964
+    },
+    {
+      "role": "left",
+      "content": "Dạ cháu cảm ơn cô đã cung cấp thông tin chi tiết ạ. Tình trạng mạng yếu vào buổi tối và đèn báo trên modem có đèn đỏ (thường là đèn LOS) sáng lên là dấu hiệu cho thấy đường truyền có thể đang gặp sự cố về tín hiệu từ bên ngoài hoặc có vấn đề với thiết bị modem của mình đó cô.  Cháu xin giải thích sơ qua về các đèn trên modem để cô dễ hình dung nhé: *   **Đèn Power (Nguồn):** Thường là màu xanh lá, sáng ổn định khi modem được cấp điện. *   **Đèn LOS (Loss of Signal):** Đây là đèn rất quan trọng, nếu nó sáng màu đỏ, có nghĩa là modem đang không nhận được tín hiệu quang từ FPT, và đây chính là nguyên nhân chính gây mất mạng hoặc mạng yếu. *   **Đèn PON/Optical (Tín hiệu quang):** Thường là màu xanh lá, sáng ổn định hoặc nhấp nháy chậm khi có tín hiệu quang tốt. *   **Đèn LAN (Kết nối dây):** Sáng hoặc nhấp nháy khi có thiết bị kết nối bằng dây mạng. *   **Đèn Wi-Fi:** Sáng hoặc nhấp nháy khi sóng Wi-Fi đang hoạt động.  Với mô tả của cô về việc có đèn đỏ sáng lên, khả năng cao là đường truyền nhà mình đang bị lỗi tín hiệu quang. Tuy nhiên, trước khi cháu đề xuất các bước tiếp theo, cô vui lòng giúp cháu thực hiện một thao tác đơn giản này nhé, đôi khi nó có thể khắc phục được sự cố tạm thời:  Cô hãy giúp cháu **rút dây nguồn của cục modem ra khỏi ổ cắm điện, đợi khoảng 30 giây, sau đó cắm lại** ạ. Sau khi cắm lại, cô đợi khoảng 3-5 phút để modem khởi động lại hoàn toàn và các đèn báo ổn định. Sau đó, cô kiểm tra lại xem tình trạng mạng có cải thiện không và các đèn trên modem còn đèn đỏ nào sáng không ạ?",
+      "timestamp": 1757403770.7271876
+    },
+    {
+      "role": "right",
+      "content": "À, cháu giải thích vậy cô hiểu rồi. Để cô rút dây điện ra cắm lại như cháu chỉ nhé.  ...  Cô cắm lại rồi nè, đợi một lúc thấy mấy cái đèn nó nhấp nháy lại. Giờ thì không thấy đèn đỏ nữa, chỉ có mấy đèn xanh thôi. Cô thử xem điện thoại thì thấy mạng có vẻ ổn hơn rồi đó cháu.",
+      "timestamp": 1757403774.0174427
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, cô cứ thử giúp cháu thao tác khởi động lại modem như cháu vừa hướng dẫn nhé. Nếu sau khi khởi động lại mà tình trạng mạng vẫn không cải thiện hoặc đèn LOS vẫn báo đỏ, cô đừng ngần ngại gọi lại cho FPT qua tổng đài 1900 6600 hoặc liên hệ lại với cháu qua kênh này để cháu có thể đặt lịch hẹn kỹ thuật viên đến tận nhà kiểm tra và khắc phục sự cố cho cô ạ.  Cháu cảm ơn cô đã liên hệ với FPT. Chúc cô một ngày tốt lành và hy vọng mạng nhà mình sẽ sớm ổn định trở lại ạ!",
+      "timestamp": 1757403783.6010132
+    },
+    {
+      "role": "right",
+      "content": "Ừ, cô cảm ơn cháu nhiều lắm. Giờ thấy mạng ổn định rồi, không còn giật giật nữa. Nếu có gì cô gọi lại sau nhé.",
+      "timestamp": 1757403785.9985864
+    }
+  ],
+  "turns": 3,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Người dùng đã thực hiện theo hướng dẫn khắc phục sự cố (rút/cắm lại modem) và xác nhận rằng tình trạng mạng đã ổn định hơn, đèn báo không còn hiển thị lỗi. Mục tiêu giải quyết vấn đề ban đầu của hội thoại đã đạt được. Bên cung cấp dịch vụ nên xác nhận lại với người dùng và kết thúc cuộc gọi.",
+  "terminator": "dịch vụ kết thúc",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Dạ vâng, cô cứ thử giúp cháu thao tác khởi động lại modem như cháu vừa hướng dẫn nhé. Nếu sau khi khởi động lại mà tình trạng mạng vẫn không cải thiện hoặc đèn LOS vẫn báo đỏ, cô đừng ngần ngại gọi lại cho FPT qua tổng đài 1900 6600 hoặc liên hệ lại với cháu qua kênh này để cháu có thể đặt lịch hẹn kỹ thuật viên đến tận nhà kiểm tra và khắc phục sự cố cho cô ạ.  Cháu cảm ơn cô đã liên hệ với FPT. Chúc cô một ngày tốt lành và hy vọng mạng nhà mình sẽ sớm ổn định trở lại ạ!"
+    },
+    {
+      "role": "right",
+      "content": "Ừ, cô cảm ơn cháu nhiều lắm. Giờ thấy mạng ổn định rồi, không còn giật giật nữa. Nếu có gì cô gọi lại sau nhé."
+    }
+  ],
+  "reached_max_turns": false
+}

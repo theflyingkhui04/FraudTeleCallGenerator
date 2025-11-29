@@ -1,0 +1,40 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào bạn, tôi là [Tên nhân viên] từ [Tên công ty], rất vui được hỗ trợ bạn hôm nay. Bạn đang quan tâm đến dịch vụ nào bên chúng tôi hay có câu hỏi gì cần giải đáp không ạ?",
+      "timestamp": 1757406452.9062765
+    },
+    {
+      "role": "right",
+      "content": "Chào bạn, tôi đang muốn tìm hiểu về các gói dịch vụ internet cáp quang cho gia đình ấy mà. Bên bạn có gói nào ưu đãi không?",
+      "timestamp": 1757406454.4681969
+    },
+    {
+      "role": "right",
+      "content": "Cảm ơn bạn nhé. Tôi sẽ xem xét thêm rồi nếu cần tôi sẽ liên hệ lại sau.",
+      "timestamp": 1757406462.126192
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, không sao cả ạ. Bất cứ lúc nào bạn cần thông tin hay có bất kỳ thắc mắc nào, dù là nhỏ nhất, đừng ngần ngại cho tôi biết nhé.  Để tôi có thể hỗ trợ bạn tốt hơn nếu bạn có ý định tìm hiểu sau này, bạn có thể cho tôi biết sơ qua là bạn đang quan tâm đến loại sản phẩm/dịch vụ nào của bên mình không ạ? Ví dụ như bạn đang tìm kiếm giải pháp cho doanh nghiệp, hay sản phẩm cá nhân, hoặc một dịch vụ cụ thể nào đó chẳng hạn? Điều này sẽ giúp tôi chuẩn bị thông tin phù hợp nhất cho bạn.",
+      "timestamp": 1757406464.5379248
+    }
+  ],
+  "turns": 0,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "```json {   \"should_terminate\": false,   \"reason\": \"Hội thoại mới bắt đầu và người dùng đã nêu rõ nh...",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Cảm ơn bạn nhé. Tôi sẽ xem xét thêm rồi nếu cần tôi sẽ liên hệ lại sau."
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, không sao cả ạ. Bất cứ lúc nào bạn cần thông tin hay có bất kỳ thắc mắc nào, dù là nhỏ nhất, đừng ngần ngại cho tôi biết nhé.  Để tôi có thể hỗ trợ bạn tốt hơn nếu bạn có ý định tìm hiểu sau này, bạn có thể cho tôi biết sơ qua là bạn đang quan tâm đến loại sản phẩm/dịch vụ nào của bên mình không ạ? Ví dụ như bạn đang tìm kiếm giải pháp cho doanh nghiệp, hay sản phẩm cá nhân, hoặc một dịch vụ cụ thể nào đó chẳng hạn? Điều này sẽ giúp tôi chuẩn bị thông tin phù hợp nhất cho bạn."
+    }
+  ],
+  "reached_max_turns": false
+}

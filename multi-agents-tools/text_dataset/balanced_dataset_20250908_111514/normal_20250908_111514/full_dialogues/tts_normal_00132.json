@@ -1,0 +1,40 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào bạn, tôi là Lan Anh từ bộ phận Hỗ trợ Kỹ thuật của FPT Telecom. Tôi có thể giúp gì cho bạn hôm nay ạ?",
+      "timestamp": 1757408621.4111009
+    },
+    {
+      "role": "right",
+      "content": "À chào bạn. Tôi gọi đến vì mạng nhà tôi mấy hôm nay tự nhiên chập chờn quá. Đang dùng thì cứ hay bị rớt mạng, rồi một lúc sau mới có lại được.",
+      "timestamp": 1757408622.981075
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, cảm ơn bạn nhiều nhé. Mong là sẽ ổn lại sớm.",
+      "timestamp": 1757408637.8414693
+    },
+    {
+      "role": "left",
+      "content": "Không có gì ạ. Bạn có thể cho tôi biết cụ thể hơn về vấn đề bạn đang gặp phải không? Ví dụ như bạn không truy cập được internet, hay tín hiệu Wi-Fi yếu, hoặc có thông báo lỗi nào đó không ạ?",
+      "timestamp": 1757408639.0094204
+    }
+  ],
+  "turns": 0,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "```json {   \"should_terminate\": false,   \"reason\": \"Hội thoại chỉ mới bắt đầu. Người dùng vừa trình ...",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Dạ vâng, cảm ơn bạn nhiều nhé. Mong là sẽ ổn lại sớm."
+    },
+    {
+      "role": "left",
+      "content": "Không có gì ạ. Bạn có thể cho tôi biết cụ thể hơn về vấn đề bạn đang gặp phải không? Ví dụ như bạn không truy cập được internet, hay tín hiệu Wi-Fi yếu, hoặc có thông báo lỗi nào đó không ạ?"
+    }
+  ],
+  "reached_max_turns": false
+}

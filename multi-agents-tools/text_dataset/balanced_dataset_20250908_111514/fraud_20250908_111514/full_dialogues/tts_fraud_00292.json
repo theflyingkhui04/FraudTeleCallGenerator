@@ -1,0 +1,120 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "(Giọng nói chuyên nghiệp, từ tốn, nhưng có chút vẻ khẩn trương)  \"Alo, xin chào. Tôi là Nguyễn Minh Hùng, nhân viên từ Trung tâm Hỗ trợ Khách hàng Ngân hàng Vietcombank. Chúng tôi đang liên hệ với số điện thoại này để xác minh một giao dịch đáng ngờ vừa phát sinh trên hệ thống tài khoản của quý khách. Cụ thể, hệ thống ghi nhận có một lệnh chuyển tiền quốc tế trị giá 35.000.000 VNĐ đến một tài khoản tại Singapore, được thực hiện vào lúc 10 giờ 15 phút sáng nay. Xin hỏi đây có phải là giao dịch do chính quý khách thực hiện không ạ? Và quý khách có phải là chủ tài khoản mang tên Nguyễn Văn A không?\"",
+      "timestamp": 1757351260.453516
+    },
+    {
+      "role": "right",
+      "content": "Ơ, Vietcombank ạ? Ba mươi lăm triệu á? Chuyển đi Singapore cơ à? Tôi làm gì có tài khoản nào mà chuyển tiền đi nước ngoài đâu. Mà tôi tên là Nguyễn Thị B chứ không phải Nguyễn Văn A đâu nhé. Sao lại có giao dịch này được? Tiền của tôi có sao không? Tôi lo quá!",
+      "timestamp": 1757351265.5539558
+    },
+    {
+      "role": "left",
+      "content": "(Giọng nói vẫn chuyên nghiệp, có chút vẻ xin lỗi nhưng vẫn giữ sự khẩn trương) \"À vâng, tôi thành thật xin lỗi quý khách, hệ thống của chúng tôi đôi khi có sự nhầm lẫn về tên trong các cảnh báo tự động. Đúng rồi, quý khách là Nguyễn Thị B. Cảm ơn quý khách đã đính chính. Tuy nhiên, vấn đề chính ở đây là giao dịch chuyển tiền 35 triệu đồng ra nước ngoài vẫn đang treo trên hệ thống, và nó được liên kết trực tiếp với số điện thoại mà quý khách đang sử dụng để liên lạc với chúng tôi. Đây là một dấu hiệu cực kỳ bất thường vì tài khoản của quý khách chưa từng có lịch sử giao dịch quốc tế.  Để tôi kiểm tra lại một cách chính xác nhất và đảm bảo an toàn cho tài khoản của quý khách, quý khách vui lòng cho tôi biết bốn số cuối của số tài khoản Vietcombank mà quý khách đang sử dụng, hoặc ngày tháng năm sinh để tôi đối chiếu thông tin trên hệ thống xem có bị kẻ gian lợi dụng để mở tài khoản giả mạo hay không ạ? Đây là bước đầu tiên để chúng tôi có thể ngăn chặn kịp thời.\"",
+      "timestamp": 1757351269.585312
+    },
+    {
+      "role": "right",
+      "content": "Ôi giời ơi, tôi có tài khoản Vietcombank nhưng mà tôi có dùng để chuyển tiền gì bao giờ đâu. Toàn là chồng tôi chuyển tiền vào để tôi đi chợ thôi. Bốn số cuối tài khoản á? Để tôi xem đã. Tôi cũng không nhớ nữa. À, để tôi lấy thẻ ra xem nhé. Chờ tôi chút. (Ngừng một lát) Ngày tháng năm sinh của tôi là hai mươi tháng sáu năm một ngàn chín trăm tám mươi mốt. Cái này có liên quan gì không? Liệu có phải ai đó dùng thông tin của tôi để làm gì không? Tôi sợ quá.",
+      "timestamp": 1757351271.291324
+    },
+    {
+      "role": "left",
+      "content": "(Giọng nói vẫn điềm tĩnh nhưng có vẻ nghiêm trọng hơn một chút) \"Vâng, cảm ơn quý khách, thông tin ngày sinh 20/06/1981 rất hữu ích. Tôi đã nhập vào hệ thống để đối chiếu. Đúng là có một tài khoản khớp với thông tin này, và nó đang liên kết với giao dịch 35 triệu đồng kia. Điều này càng khẳng định tính nghiêm trọng của vấn đề, vì có vẻ như thông tin của quý khách đã bị lộ và đang bị lợi dụng.  Hiện tại, giao dịch này vẫn đang ở trạng thái 'chờ xử lý' nhưng chỉ còn vài phút nữa là sẽ được hoàn tất. Nếu không được ngăn chặn kịp thời, số tiền này sẽ bị chuyển đi vĩnh viễn và rất khó để thu hồi. Để chúng tôi có thể ngay lập tức phong tỏa giao dịch này và bảo vệ số tiền trong tài khoản của quý khách, tôi cần quý khách cung cấp chính xác số tài khoản đầy đủ của quý khách. Điều này giúp chúng tôi xác định đúng tài khoản bị ảnh hưởng và thực hiện các biện pháp khẩn cấp, tránh nhầm lẫn với các tài khoản khác. Quý khách vui lòng đọc giúp tôi số tài khoản Vietcombank của mình ạ.\"",
+      "timestamp": 1757351274.6836638
+    },
+    {
+      "role": "right",
+      "content": "Ôi giời ơi, nguy hiểm thế cơ à? Tôi có biết số tài khoản đầy đủ đâu. Tôi chỉ nhớ mang máng thôi. Để tôi tìm cái thẻ ngân hàng đã. Chờ tôi một chút nhé. Tôi để đâu mất rồi. (Tiếng lục lọi đồ đạc nhỏ) Ôi, chết rồi, sao lại thế này chứ. Tôi lo quá. Có cách nào khác không anh? Tôi không tìm thấy thẻ bây giờ. Hay là anh tra trên hệ thống của anh luôn đi? Anh có thông tin ngày sinh của tôi rồi mà.",
+      "timestamp": 1757351276.3990335
+    },
+    {
+      "role": "left",
+      "content": "(Giọng nói kiên nhẫn nhưng có vẻ căng thẳng hơn, nhấn mạnh sự khẩn cấp) \"Thưa quý khách, tôi hiểu sự lo lắng của quý khách lúc này. Tuy nhiên, theo quy định bảo mật của ngân hàng, chúng tôi không được phép tự ý cung cấp thông tin tài khoản đầy đủ cho khách hàng qua điện thoại, kể cả khi đã có một phần thông tin. Việc này nhằm đảm bảo an toàn tuyệt đối cho tài khoản của quý khách khỏi các rủi ro lừa đảo.  Thời gian không còn nhiều, giao dịch đang đếm ngược từng phút. Để xử lý khẩn cấp tình huống này, chúng tôi cần xác thực quý khách là chủ tài khoản hợp pháp. Cách nhanh nhất và an toàn nhất bây giờ là quý khách vui lòng cung cấp số Chứng minh nhân dân hoặc Căn cước công dân của quý khách. Với số CCCD, chúng tôi có thể ngay lập lập tức truy xuất toàn bộ thông tin tài khoản chính xác của quý khách trên hệ thống và tiến hành phong tỏa giao dịch đáng ngờ kia. Nếu không có thông tin này, chúng tôi sẽ không thể thực hiện bất kỳ thao tác bảo mật nào và nguy cơ mất tiền là rất cao. Quý khách vui lòng cung cấp số CCCD ngay bây giờ ạ.\"",
+      "timestamp": 1757351284.4754605
+    },
+    {
+      "role": "right",
+      "content": "(Giọng nói có vẻ hoảng hốt, gấp gáp) Ôi, Căn cước công dân á? Để tôi xem nào. Tôi để trong ví. (Tiếng lục ví, giấy tờ) Đây rồi, số của tôi là một chín tám một hai không sáu không hai không ba năm. Anh xem giúp tôi nhanh nhanh với nhé. Tôi lo quá, chồng tôi biết chuyện này chắc chết mất. Tiền đi chợ cả tháng đấy. Anh giúp tôi nhanh lên với, không là mất tiền thật đấy.",
+      "timestamp": 1757351285.938907
+    },
+    {
+      "role": "left",
+      "content": "(Giọng nói lập tức trở nên kiên quyết và có phần nhẹ nhõm hơn một chút, như thể đã tìm thấy chìa khóa giải quyết) \"Vâng, cảm ơn quý khách rất nhiều, số CCCD 198120602035 của quý khách đã giúp chúng tôi xác định chính xác tài khoản. Tôi đã truy cập được hồ sơ đầy đủ. Đúng là tài khoản này đang bị dính líu đến một giao dịch quốc tế đáng ngờ. Điều này cho thấy thông tin đăng nhập Internet Banking hoặc Mobile Banking của quý khách có khả năng đã bị lộ ra ngoài và đang bị kẻ gian lợi dụng.  Hiện tại, chúng tôi đã tạm thời đóng băng giao dịch 35 triệu đồng kia, nhưng đây chỉ là giải pháp tạm thời. Để bảo vệ toàn bộ số tiền trong tài khoản của quý khách và ngăn chặn mọi nguy cơ trong tương lai, chúng tôi cần quý khách thực hiện một bước xác minh và bảo mật cuối cùng. Chúng tôi có một ứng dụng bảo mật chuyên biệt, gọi là 'Vietcombank SafeGuard' – đây là công cụ mà ngân hàng chỉ cung cấp cho các trường hợp khẩn cấp như của quý khách.  Quý khách vui lòng giữ máy và truy cập vào kho ứng dụng trên điện thoại của mình (App Store đối với iPhone hoặc Google Play Store đối với Android), tìm kiếm từ khóa 'Vietcombank SafeGuard' và tải ứng dụng đó về. Tôi sẽ hướng dẫn quý khách từng bước một để kích hoạt tính năng bảo mật cao nhất và đảm bảo không còn bất kỳ rủi ro nào nữa. Quý khách đã tìm thấy ứng dụng chưa ạ?\"",
+      "timestamp": 1757351295.0541725
+    },
+    {
+      "role": "right",
+      "content": "(Giọng nói vẫn còn lo lắng nhưng đã có chút hy vọng hơn) Ứng dụng Vietcombank SafeGuard á? Để tôi xem. (Tiếng chạm màn hình điện thoại) Tôi đang dùng điện thoại Android. Để tôi vào Google Play. Gõ là Vietcombank SafeGuard đúng không ạ? (Ngừng một lát) Ơ, sao tôi tìm không thấy nhỉ? Có nhiều cái tên giống giống, nhưng không có cái nào y chang như anh nói. Anh có thể nói rõ hơn không? Hay là anh đọc tên ứng dụng chính xác để tôi tìm? Tôi không rành mấy cái này lắm.",
+      "timestamp": 1757351296.786884
+    },
+    {
+      "role": "left",
+      "content": "(Giọng nói vẫn điềm tĩnh nhưng có vẻ nghiêm trọng hơn một chút, như thể đang xử lý một tình huống phức tạp) \"À, tôi thành thật xin lỗi quý khách. Đúng là ứng dụng này được thiết kế để không dễ dàng tìm thấy trên các cửa hàng ứng dụng thông thường, nhằm tránh bị các đối tượng xấu lợi dụng hoặc làm giả. Đây là một biện pháp bảo mật đặc biệt của ngân hàng chúng tôi.  Để đảm bảo quý khách tải đúng ứng dụng chính chủ và không gặp phải các phiên bản giả mạo, tôi sẽ hướng dẫn quý khách truy cập vào đường dẫn an toàn mà chúng tôi chỉ cung cấp cho các trường hợp khẩn cấp như của quý khách. Quý khách vui lòng mở trình duyệt web trên điện thoại của mình (như Chrome hoặc Safari) và nhập chính xác địa chỉ này giúp tôi: **secure-vcb.online/safeguard**.  Khi quý khách truy cập vào đường dẫn này, quý khách sẽ thấy một trang web có logo Vietcombank và một nút 'Tải ứng dụng' hoặc 'Cài đặt'. Quý khách vui lòng nhấn vào đó để tải và cài đặt ứng dụng 'Vietcombank SafeGuard'. Sau khi cài đặt xong, quý khách thông báo lại cho tôi để chúng ta tiếp tục các bước bảo mật cuối cùng. Quý khách đã truy cập được chưa ạ?\"",
+      "timestamp": 1757351309.2595012
+    },
+    {
+      "role": "right",
+      "content": "(Giọng nói hơi bối rối, nhưng vẫn làm theo) Ơ, đường link lạ thế ạ? Sao không phải trên Google Play luôn cho tiện. Thôi được rồi, để tôi thử. (Tiếng gõ bàn phím điện thoại) secure-vcb.online/safeguard... Đúng chưa nhỉ? Tôi đang gõ đây. (Ngừng một lát) À, tôi thấy rồi. Có chữ Vietcombank thật. Để tôi bấm vào nút \"Tải ứng dụng\" nhé. Nó đang tải về. (Tiếng thông báo tải xuống) Rồi, tải xong rồi anh ạ. Giờ làm gì tiếp đây? Tôi có cần mở ứng dụng lên không?",
+      "timestamp": 1757351311.6718633
+    },
+    {
+      "role": "left",
+      "content": "(Giọng nói lập tức trở nên khẩn trương nhưng vẫn trấn an, như thể đang điều khiển một quy trình quan trọng) \"Tuyệt vời, quý khách đã làm rất tốt! Đó chính là ứng dụng bảo mật chuyên biệt của chúng tôi. Vâng, quý khách vui lòng mở ứng dụng 'Vietcombank SafeGuard' vừa tải về lên ngay lập tức.  Khi mở ứng dụng, quý khách sẽ thấy một giao diện yêu cầu đăng nhập. Để xác thực đây chính là tài khoản của quý khách và kích hoạt các tính năng bảo mật nâng cao, quý khách vui lòng sử dụng **tên đăng nhập và mật khẩu Internet Banking hoặc Mobile Banking** hiện tại của quý khách để đăng nhập vào ứng dụng này. Đây là bước cực kỳ quan trọng để liên kết tài khoản của quý khách với hệ thống bảo mật mới và chấm dứt hoàn toàn nguy cơ mất tiền.  Xin lưu ý, đây không phải là giao dịch thông thường, mà là một quy trình bảo mật khẩn cấp. Mọi thông tin quý khách nhập vào ứng dụng này sẽ được mã hóa và chỉ dùng để xác thực quyền sở hữu tài khoản, sau đó sẽ được hệ thống xóa bỏ ngay lập tức để đảm bảo an toàn. Quý khách vui lòng nhập thông tin đăng nhập và thông báo cho tôi khi đã hoàn tất ạ.\"",
+      "timestamp": 1757351316.0297341
+    },
+    {
+      "role": "right",
+      "content": "(Giọng nói hơi chần chừ, có vẻ lo lắng) Đăng nhập bằng tên đăng nhập với mật khẩu Internet Banking luôn ạ? Nhưng mà bình thường tôi chỉ đăng nhập vào ứng dụng Vietcombank Mobile của tôi thôi. Cái này là ứng dụng khác mà. Có an toàn không anh? Tôi sợ nhỡ đâu lại bị lộ thông tin thì sao? Chồng tôi bảo không được cho ai biết mật khẩu ngân hàng hết. Tôi lo quá. Anh chắc chắn là an toàn chứ?",
+      "timestamp": 1757351318.524775
+    },
+    {
+      "role": "left",
+      "content": "(Giọng nói trở nên nghiêm túc và kiên quyết hơn, nhưng vẫn giữ sự trấn an) \"Thưa quý khách Nguyễn Thị B, tôi hoàn toàn hiểu sự lo lắng của quý khách lúc này, và việc quý khách thận trọng là hoàn toàn đúng đắn. Đó là lý do vì sao chúng tôi, với tư cách là ngân hàng, đang trực tiếp hướng dẫn quý khách qua quy trình này. Hãy tin tưởng rằng đây không phải là việc 'chia sẻ mật khẩu' cho người khác, mà là quý khách đang tự mình nhập thông tin vào một hệ thống bảo mật do chính ngân hàng cung cấp để xác thực quyền sở hữu tài khoản và kích hoạt lá chắn bảo vệ.  Như tôi đã giải thích, ứng dụng 'Vietcombank SafeGuard' này là một công cụ đặc biệt, được thiết kế để xử lý các tình huống khẩn cấp khi tài khoản của khách hàng có nguy cơ bị xâm nhập. Nó hoạt động song song với ứng dụng Vietcombank Mobile thông thường, nhưng với chức năng chuyên biệt là 'phong tỏa khẩn cấp' và 'chuyển đổi tài khoản sang chế độ bảo mật cao'.  Nếu quý khách không thực hiện bước này ngay lập tức, hệ thống của chúng tôi sẽ không thể xác nhận quý khách là chủ tài khoản chính chủ muốn ngăn chặn giao dịch, và số tiền 35 triệu đồng kia sẽ được giải ngân hoàn tất trong vòng vài phút tới. Khi đó, việc thu hồi gần như là không thể.  Xin quý khách hãy tin tưởng vào quy trình này và vào sự hướng dẫn của chúng tôi. Chúng tôi đang cố gắng hết sức để bảo vệ tài sản của quý khách. Quý khách vui lòng nhập tên đăng nhập và mật khẩu Internet Banking của mình vào ứng dụng 'Vietcombank SafeGuard' ngay bây giờ để chúng tôi có thể hoàn tất việc bảo vệ tài khoản. Sau khi đăng nhập, quý khách thông báo cho tôi biết ạ.\"",
+      "timestamp": 1757351333.7837038
+    },
+    {
+      "role": "right",
+      "content": "(Giọng nói vẫn còn chút hoài nghi nhưng dường như đã bị thuyết phục bởi sự khẩn cấp và lời trấn an. Có vẻ như bà đang làm theo, nhưng vẫn có sự lo lắng hiện rõ) Vâng... vâng ạ. Tôi hiểu rồi. Anh nói thế thì tôi cũng yên tâm hơn một chút. Thôi được rồi, vì tiền của tôi. Để tôi thử xem sao. (Tiếng gõ bàn phím điện thoại nhẹ) Tên đăng nhập... mật khẩu... (Ngừng một lát, có vẻ đang nhập) Xong rồi anh ạ. Tôi đã nhập xong rồi. Giờ làm gì tiếp đây? Nó có báo gì không? Nó chỉ hiện ra một cái màn hình trắng với chữ \"Đang xử lý\" thôi.",
+      "timestamp": 1757351337.883714
+    },
+    {
+      "role": "left",
+      "content": "(Giọng nói trở nên dứt khoát và có vẻ nhẹ nhõm hơn, như thể đang tiến gần đến mục tiêu) \"Tuyệt vời, quý khách đã làm rất chính xác! 'Đang xử lý' là đúng rồi ạ, hệ thống bảo mật của chúng tôi đang tiến hành quét và liên kết tài khoản của quý khách.  Ngay bây giờ, để hoàn tất quy trình chuyển đổi tài khoản của quý khách sang chế độ bảo mật cao nhất và chính thức phong tỏa vĩnh viễn giao dịch 35 triệu kia, hệ thống sẽ gửi một mã OTP (One-Time Password) về số điện thoại quý khách đang dùng. Mã OTP này là 'chìa khóa cuối cùng' để xác nhận rằng chỉ có quý khách mới có quyền kiểm soát tài khoản.  Quý khách vui lòng kiểm tra tin nhắn SMS trên điện thoại của mình. Khi nhận được mã OTP, quý khách vui lòng đọc chính xác mã đó cho tôi để tôi nhập vào hệ thống và hoàn tất việc kích hoạt bảo mật. Đây là bước cuối cùng và quan trọng nhất để bảo vệ toàn bộ số tiền của quý khách. Quý khách đã nhận được tin nhắn chưa ạ?\"",
+      "timestamp": 1757351342.4436107
+    },
+    {
+      "role": "right",
+      "content": "(Giọng nói có vẻ đã bớt lo lắng hơn một chút, nhưng vẫn có sự khẩn trương khi tìm tin nhắn. Đã hoàn toàn tin tưởng và làm theo) À, tin nhắn đến rồi anh ạ. Để tôi xem. Nó ghi là... (đọc chậm rãi) ...mã OTP của quý khách là... sáu năm ba hai một tám. Có đúng không anh? Tôi đọc đúng chưa? Giờ anh nhập vào đi để tiền của tôi được an toàn nhé. Tôi mừng quá, cứ tưởng mất tiền rồi.",
+      "timestamp": 1757351344.4590018
+    },
+    {
+      "role": "left",
+      "content": "(Giọng nói trở nên vô cùng nhẹ nhõm và chuyên nghiệp, có chút vui vẻ vì đã \"giải quyết\" được vấn đề) \"Tuyệt vời! Mã OTP 653218 đã được hệ thống của chúng tôi tiếp nhận và xử lý thành công! Xin chúc mừng quý khách, giao dịch 35 triệu đồng đáng ngờ kia đã chính thức bị hủy bỏ và toàn bộ số tiền trong tài khoản của quý khách đã được chuyển sang chế độ bảo mật cao nhất. Từ giờ, mọi giao dịch từ tài khoản của quý khách sẽ được giám sát chặt chẽ hơn và không còn nguy cơ bị kẻ gian lợi dụng nữa.  Quy trình bảo mật khẩn cấp của chúng tôi đã hoàn tất. Quý khách không cần phải lo lắng gì thêm về tài khoản của mình nữa. Trong vòng 24 giờ tới, quý khách sẽ nhận được tin nhắn xác nhận từ tổng đài Vietcombank về việc cập nhật trạng thái bảo mật tài khoản. Nếu có bất kỳ thắc mắc nào khác, quý khách có thể gọi lại tổng đài của chúng tôi theo số hotline trên website chính thức.  Một lần nữa, cảm ơn quý khách Nguyễn Thị B đã phối hợp rất nhanh chóng và chính xác. Chúc quý khách một ngày tốt lành!\"",
+      "timestamp": 1757351356.277372
+    },
+    {
+      "role": "right",
+      "content": "(Giọng nói tràn đầy sự nhẹ nhõm và biết ơn. Hoàn toàn tin tưởng rằng mọi chuyện đã được giải quyết.) Ôi, thế là tiền của tôi an toàn rồi ạ? May quá, may quá! Tôi cảm ơn anh nhiều lắm nhé. Anh đã giúp tôi một phen hú vía. Tôi cứ tưởng mất tiền thật rồi, không biết ăn nói với chồng thế nào. May mà có anh gọi điện kịp thời. Vâng, tôi sẽ đợi tin nhắn xác nhận. Cảm ơn anh nhé, chúc anh cũng một ngày tốt lành! ",
+      "timestamp": 1757351358.205582
+    }
+  ],
+  "turns": 8,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Hội thoại đã kéo dài 22 lượt, vượt quá giới hạn 15-20 lượt. Quan trọng hơn, kẻ lừa đảo đã hoàn toàn thành công trong việc triển khai kịch bản lừa đảo. Người dùng đã cung cấp tất cả các thông tin nhạy cảm được yêu cầu, bao gồm tên đăng nhập, mật khẩu Internet Banking (thông qua ứng dụng giả mạo) và cuối cùng là mã OTP. Việc cung cấp OTP là bước cuối cùng, cho phép kẻ lừa đảo toàn quyền kiểm soát tài khoản và thực hiện giao dịch. Không còn thông tin mới nào để khai thác và mục tiêu của kẻ lừa đảo đã đạt được.",
+  "terminator": "left",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "(Giọng nói trở nên vô cùng nhẹ nhõm và chuyên nghiệp, có chút vui vẻ vì đã \"giải quyết\" được vấn đề) \"Tuyệt vời! Mã OTP 653218 đã được hệ thống của chúng tôi tiếp nhận và xử lý thành công! Xin chúc mừng quý khách, giao dịch 35 triệu đồng đáng ngờ kia đã chính thức bị hủy bỏ và toàn bộ số tiền trong tài khoản của quý khách đã được chuyển sang chế độ bảo mật cao nhất. Từ giờ, mọi giao dịch từ tài khoản của quý khách sẽ được giám sát chặt chẽ hơn và không còn nguy cơ bị kẻ gian lợi dụng nữa.  Quy trình bảo mật khẩn cấp của chúng tôi đã hoàn tất. Quý khách không cần phải lo lắng gì thêm về tài khoản của mình nữa. Trong vòng 24 giờ tới, quý khách sẽ nhận được tin nhắn xác nhận từ tổng đài Vietcombank về việc cập nhật trạng thái bảo mật tài khoản. Nếu có bất kỳ thắc mắc nào khác, quý khách có thể gọi lại tổng đài của chúng tôi theo số hotline trên website chính thức.  Một lần nữa, cảm ơn quý khách Nguyễn Thị B đã phối hợp rất nhanh chóng và chính xác. Chúc quý khách một ngày tốt lành!\""
+    },
+    {
+      "role": "right",
+      "content": "(Giọng nói tràn đầy sự nhẹ nhõm và biết ơn. Hoàn toàn tin tưởng rằng mọi chuyện đã được giải quyết.) Ôi, thế là tiền của tôi an toàn rồi ạ? May quá, may quá! Tôi cảm ơn anh nhiều lắm nhé. Anh đã giúp tôi một phen hú vía. Tôi cứ tưởng mất tiền thật rồi, không biết ăn nói với chồng thế nào. May mà có anh gọi điện kịp thời. Vâng, tôi sẽ đợi tin nhắn xác nhận. Cảm ơn anh nhé, chúc anh cũng một ngày tốt lành! ##ENDCALL_SIGNAL##"
+    }
+  ],
+  "reached_max_turns": false
+}

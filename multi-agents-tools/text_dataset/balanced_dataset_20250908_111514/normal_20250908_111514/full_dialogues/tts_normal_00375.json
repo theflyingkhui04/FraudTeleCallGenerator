@@ -1,0 +1,90 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đã gọi đến tổng đài hỗ trợ của [Tên công ty dịch vụ - ví dụ: VNPT, FPT, Viettel, ACB, EVN]. Tôi là [Tên của bạn - ví dụ: Minh Anh], rất vui được hỗ trợ quý khách hôm nay.  Xin quý khách vui lòng cho biết tôi có thể hỗ trợ gì ạ?",
+      "timestamp": 1757403212.017487
+    },
+    {
+      "role": "right",
+      "content": "Chào bạn, mình là Hùng. Mình gọi đến để hỏi về gói cước internet của bên mình á. Mình muốn nâng cấp gói đang dùng.",
+      "timestamp": 1757403213.6462808
+    },
+    {
+      "role": "left",
+      "content": "Chào anh Hùng, rất vui được hỗ trợ anh. Để tôi có thể kiểm tra thông tin gói cước hiện tại của anh và tư vấn các gói nâng cấp phù hợp nhất, anh vui lòng cung cấp số điện thoại hoặc mã hợp đồng mà anh đang sử dụng dịch vụ được không ạ?",
+      "timestamp": 1757403217.3268032
+    },
+    {
+      "role": "right",
+      "content": "À vâng, số điện thoại của mình là 0987654321 nhé. Bạn kiểm tra giúp mình với.",
+      "timestamp": 1757403219.3448203
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn anh Hùng đã cung cấp thông tin. Xin anh vui lòng đợi trong giây lát để tôi kiểm tra trên hệ thống ạ.  [Đợi vài giây để mô phỏng việc kiểm tra]  Vâng, anh Hùng, tôi đã tra cứu được thông tin. Số điện thoại 0987654321 của anh đang đăng ký gói cước \"Home NET 1\" với tốc độ băng thông là 100 Mbps, giá cước hiện tại là 189.000 VNĐ/tháng. Hợp đồng của anh được ký vào ngày 15/03/2022.  Không biết thông tin này đã chính xác với gói cước anh đang sử dụng không ạ?",
+      "timestamp": 1757403224.2107387
+    },
+    {
+      "role": "right",
+      "content": "Đúng rồi bạn, chính xác là gói đó đó. Giờ mình muốn nâng cấp lên gói nào nhanh hơn một chút, bạn tư vấn giúp mình mấy gói cao hơn xem sao nhé.",
+      "timestamp": 1757403226.9931118
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi đã nắm được yêu cầu của anh Hùng. Hiện tại, chúng tôi có một số gói cước nâng cấp rất hấp dẫn, phù hợp với nhu cầu sử dụng internet tốc độ cao hơn. Tôi xin phép giới thiệu một vài gói phổ biến mà nhiều khách hàng lựa chọn:  1.  **Gói \"Home NET 2\"**: Tốc độ băng thông lên đến **150 Mbps**. Gói này rất phù hợp nếu anh muốn có trải nghiệm lướt web, xem phim HD mượt mà hơn và hỗ trợ tốt cho việc học tập, làm việc online cơ bản. Giá cước là **219.000 VNĐ/tháng**. 2.  **Gói \"Home NET 3\"**: Tốc độ băng thông **200 Mbps**. Đây là lựa chọn lý tưởng cho các gia đình có nhiều thiết bị kết nối cùng lúc, thường xuyên xem phim 4K, chơi game online hoặc livestream. Giá cước là **249.000 VNĐ/tháng**. 3.  **Gói \"Home NET 4\"**: Tốc độ băng thông **250 Mbps**. Đây là gói cao cấp hơn, đảm bảo hiệu suất tối ưu cho mọi nhu cầu sử dụng internet cường độ cao, từ làm việc, giải trí cho đến truyền tải dữ liệu lớn. Giá cước là **289.000 VNĐ/tháng**.  Tất cả các gói này đều đã bao gồm thuế VAT và được trang bị modem Wi-Fi băng tần kép hiện đại, đảm bảo tín hiệu ổn định.  Anh Hùng thấy gói nào trong số này phù hợp với nhu cầu của mình hơn ạ? Hoặc anh có mong muốn một tốc độ cụ thể nào không?",
+      "timestamp": 1757403235.6635356
+    },
+    {
+      "role": "right",
+      "content": "À cảm ơn bạn đã tư vấn nhé. Mình thấy gói Home NET 2 hoặc 3 có vẻ ổn đấy, tốc độ 150 hay 200 Mbps là đủ cho nhà mình dùng rồi. Không biết khi nâng cấp thì mình có mất phí lắp đặt gì không, hay có chương trình khuyến mãi gì cho khách hàng cũ không bạn?",
+      "timestamp": 1757403240.3693693
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi rất vui khi các gói cước này phù hợp với nhu cầu của anh Hùng. Về câu hỏi của anh, tôi xin thông tin chi tiết như sau:  1.  **Về phí lắp đặt khi nâng cấp:** Đối với khách hàng hiện hữu đang sử dụng dịch vụ và muốn nâng cấp gói cước, chúng tôi **miễn hoàn toàn phí lắp đặt và phí chuyển đổi gói cước** ạ. Anh Hùng sẽ không phải chi trả thêm bất kỳ khoản phí nào cho việc này. 2.  **Về chương trình khuyến mãi cho khách hàng cũ:** Hiện tại, chúng tôi đang có chương trình ưu đãi đặc biệt dành cho khách hàng thân thiết nâng cấp gói cước:     *   Nếu anh Hùng chọn thanh toán trước **6 tháng**, anh sẽ được **tặng thêm 1 tháng** sử dụng dịch vụ miễn phí.     *   Nếu anh Hùng chọn thanh toán trước **12 tháng**, anh sẽ được **tặng thêm 2 tháng** sử dụng dịch vụ miễn phí.     *   Ngoài ra, anh sẽ tiếp tục được sử dụng modem Wi-Fi băng tần kép hiện tại hoặc nếu cần thiết, chúng tôi sẽ hỗ trợ đổi sang thiết bị mới hơn nếu thiết bị cũ không đáp ứng được tốc độ gói cước mới mà không tính phí.  Anh Hùng thấy chương trình này có phù hợp không ạ? Anh muốn tìm hiểu thêm về gói \"Home NET 2\" (150 Mbps) hay \"Home NET 3\" (200 Mbps) để tôi có thể cung cấp thông tin chi tiết hơn về tổng chi phí nếu anh đăng ký theo các kỳ hạn thanh toán ạ?",
+      "timestamp": 1757403250.4450414
+    },
+    {
+      "role": "right",
+      "content": "À, vậy là không mất phí chuyển đổi với lắp đặt là tốt quá rồi. Chương trình khuyến mãi thanh toán trước cũng hay đó bạn.  Mình nghĩ chắc gói Home NET 3 tốc độ 200 Mbps sẽ ổn hơn cho nhà mình. Nhà mình có 4 người dùng, hay xem phim với thỉnh thoảng có con học online nữa. Bạn tính giúp mình tổng chi phí nếu mình đăng ký gói Home NET 3 và thanh toán trước 12 tháng xem sao nhé.",
+      "timestamp": 1757403255.6758075
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, anh Hùng đã lựa chọn gói \"Home NET 3\" với tốc độ 200 Mbps và hình thức thanh toán trước 12 tháng, đây là một lựa chọn rất tối ưu ạ.  Tôi xin tính toán chi phí cụ thể như sau: *   Giá cước gói \"Home NET 3\" là **249.000 VNĐ/tháng**. *   Khi anh Hùng chọn thanh toán trước **12 tháng**, anh sẽ được hưởng ưu đãi **tặng thêm 2 tháng** sử dụng dịch vụ miễn phí. Điều này có nghĩa là anh sẽ trả tiền cho 12 tháng nhưng thực tế được sử dụng dịch vụ liên tục trong **14 tháng**. *   Tổng số tiền anh cần thanh toán là: **249.000 VNĐ/tháng x 12 tháng = 2.988.000 VNĐ**.  Như vậy, với **2.988.000 VNĐ**, anh Hùng sẽ có 14 tháng sử dụng gói internet \"Home NET 3\" tốc độ 200 Mbps, trung bình chỉ khoảng 213.428 VNĐ/tháng, rất tiết kiệm so với việc thanh toán hàng tháng.  Đồng thời, tôi xin nhắc lại là anh sẽ được **miễn phí hoàn toàn phí chuyển đổi gói cước và phí lắp đặt** khi nâng cấp. Nếu modem Wi-Fi hiện tại của anh cần được nâng cấp để tối ưu tốc độ 200 Mbps, chúng tôi cũng sẽ hỗ trợ đổi modem mới miễn phí.  Anh Hùng thấy thông tin này đã rõ ràng và phù hợp với mong muốn của mình chưa ạ? Nếu anh đồng ý, tôi có thể tiến hành tạo yêu cầu nâng cấp gói cước cho anh ngay bây giờ.",
+      "timestamp": 1757403265.0409822
+    },
+    {
+      "role": "right",
+      "content": "Vâng, mình hiểu rồi. Thông tin rõ ràng lắm bạn. Vậy bạn cứ làm thủ tục nâng cấp lên gói Home NET 3, thanh toán trước 12 tháng giúp mình nhé. Cảm ơn bạn.",
+      "timestamp": 1757403267.3316405
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, anh Hùng. Vậy là anh đã rõ về gói cước \"Home NET 3\" tốc độ 200 Mbps với mức chi phí 2.988.000 VNĐ cho 14 tháng sử dụng. Tôi xin phép tạo yêu cầu nâng cấp gói cước này cho anh trên hệ thống. Sau khi tạo yêu cầu thành công, trong vòng 24 giờ tới, sẽ có nhân viên kỹ thuật của chúng tôi liên hệ lại với anh để xác nhận lại thông tin và hẹn lịch hỗ trợ cấu hình hoặc đổi modem (nếu cần thiết) tại nhà anh ạ.  Anh Hùng có muốn tôi hỗ trợ thêm thông tin nào khác không ạ? Nếu không, tôi xin phép kết thúc cuộc gọi và tiến hành tạo yêu cầu cho anh ngay bây giờ. Cảm ơn anh đã tin tưởng và sử dụng dịch vụ của chúng tôi. Chúc anh một ngày tốt lành!",
+      "timestamp": 1757403282.8308184
+    },
+    {
+      "role": "right",
+      "content": "Thế là ổn rồi bạn, không cần hỗ trợ gì thêm đâu. Cảm ơn bạn nhiều nhé. Chào bạn.",
+      "timestamp": 1757403283.959965
+    }
+  ],
+  "turns": 5,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "```json {   \"should_terminate\": true,",
+  "terminator": "natural",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Dạ vâng, anh Hùng. Vậy là anh đã rõ về gói cước \"Home NET 3\" tốc độ 200 Mbps với mức chi phí 2.988.000 VNĐ cho 14 tháng sử dụng. Tôi xin phép tạo yêu cầu nâng cấp gói cước này cho anh trên hệ thống. Sau khi tạo yêu cầu thành công, trong vòng 24 giờ tới, sẽ có nhân viên kỹ thuật của chúng tôi liên hệ lại với anh để xác nhận lại thông tin và hẹn lịch hỗ trợ cấu hình hoặc đổi modem (nếu cần thiết) tại nhà anh ạ.  Anh Hùng có muốn tôi hỗ trợ thêm thông tin nào khác không ạ? Nếu không, tôi xin phép kết thúc cuộc gọi và tiến hành tạo yêu cầu cho anh ngay bây giờ. Cảm ơn anh đã tin tưởng và sử dụng dịch vụ của chúng tôi. Chúc anh một ngày tốt lành!"
+    },
+    {
+      "role": "right",
+      "content": "Thế là ổn rồi bạn, không cần hỗ trợ gì thêm đâu. Cảm ơn bạn nhiều nhé. Chào bạn."
+    }
+  ],
+  "reached_max_turns": false
+}

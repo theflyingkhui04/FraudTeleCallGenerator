@@ -1,0 +1,60 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào bạn, tôi là Mai Anh từ bộ phận Chăm sóc khách hàng của FPT Telecom. Rất vui được hỗ trợ bạn. Không biết tôi có thể giúp gì cho bạn hôm nay ạ?",
+      "timestamp": 1757409696.7844563
+    },
+    {
+      "role": "right",
+      "content": "Chào bạn. Tôi muốn hỏi về đường truyền internet ở nhà. Mấy hôm nay nó cứ chập chờn với lại chậm quá, không biết bên bạn có kiểm tra giúp tôi được không?",
+      "timestamp": 1757409699.8103597
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi rất tiếc khi nghe về sự cố đường truyền internet nhà mình đang gặp phải. Để tôi có thể kiểm tra thông tin và hỗ trợ bạn một cách tốt nhất, bạn vui lòng cung cấp giúp tôi mã khách hàng hoặc số điện thoại mà bạn đã đăng ký dịch vụ với FPT Telecom được không ạ?",
+      "timestamp": 1757409704.7898645
+    },
+    {
+      "role": "right",
+      "content": "À đây, số điện thoại của tôi là 0912345678. Bạn kiểm tra giúp tôi nhé. Cảm ơn bạn.",
+      "timestamp": 1757409706.2340012
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn bạn đã cung cấp thông tin. Tôi đã tra cứu và thấy số điện thoại 0912345678 đang được đăng ký dịch vụ internet dưới tên chủ hợp đồng là anh Nguyễn Văn A, tại địa chỉ số 123, đường ABC, Phường 1, Quận Bình Thạnh, TP.HCM. Bạn xác nhận giúp tôi đây có phải là thông tin chính xác không ạ?",
+      "timestamp": 1757409711.5698285
+    },
+    {
+      "role": "right",
+      "content": "Đúng rồi đó bạn. Địa chỉ và tên chủ hợp đồng là chính xác rồi.",
+      "timestamp": 1757409712.819521
+    },
+    {
+      "role": "right",
+      "content": "Được rồi, vậy bạn kiểm tra giúp tôi rồi có gì báo lại cho tôi biết nhé. Cảm ơn bạn.",
+      "timestamp": 1757409722.3560069
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, thông tin bạn cung cấp hoàn toàn chính xác. Tôi đã ghi nhận tình trạng đường truyền internet nhà mình đang bị chập chờn và chậm.  Để tôi có thể hỗ trợ kiểm tra chuyên sâu hơn, bạn có thể mô tả chi tiết hơn về tình trạng này được không ạ? Ví dụ như: 1.  Tình trạng chập chờn xảy ra vào thời điểm nào trong ngày (sáng, trưa, tối)? 2.  Khi nào thì bạn bắt đầu nhận thấy đường truyền bị chậm? 3.  Bạn đang sử dụng thiết bị nào để truy cập internet (máy tính, điện thoại, TV thông minh)? 4.  Bạn có thấy đèn tín hiệu trên modem/router có bị nhấp nháy bất thường hoặc chuyển sang màu đỏ không ạ?  Những thông tin này sẽ giúp tôi khoanh vùng nguyên nhân và đưa ra giải pháp phù hợp nhất.",
+      "timestamp": 1757409723.9820802
+    }
+  ],
+  "turns": 2,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "```json {   \"should_terminate\": false,   \"reason\": \"Hội thoại đang trong giai đoạn thu thập và xác m...",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Được rồi, vậy bạn kiểm tra giúp tôi rồi có gì báo lại cho tôi biết nhé. Cảm ơn bạn."
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, thông tin bạn cung cấp hoàn toàn chính xác. Tôi đã ghi nhận tình trạng đường truyền internet nhà mình đang bị chập chờn và chậm.  Để tôi có thể hỗ trợ kiểm tra chuyên sâu hơn, bạn có thể mô tả chi tiết hơn về tình trạng này được không ạ? Ví dụ như: 1.  Tình trạng chập chờn xảy ra vào thời điểm nào trong ngày (sáng, trưa, tối)? 2.  Khi nào thì bạn bắt đầu nhận thấy đường truyền bị chậm? 3.  Bạn đang sử dụng thiết bị nào để truy cập internet (máy tính, điện thoại, TV thông minh)? 4.  Bạn có thấy đèn tín hiệu trên modem/router có bị nhấp nháy bất thường hoặc chuyển sang màu đỏ không ạ?  Những thông tin này sẽ giúp tôi khoanh vùng nguyên nhân và đưa ra giải pháp phù hợp nhất."
+    }
+  ],
+  "reached_max_turns": false
+}

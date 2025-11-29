@@ -1,0 +1,90 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào bạn, tôi là Lan Anh từ tổng đài hỗ trợ khách hàng của FPT Telecom. Tôi có thể giúp gì cho bạn hôm nay ạ?",
+      "timestamp": 1757410826.3544495
+    },
+    {
+      "role": "right",
+      "content": "À chào chị. Em gọi để hỏi về tình trạng mạng nhà em ạ. Mấy hôm nay mạng cứ chập chờn, yếu lắm, làm em học online cũng khó.",
+      "timestamp": 1757410830.5078797
+    },
+    {
+      "role": "left",
+      "content": "Tôi rất tiếc khi nghe về trải nghiệm không tốt này của bạn. Để tôi kiểm tra tình trạng đường truyền cho bạn nhé. Bạn vui lòng cung cấp giúp tôi mã khách hàng hoặc số điện thoại mà bạn đã đăng ký dịch vụ để tôi có thể tra cứu thông tin nhanh nhất ạ.",
+      "timestamp": 1757410835.7055063
+    },
+    {
+      "role": "right",
+      "content": "Dạ số điện thoại em đăng ký là 0912345678 ạ. Chị kiểm tra giúp em với.",
+      "timestamp": 1757410838.3928998
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn bạn. Tôi đã tìm thấy thông tin hợp đồng của bạn qua số điện thoại 0912345678. Tên chủ hợp đồng là Nguyễn Văn A, địa chỉ lắp đặt tại 123 Đường B, Phường C, Quận D, TP. Hồ Chí Minh, đúng không ạ?",
+      "timestamp": 1757410846.2444954
+    },
+    {
+      "role": "right",
+      "content": "Đúng rồi chị ơi. Đó là thông tin của em.",
+      "timestamp": 1757410847.9283805
+    },
+    {
+      "role": "left",
+      "content": "Tuyệt vời. Tôi đang kiểm tra hệ thống và thấy rằng đường truyền của bạn đang có dấu hiệu mất ổn định nhẹ, có thể do một số yếu tố bên ngoài hoặc cấu hình thiết bị. Để khắc phục tình trạng này, tôi có thể hướng dẫn bạn một số bước kiểm tra và xử lý cơ bản tại nhà trước khi chúng tôi cần cử kỹ thuật viên đến hỗ trợ không ạ?",
+      "timestamp": 1757410854.5160627
+    },
+    {
+      "role": "right",
+      "content": "Dạ được ạ. Chị cứ hướng dẫn đi, em làm theo thử xem sao. Nếu được thì tốt quá.",
+      "timestamp": 1757410855.5918508
+    },
+    {
+      "role": "left",
+      "content": "Vâng, bạn vui lòng làm theo các bước sau nhé:  1.  **Khởi động lại modem/router:** Bạn hãy tắt nguồn modem và router (nếu có riêng) bằng cách rút dây nguồn ra khỏi ổ cắm. Đợi khoảng 30 giây, sau đó cắm lại dây nguồn. Chờ khoảng 2-3 phút để thiết bị khởi động hoàn tất và các đèn tín hiệu (đặc biệt là đèn Internet/WAN) chuyển sang màu xanh ổn định. 2.  **Kiểm tra dây cáp:** Đảm bảo tất cả các dây cáp kết nối từ modem đến ổ cắm tường và từ modem đến máy tính (nếu bạn dùng dây LAN) đều được cắm chắc chắn, không bị lỏng lẻo hoặc gãy gập. 3.  **Thử kết nối lại:** Sau khi modem đã khởi động xong, bạn hãy thử kết nối lại mạng trên thiết bị của mình (điện thoại, laptop) và kiểm tra xem tình trạng mạng đã cải thiện chưa nhé.  Bạn có thể thực hiện ngay bây giờ không ạ? Tôi sẽ chờ bạn phản hồi.",
+      "timestamp": 1757410865.3855882
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, em nghe rõ rồi ạ. Để em thử làm theo các bước chị hướng dẫn xem sao. Em sẽ rút dây nguồn, đợi rồi cắm lại, với kiểm tra mấy sợi dây cáp luôn.  Em thử xong rồi báo lại chị nha.",
+      "timestamp": 1757410867.1950288
+    },
+    {
+      "role": "left",
+      "content": "Vâng, bạn cứ thực hiện theo các bước đó nhé. Tôi sẽ giữ máy chờ bạn phản hồi. Nếu có bất kỳ khó khăn nào trong quá trình thực hiện, bạn đừng ngần ngại hỏi lại tôi ngay ạ.",
+      "timestamp": 1757410876.68587
+    },
+    {
+      "role": "right",
+      "content": "Dạ, em làm xong rồi chị. Em thử lại thì thấy mạng có vẻ ổn định hơn rồi đó ạ. Giờ vào web hay xem video cũng không bị giật nữa.",
+      "timestamp": 1757410878.8061295
+    },
+    {
+      "role": "left",
+      "content": "Tuyệt vời quá! Tôi rất vui khi nghe thấy mạng của bạn đã ổn định trở lại. Để đảm bảo mọi thứ hoạt động trơn tru, tôi sẽ ghi nhận lại tình trạng này và theo dõi đường truyền của bạn trong 24 giờ tới. Nếu trong thời gian này mạng lại gặp vấn đề hoặc bạn cần hỗ trợ thêm, đừng ngần ngại liên hệ lại với FPT Telecom bất cứ lúc nào qua tổng đài 1900 6600 hoặc ứng dụng Hi FPT nhé. Cảm ơn bạn đã tin tưởng và sử dụng dịch vụ của FPT Telecom. Chúc bạn có một ngày làm việc và học tập hiệu quả!",
+      "timestamp": 1757410886.1949358
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, em cảm ơn chị nhiều nha. Chị hỗ trợ nhiệt tình quá. Có gì em sẽ liên hệ lại. Chúc chị một ngày tốt lành ạ.",
+      "timestamp": 1757410887.9600933
+    }
+  ],
+  "turns": 5,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại đã đạt được: Người dùng đã báo cáo rằng vấn đề mạng chập chờn đã được khắc phục sau khi làm theo hướng dẫn. Hội thoại đã hoàn thành đầy đủ quy trình dịch vụ từ báo cáo sự cố đến khắc phục. Bên cung cấp dịch vụ (Kẻ lừa đảo) nên chủ động xác nhận sự hài lòng của người dùng và kết thúc cuộc gọi.",
+  "terminator": "left",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Tuyệt vời quá! Tôi rất vui khi nghe thấy mạng của bạn đã ổn định trở lại. Để đảm bảo mọi thứ hoạt động trơn tru, tôi sẽ ghi nhận lại tình trạng này và theo dõi đường truyền của bạn trong 24 giờ tới. Nếu trong thời gian này mạng lại gặp vấn đề hoặc bạn cần hỗ trợ thêm, đừng ngần ngại liên hệ lại với FPT Telecom bất cứ lúc nào qua tổng đài 1900 6600 hoặc ứng dụng Hi FPT nhé. Cảm ơn bạn đã tin tưởng và sử dụng dịch vụ của FPT Telecom. Chúc bạn có một ngày làm việc và học tập hiệu quả!"
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, em cảm ơn chị nhiều nha. Chị hỗ trợ nhiệt tình quá. Có gì em sẽ liên hệ lại. Chúc chị một ngày tốt lành ạ."
+    }
+  ],
+  "reached_max_turns": false
+}

@@ -1,0 +1,70 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đến với tổng đài hỗ trợ của FPT Telecom. Tôi là Thu Thủy, rất vui được hỗ trợ quý khách hôm nay. Không biết quý khách đang cần tư vấn về dịch vụ nào ạ?",
+      "timestamp": 1757410859.4388096
+    },
+    {
+      "role": "right",
+      "content": "Chào cô Thủy. Chú là Năm. Chú muốn hỏi về đường truyền internet nhà chú. Mấy bữa nay nó cứ chập chờn, yếu lắm, xem thời tiết hay đọc báo cũng khó khăn.",
+      "timestamp": 1757410865.3210268
+    },
+    {
+      "role": "left",
+      "content": "Dạ chào chú Năm. Cháu rất tiếc khi nghe về sự cố đường truyền internet nhà mình. Để cháu có thể kiểm tra và hỗ trợ chú tốt nhất, chú Năm vui lòng cung cấp giúp cháu số hợp đồng hoặc số điện thoại mà chú đã đăng ký dịch vụ với FPT Telecom được không ạ?",
+      "timestamp": 1757410869.9469097
+    },
+    {
+      "role": "right",
+      "content": "À, số điện thoại chú đăng ký là 0905 123 456 đó cô. Số này chú đứng tên luôn.",
+      "timestamp": 1757410872.266793
+    },
+    {
+      "role": "left",
+      "content": "Dạ cháu cảm ơn chú Năm. Cháu đã tra cứu thông tin và xác nhận số điện thoại 0905 123 456 đang đứng tên chú với hợp đồng dịch vụ internet tại địa chỉ 123 Nguyễn Văn Linh, Quận 7, TP.HCM. Không biết đây có đúng là địa chỉ nhà mình không ạ?",
+      "timestamp": 1757410877.7436829
+    },
+    {
+      "role": "right",
+      "content": "Đúng rồi đó cô. Địa chỉ nhà chú đó.",
+      "timestamp": 1757410879.2904341
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng chú Năm. Cháu đã kiểm tra trên hệ thống và ghi nhận có tín hiệu không ổn định tại khu vực của chú trong vài ngày gần đây, có thể đây là nguyên nhân gây ra tình trạng chập chờn mà chú đang gặp phải. Để khắc phục triệt để, cháu xin phép cử nhân viên kỹ thuật đến tận nhà chú để kiểm tra và sửa chữa trực tiếp ạ. Chú Năm có tiện cho cháu xin thông tin về khung giờ và ngày nào chú có thể ở nhà để nhân viên kỹ thuật ghé qua không ạ?",
+      "timestamp": 1757410884.5707376
+    },
+    {
+      "role": "right",
+      "content": "À, chú cũng rảnh buổi chiều. Chiều mai (thứ Ba) hay chiều thứ Tư gì cũng được đó cô. Khoảng tầm 2-3 giờ chiều là chú có ở nhà. Lúc đó chú xong việc đồng rồi.",
+      "timestamp": 1757410889.2113256
+    },
+    {
+      "role": "right",
+      "content": "Vậy cảm ơn cô nha. Cứ vậy rồi mai mốt chú ở nhà chờ thợ đến sửa.",
+      "timestamp": 1757410899.133299
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng chú Năm. Để cháu có thể sắp xếp lịch hẹn cụ thể và tiện lợi nhất cho chú, chú Năm vui lòng cho cháu biết chú muốn nhân viên kỹ thuật đến vào ngày nào trong tuần tới và trong khung giờ nào thì phù hợp nhất với chú ạ? Ví dụ như sáng (8h-12h), chiều (13h-17h) hay tối (17h-20h) ạ?",
+      "timestamp": 1757410901.7912977
+    }
+  ],
+  "turns": 3,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "```json {   \"should_terminate\": false,   \"reason\": \"Hội thoại chưa nên kết thúc vì mục tiêu chính củ...",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Vậy cảm ơn cô nha. Cứ vậy rồi mai mốt chú ở nhà chờ thợ đến sửa."
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng chú Năm. Để cháu có thể sắp xếp lịch hẹn cụ thể và tiện lợi nhất cho chú, chú Năm vui lòng cho cháu biết chú muốn nhân viên kỹ thuật đến vào ngày nào trong tuần tới và trong khung giờ nào thì phù hợp nhất với chú ạ? Ví dụ như sáng (8h-12h), chiều (13h-17h) hay tối (17h-20h) ạ?"
+    }
+  ],
+  "reached_max_turns": false
+}

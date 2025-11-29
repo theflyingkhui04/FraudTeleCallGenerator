@@ -1,0 +1,60 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đã gọi đến tổng đài hỗ trợ của Công ty Dịch vụ Kỹ thuật Số ABC. Tôi là Minh Thư, chuyên viên chăm sóc khách hàng.  Hôm nay, tôi gọi điện để thông báo chính thức về một kế hoạch nâng cấp hệ thống định kỳ quan trọng mà chúng tôi sẽ triển khai trong thời gian tới, nhằm mục đích cải thiện hiệu suất và tăng cường bảo mật cho toàn bộ dịch vụ của quý khách.  Quý khách có tiện nghe thông tin chi tiết vào lúc này không ạ?",
+      "timestamp": 1757359595.2429202
+    },
+    {
+      "role": "right",
+      "content": "À vâng, cô cứ nói đi, tôi đang tiện nghe đây.",
+      "timestamp": 1757359598.1725092
+    },
+    {
+      "role": "left",
+      "content": "Tuyệt vời, cảm ơn quý khách. Để quý khách nắm rõ thông tin, tôi xin phép thông báo chi tiết như sau:  **1. Thời gian bảo trì:** *   Chúng tôi sẽ tiến hành nâng cấp hệ thống vào ngày **15 tháng 7 năm 2024**, bắt đầu từ **1h00 sáng** và dự kiến kết thúc vào **5h00 sáng** cùng ngày. Tổng thời gian dự kiến là **4 tiếng**.  **2. Dịch vụ bị ảnh hưởng:** *   Trong khoảng thời gian này, tất cả các dịch vụ trực tuyến của quý khách, bao gồm cổng thông tin khách hàng (customer portal), các ứng dụng di động liên quan đến dịch vụ của chúng tôi, và một số API tích hợp có thể sẽ tạm thời không khả dụng.  **3. Mục đích nâng cấp:** *   Việc nâng cấp này là một phần trong cam kết của chúng tôi nhằm mang đến trải nghiệm dịch vụ tốt nhất. Chúng tôi sẽ triển khai các bản vá bảo mật mới nhất, tối ưu hóa cơ sở dữ liệu và nâng cấp phần cứng để đảm bảo hệ thống hoạt động ổn định, nhanh chóng và an toàn hơn.  **4. Chuẩn bị của quý khách:** *   Chúng tôi khuyến nghị quý khách nên lưu lại hoặc hoàn tất mọi giao dịch quan trọng trước **1h00 sáng ngày 15 tháng 7** để tránh gián đoạn. Sau thời gian bảo trì, tất cả các dịch vụ sẽ hoạt động bình thường trở lại.  Quý khách có câu hỏi nào về thông báo này không ạ?",
+      "timestamp": 1757359604.173264
+    },
+    {
+      "role": "right",
+      "content": "À, tôi nắm được rồi. Vậy là đúng ngày 15 tháng 7, từ 1 giờ đến 5 giờ sáng là không dùng được mấy cái dịch vụ đó, xong rồi thì lại bình thường đúng không cô?",
+      "timestamp": 1757359607.6347234
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, chính xác là như vậy ạ. Quý khách đã nắm rất rõ rồi. Sau 5h00 sáng ngày 15 tháng 7, tất cả các dịch vụ sẽ hoạt động trở lại bình thường và ổn định hơn. Chúng tôi cam kết sẽ cố gắng hoàn thành công việc sớm nhất có thể để giảm thiểu sự bất tiện cho quý khách.  Quý khách có muốn tôi giải thích thêm về bất kỳ điểm nào khác trong thông báo này không ạ, ví dụ như về lý do nâng cấp cụ thể hơn, hay về cách chúng tôi đảm bảo dữ liệu của quý khách được an toàn trong quá trình này?",
+      "timestamp": 1757359617.089534
+    },
+    {
+      "role": "right",
+      "content": "Thôi không cần đâu cô. Cô nói vậy là tôi hiểu rõ rồi. Miễn sao sau đó mọi thứ hoạt động ổn định và an toàn là tôi yên tâm rồi.",
+      "timestamp": 1757359621.6933055
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, rất cảm ơn quý khách đã tin tưởng và ủng hộ dịch vụ của chúng tôi. Chúng tôi sẽ nỗ lực hết sức để đảm bảo quá trình nâng cấp diễn ra suôn sẻ và mang lại hiệu quả tốt nhất cho quý khách. Nếu trong thời gian tới quý khách có bất kỳ thắc mắc hay cần hỗ trợ gì khác, xin đừng ngần ngại liên hệ lại với chúng tôi qua tổng đài này hoặc các kênh hỗ trợ khác. Chúc quý khách một ngày tốt lành ạ!",
+      "timestamp": 1757359632.7007134
+    },
+    {
+      "role": "right",
+      "content": "Vâng, cảm ơn cô nhé. Cô cũng vậy.",
+      "timestamp": 1757359635.7551398
+    }
+  ],
+  "turns": 2,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại đã đạt được. Người dùng đã nhận đủ thông tin về kế hoạch nâng cấp hệ thống, đã xác nhận hiểu rõ và không có bất kỳ câu hỏi nào thêm. Lời cuối của người dùng 'Thôi không cần đâu cô. Cô nói vậy là tôi hiểu rõ rồi. Miễn sao sau đó mọi thứ hoạt động ổn định và an toàn là tôi yên tâm rồi.' là một tín hiệu rõ ràng cho thấy họ đã hài lòng và không cần hỗ trợ thêm. Bên cung cấp dịch vụ (kẻ lừa đảo) nên chủ động kết thúc cuộc gọi một cách lịch sự.",
+  "terminator": "left",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Dạ vâng, rất cảm ơn quý khách đã tin tưởng và ủng hộ dịch vụ của chúng tôi. Chúng tôi sẽ nỗ lực hết sức để đảm bảo quá trình nâng cấp diễn ra suôn sẻ và mang lại hiệu quả tốt nhất cho quý khách. Nếu trong thời gian tới quý khách có bất kỳ thắc mắc hay cần hỗ trợ gì khác, xin đừng ngần ngại liên hệ lại với chúng tôi qua tổng đài này hoặc các kênh hỗ trợ khác. Chúc quý khách một ngày tốt lành ạ!"
+    },
+    {
+      "role": "right",
+      "content": "Vâng, cảm ơn cô nhé. Cô cũng vậy."
+    }
+  ],
+  "reached_max_turns": false
+}

@@ -1,0 +1,70 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Xin chào quý khách, tôi là Lan Anh, chuyên viên tư vấn của [Tên công ty dịch vụ - ví dụ: FPT Telecom]. Tôi có thể hỗ trợ gì cho quý khách ngày hôm nay ạ?",
+      "timestamp": 1757408973.0784361
+    },
+    {
+      "role": "right",
+      "content": "Chào cô. Tôi là Ba. Cô ơi, mạng nhà tôi mấy bữa nay cứ chập chờn hoài à. Tivi thì không coi được, điện thoại cũng khó xài lắm.",
+      "timestamp": 1757408976.8463244
+    },
+    {
+      "role": "left",
+      "content": "Chào anh Ba. Tôi rất tiếc khi nghe về sự bất tiện mà anh đang gặp phải với dịch vụ internet của mình. Để tôi có thể kiểm tra và hỗ trợ anh tốt nhất, anh vui lòng cho tôi xin thông tin số hợp đồng hoặc số điện thoại mà anh đã đăng ký dịch vụ được không ạ?",
+      "timestamp": 1757408981.7057009
+    },
+    {
+      "role": "right",
+      "content": "À số điện thoại đăng ký của tôi là 0987654321 đó cô. Cô kiểm tra giùm tôi coi sao chứ mấy bữa nay nó cứ chập chờn, coi thời tiết cũng khó nữa.",
+      "timestamp": 1757408985.5380752
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn anh Ba đã cung cấp số điện thoại. Vâng, anh đợi tôi một lát để tôi kiểm tra thông tin trên hệ thống ạ.  ...  Dạ, theo thông tin tôi kiểm tra, số điện thoại 0987654321 đang đăng ký dịch vụ internet tại địa chỉ 123 Đường Nguyễn Văn Linh, Phường Tân Phong, Quận 7, TP.HCM với gói cước Super 100. Thông tin này có đúng với của anh không ạ?  Về tình trạng mạng chập chờn, anh Ba cho tôi hỏi thêm một chút nhé: 1.  Tình trạng này diễn ra vào những thời điểm nào trong ngày ạ (ví dụ: buổi sáng, buổi tối, hay cả ngày)? 2.  Anh có để ý là tất cả các thiết bị trong nhà (như điện thoại, tivi, máy tính) đều bị chậm, hay chỉ một vài thiết bị thôi không ạ? 3.  Anh đã thử khởi động lại thiết bị modem/router bằng cách rút nguồn điện ra khoảng 30 giây rồi cắm lại chưa ạ?",
+      "timestamp": 1757408993.5032797
+    },
+    {
+      "role": "right",
+      "content": "Đúng rồi đó cô, địa chỉ đó là nhà tôi.  À, cái mạng nó cứ chập chờn cả ngày đó cô, nhưng mà tới chiều tối là thấy rõ nhất, coi tivi không được. Cả tivi với điện thoại đều bị hết, mấy đứa nhỏ về nó cũng than. Tôi cũng có rút cái cục mạng ra cắm lại mấy lần rồi đó, mà cũng y chang à, không ăn thua gì hết.",
+      "timestamp": 1757408996.7719667
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi đã nắm rõ thông tin rồi ạ. Cảm ơn anh Ba đã cung cấp chi tiết. Việc anh đã thử khởi động lại modem là một bước kiểm tra rất quan trọng, và việc nó không giải quyết được vấn đề cho thấy có thể nguyên nhân nằm ở một yếu tố khác, có thể là tín hiệu đường truyền hoặc thiết bị modem cần được kiểm tra chuyên sâu hơn.  Với tình trạng mạng chập chờn liên tục và ảnh hưởng đến tất cả các thiết bị như anh mô tả, tôi nghĩ giải pháp tốt nhất bây giờ là cử kỹ thuật viên đến tận nhà để kiểm tra trực tiếp đường truyền và thiết bị cho anh. Kỹ thuật viên sẽ có các công cụ chuyên dụng để đo lường tín hiệu và xác định chính xác nguyên nhân gây ra sự cố, từ đó đưa ra phương án khắc phục hiệu quả nhất.  Anh Ba cho tôi hỏi, anh có thể sắp xếp thời gian để kỹ thuật viên ghé qua vào khoảng thời gian nào trong ngày mai hoặc ngày kia thì tiện cho anh nhất ạ? Chúng tôi có thể cử kỹ thuật viên đến vào buổi sáng (8h-12h) hoặc buổi chiều (13h-17h).",
+      "timestamp": 1757409005.3027048
+    },
+    {
+      "role": "right",
+      "content": "À, vậy thì tốt quá. Để kỹ thuật viên xuống coi cho chắc. Mai hả cô? Mai thì để chiều đi, khoảng 2 giờ đổ ra là tôi có nhà đó. Buổi sáng tôi còn phải ra đồng chút.",
+      "timestamp": 1757409008.3566332
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, vậy tôi sẽ lên lịch hẹn cho kỹ thuật viên đến nhà anh Ba vào **chiều mai, khoảng từ 14h00 trở đi** tại địa chỉ 123 Đường Nguyễn Văn Linh, Phường Tân Phong, Quận 7, TP.HCM ạ.  Trước khi đến, kỹ thuật viên sẽ chủ động liên hệ với anh qua số điện thoại 0987654321 để xác nhận lại thời gian và tiện đường đi. Anh cứ yên tâm là các bạn kỹ thuật sẽ kiểm tra kỹ lưỡng để khắc phục sự cố cho mình nhé.  Anh Ba có còn câu hỏi hay cần hỗ trợ thêm thông tin gì khác không ạ? Nếu không, tôi xin phép kết thúc cuộc gọi tại đây. Cảm ơn anh đã sử dụng dịch vụ của [Tên công ty dịch vụ - ví dụ: FPT Telecom] và chúc anh một ngày tốt lành!",
+      "timestamp": 1757409018.401348
+    },
+    {
+      "role": "right",
+      "content": "Ờ, vậy tốt quá. Cảm ơn cô nhiều nha. Vậy mai tôi đợi kỹ thuật viên. Chào cô nha.",
+      "timestamp": 1757409019.875415
+    }
+  ],
+  "turns": 3,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại đã đạt được. Kẻ lừa đảo (đóng vai trò nhân viên dịch vụ) đã thu thập đầy đủ thông tin về sự cố của người dùng, đưa ra giải pháp (cử kỹ thuật viên đến kiểm tra), và người dùng đã đồng ý cũng như cung cấp thời gian phù hợp. Cuộc gọi đã hoàn thành quy trình tiếp nhận và xử lý yêu cầu dịch vụ. Kẻ lừa đảo nên chủ động kết thúc sau khi xác nhận lại lịch hẹn và cung cấp thông tin cần thiết (nếu có).",
+  "terminator": "left",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Dạ vâng, vậy tôi sẽ lên lịch hẹn cho kỹ thuật viên đến nhà anh Ba vào **chiều mai, khoảng từ 14h00 trở đi** tại địa chỉ 123 Đường Nguyễn Văn Linh, Phường Tân Phong, Quận 7, TP.HCM ạ.  Trước khi đến, kỹ thuật viên sẽ chủ động liên hệ với anh qua số điện thoại 0987654321 để xác nhận lại thời gian và tiện đường đi. Anh cứ yên tâm là các bạn kỹ thuật sẽ kiểm tra kỹ lưỡng để khắc phục sự cố cho mình nhé.  Anh Ba có còn câu hỏi hay cần hỗ trợ thêm thông tin gì khác không ạ? Nếu không, tôi xin phép kết thúc cuộc gọi tại đây. Cảm ơn anh đã sử dụng dịch vụ của [Tên công ty dịch vụ - ví dụ: FPT Telecom] và chúc anh một ngày tốt lành!"
+    },
+    {
+      "role": "right",
+      "content": "Ờ, vậy tốt quá. Cảm ơn cô nhiều nha. Vậy mai tôi đợi kỹ thuật viên. Chào cô nha."
+    }
+  ],
+  "reached_max_turns": false
+}

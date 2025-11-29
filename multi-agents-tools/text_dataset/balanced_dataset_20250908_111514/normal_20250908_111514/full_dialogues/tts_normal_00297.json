@@ -1,0 +1,60 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào buổi sáng! Tôi là Minh Thư từ dịch vụ khách hàng của MegaNet Telecom. Tôi gọi điện hôm nay để thông báo chính thức về một cập nhật quan trọng liên quan đến gói dịch vụ internet mà quý khách đang sử dụng, nhằm mang lại trải nghiệm tốt hơn cho quý khách. Quý khách có tiện nghe máy trong vài phút không ạ?",
+      "timestamp": 1757403665.9927223
+    },
+    {
+      "role": "right",
+      "content": "Chào cô Minh Thư. Được, tôi đang rảnh mà, cô cứ nói đi.",
+      "timestamp": 1757403668.665295
+    },
+    {
+      "role": "left",
+      "content": "Tuyệt vời, cảm ơn quý khách. Chúng tôi xin thông báo rằng kể từ ngày 1 tháng 10 năm 2024, gói dịch vụ \"MegaNet Home 100\" mà quý khách đang sử dụng sẽ chính thức được nâng cấp miễn phí lên gói \"MegaNet Home 200\". Điều này có nghĩa là tốc độ internet của quý khách sẽ tăng từ 100 Mbps lên 200 Mbps, mà không có bất kỳ thay đổi nào về cước phí hàng tháng.",
+      "timestamp": 1757403673.6533175
+    },
+    {
+      "role": "right",
+      "content": "Ồ, vậy hả? Tăng gấp đôi tốc độ mà không tốn thêm tiền à? Nghe tốt đấy chứ.",
+      "timestamp": 1757403676.2128036
+    },
+    {
+      "role": "left",
+      "content": "Vâng, chính xác là như vậy ạ. Mục tiêu của chúng tôi là luôn muốn mang đến những dịch vụ tốt nhất cho khách hàng thân thiết. Việc nâng cấp này sẽ giúp quý khách có trải nghiệm internet mượt mà hơn, đặc biệt khi quý khách sử dụng nhiều thiết bị cùng lúc, xem video 4K, chơi game trực tuyến hoặc thực hiện các cuộc gọi video chất lượng cao.",
+      "timestamp": 1757403682.698807
+    },
+    {
+      "role": "right",
+      "content": "Vậy là tốt rồi. Tôi thì cũng không dùng gì nhiều lắm đâu, chủ yếu đọc báo với xem tin tức thôi, nhưng mà nhanh hơn thì cũng mừng.",
+      "timestamp": 1757403686.4444022
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, dù ít hay nhiều thì việc có tốc độ nhanh hơn chắc chắn sẽ giúp mọi trải nghiệm trực tuyến của quý khách được cải thiện đáng kể ạ. Quý khách không cần làm bất cứ điều gì, hệ thống của chúng tôi sẽ tự động nâng cấp vào ngày 1 tháng 10. Nếu có bất kỳ câu hỏi nào khác trước hoặc sau ngày đó, quý khách đừng ngần ngại liên hệ lại với MegaNet Telecom nhé. Cảm ơn quý khách đã dành thời gian lắng nghe ạ. Chúc quý khách một ngày tốt lành!",
+      "timestamp": 1757403697.0774465
+    },
+    {
+      "role": "right",
+      "content": "Được rồi, cảm ơn cô nhé. Cô cũng có một ngày tốt lành.",
+      "timestamp": 1757403699.1730204
+    }
+  ],
+  "turns": 2,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại đã đạt được: Kẻ lừa đảo (đại diện dịch vụ) đã truyền đạt thông tin về việc nâng cấp gói dịch vụ và người dùng đã tiếp nhận, hiểu rõ và bày tỏ sự hài lòng với thông tin đó. Lượt phản hồi cuối cùng của người dùng ('Vậy là tốt rồi. Tôi thì cũng không dùng gì nhiều lắm đâu, chủ yếu đọc báo với xem tin tức thôi, nhưng mà nhanh hơn thì cũng mừng.') cho thấy họ đã nhận đủ thông tin và không có vẻ muốn hỏi thêm. Do đó, bên cung cấp dịch vụ nên chủ động kết thúc cuộc gọi sau khi xác nhận không có câu hỏi nào khác.",
+  "terminator": "left",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Dạ vâng, dù ít hay nhiều thì việc có tốc độ nhanh hơn chắc chắn sẽ giúp mọi trải nghiệm trực tuyến của quý khách được cải thiện đáng kể ạ. Quý khách không cần làm bất cứ điều gì, hệ thống của chúng tôi sẽ tự động nâng cấp vào ngày 1 tháng 10. Nếu có bất kỳ câu hỏi nào khác trước hoặc sau ngày đó, quý khách đừng ngần ngại liên hệ lại với MegaNet Telecom nhé. Cảm ơn quý khách đã dành thời gian lắng nghe ạ. Chúc quý khách một ngày tốt lành!"
+    },
+    {
+      "role": "right",
+      "content": "Được rồi, cảm ơn cô nhé. Cô cũng có một ngày tốt lành."
+    }
+  ],
+  "reached_max_turns": false
+}

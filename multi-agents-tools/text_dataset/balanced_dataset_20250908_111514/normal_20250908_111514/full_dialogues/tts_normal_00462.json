@@ -1,0 +1,120 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào anh/chị, tôi là Minh Thư từ Dịch vụ khách hàng của Ngân hàng XYZ. Tôi gọi điện hôm nay để thực hiện một cuộc khảo sát ngắn về trải nghiệm gần đây của anh/chị khi sử dụng dịch vụ của chúng tôi. Cuộc khảo sát này nhằm mục đích lắng nghe ý kiến đóng góp của quý khách để chúng tôi có thể cải thiện chất lượng dịch vụ tốt hơn nữa. Anh/chị có vài phút để trò chuyện không ạ?",
+      "timestamp": 1757402108.2238126
+    },
+    {
+      "role": "right",
+      "content": "À vâng, em có thời gian ạ. Chị cứ nói đi.",
+      "timestamp": 1757402110.973023
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn anh/chị. Để bắt đầu, tôi xin phép xác nhận một chút thông tin. Anh/chị tên là Nguyễn Văn A, đúng không ạ? Và gần đây anh/chị có thực hiện một giao dịch chuyển tiền quốc tế vào khoảng ngày 15 tháng 5, có phải vậy không ạ?",
+      "timestamp": 1757402115.7880383
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, đúng rồi chị. Em tên Nguyễn Văn A, và em có thực hiện giao dịch chuyển tiền quốc tế vào khoảng ngày 15 tháng 5 ạ.",
+      "timestamp": 1757402118.2038772
+    },
+    {
+      "role": "left",
+      "content": "Tuyệt vời, cảm ơn anh/chị đã xác nhận. Bây giờ, chúng ta hãy bắt đầu với câu hỏi đầu tiên nhé. Anh/chị có thể vui lòng chia sẻ cảm nhận tổng thể của mình về trải nghiệm khi thực hiện giao dịch chuyển tiền quốc tế tại Ngân hàng XYZ không? Anh/chị sẽ đánh giá trải nghiệm này ở mức độ nào trên thang điểm từ 1 đến 5, trong đó 1 là rất không hài lòng và 5 là rất hài lòng?",
+      "timestamp": 1757402124.668578
+    },
+    {
+      "role": "right",
+      "content": "Dạ em đánh giá 4 điểm ạ. Nói chung là em thấy khá ổn, giao dịch cũng nhanh gọn, không có vấn đề gì lớn. Chỉ là phí thì em thấy hơi cao một chút xíu thôi ạ.",
+      "timestamp": 1757402127.973521
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn anh/chị đã chia sẻ. Rất vui khi biết anh/chị cảm thấy giao dịch nhanh gọn và ổn định. Chúng tôi ghi nhận ý kiến của anh/chị về mức phí và sẽ chuyển thông tin này đến bộ phận liên quan để xem xét.  Tiếp theo, anh/chị có thể cho tôi biết về sự dễ dàng trong quá trình thực hiện giao dịch không? Từ lúc anh/chị bắt đầu chuẩn bị hồ sơ cho đến khi giao dịch hoàn tất, anh/chị có thấy quy trình này đơn giản, dễ hiểu và thuận tiện không? Hay có bất kỳ điểm nào khiến anh/chị cảm thấy khó khăn hoặc phức tạp không ạ?",
+      "timestamp": 1757402133.9969728
+    },
+    {
+      "role": "right",
+      "content": "Dạ em thấy quy trình cũng khá là đơn giản ạ. Em làm online trên app của ngân hàng nên cũng không cần phải đi đâu hết. Các bước hướng dẫn cũng rõ ràng, nếu có gì không hiểu thì em gọi điện hỏi tổng đài cũng được hỗ trợ nhanh. Nói chung là em thấy thuận tiện lắm ạ.",
+      "timestamp": 1757402136.510197
+    },
+    {
+      "role": "left",
+      "content": "Tuyệt vời! Rất vui khi biết anh/chị đã có trải nghiệm thuận tiện khi sử dụng ứng dụng di động của chúng tôi để thực hiện giao dịch. Đó là một trong những mục tiêu chính của chúng tôi khi phát triển dịch vụ online.  Liên quan đến việc anh/chị có nhắc đến việc gọi điện tổng đài, anh/chị có thể cho biết mức độ hài lòng của mình đối với sự hỗ trợ từ nhân viên ngân hàng (qua tổng đài hoặc tại chi nhánh nếu có) trong quá trình thực hiện giao dịch này không? Anh/chị sẽ đánh giá sự hỗ trợ này ở mức độ nào trên thang điểm từ 1 đến 5?",
+      "timestamp": 1757402145.0963602
+    },
+    {
+      "role": "right",
+      "content": "Dạ em đánh giá 5 điểm ạ. Mấy lần em gọi tổng đài để hỏi về các giấy tờ cần thiết với cách điền thông tin thì các bạn nhân viên tư vấn rất nhiệt tình, giải thích cặn kẽ lắm. Em thấy được hỗ trợ nhanh và rõ ràng nên rất hài lòng ạ.",
+      "timestamp": 1757402146.975946
+    },
+    {
+      "role": "left",
+      "content": "Rất tuyệt vời! Chúng tôi rất vui khi biết đội ngũ nhân viên của chúng tôi đã hỗ trợ anh/chị một cách nhiệt tình và hiệu quả. Chúng tôi sẽ chuyển lời khen ngợi này đến các bạn ấy.  Tiếp theo, về thời gian xử lý giao dịch. Anh/chị có cảm thấy thời gian từ lúc anh/chị hoàn tất các bước đến khi giao dịch được xác nhận thành công là hợp lý và nhanh chóng không? Anh/chị có mong muốn thời gian xử lý nhanh hơn không, hay anh/chị hoàn toàn hài lòng với tốc độ hiện tại ạ?",
+      "timestamp": 1757402154.1580558
+    },
+    {
+      "role": "right",
+      "content": "Dạ em thấy thời gian xử lý giao dịch khá là nhanh và hợp lý rồi ạ. Như em nói lúc đầu là em thấy giao dịch nhanh gọn mà, nên em cũng không có mong muốn nhanh hơn đâu ạ. Em hài lòng với tốc độ hiện tại ạ.",
+      "timestamp": 1757402158.8258688
+    },
+    {
+      "role": "left",
+      "content": "Tuyệt vời, rất cảm ơn anh/chị đã xác nhận. Chúng tôi rất vui khi dịch vụ của chúng tôi đáp ứng được kỳ vọng của anh/chị về tốc độ xử lý.  Bây giờ, câu hỏi tiếp theo ạ: Trong quá trình giao dịch, anh/chị có nhận được thông báo về tình trạng giao dịch (ví dụ: đã tiếp nhận, đang xử lý, hoàn tất) một cách kịp thời và rõ ràng không? Các kênh thông báo (tin nhắn SMS, email, thông báo trên ứng dụng) có hoạt động hiệu quả không ạ?",
+      "timestamp": 1757402166.8324077
+    },
+    {
+      "role": "right",
+      "content": "Dạ có chị. Em nhận được thông báo qua app với cả tin nhắn SMS nữa. Thường là khi giao dịch bắt đầu với lúc hoàn tất là có tin nhắn liền, rất kịp thời ạ. Nội dung cũng rõ ràng nên em không có gì phải lăn tăn hết.",
+      "timestamp": 1757402168.7098398
+    },
+    {
+      "role": "left",
+      "content": "Rất tốt! Việc nhận thông báo kịp thời và rõ ràng là rất quan trọng để khách hàng yên tâm về giao dịch của mình. Chúng tôi rất vui khi hệ thống thông báo của chúng tôi đã phục vụ anh/chị hiệu quả.  Bây giờ, một câu hỏi gần cuối cùng ạ: Dựa trên toàn bộ trải nghiệm của mình, anh/chị có sẵn lòng giới thiệu dịch vụ chuyển tiền quốc tế của Ngân hàng XYZ cho bạn bè hoặc người thân không? Anh/chị sẽ đánh giá mức độ sẵn lòng giới thiệu này trên thang điểm từ 0 đến 10, trong đó 0 là hoàn toàn không giới thiệu và 10 là chắc chắn sẽ giới thiệu?",
+      "timestamp": 1757402174.7524748
+    },
+    {
+      "role": "right",
+      "content": "Dạ em chấm 9 điểm ạ. Em thấy dịch vụ khá tốt, tiện lợi, nhân viên hỗ trợ nhiệt tình. Dù phí có hơi cao một xíu nhưng nhìn chung trải nghiệm tốt nên em vẫn sẽ giới thiệu cho bạn bè hoặc người thân ạ.",
+      "timestamp": 1757402178.012427
+    },
+    {
+      "role": "left",
+      "content": "Tuyệt vời, 9 điểm là một đánh giá rất cao và đáng khích lệ đối với chúng tôi! Chúng tôi rất cảm kích sự tin tưởng của anh/chị và ghi nhận ý kiến về mức phí để tiếp tục cải thiện.  Cuối cùng, anh/chị có bất kỳ đề xuất hoặc góp ý nào khác để Ngân hàng XYZ có thể nâng cao hơn nữa chất lượng dịch vụ chuyển tiền quốc tế của mình không ạ? Bất kỳ chi tiết nhỏ nào cũng rất có giá trị đối với chúng tôi.",
+      "timestamp": 1757402184.9050329
+    },
+    {
+      "role": "right",
+      "content": "Dạ thì như em có nói lúc đầu, nếu mà phí chuyển tiền có thể cạnh tranh hơn hoặc có thêm mấy chương trình ưu đãi gì đó thì tốt quá ạ. Còn lại thì em thấy dịch vụ ổn rồi, không có gì để góp ý thêm ạ.",
+      "timestamp": 1757402188.4010124
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi đã ghi nhận rất rõ ý kiến đóng góp quý báu của anh/chị về mức phí và các chương trình ưu đãi. Đây là thông tin rất quan trọng giúp chúng tôi xem xét và cải thiện dịch vụ trong tương lai.  Thay mặt Ngân hàng XYZ, tôi xin chân thành cảm ơn anh/chị Nguyễn Văn A đã dành thời gian quý báu để tham gia cuộc khảo sát này. Những ý kiến của anh/chị là động lực để chúng tôi không ngừng nâng cao chất lượng dịch vụ. Chúc anh/chị một ngày tốt lành ạ!",
+      "timestamp": 1757402197.9677074
+    },
+    {
+      "role": "right",
+      "content": "Vâng, em cảm ơn chị ạ. Chúc chị cũng một ngày tốt lành nhé.",
+      "timestamp": 1757402198.7055285
+    }
+  ],
+  "turns": 8,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại (thực hiện khảo sát) đã đạt được. Kẻ lừa đảo (đại diện dịch vụ) đã hỏi hết tất cả các câu hỏi trong khảo sát và người dùng đã cung cấp đầy đủ các câu trả lời và ý kiến đóng góp. Lượt cuối của người dùng cũng đã xác nhận không có gì để góp ý thêm. Do đó, bên cung cấp dịch vụ (kẻ lừa đảo) nên là người chủ động kết thúc hội thoại bằng cách cảm ơn và tạm biệt.",
+  "terminator": "left",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi đã ghi nhận rất rõ ý kiến đóng góp quý báu của anh/chị về mức phí và các chương trình ưu đãi. Đây là thông tin rất quan trọng giúp chúng tôi xem xét và cải thiện dịch vụ trong tương lai.  Thay mặt Ngân hàng XYZ, tôi xin chân thành cảm ơn anh/chị Nguyễn Văn A đã dành thời gian quý báu để tham gia cuộc khảo sát này. Những ý kiến của anh/chị là động lực để chúng tôi không ngừng nâng cao chất lượng dịch vụ. Chúc anh/chị một ngày tốt lành ạ!"
+    },
+    {
+      "role": "right",
+      "content": "Vâng, em cảm ơn chị ạ. Chúc chị cũng một ngày tốt lành nhé."
+    }
+  ],
+  "reached_max_turns": false
+}

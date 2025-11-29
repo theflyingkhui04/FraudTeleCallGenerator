@@ -1,0 +1,90 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào bạn, tôi là Lan Anh từ bộ phận Chăm sóc Khách hàng của [Tên công ty dịch vụ]. Rất vui được hỗ trợ bạn ngày hôm nay. Bạn đang cần tôi giúp đỡ về vấn đề gì ạ?",
+      "timestamp": 1757401395.018304
+    },
+    {
+      "role": "right",
+      "content": "À vâng, chào bạn. Mình đang gặp chút vấn đề với tài khoản, không đăng nhập được. Cứ báo lỗi mật khẩu sai dù mình chắc chắn là nhập đúng rồi ấy.",
+      "timestamp": 1757401396.6055212
+    },
+    {
+      "role": "left",
+      "content": "Tôi hiểu rồi ạ. Lỗi đăng nhập do mật khẩu sai là một trong những vấn đề phổ biến. Để tôi kiểm tra giúp bạn nhé. Bạn vui lòng cung cấp cho tôi tên đăng nhập hoặc địa chỉ email mà bạn dùng để đăng ký tài khoản được không ạ?",
+      "timestamp": 1757401400.5964649
+    },
+    {
+      "role": "right",
+      "content": "À vâng, email của mình là nguyenvana@email.com nhé. Cảm ơn bạn.",
+      "timestamp": 1757401401.9520245
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn bạn, tôi đã nhận được thông tin. Để đảm bảo an toàn và xác minh chính chủ tài khoản, bạn vui lòng cho tôi biết thêm một vài thông tin nữa được không ạ? Bạn có thể cung cấp cho tôi họ và tên đầy đủ, cũng như số điện thoại mà bạn đã đăng ký với tài khoản này không?",
+      "timestamp": 1757401414.192946
+    },
+    {
+      "role": "right",
+      "content": "Vâng, họ tên đầy đủ của mình là Nguyễn Văn A, số điện thoại là 0987654321 ạ.",
+      "timestamp": 1757401415.4284322
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn anh Văn A, tôi đang kiểm tra thông tin này trong hệ thống.  [Giả định hệ thống đã khớp thông tin]  Vâng, tôi đã xác nhận thông tin anh cung cấp khớp với tài khoản đăng ký bằng email nguyenvana@email.com.  Hiện tại, có vẻ như tài khoản của anh đang gặp vấn đề về đồng bộ mật khẩu hoặc có thể đã bị thay đổi. Cách nhanh nhất để khắc phục là thực hiện đặt lại mật khẩu. Anh có muốn tôi hướng dẫn anh thực hiện quy trình này không ạ?",
+      "timestamp": 1757401425.6402547
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, bạn hướng dẫn mình cách đặt lại mật khẩu với ạ. Cứ tưởng mật khẩu cũ bị sao chứ.",
+      "timestamp": 1757401427.416768
+    },
+    {
+      "role": "left",
+      "content": "Vâng, tôi sẽ hướng dẫn anh chi tiết nhé.  Bước 1: Tôi sẽ gửi một email chứa đường dẫn (link) đặt lại mật khẩu đến địa chỉ nguyenvana@email.com của anh. Bước 2: Anh vui lòng kiểm tra hộp thư đến (inbox) của email này. Đôi khi email có thể rơi vào mục thư rác (spam) hoặc quảng cáo, nên anh cũng nên kiểm tra các thư mục đó nhé. Bước 3: Sau khi nhận được email, anh hãy nhấp vào đường dẫn \"Đặt lại mật khẩu\" hoặc \"Reset Password\" trong email đó. Bước 4: Đường dẫn sẽ đưa anh đến một trang web an toàn của chúng tôi, nơi anh có thể nhập mật khẩu mới cho tài khoản của mình. Anh lưu ý chọn một mật khẩu mạnh, bao gồm cả chữ hoa, chữ thường, số và ký tự đặc biệt để tăng cường bảo mật nhé.  Sau khi đặt lại mật khẩu thành công, anh có thể thử đăng nhập lại bằng mật khẩu mới. Anh đã sẵn sàng để tôi gửi email đặt lại mật khẩu chưa ạ?",
+      "timestamp": 1757401441.0160654
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, mình sẵn sàng rồi ạ. Mình sẽ kiểm tra cả thư rác nữa. Cảm ơn bạn.",
+      "timestamp": 1757401442.9110374
+    },
+    {
+      "role": "left",
+      "content": "Tuyệt vời. Tôi đã gửi email đặt lại mật khẩu đến địa chỉ nguyenvana@email.com của anh rồi ạ. Anh vui lòng kiểm tra hộp thư đến và các thư mục khác như thư rác hoặc quảng cáo trong vòng 5-10 phút tới nhé.  Nếu sau khoảng thời gian đó mà anh vẫn không nhận được email, hoặc nếu anh gặp bất kỳ khó khăn nào trong quá trình đặt lại mật khẩu, đừng ngần ngại liên hệ lại với tôi ngay nhé. Tôi sẽ ở đây để hỗ trợ anh tiếp ạ.",
+      "timestamp": 1757401449.774158
+    },
+    {
+      "role": "right",
+      "content": "Vâng, mình nhận được rồi ạ. Mình sẽ kiểm tra email ngay bây giờ. Cảm ơn bạn đã hỗ trợ nhé.",
+      "timestamp": 1757401450.9600627
+    },
+    {
+      "role": "left",
+      "content": "Vâng, anh cứ kiểm tra email nhé. Nếu có bất kỳ vấn đề gì hoặc cần hỗ trợ thêm trong quá trình đặt lại mật khẩu, anh đừng ngần ngại liên hệ lại với chúng tôi bất cứ lúc nào. Chúc anh một ngày tốt lành và hy vọng tài khoản của anh sớm hoạt động bình thường trở lại!",
+      "timestamp": 1757401462.5152402
+    },
+    {
+      "role": "right",
+      "content": "Vâng, cảm ơn bạn nhiều nhé. Mình cũng chúc bạn một ngày tốt lành!",
+      "timestamp": 1757401464.6943839
+    }
+  ],
+  "turns": 5,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại của người dùng (nhận hướng dẫn và email đặt lại mật khẩu) đã đạt được. Người dùng đã nhận được email và xác nhận sẽ kiểm tra, đồng thời gửi lời cảm ơn rõ ràng: 'Cảm ơn bạn đã hỗ trợ nhé.' Điều này cho thấy người dùng đã hài lòng với sự hỗ trợ hiện tại và sẵn sàng tự thực hiện các bước tiếp theo, là một tín hiệu rõ ràng để kết thúc phiên hội thoại này.",
+  "terminator": "người dùng kết thúc",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Vâng, anh cứ kiểm tra email nhé. Nếu có bất kỳ vấn đề gì hoặc cần hỗ trợ thêm trong quá trình đặt lại mật khẩu, anh đừng ngần ngại liên hệ lại với chúng tôi bất cứ lúc nào. Chúc anh một ngày tốt lành và hy vọng tài khoản của anh sớm hoạt động bình thường trở lại!"
+    },
+    {
+      "role": "right",
+      "content": "Vâng, cảm ơn bạn nhiều nhé. Mình cũng chúc bạn một ngày tốt lành!"
+    }
+  ],
+  "reached_max_turns": false
+}

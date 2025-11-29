@@ -1,0 +1,40 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đến với Dịch vụ Internet FPT. Tôi là Minh Thư, rất vui được hỗ trợ quý khách hôm nay. Quý khách đang quan tâm đến dịch vụ nào của FPT ạ?",
+      "timestamp": 1757403397.788341
+    },
+    {
+      "role": "right",
+      "content": "Chào bạn Minh Thư. Mình đang muốn lắp mạng Internet cho nhà riêng ấy. Không biết bên FPT có gói cước nào tốt cho người đi làm không nhỉ? Mình chủ yếu dùng để làm việc và giải trí thôi.",
+      "timestamp": 1757403400.77142
+    },
+    {
+      "role": "right",
+      "content": "À, cảm ơn bạn nhé. Mình đang tìm hiểu thôi nên chắc phải xem xét kỹ thêm rồi mới quyết định được. Có gì mình sẽ liên hệ lại sau nha.",
+      "timestamp": 1757403409.7680285
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, không sao ạ. FPT Telecom luôn sẵn lòng hỗ trợ quý khách bất cứ lúc nào. Nếu quý khách có bất kỳ câu hỏi nào về các gói cước Internet, truyền hình hay camera của FPT, đừng ngần ngại cho Minh Thư biết nhé. Minh Thư có thể cung cấp thông tin chi tiết để quý khách tiện tham khảo ngay bây giờ được không ạ?",
+      "timestamp": 1757403410.8921685
+    }
+  ],
+  "turns": 0,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "```json {   \"should_terminate\": false,   \"reason\": \"Hội thoại mới bắt đầu, người dùng vừa nêu rõ nhu...",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "À, cảm ơn bạn nhé. Mình đang tìm hiểu thôi nên chắc phải xem xét kỹ thêm rồi mới quyết định được. Có gì mình sẽ liên hệ lại sau nha."
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, không sao ạ. FPT Telecom luôn sẵn lòng hỗ trợ quý khách bất cứ lúc nào. Nếu quý khách có bất kỳ câu hỏi nào về các gói cước Internet, truyền hình hay camera của FPT, đừng ngần ngại cho Minh Thư biết nhé. Minh Thư có thể cung cấp thông tin chi tiết để quý khách tiện tham khảo ngay bây giờ được không ạ?"
+    }
+  ],
+  "reached_max_turns": false
+}

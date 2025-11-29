@@ -1,0 +1,40 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào bạn, tôi là Lan Anh từ bộ phận Hỗ trợ Kỹ thuật của VNPT. Rất vui được hỗ trợ bạn hôm nay. Bạn đang gặp vấn đề gì ạ?",
+      "timestamp": 1757360082.7073455
+    },
+    {
+      "role": "right",
+      "content": "Chào Lan Anh, mình đang bị mất mạng từ sáng đến giờ. Cục modem thì vẫn sáng đèn nhưng không vào được internet ấy.",
+      "timestamp": 1757360084.2164416
+    },
+    {
+      "role": "right",
+      "content": "Vâng, vậy để mình đợi xem sao. Cảm ơn Lan Anh nhiều nhé.",
+      "timestamp": 1757360091.2072034
+    },
+    {
+      "role": "left",
+      "content": "Dạ không có gì ạ, rất vui được hỗ trợ bạn. Nếu trong quá trình sử dụng có bất kỳ vấn đề gì khác hoặc bạn cần thêm thông tin, đừng ngần ngại liên hệ lại với VNPT nhé. Chúc bạn một ngày tốt lành!",
+      "timestamp": 1757360092.590496
+    }
+  ],
+  "turns": 0,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "```json {   \"should_terminate\": false,   \"reason\": \"Hội thoại vừa mới bắt đầu. Người dùng đã trình b...",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Vâng, vậy để mình đợi xem sao. Cảm ơn Lan Anh nhiều nhé."
+    },
+    {
+      "role": "left",
+      "content": "Dạ không có gì ạ, rất vui được hỗ trợ bạn. Nếu trong quá trình sử dụng có bất kỳ vấn đề gì khác hoặc bạn cần thêm thông tin, đừng ngần ngại liên hệ lại với VNPT nhé. Chúc bạn một ngày tốt lành!"
+    }
+  ],
+  "reached_max_turns": false
+}

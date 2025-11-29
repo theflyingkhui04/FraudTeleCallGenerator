@@ -1,0 +1,70 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đã gọi đến tổng đài hỗ trợ khách hàng của [Tên công ty dịch vụ - ví dụ: Viễn thông ABC]. Tôi là Minh Thư, rất hân hạnh được hỗ trợ quý khách. Quý khách đang cần tư vấn về dịch vụ nào ạ, hay quý khách có câu hỏi về một thông báo chính thức nào đó mà công ty chúng tôi đã gửi không ạ?",
+      "timestamp": 1757401629.008742
+    },
+    {
+      "role": "right",
+      "content": "Chào Minh Thư. Vâng, tôi có nhận được một thông báo về việc điều chỉnh gói cước internet bên mình. Tôi muốn hỏi rõ hơn về cái này một chút.",
+      "timestamp": 1757401633.24668
+    },
+    {
+      "role": "left",
+      "content": "Chào quý khách, tôi hiểu rồi ạ. Quý khách đã nhận được thông báo về việc điều chỉnh gói cước internet. Để tôi có thể tra cứu thông tin chính xác và hỗ trợ quý khách tốt nhất, quý khách vui lòng cung cấp cho tôi số hợp đồng hoặc số điện thoại đăng ký dịch vụ của mình được không ạ? Hoặc quý khách có thể cho tôi biết quý khách nhận được thông báo này vào khoảng thời gian nào, hoặc nội dung chính của thông báo đó là gì không ạ?",
+      "timestamp": 1757401639.427712
+    },
+    {
+      "role": "right",
+      "content": "À vâng, số điện thoại đăng ký của tôi là 0912345678. Tôi nhận được thông báo này cách đây khoảng 2-3 ngày gì đó, nội dung là sẽ có sự điều chỉnh giá cước từ tháng tới.",
+      "timestamp": 1757401641.5226088
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn quý khách đã cung cấp thông tin. Tôi đã tra cứu số điện thoại 0912345678 và xác nhận quý khách đang sử dụng gói cước \"Gia đình Siêu Tốc 100Mbps\".  Về thông báo điều chỉnh gói cước mà quý khách đã nhận được, tôi xin phép được giải thích chi tiết như sau:  Từ ngày 01/07/2024, công ty chúng tôi sẽ thực hiện việc tối ưu hóa và nâng cấp hạ tầng mạng lưới trên toàn quốc để mang lại trải nghiệm internet ổn định và tốc độ cao hơn cho tất cả khách hàng. Đi kèm với việc nâng cấp này, một số gói cước sẽ có sự điều chỉnh về giá.  Cụ thể với gói cước \"Gia đình Siêu Tốc 100Mbps\" của quý khách, tốc độ đường truyền sẽ được nâng cấp miễn phí lên 150Mbps, và giá cước hàng tháng sẽ điều chỉnh từ 220.000 VNĐ lên 250.000 VNĐ (đã bao gồm VAT). Sự thay đổi này sẽ chính thức áp dụng từ chu kỳ thanh toán tiếp theo của quý khách, tức là từ tháng 7/2024.  Quý khách có bất kỳ câu hỏi nào khác về việc điều chỉnh này không ạ?",
+      "timestamp": 1757401647.5743098
+    },
+    {
+      "role": "right",
+      "content": "À, vậy là tăng 30 nghìn nhưng được nâng tốc độ lên 150Mbps hả. Cũng hợp lý đó chứ. Vậy tôi có cần làm gì để chuyển đổi gói cước không, hay là tự động áp dụng luôn từ tháng 7 vậy Minh Thư?",
+      "timestamp": 1757401651.4395137
+    },
+    {
+      "role": "left",
+      "content": "Dạ đúng rồi ạ, quý khách sẽ được nâng cấp tốc độ miễn phí lên 150Mbps với mức giá điều chỉnh là 250.000 VNĐ/tháng.  Về câu hỏi của quý khách, tôi xin thông báo rằng quý khách hoàn toàn không cần thực hiện bất kỳ thao tác nào cả. Việc nâng cấp tốc độ và điều chỉnh giá cước sẽ được hệ thống của chúng tôi tự động áp dụng cho gói cước của quý khách từ chu kỳ thanh toán bắt đầu từ ngày 01/07/2024. Quý khách cứ tiếp tục sử dụng dịch vụ như bình thường và sẽ nhận thấy sự thay đổi về tốc độ cũng như trên hóa đơn thanh toán của tháng 7 ạ.  Quý khách có muốn tôi kiểm tra thêm thông tin gì khác không ạ?",
+      "timestamp": 1757401658.0155566
+    },
+    {
+      "role": "right",
+      "content": "À, vậy là tự động hết, không cần mình phải làm gì cả là tiện quá rồi. Cảm ơn Minh Thư đã giải thích rõ nhé.",
+      "timestamp": 1757401661.4457476
+    },
+    {
+      "role": "right",
+      "content": "Vâng, cảm ơn Minh Thư đã hỗ trợ nhiệt tình nhé. Vậy tôi nắm rõ rồi. Chào Minh Thư.",
+      "timestamp": 1757401670.6585655
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, rất vui được hỗ trợ quý khách. Nếu trong quá trình sử dụng dịch vụ hoặc sau này quý khách có bất kỳ thắc mắc nào khác, xin đừng ngần ngại liên hệ lại tổng đài của chúng tôi bất cứ lúc nào ạ. Chúc quý khách một ngày tốt lành! Xin chào quý khách.",
+      "timestamp": 1757401671.6790726
+    }
+  ],
+  "turns": 3,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại đã đạt được. Người dùng đã nhận được đầy đủ thông tin về việc điều chỉnh gói cước, bao gồm tốc độ mới, giá mới và xác nhận không cần thực hiện bất kỳ thao tác nào. Người dùng đã bày tỏ sự hài lòng (\"tiện quá rồi\") và cảm ơn rõ ràng (\"Cảm ơn Minh Thư đã giải thích rõ nhé\"), cho thấy vấn đề đã được giải quyết và không còn câu hỏi nào thêm.",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Vâng, cảm ơn Minh Thư đã hỗ trợ nhiệt tình nhé. Vậy tôi nắm rõ rồi. Chào Minh Thư."
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, rất vui được hỗ trợ quý khách. Nếu trong quá trình sử dụng dịch vụ hoặc sau này quý khách có bất kỳ thắc mắc nào khác, xin đừng ngần ngại liên hệ lại tổng đài của chúng tôi bất cứ lúc nào ạ. Chúc quý khách một ngày tốt lành! Xin chào quý khách."
+    }
+  ],
+  "reached_max_turns": false
+}

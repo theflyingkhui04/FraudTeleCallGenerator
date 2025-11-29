@@ -1,0 +1,40 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Xin chào quý khách, tôi là Lan Anh từ tổng đài tư vấn dịch vụ của VNPT. Rất vui được hỗ trợ quý khách ngày hôm nay. Quý khách đang quan tâm đến dịch vụ nào của VNPT ạ?",
+      "timestamp": 1757412111.9255197
+    },
+    {
+      "role": "right",
+      "content": "Chào bạn, tôi muốn hỏi về các gói cước internet cáp quang bên VNPT. Gia đình tôi đang cần lắp mới, không biết có gói nào phù hợp cho gia đình 4 người không nhỉ?",
+      "timestamp": 1757412114.287968
+    },
+    {
+      "role": "right",
+      "content": "À vâng, cảm ơn bạn nhé. Tôi sẽ xem xét thêm rồi có gì sẽ liên hệ lại sau.",
+      "timestamp": 1757412124.8604658
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi hiểu. Rất cảm ơn quý khách đã gọi đến.  Tuy nhiên, nếu quý khách có bất kỳ câu hỏi nào cần giải đáp ngay hoặc muốn tìm hiểu sơ qua về các gói cước Internet, truyền hình hay di động của VNPT, tôi rất sẵn lòng hỗ trợ ạ. Chỉ cần một vài phút, tôi có thể cung cấp thông tin tổng quan để quý khách tiện tham khảo. Không sao nếu quý khách chưa quyết định ngay, tôi chỉ muốn đảm bảo quý khách có đủ thông tin cần thiết ạ.",
+      "timestamp": 1757412127.4803603
+    }
+  ],
+  "turns": 0,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "```json {   \"should_terminate\": false,   \"reason\": \"Hội thoại vừa mới bắt đầu. Người dùng đã nêu rõ ...",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "À vâng, cảm ơn bạn nhé. Tôi sẽ xem xét thêm rồi có gì sẽ liên hệ lại sau."
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi hiểu. Rất cảm ơn quý khách đã gọi đến.  Tuy nhiên, nếu quý khách có bất kỳ câu hỏi nào cần giải đáp ngay hoặc muốn tìm hiểu sơ qua về các gói cước Internet, truyền hình hay di động của VNPT, tôi rất sẵn lòng hỗ trợ ạ. Chỉ cần một vài phút, tôi có thể cung cấp thông tin tổng quan để quý khách tiện tham khảo. Không sao nếu quý khách chưa quyết định ngay, tôi chỉ muốn đảm bảo quý khách có đủ thông tin cần thiết ạ."
+    }
+  ],
+  "reached_max_turns": false
+}

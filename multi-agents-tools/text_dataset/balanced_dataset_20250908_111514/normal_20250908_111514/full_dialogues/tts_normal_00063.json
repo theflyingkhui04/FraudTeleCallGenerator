@@ -1,0 +1,70 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đến với dịch vụ của FPT Telecom. Tôi là Mai Anh, rất vui được hỗ trợ quý khách hôm nay. Xin quý khách vui lòng cho biết tôi có thể giúp gì ạ?",
+      "timestamp": 1757403306.664249
+    },
+    {
+      "role": "right",
+      "content": "Chào Mai Anh, mình muốn báo là đường truyền internet nhà mình mấy hôm nay hơi chập chờn, ảnh hưởng đến công việc của mình quá.",
+      "timestamp": 1757403310.1201558
+    },
+    {
+      "role": "left",
+      "content": "Chào anh/chị. Tôi rất tiếc khi nghe về sự bất tiện này. Để tôi có thể kiểm tra và hỗ trợ anh/chị một cách nhanh nhất, anh/chị vui lòng cung cấp giúp tôi mã khách hàng hoặc số điện thoại đã đăng ký dịch vụ ạ.",
+      "timestamp": 1757403315.532491
+    },
+    {
+      "role": "right",
+      "content": "À đây, số điện thoại của mình là 0901234567 nhé.",
+      "timestamp": 1757403316.7610831
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn anh/chị. Tôi đã tra cứu thông tin và xác nhận số điện thoại 0901234567 của anh/chị đang đăng ký dịch vụ Internet tại địa chỉ 123 Đường ABC, Quận X, Thành phố Y. Tên chủ hợp đồng là Nguyễn Văn A, đúng không ạ?",
+      "timestamp": 1757403322.3964021
+    },
+    {
+      "role": "right",
+      "content": "Đúng rồi bạn.",
+      "timestamp": 1757403323.6618824
+    },
+    {
+      "role": "left",
+      "content": "Tuyệt vời. Tôi đã kiểm tra trên hệ thống và ghi nhận có một số báo cáo về sự cố đường truyền tại khu vực Quận X trong vài ngày gần đây. Hiện tại, đội ngũ kỹ thuật của chúng tôi đang tích cực khắc phục sự cố này.  Để giúp anh/chị có thể sử dụng tạm thời trong lúc chờ đợi, anh/chị có thể thử khởi động lại modem và router Wi-Fi bằng cách rút dây nguồn, chờ khoảng 30 giây rồi cắm lại. Đôi khi việc này có thể giúp ổn định lại kết nối. Anh/chị có muốn thử cách này không ạ?",
+      "timestamp": 1757403328.2448523
+    },
+    {
+      "role": "right",
+      "content": "À, vậy là khu vực mình bị chung hả. Thôi để mình thử khởi động lại modem xem sao. Mong là nó ổn định được chút để mình làm việc. Cám ơn bạn nhé.",
+      "timestamp": 1757403330.779205
+    },
+    {
+      "role": "right",
+      "content": "Vâng, không có gì ạ. Hy vọng là cách đó có hiệu quả. Cám ơn Mai Anh đã hỗ trợ nhé.",
+      "timestamp": 1757403339.7369864
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, anh/chị cứ thử thực hiện xem sao nhé. Sau khi khởi động lại, anh/chị vui lòng chờ khoảng 2-3 phút để thiết bị kết nối lại.  Nếu sau khi khởi động lại mà tình trạng chập chờn vẫn tiếp diễn, hoặc nếu anh/chị muốn chúng tôi cử kỹ thuật viên đến kiểm tra trực tiếp, tôi có thể tạo một phiếu yêu cầu hỗ trợ kỹ thuật để đội ngũ của chúng tôi liên hệ và sắp xếp lịch hẹn đến nhà anh/chị kiểm tra trong thời gian sớm nhất. Anh/chị có muốn tôi tạo phiếu yêu cầu này không ạ?",
+      "timestamp": 1757403341.5286386
+    }
+  ],
+  "turns": 3,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Người dùng đã nhận được thông tin cần thiết về nguyên nhân sự cố (lỗi khu vực) và giải pháp tạm thời (khởi động lại modem). Người dùng đã xác nhận sẽ thực hiện theo hướng dẫn và gửi lời cảm ơn rõ ràng, cho thấy họ đã hài lòng với hỗ trợ hiện tại và sẵn sàng kết thúc cuộc gọi để thực hiện bước tiếp theo.",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Vâng, không có gì ạ. Hy vọng là cách đó có hiệu quả. Cám ơn Mai Anh đã hỗ trợ nhé."
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, anh/chị cứ thử thực hiện xem sao nhé. Sau khi khởi động lại, anh/chị vui lòng chờ khoảng 2-3 phút để thiết bị kết nối lại.  Nếu sau khi khởi động lại mà tình trạng chập chờn vẫn tiếp diễn, hoặc nếu anh/chị muốn chúng tôi cử kỹ thuật viên đến kiểm tra trực tiếp, tôi có thể tạo một phiếu yêu cầu hỗ trợ kỹ thuật để đội ngũ của chúng tôi liên hệ và sắp xếp lịch hẹn đến nhà anh/chị kiểm tra trong thời gian sớm nhất. Anh/chị có muốn tôi tạo phiếu yêu cầu này không ạ?"
+    }
+  ],
+  "reached_max_turns": false
+}

@@ -1,0 +1,121 @@
+{
+  "generation_info": {
+    "timestamp": "20250908_111514",
+    "total_conversations": 999,
+    "model": "gemini-2.5-flash",
+    "api_base": ""
+  },
+  "label_distribution": {
+    "fraud": 500,
+    "normal": 499
+  },
+  "fraud_types": {
+    "Lừa đảo thuế": 33,
+    "Lừa đảo từ thiện": 33,
+    "Việc làm giả": 33,
+    "Giả danh tổng đài": 33,
+    "Phishing": 34,
+    "Trúng thưởng": 34,
+    "Lừa đảo y tế": 33,
+    "Lừa đảo bưu điện": 33,
+    "Chiếm đoạt danh tính": 34,
+    "Lừa đảo học phí": 33,
+    "Ngân hàng": 33,
+    "Tình cảm": 34,
+    "Đầu tư": 34,
+    "Giả danh công an": 33,
+    "Lừa đảo mua bán": 33
+  },
+  "conversation_types": {
+    "Thông báo chính thức": 48,
+    "Xác nhận thông tin": 48,
+    "Hỗ trợ kỹ thuật": 48,
+    "Hướng dẫn thủ tục": 48,
+    "Giải đáp thắc mắc": 48,
+    "Khảo sát ý kiến": 48,
+    "Chăm sóc khách hàng": 56,
+    "Tư vấn bán hàng": 48,
+    "Hẹn lịch": 47,
+    "Tư vấn dịch vụ": 60
+  },
+  "user_demographics": {
+    "age_groups": {
+      "39": 25,
+      "18": 33,
+      "61": 6,
+      "54": 19,
+      "28": 15,
+      "29": 22,
+      "21": 33,
+      "58": 15,
+      "51": 18,
+      "57": 12,
+      "60": 14,
+      "70": 18,
+      "19": 28,
+      "59": 17,
+      "50": 15,
+      "25": 34,
+      "68": 14,
+      "22": 42,
+      "46": 23,
+      "64": 8,
+      "62": 19,
+      "45": 23,
+      "69": 18,
+      "23": 33,
+      "38": 12,
+      "31": 14,
+      "66": 16,
+      "35": 22,
+      "53": 23,
+      "20": 30,
+      "33": 17,
+      "55": 11,
+      "41": 16,
+      "27": 17,
+      "42": 19,
+      "30": 12,
+      "26": 22,
+      "37": 17,
+      "36": 15,
+      "43": 18,
+      "52": 12,
+      "48": 16,
+      "34": 17,
+      "67": 10,
+      "56": 14,
+      "65": 16,
+      "63": 21,
+      "32": 22,
+      "24": 27,
+      "47": 21,
+      "49": 11,
+      "44": 15,
+      "40": 12
+    },
+    "occupations": {
+      "giáo viên": 59,
+      "nhân viên văn phòng": 181,
+      "nội trợ": 146,
+      "kinh doanh": 79,
+      "sinh viên": 64,
+      "khác": 268,
+      "người nghỉ hưu": 71,
+      "nông dân": 41,
+      "tự do": 90
+    },
+    "awareness_levels": {
+      "thấp": 337,
+      "cao": 331,
+      "trung bình": 331
+    }
+  },
+  "conversation_quality": {
+    "avg_turns": 0.0,
+    "turn_distribution": {
+      "0-4": 999
+    },
+    "avg_length": 0.0
+  }
+}

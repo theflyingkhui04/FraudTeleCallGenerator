@@ -1,0 +1,80 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đến với Dịch vụ Chăm sóc Khách hàng của Phòng khám Nha khoa An Tâm. Tôi là Mai Anh, tôi có thể hỗ trợ gì cho quý khách ngày hôm nay ạ?",
+      "timestamp": 1757401537.6304653
+    },
+    {
+      "role": "right",
+      "content": "Chào Mai Anh. Chị muốn đặt lịch khám răng vì chị thấy răng hơi ê buốt mấy hôm nay. Không biết bên mình có còn lịch nào trong tuần này không em?",
+      "timestamp": 1757401541.4371898
+    },
+    {
+      "role": "left",
+      "content": "Chào chị, em hiểu rồi ạ. Răng ê buốt đúng là một dấu hiệu cần được kiểm tra sớm. Để em kiểm tra lịch trống cho chị nhé. Chị vui lòng cho em biết tên đầy đủ của chị và ngày giờ nào trong tuần này sẽ tiện cho chị nhất ạ? Ví dụ, chị muốn khám vào buổi sáng hay buổi chiều, và chị có muốn ưu tiên ngày nào cụ thể không ạ?",
+      "timestamp": 1757401546.1093643
+    },
+    {
+      "role": "right",
+      "content": "À chị tên là Nguyễn Thị Thùy Linh. Chị muốn khám vào khoảng chiều thứ Năm hoặc sáng thứ Sáu này thì tốt quá em. Không biết bên mình có lịch trống không?",
+      "timestamp": 1757401548.2119665
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, em đã ghi nhận thông tin của chị Nguyễn Thị Thùy Linh. Chị muốn đặt lịch vào chiều thứ Năm hoặc sáng thứ Sáu. Để em kiểm tra hệ thống lịch hẹn của phòng khám mình ngay ạ. Chị vui lòng đợi em một chút nhé.",
+      "timestamp": 1757401552.8892643
+    },
+    {
+      "role": "right",
+      "content": "Ừ em cứ xem giúp chị nhé. Chị đợi được.",
+      "timestamp": 1757401557.1896014
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn chị đã kiên nhẫn ạ. Em đã kiểm tra lịch và có một vài lựa chọn phù hợp với yêu cầu của chị đây ạ:  *   **Chiều thứ Năm, ngày 25 tháng 7:** Còn một lịch trống vào lúc **15:30 chiều**. *   **Sáng thứ Sáu, ngày 26 tháng 7:** Còn một lịch trống vào lúc **10:00 sáng**.  Cả hai khung giờ này đều có bác sĩ chuyên khoa sẵn sàng thăm khám. Chị Linh thấy lịch nào tiện hơn cho mình ạ?",
+      "timestamp": 1757401561.5042837
+    },
+    {
+      "role": "right",
+      "content": "À thế thì chị chọn lịch vào **10 giờ sáng thứ Sáu ngày 26 tháng 7** nhé em. Lịch đó tiện cho chị hơn.",
+      "timestamp": 1757401562.9263434
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, em đã ghi nhận lịch hẹn của chị Linh vào lúc **10:00 sáng, thứ Sáu, ngày 26 tháng 7**. Bác sĩ sẽ trực tiếp thăm khám cho chị ạ. Để hoàn tất việc đặt lịch, chị Linh vui lòng cung cấp cho em số điện thoại liên hệ của mình để phòng khám có thể gửi tin nhắn xác nhận lịch hẹn và liên hệ khi cần thiết nhé ạ.",
+      "timestamp": 1757401569.2867205
+    },
+    {
+      "role": "right",
+      "content": "Số điện thoại của chị là 0903 555 888 nhé em. Cảm ơn Mai Anh nhiều.",
+      "timestamp": 1757401571.0133383
+    },
+    {
+      "role": "right",
+      "content": "Vậy là xong rồi đó em. Chị sẽ đợi tin nhắn xác nhận từ phòng khám nhé. Cảm ơn Mai Anh đã hỗ trợ chị.",
+      "timestamp": 1757401580.7687035
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, em đã hoàn tất việc đặt lịch hẹn cho chị Nguyễn Thị Thùy Linh vào lúc **10:00 sáng, thứ Sáu, ngày 26 tháng 7**. Phòng khám sẽ gửi tin nhắn xác nhận đến số điện thoại của chị trong vòng vài phút tới ạ.  Trước khi kết thúc cuộc gọi, chị Linh có muốn em giải đáp thêm thông tin nào khác về dịch vụ hoặc có bất kỳ câu hỏi nào không ạ? Ví dụ như địa chỉ phòng khám, hướng dẫn đường đi, hoặc những điều cần lưu ý trước khi đến khám chẳng hạn?",
+      "timestamp": 1757401582.1699274
+    }
+  ],
+  "turns": 4,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại của người dùng là đặt lịch khám răng đã hoàn thành. Người dùng đã cung cấp đầy đủ thông tin cần thiết (tên, lịch hẹn mong muốn, số điện thoại) và đã nhận được xác nhận về lịch hẹn đã chọn. Quan trọng hơn, người dùng đã bày tỏ sự cảm ơn rõ ràng ('Cảm ơn Mai Anh nhiều') ở cuối cuộc hội thoại, cho thấy họ đã hài lòng và không còn nhu cầu hỗ trợ thêm cho yêu cầu này.",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Vậy là xong rồi đó em. Chị sẽ đợi tin nhắn xác nhận từ phòng khám nhé. Cảm ơn Mai Anh đã hỗ trợ chị."
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, em đã hoàn tất việc đặt lịch hẹn cho chị Nguyễn Thị Thùy Linh vào lúc **10:00 sáng, thứ Sáu, ngày 26 tháng 7**. Phòng khám sẽ gửi tin nhắn xác nhận đến số điện thoại của chị trong vòng vài phút tới ạ.  Trước khi kết thúc cuộc gọi, chị Linh có muốn em giải đáp thêm thông tin nào khác về dịch vụ hoặc có bất kỳ câu hỏi nào không ạ? Ví dụ như địa chỉ phòng khám, hướng dẫn đường đi, hoặc những điều cần lưu ý trước khi đến khám chẳng hạn?"
+    }
+  ],
+  "reached_max_turns": false
+}

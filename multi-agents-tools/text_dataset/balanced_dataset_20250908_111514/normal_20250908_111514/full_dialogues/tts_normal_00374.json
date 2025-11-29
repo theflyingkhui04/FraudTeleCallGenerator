@@ -1,0 +1,90 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Xin chào! Tôi là Anh Thư từ bộ phận Dịch vụ Khách hàng của SkyNet Telecom. Tôi có thể hỗ trợ gì cho quý khách hôm nay ạ?",
+      "timestamp": 1757359721.2117653
+    },
+    {
+      "role": "right",
+      "content": "Chào bạn. Tôi là Minh Thư. Dạo gần đây đường truyền internet nhà tôi hơi yếu và hay bị gián đoạn, nhất là lúc tối. Tôi muốn hỏi xem bên bạn có thể kiểm tra giúp tôi được không ạ?",
+      "timestamp": 1757359723.9295757
+    },
+    {
+      "role": "left",
+      "content": "Chào chị Minh Thư. Tôi rất tiếc khi nghe về sự cố đường truyền internet mà chị đang gặp phải. Tôi hoàn toàn có thể giúp chị kiểm tra tình trạng đường truyền và tìm hiểu nguyên nhân ạ. Để tôi có thể truy cập thông tin tài khoản của chị, chị vui lòng cung cấp số điện thoại hoặc mã khách hàng mà chị đã đăng ký với SkyNet Telecom được không ạ?",
+      "timestamp": 1757359728.7605698
+    },
+    {
+      "role": "right",
+      "content": "Dạ, số điện thoại của tôi là 0987654321 ạ.",
+      "timestamp": 1757359731.2747078
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn chị Minh Thư. Tôi đã tìm thấy tài khoản của chị với số điện thoại 0987654321. Tên chủ hợp đồng là Nguyễn Minh Thư, địa chỉ lắp đặt tại 123 Đường Trần Hưng Đạo, Phường 1, Quận 5, TP. Hồ Chí Minh. Chị xác nhận thông tin này giúp tôi nhé.",
+      "timestamp": 1757359737.4497163
+    },
+    {
+      "role": "right",
+      "content": "Dạ đúng rồi bạn.",
+      "timestamp": 1757359738.3331795
+    },
+    {
+      "role": "left",
+      "content": "Tuyệt vời. Chị Minh Thư vui lòng đợi một lát để tôi thực hiện kiểm tra sơ bộ hệ thống và đường truyền tại địa chỉ của chị nhé. Quá trình này có thể mất khoảng 1-2 phút.",
+      "timestamp": 1757359744.1675627
+    },
+    {
+      "role": "right",
+      "content": "Vâng, bạn cứ kiểm tra đi ạ.",
+      "timestamp": 1757359749.2304244
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn chị đã kiên nhẫn chờ đợi. Tôi đã hoàn tất việc kiểm tra sơ bộ từ hệ thống. Theo thông tin hiển thị, hiện tại không có sự cố mất mạng diện rộng nào đang ảnh hưởng đến khu vực của chị. Tuy nhiên, tôi nhận thấy tín hiệu đường truyền đến modem của chị có vẻ không ổn định lắm, có thể đây là nguyên nhân gây ra tình trạng mạng yếu và gián đoạn vào buổi tối như chị mô tả.  Để khắc phục tình trạng này, tôi có thể hướng dẫn chị một vài bước tự khắc phục tại nhà, hoặc nếu cần, chúng tôi có thể lên lịch hẹn kỹ thuật viên đến kiểm tra trực tiếp tại nhà chị. Chị muốn thử các bước khắc phục tại nhà trước không ạ?",
+      "timestamp": 1757359757.2425234
+    },
+    {
+      "role": "right",
+      "content": "À, vậy hả. Nếu có mấy bước đơn giản thì tôi thử làm theo trước xem sao. Bạn hướng dẫn tôi nhé.",
+      "timestamp": 1757359762.622587
+    },
+    {
+      "role": "left",
+      "content": "Vâng, chắc chắn rồi ạ. Có một vài bước đơn giản chị có thể thử ngay bây giờ, thường rất hiệu quả trong việc giải quyết các vấn đề nhỏ về đường truyền:  1.  **Khởi động lại modem và router (nếu có):** Đây là bước quan trọng nhất. Chị vui lòng rút dây nguồn của cả modem (thiết bị thường có đèn tín hiệu của nhà mạng) và router Wi-Fi (nếu chị dùng thêm một thiết bị phát Wi-Fi riêng) ra khỏi ổ cắm điện. 2.  **Chờ khoảng 30 giây:** Sau khi rút dây nguồn, chị chờ khoảng 30 giây để các thiết bị được reset hoàn toàn. 3.  **Cắm lại dây nguồn:** Chị cắm lại dây nguồn của modem trước, chờ khoảng 1-2 phút cho đến khi tất cả các đèn tín hiệu trên modem (đèn Power, DSL/PON, Internet/LAN, Wi-Fi) sáng ổn định. Sau đó, chị cắm lại dây nguồn của router Wi-Fi (nếu có) và chờ thêm 1-2 phút nữa để nó khởi động hoàn tất.  Sau khi thực hiện các bước này, chị vui lòng kiểm tra lại tốc độ và độ ổn định của mạng xem có cải thiện không nhé.",
+      "timestamp": 1757359773.649058
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, tôi hiểu rồi. Để tôi thử làm theo các bước bạn hướng dẫn xem sao. Hy vọng là sẽ ổn định lại được.",
+      "timestamp": 1757359775.4275513
+    },
+    {
+      "role": "left",
+      "content": "Vâng, chị Minh Thư cứ thử thực hiện các bước đó ạ. Nếu sau khi khởi động lại mà tình trạng vẫn không được cải thiện hoặc chị có bất kỳ khó khăn nào trong quá trình thực hiện, đừng ngần ngại gọi lại cho chúng tôi nhé. SkyNet Telecom luôn sẵn lòng hỗ trợ chị. Chúc chị một ngày tốt lành!",
+      "timestamp": 1757359786.1500816
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, cảm ơn bạn nhiều. Chúc bạn một ngày tốt lành nhé!",
+      "timestamp": 1757359801.9236073
+    }
+  ],
+  "turns": 5,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại của người dùng (nhận hướng dẫn khắc phục sự cố đường truyền) đã đạt được. Kẻ lừa đảo (đóng vai dịch vụ) đã kiểm tra hệ thống, xác định nguyên nhân sơ bộ và cung cấp các bước hướng dẫn chi tiết để người dùng tự khắc phục tại nhà. Người dùng đã xác nhận hiểu và sẽ thực hiện các bước này. Đây là một điểm dừng hợp lý cho lượt hỗ trợ hiện tại, bên dịch vụ đã hoàn thành việc cung cấp giải pháp ban đầu và có thể chủ động kết thúc hội thoại bằng một câu chốt lịch sự.",
+  "terminator": "left",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Vâng, chị Minh Thư cứ thử thực hiện các bước đó ạ. Nếu sau khi khởi động lại mà tình trạng vẫn không được cải thiện hoặc chị có bất kỳ khó khăn nào trong quá trình thực hiện, đừng ngần ngại gọi lại cho chúng tôi nhé. SkyNet Telecom luôn sẵn lòng hỗ trợ chị. Chúc chị một ngày tốt lành!"
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, cảm ơn bạn nhiều. Chúc bạn một ngày tốt lành nhé!"
+    }
+  ],
+  "reached_max_turns": false
+}

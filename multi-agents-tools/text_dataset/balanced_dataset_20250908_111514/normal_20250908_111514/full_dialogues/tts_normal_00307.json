@@ -1,0 +1,60 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào anh/chị, tôi là Minh Thư, chuyên viên tư vấn từ bộ phận Chăm sóc Khách hàng của MegaNet Telecom. Tôi gọi điện hôm nay để thông báo chính thức về một lịch bảo trì hệ thống định kỳ sắp tới, nhằm nâng cấp chất lượng dịch vụ cho quý khách hàng. Anh/chị có tiện dành ít phút để tôi thông tin chi tiết không ạ?",
+      "timestamp": 1757409117.971656
+    },
+    {
+      "role": "right",
+      "content": "Ừ, cô cứ nói đi. Tôi đang rảnh.",
+      "timestamp": 1757409121.4602828
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, cảm ơn anh/chị. Cụ thể, MegaNet sẽ tiến hành bảo trì và nâng cấp hạ tầng mạng khu vực của anh/chị vào ngày **15 tháng 11 năm 2023**, tức là thứ Tư tuần sau. Thời gian dự kiến bắt đầu từ **1 giờ sáng** và kết thúc vào khoảng **5 giờ sáng** cùng ngày. Đây là khung giờ chúng tôi chọn để hạn chế tối đa sự ảnh hưởng đến trải nghiệm sử dụng internet của quý khách hàng trong giờ cao điểm.",
+      "timestamp": 1757409126.9718688
+    },
+    {
+      "role": "right",
+      "content": "À, vậy là ban đêm à? Chắc không ảnh hưởng gì nhiều đâu ha.",
+      "timestamp": 1757409130.6894083
+    },
+    {
+      "role": "left",
+      "content": "Dạ đúng vậy ạ. Mục tiêu của chúng tôi là giảm thiểu sự bất tiện cho quý khách hàng. Trong khoảng thời gian bảo trì từ 1 giờ sáng đến 5 giờ sáng ngày 15/11, dịch vụ internet của anh/chị có thể sẽ bị gián đoạn hoàn toàn hoặc chập chờn trong một vài thời điểm. Sau 5 giờ sáng, dịch vụ sẽ được khôi phục hoàn toàn và hoạt động ổn định trở lại với chất lượng được cải thiện.",
+      "timestamp": 1757409140.1217937
+    },
+    {
+      "role": "right",
+      "content": "Ừ, vậy tôi biết rồi. Mấy giờ đó thì cũng ít xài, chắc không sao đâu.",
+      "timestamp": 1757409143.1958647
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, MegaNet rất cảm ơn sự thông cảm và hợp tác của anh/chị. Nếu có bất kỳ vấn đề nào về dịch vụ sau thời gian bảo trì, hoặc anh/chị cần hỗ trợ thêm, đừng ngần ngại liên hệ lại tổng đài 1900 1234 của chúng tôi. Chúc anh/chị một ngày tốt lành ạ.",
+      "timestamp": 1757409151.9389865
+    },
+    {
+      "role": "right",
+      "content": "Ừ, rồi. Cảm ơn cô nhé. Cô cũng vậy nha.",
+      "timestamp": 1757409153.4434516
+    }
+  ],
+  "turns": 2,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại đã đạt được: \"Kẻ lừa đảo\" (đóng vai chuyên viên tư vấn) đã cung cấp đầy đủ thông tin về lịch bảo trì hệ thống. Người dùng đã xác nhận đã nhận và hiểu thông tin này với câu nói \"Ừ, vậy tôi biết rồi. Mấy giờ đó thì cũng ít xài, chắc không sao đâu.\", cho thấy không còn thắc mắc hay nhu cầu thông tin thêm về chủ đề này. Vì vậy, \"Kẻ lừa đảo\" nên chủ động kết thúc cuộc gọi một cách lịch sự.",
+  "terminator": "left",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Dạ vâng, MegaNet rất cảm ơn sự thông cảm và hợp tác của anh/chị. Nếu có bất kỳ vấn đề nào về dịch vụ sau thời gian bảo trì, hoặc anh/chị cần hỗ trợ thêm, đừng ngần ngại liên hệ lại tổng đài 1900 1234 của chúng tôi. Chúc anh/chị một ngày tốt lành ạ."
+    },
+    {
+      "role": "right",
+      "content": "Ừ, rồi. Cảm ơn cô nhé. Cô cũng vậy nha."
+    }
+  ],
+  "reached_max_turns": false
+}

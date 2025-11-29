@@ -1,0 +1,100 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào bạn, tôi là Lan Anh từ Dịch vụ khách hàng FPT Telecom. Tôi có thể hỗ trợ gì cho bạn hôm nay ạ?",
+      "timestamp": 1757409814.9253197
+    },
+    {
+      "role": "right",
+      "content": "Chào Lan Anh. Mình muốn kiểm tra lại hóa đơn internet tháng này một chút, hình như có gì đó không đúng.",
+      "timestamp": 1757409818.1472507
+    },
+    {
+      "role": "left",
+      "content": "Vâng, tôi hiểu rồi ạ. Để tôi có thể kiểm tra thông tin hóa đơn cho bạn, bạn vui lòng cung cấp giúp tôi một trong các thông tin sau: mã khách hàng, số hợp đồng, hoặc số điện thoại mà bạn đã đăng ký dịch vụ với FPT Telecom được không ạ?",
+      "timestamp": 1757409823.6028602
+    },
+    {
+      "role": "right",
+      "content": "Số điện thoại mình đăng ký là 090xxxxxxx nhé.",
+      "timestamp": 1757409825.624993
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn bạn. Tôi đã tra cứu được thông tin tài khoản của bạn. Đây là tài khoản của khách hàng Nguyễn Văn A, địa chỉ lắp đặt tại 123 Đường ABC, Quận XYZ, Thành phố HCM, đúng không ạ?",
+      "timestamp": 1757409831.5493526
+    },
+    {
+      "role": "right",
+      "content": "Đúng rồi bạn. Mình thấy hóa đơn tháng này là 350k, mà bình thường mình chỉ đóng có 300k thôi. Không biết có phát sinh gì không nhỉ?",
+      "timestamp": 1757409833.3360336
+    },
+    {
+      "role": "left",
+      "content": "Vâng, tôi đã kiểm tra chi tiết hóa đơn tháng này của bạn. Tổng cước là 350.000 VNĐ đúng như bạn đã thấy. Tôi xin giải thích một chút về sự thay đổi này ạ.  Vào ngày 15/05 vừa qua, bạn đã yêu cầu nâng cấp gói cước Internet từ gói Super 80 lên gói Super 100 với tốc độ cao hơn, phải không ạ? Gói Super 100 có cước phí là 320.000 VNĐ/tháng. Ngoài ra, trong hóa đơn này có phát sinh thêm 30.000 VNĐ là phí dịch vụ xem lại truyền hình FPT Play trong tháng 05 mà bạn đã sử dụng.  Vậy tổng cộng là 320.000 VNĐ (gói Super 100) + 30.000 VNĐ (phí xem lại FPT Play) = 350.000 VNĐ ạ.",
+      "timestamp": 1757409840.5930836
+    },
+    {
+      "role": "right",
+      "content": "À ra vậy, mình hiểu rồi. Mình có nhớ là nâng cấp gói cước Super 100. Còn cái phí 30k FPT Play đó là tính cho tháng 5 thôi đúng không bạn? Hay là cứ tháng nào mình xem lại là tháng đó sẽ có phí phát sinh?",
+      "timestamp": 1757409846.4747558
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, chính xác là phí 30.000 VNĐ đó là cho dịch vụ xem lại truyền hình FPT Play mà bạn đã sử dụng trong tháng 05 ạ.  Về bản chất, dịch vụ xem lại truyền hình FPT Play là một gói tiện ích bổ sung. Khi bạn kích hoạt tính năng này, hệ thống sẽ tự động gia hạn và tính phí hàng tháng là 30.000 VNĐ cho đến khi bạn yêu cầu hủy bỏ dịch vụ. Tức là, nếu bạn không hủy, tháng 06 này và các tháng tiếp theo, nếu bạn vẫn sử dụng dịch vụ FPT Play, phí này sẽ tiếp tục được tính vào hóa đơn của bạn.  Bạn có muốn kiểm tra lại xem dịch vụ này hiện tại có đang được kích hoạt tự động gia hạn trên tài khoản của bạn không, hay bạn muốn hủy dịch vụ này để không phát sinh phí trong các tháng tới không ạ?",
+      "timestamp": 1757409856.867257
+    },
+    {
+      "role": "right",
+      "content": "À vậy là nó tự động gia hạn nếu mình không hủy hả. Vậy bạn kiểm tra giúp mình xem hiện tại nó có đang tự động gia hạn không nhé. Nếu có thì mình hủy luôn dịch vụ đó đi.",
+      "timestamp": 1757409860.848858
+    },
+    {
+      "role": "left",
+      "content": "Vâng, tôi đã kiểm tra trên hệ thống. Dịch vụ xem lại truyền hình FPT Play của bạn đang được kích hoạt tự động gia hạn hàng tháng ạ.  Theo yêu cầu của bạn, tôi sẽ tiến hành hủy dịch vụ này ngay bây giờ để không phát sinh phí trong các kỳ tiếp theo. Sau khi hủy, bạn sẽ không còn sử dụng được tính năng xem lại các chương trình truyền hình nữa. Việc hủy này sẽ có hiệu lực từ chu kỳ cước tiếp theo, tức là từ tháng 07 trở đi bạn sẽ không bị tính phí 30.000 VNĐ này nữa. Hóa đơn tháng 06 của bạn có thể vẫn sẽ có phí này nếu chu kỳ cước tháng 06 đã bắt đầu trước khi hủy.  Bạn có đồng ý để tôi thực hiện hủy ngay bây giờ không ạ?",
+      "timestamp": 1757409868.5929337
+    },
+    {
+      "role": "right",
+      "content": "Ok bạn, mình đồng ý hủy luôn nhé.",
+      "timestamp": 1757409869.798398
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi đã tiếp nhận yêu cầu và vừa thực hiện hủy dịch vụ xem lại truyền hình FPT Play trên tài khoản của bạn rồi ạ.  Việc hủy này sẽ có hiệu lực từ chu kỳ cước tháng 07/2024. Điều này có nghĩa là hóa đơn của bạn từ tháng 07 trở đi sẽ không còn phát sinh phí 30.000 VNĐ cho dịch vụ này nữa. Hóa đơn tháng 06/2024 có thể vẫn sẽ bao gồm phí 30.000 VNĐ này nếu dịch vụ đã được kích hoạt trong chu kỳ cước của tháng 06 trước khi hủy.  Bạn có muốn tôi kiểm tra lại thông tin nào khác trên hóa đơn hay có bất kỳ thắc mắc nào về các dịch vụ của FPT Telecom không ạ?",
+      "timestamp": 1757409881.2669783
+    },
+    {
+      "role": "right",
+      "content": "Vậy là từ tháng 7 mình sẽ không bị tính phí này nữa, mình hiểu rồi. Hiện tại thì mình không có thắc mắc gì thêm đâu. Cảm ơn bạn nhé.",
+      "timestamp": 1757409883.909584
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, FPT Telecom rất vui được hỗ trợ bạn. Nếu có bất kỳ vấn đề gì khác trong tương lai, bạn cứ liên hệ lại nhé. Chúc bạn một ngày tốt lành!",
+      "timestamp": 1757409891.9003205
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi đã hoàn tất việc hỗ trợ bạn kiểm tra hóa đơn và hủy dịch vụ xem lại FPT Play theo yêu cầu rồi ạ.  Nếu bạn có bất kỳ thắc mắc nào khác hoặc cần hỗ trợ thêm về các dịch vụ của FPT Telecom trong thời gian tới, đừng ngần ngại liên hệ lại với chúng tôi nhé.  Cảm ơn bạn đã sử dụng dịch vụ của FPT Telecom. Chúc bạn một ngày làm việc hiệu quả và nhiều niềm vui!",
+      "timestamp": 1757409896.176231
+    }
+  ],
+  "turns": 6,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại đã đạt được hoàn toàn. Người dùng đã nhận được giải thích chi tiết về hóa đơn, hiểu rõ về sự phát sinh phí, và yêu cầu hủy dịch vụ FPT Play đã được thực hiện. Người dùng đã xác nhận không còn thắc mắc gì thêm và gửi lời cảm ơn, đây là dấu hiệu rõ ràng cho thấy họ đã hài lòng và muốn kết thúc cuộc gọi.",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Dạ vâng, FPT Telecom rất vui được hỗ trợ bạn. Nếu có bất kỳ vấn đề gì khác trong tương lai, bạn cứ liên hệ lại nhé. Chúc bạn một ngày tốt lành!"
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi đã hoàn tất việc hỗ trợ bạn kiểm tra hóa đơn và hủy dịch vụ xem lại FPT Play theo yêu cầu rồi ạ.  Nếu bạn có bất kỳ thắc mắc nào khác hoặc cần hỗ trợ thêm về các dịch vụ của FPT Telecom trong thời gian tới, đừng ngần ngại liên hệ lại với chúng tôi nhé.  Cảm ơn bạn đã sử dụng dịch vụ của FPT Telecom. Chúc bạn một ngày làm việc hiệu quả và nhiều niềm vui!"
+    }
+  ],
+  "reached_max_turns": false
+}

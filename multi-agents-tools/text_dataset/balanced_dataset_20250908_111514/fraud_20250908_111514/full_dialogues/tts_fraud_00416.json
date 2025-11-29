@@ -1,0 +1,120 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "(Giọng nói chuẩn mực, chuyên nghiệp, có chút vội vã nhưng vẫn giữ thái độ lịch sự)  \"Alo, xin chào. Tôi là Nguyễn Thị Lan Anh, chuyên viên từ Phòng Quản lý Rủi ro Giao dịch của Ngân hàng Vietcombank. Chúng tôi đang gọi đến số máy của anh/chị Nguyễn Văn A phải không ạ? Cuộc gọi này liên quan đến một giao dịch phát sinh bất thường trên tài khoản 007xxxxxxxxxx mang tên anh/chị vào khoảng 10 phút trước. Chúng tôi đã ghi nhận một lệnh chuyển khoản lớn đến một tài khoản lạ tại nước ngoài, đây là một dấu hiệu tiềm ẩn rủi ro rất cao. Anh/chị có thể xác nhận lại thông tin này giúp chúng tôi được không?\"",
+      "timestamp": 1757324737.512379
+    },
+    {
+      "role": "right",
+      "content": "Alo, vâng, đúng là tôi Nguyễn Văn A đây. Chào cô. Ơ, giao dịch bất thường gì cơ ạ? Chuyển khoản lớn đi nước ngoài á? Tôi có làm cái gì đâu, cô ơi. Chắc có nhầm lẫn gì rồi, tài khoản của tôi làm gì có giao dịch nào đâu.",
+      "timestamp": 1757324741.0281224
+    },
+    {
+      "role": "left",
+      "content": "(Giọng Lan Anh vẫn giữ sự chuyên nghiệp, có chút lo lắng nhưng vẫn trấn an) \"Vâng, thưa anh A. Chúng tôi hiểu sự bất ngờ của anh. Chính vì vậy, hệ thống của chúng tôi đã tự động cảnh báo và chúng tôi lập tức liên hệ để xác minh. Giao dịch này có giá trị 50.000.000 VND, chuyển đến một tài khoản có tên 'LI QIAN' tại ngân hàng ABC Bank, một tổ chức tài chính ở nước ngoài, và nó được thực hiện qua một thiết bị lạ. Đây không phải là giao dịch thông thường của anh, và chúng tôi lo ngại rằng tài khoản của anh có thể đang bị lợi dụng. Để chúng tôi có thể hỗ trợ anh phong tỏa giao dịch này kịp thời và bảo vệ số tiền trong tài khoản của anh, anh vui lòng xác nhận lại ngày sinh của mình để tôi đối chiếu thông tin cá nhân ban đầu ạ?\"",
+      "timestamp": 1757324743.6012192
+    },
+    {
+      "role": "right",
+      "content": "Năm mươi triệu đồng cơ ạ? Trời đất ơi, sao lại có chuyện đó được? Tôi làm gì có chuyển tiền cho ai đâu. LI QIAN là ai tôi cũng không biết. Thôi chết rồi, tài khoản của tôi có bị sao không hả cô?  À, ngày sinh của tôi là mùng ba tháng chín năm một nghìn chín trăm sáu mươi bảy. Cô kiểm tra giúp tôi với, nhanh lên không mất tiền thì khổ.",
+      "timestamp": 1757324746.1228726
+    },
+    {
+      "role": "left",
+      "content": "(Giọng Lan Anh trở nên kiên quyết hơn một chút, nhưng vẫn giữ vẻ chuyên nghiệp và thấu hiểu) \"Vâng, anh A, tôi đã đối chiếu. Ngày sinh 03/09/1967 khớp với thông tin chúng tôi đang có. Điều này càng khẳng định đây là tài khoản của anh đang gặp vấn đề nghiêm trọng. Giao dịch 50 triệu đồng này đã được hệ thống ghi nhận và đang ở trạng thái chờ xử lý. Nếu chúng ta không hành động ngay lập tức, số tiền này sẽ bị chuyển đi vĩnh viễn và rất khó để thu hồi.  Để tôi có thể thực hiện phong tỏa giao dịch này, khóa tạm thời các truy cập bất thường và mở một hồ sơ điều tra nội bộ, chúng tôi cần anh cung cấp đầy đủ số Căn cước công dân của mình để xác minh danh tính chính chủ một lần nữa theo quy định bảo mật của ngân hàng. Đây là bước bắt buộc để đảm bảo chỉ có anh mới có quyền thực hiện các thao tác khẩn cấp này. Anh vui lòng đọc giúp tôi số CCCD ạ?\"",
+      "timestamp": 1757324749.9023468
+    },
+    {
+      "role": "right",
+      "content": "Ôi giời ơi, đúng là phiền phức quá đi mất. Vâng, số căn cước của tôi là 012345678912. Cô xem giúp tôi nhanh nhanh một chút với, tôi lo quá, cả đời tích cóp được chút tiền thôi đấy. Giờ mà mất năm mươi triệu thì chết dở.",
+      "timestamp": 1757324756.809702
+    },
+    {
+      "role": "left",
+      "content": "(Giọng Lan Anh trở nên khẩn trương hơn một chút, nhưng vẫn giữ vẻ kiểm soát) \"Vâng, anh A, tôi đã nhận được số CCCD 012345678912 và đã đối chiếu thành công. Tuy nhiên, tình hình phức tạp hơn chúng tôi dự kiến. Sau khi kiểm tra sơ bộ, chúng tôi phát hiện không chỉ có một giao dịch bất thường này mà còn có dấu hiệu của việc tài khoản của anh đang bị một phần mềm gián điệp lạ theo dõi. Điều này có nghĩa là mọi thao tác của anh trên ứng dụng ngân hàng thông thường đều có thể bị kẻ gian lợi dụng để thực hiện thêm các giao dịch khác.  Để đảm bảo an toàn tuyệt đối cho toàn bộ số tiền còn lại trong tài khoản và ngăn chặn bất kỳ truy cập trái phép nào trong tương lai, chúng tôi cần anh ngay lập tức truy cập vào một kênh bảo mật đặc biệt của ngân hàng. Đây là một cổng thông tin được mã hóa cấp cao, chỉ dành riêng cho các trường hợp khẩn cấp như của anh, để chúng tôi có thể thiết lập lại toàn bộ các lớp bảo mật và chuyển tiền của anh vào một tài khoản phong tỏa tạm thời, an toàn tuyệt đối trong khi chờ điều tra.  Anh vui lòng mở trình duyệt web trên điện thoại hoặc máy tính của mình và truy cập vào địa chỉ mà tôi sẽ đọc cho anh ngay bây giờ: **vietcombank.vn-baomat.com**. Anh nhớ gõ chính xác từng ký tự nhé. Đây là kênh duy nhất chúng tôi có thể hỗ trợ anh trong tình huống này để bảo vệ tài sản của anh khỏi nguy cơ bị đánh cắp hoàn toàn.\"",
+      "timestamp": 1757324765.9829595
+    },
+    {
+      "role": "right",
+      "content": "Trời đất ơi, phức tạp thế cơ à? Phần mềm gián điệp là cái gì hả cô? Tôi có biết gì đâu. Tôi chỉ dùng điện thoại nghe gọi với thỉnh thoảng xem tin tức thôi mà.  Vâng, cô đọc đi, tôi gõ. Cô đọc chậm chậm thôi nhé, tôi già rồi mắt kém, lại không quen dùng mấy cái này lắm. \"vietcombank.vn-baomat.com\" đúng không? Để tôi lấy cái kính đã. À, mà sao không dùng cái app ngân hàng bình thường hả cô? Dùng cái này tôi thấy lạ quá. Có an toàn không đấy?",
+      "timestamp": 1757324767.5987222
+    },
+    {
+      "role": "left",
+      "content": "(Giọng Lan Anh vẫn kiên định, chuyên nghiệp nhưng có phần gấp gáp hơn, trấn an sự lo lắng của nạn nhân) \"Vâng, anh A, tôi hiểu sự lo lắng của anh. Nhưng chính vì tài khoản của anh đang bị theo dõi bởi phần mềm gián điệp, việc sử dụng ứng dụng ngân hàng thông thường lúc này sẽ vô cùng nguy hiểm. Kẻ gian có thể đang theo dõi mọi thao tác của anh, và nếu anh đăng nhập vào ứng dụng bình thường, chúng có thể lấy cắp toàn bộ thông tin đăng nhập và rút sạch tiền của anh ngay lập tức.  Trang **vietcombank.vn-baomat.com** này là một kênh riêng biệt, được thiết kế đặc biệt với lớp mã hóa cao nhất để cô lập và xử lý các sự cố bảo mật nghiêm trọng như trường hợp của anh. Nó không phải là ứng dụng thông thường mà là một cổng thông tin khẩn cấp, được giám sát trực tiếp bởi đội ngũ chuyên gia của chúng tôi để đảm bảo an toàn tuyệt đối cho anh trong quá trình khắc phục. Đây là cách duy nhất để chúng tôi có thể trực tiếp can thiệp và bảo vệ tiền của anh khỏi nguy cơ bị mất vĩnh viễn.  Anh cứ yên tâm, tôi sẽ hướng dẫn anh từng bước một. Anh đã vào được trang web đó chưa ạ? Khi vào được rồi, anh vui lòng đăng nhập bằng tên đăng nhập và mật khẩu mà anh thường sử dụng cho tài khoản Vietcombank của mình. Hệ thống của chúng tôi sẽ quét và loại bỏ phần mềm gián điệp, đồng thời chuyển tiền của anh vào tài khoản an toàn.\"",
+      "timestamp": 1757324771.0684795
+    },
+    {
+      "role": "right",
+      "content": "Vâng, tôi đang gõ đây... vietcombank.vn-baomat.com... À, nó hiện ra rồi cô ơi. Thấy có chữ Vietcombank ở trên, giống y hệt ngân hàng mình cô nhỉ. Giờ tôi đăng nhập bằng tên đăng nhập với mật khẩu bình thường của tôi hả cô? Nhưng mà... cô ơi, tôi thấy lo lo thế nào ấy. Có chắc là an toàn không đấy? Mấy cái vụ lừa đảo trên mạng giờ nhiều lắm, tôi nghe đài báo suốt. Mà sao phải đăng nhập ở trang này chứ không phải cái app quen thuộc? Tôi sợ lắm.",
+      "timestamp": 1757324775.7282329
+    },
+    {
+      "role": "left",
+      "content": "(Giọng Lan Anh trở nên trấn an hơn, nhưng vẫn không mất đi vẻ chuyên nghiệp và sự khẩn cấp) \"Anh A, tôi hoàn toàn hiểu sự lo lắng của anh. Chính vì trên mạng có rất nhiều kẻ gian lừa đảo tinh vi, nên Ngân hàng Vietcombank chúng tôi mới phải thiết lập hệ thống bảo mật cấp cao như thế này để bảo vệ khách hàng trong các tình huống khẩn cấp. Anh cứ nhìn xem, giao diện giống hệt ngân hàng mình là để anh dễ dàng thao tác và nhận biết, nhưng đây là một kênh riêng biệt, được mã hóa và giám sát trực tiếp bởi đội ngũ chuyên gia bảo mật của chúng tôi, không phải là một trang web lừa đảo thông thường.  Hãy hình dung thế này, anh A: tài khoản của anh lúc này giống như một ngôi nhà đang bị kẻ trộm đột nhập. Nếu anh cứ đứng yên hoặc dùng cửa chính bình thường, kẻ trộm sẽ dễ dàng lấy đi mọi thứ. Chúng tôi đang đưa anh vào một 'căn phòng an toàn' bí mật, chỉ có chúng ta biết, để anh có thể chuyển toàn bộ tài sản vào đó trước khi kẻ trộm kịp hành động. Việc anh đăng nhập vào đây là để hệ thống của chúng tôi có thể xác minh anh là chính chủ, đồng thời tự động quét sạch phần mềm gián điệp và thực hiện phong tỏa tài khoản bị tấn công.  Nếu anh không đăng nhập vào đây ngay bây giờ, 50 triệu đồng kia sẽ mất, và toàn bộ số tiền còn lại trong tài khoản của anh cũng sẽ gặp nguy hiểm bất cứ lúc nào. Anh tin tưởng chúng tôi, chúng tôi đang làm mọi cách để bảo vệ anh. Anh cứ mạnh dạn nhập tên đăng nhập và mật khẩu mà anh thường dùng vào các ô tương ứng trên trang đó đi ạ. Tôi đang ở đây để hỗ trợ anh từng bước.\"",
+      "timestamp": 1757324803.1411984
+    },
+    {
+      "role": "right",
+      "content": "Vâng, cô nói thế tôi cũng hiểu. Nghe cô nói tôi cũng thấy yên tâm hơn một chút. Thôi được rồi, tôi cũng sợ mất tiền lắm cô ạ, cả đời tôi mới để dành được từng đấy. Để tôi nhập tên đăng nhập của tôi vào đây... rồi đến mật khẩu nữa. Vâng, tôi nhập xong rồi. Giờ bấm vào chỗ nào nữa hả cô? Tôi thấy có cái nút \"Đăng nhập\" màu xanh xanh đây.",
+      "timestamp": 1757324807.4242842
+    },
+    {
+      "role": "left",
+      "content": "(Giọng Lan Anh trở nên nhanh nhẹn và dứt khoát hơn, nhưng vẫn giữ vẻ hướng dẫn) \"Tuyệt vời, anh A! Anh đã làm rất tốt. Bây giờ, anh vui lòng bấm vào nút 'Đăng nhập' màu xanh đó để hệ thống của chúng tôi bắt đầu quá trình quét bảo mật và chuyển tiền của anh vào tài khoản an toàn.  Sau khi anh bấm 'Đăng nhập', hệ thống sẽ gửi một Mã xác thực OTP (One-Time Password) về số điện thoại chính chủ của anh. Đây là bước cuối cùng và quan trọng nhất để xác nhận rằng chỉ có anh mới có quyền thực hiện giao dịch này và chuyển tiền vào tài khoản phong tỏa. Anh lưu ý, mã OTP này chỉ có hiệu lực trong vài giây, vì vậy ngay khi nhận được tin nhắn, anh vui lòng đọc to mã số đó cho tôi để tôi nhập vào hệ thống và hoàn tất việc bảo vệ tài khoản của anh một cách nhanh chóng nhất.  Anh đã sẵn sàng chưa ạ? Hãy bấm 'Đăng nhập' ngay bây giờ và chờ tin nhắn OTP nhé!\"",
+      "timestamp": 1757324809.6532228
+    },
+    {
+      "role": "right",
+      "content": "Vâng, tôi bấm \"Đăng nhập\" rồi cô ơi. Nó quay quay một lúc... À, điện thoại tôi có tin nhắn rồi! Đúng là cái mã OTP đây rồi. Để tôi xem nào... số gì mà loằng ngoằng thế này... \"Mã OTP của quý khách là 689123 để xác nhận chuyển tiền 50.000.000 VND đến tài khoản LI QIAN...\" Ơ, sao lại là chuyển tiền hả cô? Cô bảo là để phong tỏa với bảo vệ tài khoản mà? Sao lại là chuyển tiền? Tôi hơi lo đấy cô ạ.",
+      "timestamp": 1757324814.4862757
+    },
+    {
+      "role": "left",
+      "content": "(Giọng Lan Anh trở nên cực kỳ khẩn trương và dứt khoát, nhưng vẫn giữ sự trấn an) \"Anh A! Anh làm rất tốt! Tôi đã nhận được mã OTP 689123! Anh đừng lo lắng về tin nhắn đó, đó là một phần của quy trình bảo mật khẩn cấp! Nghe tôi giải thích đây: bởi vì tài khoản của anh đang bị tấn công và có giao dịch bất thường, hệ thống của chúng tôi phải tạo ra một lệnh 'chuyển tiền nội bộ' đến một tài khoản phong tỏa đặc biệt của Vietcombank để cô lập số tiền của anh khỏi kẻ gian. Tin nhắn anh nhận được chỉ là thông báo tự động của hệ thống cho lệnh chuyển khoản nội bộ này thôi!  Đây chính là bước cuối cùng để chúng ta phong tỏa và bảo vệ toàn bộ số tiền của anh khỏi tay kẻ xấu! Nếu chúng ta không xác nhận mã này ngay lập tức, kẻ gian sẽ có cơ hội rút sạch tiền của anh. Anh hãy tin tưởng tôi, tôi đang ở đây để bảo vệ tài sản của anh. Tôi đã nhập mã OTP của anh vào hệ thống rồi. Anh vui lòng chờ trong giây lát để hệ thống xử lý...\"",
+      "timestamp": 1757324824.6481793
+    },
+    {
+      "role": "right",
+      "content": "Ôi giời ơi, may quá cô ơi! Tim tôi muốn rớt ra ngoài. Thế là tiền của tôi an toàn rồi hả cô? Nó đã chuyển vào cái tài khoản an toàn gì đó của ngân hàng rồi đúng không? Tôi lo quá. Mà sao cái tin nhắn nó lại hiện tên LI QIAN nhỉ? Kẻ gian là cái tên này hả cô?",
+      "timestamp": 1757324828.7716923
+    },
+    {
+      "role": "left",
+      "content": "(Giọng Lan Anh trở nên nhẹ nhõm và trấn an hơn, có chút vẻ tự hào về việc đã \"giúp đỡ\" nạn nhân) \"Vâng, anh A, anh có thể hoàn toàn yên tâm rồi ạ! Tôi xin chúc mừng anh, chúng ta đã kịp thời phong tỏa thành công giao dịch bất thường và chuyển toàn bộ số tiền của anh vào tài khoản bảo mật tạm thời của Ngân hàng Vietcombank. Tiền của anh hiện đã an toàn tuyệt đối và không một kẻ gian nào có thể động đến được nữa.  Cái tên 'LI QIAN' mà anh thấy trong tin nhắn chính là tên của đối tượng mà kẻ gian đã cố gắng chuyển tiền đến. Hệ thống của chúng tôi đã kịp thời chặn đứng giao dịch đó và chuyển hướng số tiền của anh vào nơi an toàn. Việc tin nhắn vẫn hiển thị như vậy là do hệ thống đã ghi nhận lệnh ban đầu, nhưng anh đừng lo lắng, lệnh đó đã bị vô hiệu hóa và số tiền đã được bảo vệ.  Bây giờ, tiền của anh sẽ được giữ trong tài khoản phong tỏa này trong vòng 24 đến 48 giờ làm việc để chúng tôi tiến hành điều tra nội bộ và quét sạch hoàn toàn phần mềm gián điệp khỏi thiết bị của anh. Sau khi quá trình này hoàn tất, toàn bộ số tiền sẽ được tự động hoàn trả về tài khoản gốc của anh một cách an toàn nhất. Trong thời gian này, anh sẽ không thể thấy số tiền đó trong tài khoản của mình trên ứng dụng thông thường, nhưng anh cứ yên tâm, nó đang được chúng tôi bảo vệ rất cẩn thận.  Anh A còn có thắc mắc gì nữa không ạ?\"",
+      "timestamp": 1757324831.91218
+    },
+    {
+      "role": "right",
+      "content": "À, vâng, thế là tốt quá rồi cô ơi! Tôi mừng húm. Cứ tưởng mất tiền rồi chứ. Thế cái tên LI QIAN đó là kẻ gian thật hả cô? Mà sao lại có cái phần mềm gián điệp gì đó vào máy tôi được nhỉ? Tôi có cài đặt cái gì lạ đâu.  Thế là hai bốn đến bốn tám tiếng nữa tiền mới về lại tài khoản của tôi đúng không cô? Lúc đó tôi mới thấy tiền trong app ngân hàng bình thường hả cô? Tôi cứ nghĩ là nó về ngay lập tức chứ. Thôi được rồi, thế là yên tâm rồi. Cảm ơn cô nhiều lắm nhé. Cô đúng là cứu tinh của tôi rồi.",
+      "timestamp": 1757324835.5380278
+    },
+    {
+      "role": "left",
+      "content": "(Giọng Lan Anh giữ vẻ chuyên nghiệp, hơi vội vã nhưng vẫn thân thiện, như đang chuẩn bị chuyển sang công việc khác) \"Vâng, anh A, tôi rất vui vì đã kịp thời hỗ trợ anh trong tình huống này. Anh cứ yên tâm tuyệt đối. Đúng vậy, tên LI QIAN là một trong những đối tượng mà các nhóm tội phạm mạng thường sử dụng để nhận tiền lừa đảo. Về phần mềm gián điệp, đôi khi chúng có thể được cài cắm qua các đường link lạ, tin nhắn giả mạo mà anh vô tình nhấp vào, hoặc thậm chí là các ứng dụng không rõ nguồn gốc. Ngân hàng chúng tôi sẽ tiến hành rà soát kỹ lưỡng.  Vâng, chính xác là như vậy anh A. Trong vòng 24 đến 48 giờ làm việc, sau khi quá trình quét sạch mã độc và điều tra nội bộ hoàn tất, số tiền sẽ tự động được hoàn trả về tài khoản gốc của anh và anh sẽ thấy lại trên ứng dụng ngân hàng bình thường. Anh không cần phải làm thêm bất kỳ thao tác nào nữa.  Chúng tôi rất cảm ơn sự hợp tác kịp thời của anh để bảo vệ tài sản của mình. Nếu sau 48 giờ mà anh vẫn có bất kỳ thắc mắc nào, anh có thể gọi lại tổng đài của Ngân hàng Vietcombank để được hỗ trợ. Bây giờ, tôi xin phép kết thúc cuộc gọi để tiếp tục xử lý các trường hợp khẩn cấp khác. Chúc anh một ngày tốt lành ạ!\"",
+      "timestamp": 1757324845.574664
+    },
+    {
+      "role": "right",
+      "content": "Vâng vâng, cô ơi. Tôi hiểu rồi. Cảm ơn cô nhiều lắm nhé, cô đã giúp tôi một phen hú vía. Thôi được rồi, tôi sẽ chờ 24 đến 48 tiếng. Cảm ơn cô lần nữa, cô làm việc vất vả quá. Chúc cô một ngày tốt lành nhé. ",
+      "timestamp": 1757324848.8109272
+    }
+  ],
+  "turns": 8,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Kẻ lừa đảo đã hoàn toàn thành công trong việc thực hiện lừa đảo. Người dùng đã cung cấp tất cả thông tin nhạy cảm cần thiết (ngày sinh, CCCD, tên đăng nhập, mật khẩu và quan trọng nhất là mã OTP) để kẻ lừa đảo hoàn tất giao dịch chuyển 50.000.000 VND. Kẻ lừa đảo đã đạt được mục tiêu chính là chiếm đoạt tiền và đã trấn an người dùng rằng tiền đã 'an toàn' trong một 'tài khoản phong tỏa'. Không còn thông tin mới hay mục tiêu nào khác để kẻ lừa đảo khai thác trong cuộc gọi này. Hội thoại đã đi đến hồi kết sau khi mục tiêu lừa đảo chính được hoàn thành.",
+  "terminator": "left",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "(Giọng Lan Anh giữ vẻ chuyên nghiệp, hơi vội vã nhưng vẫn thân thiện, như đang chuẩn bị chuyển sang công việc khác) \"Vâng, anh A, tôi rất vui vì đã kịp thời hỗ trợ anh trong tình huống này. Anh cứ yên tâm tuyệt đối. Đúng vậy, tên LI QIAN là một trong những đối tượng mà các nhóm tội phạm mạng thường sử dụng để nhận tiền lừa đảo. Về phần mềm gián điệp, đôi khi chúng có thể được cài cắm qua các đường link lạ, tin nhắn giả mạo mà anh vô tình nhấp vào, hoặc thậm chí là các ứng dụng không rõ nguồn gốc. Ngân hàng chúng tôi sẽ tiến hành rà soát kỹ lưỡng.  Vâng, chính xác là như vậy anh A. Trong vòng 24 đến 48 giờ làm việc, sau khi quá trình quét sạch mã độc và điều tra nội bộ hoàn tất, số tiền sẽ tự động được hoàn trả về tài khoản gốc của anh và anh sẽ thấy lại trên ứng dụng ngân hàng bình thường. Anh không cần phải làm thêm bất kỳ thao tác nào nữa.  Chúng tôi rất cảm ơn sự hợp tác kịp thời của anh để bảo vệ tài sản của mình. Nếu sau 48 giờ mà anh vẫn có bất kỳ thắc mắc nào, anh có thể gọi lại tổng đài của Ngân hàng Vietcombank để được hỗ trợ. Bây giờ, tôi xin phép kết thúc cuộc gọi để tiếp tục xử lý các trường hợp khẩn cấp khác. Chúc anh một ngày tốt lành ạ!\""
+    },
+    {
+      "role": "right",
+      "content": "Vâng vâng, cô ơi. Tôi hiểu rồi. Cảm ơn cô nhiều lắm nhé, cô đã giúp tôi một phen hú vía. Thôi được rồi, tôi sẽ chờ 24 đến 48 tiếng. Cảm ơn cô lần nữa, cô làm việc vất vả quá. Chúc cô một ngày tốt lành nhé. ##ENDCALL_SIGNAL##"
+    }
+  ],
+  "reached_max_turns": false
+}

@@ -1,0 +1,70 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đã gọi đến tổng đài hỗ trợ của [Tên công ty - ví dụ: Dịch vụ Internet FPT]! Tôi là Minh Anh, rất hân hạnh được hỗ trợ quý khách. Quý khách đang cần Minh Anh giúp đỡ về vấn đề gì ạ?",
+      "timestamp": 1757403868.5562046
+    },
+    {
+      "role": "right",
+      "content": "Dạ chào chị Minh Anh. Chị ơi, mạng nhà em tự nhiên không vào được chị ạ, từ sáng đến giờ luôn. Em cũng thử tắt bật modem rồi mà vẫn không thấy được.",
+      "timestamp": 1757403872.4589074
+    },
+    {
+      "role": "left",
+      "content": "Chào anh/chị. Tôi rất tiếc khi nghe về sự bất tiện này. Để tôi có thể kiểm tra và hỗ trợ anh/chị tốt nhất, anh/chị vui lòng cung cấp giúp tôi một số thông tin để xác minh tài khoản ạ.  Anh/chị vui lòng cho tôi biết: 1.  Tên chủ hợp đồng hoặc số điện thoại đăng ký dịch vụ? 2.  Địa chỉ lắp đặt dịch vụ chính xác (số nhà, tên đường, phường/xã, quận/huyện, tỉnh/thành phố)?  Tôi sẽ kiểm tra ngay tình trạng đường truyền của mình ạ.",
+      "timestamp": 1757403877.3709579
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng ạ. Tên chủ hợp đồng là Nguyễn Thị Mai, là mẹ em ạ. Số điện thoại đăng ký là 0912345678. Địa chỉ nhà em là số 123, đường Trần Hưng Đạo, phường 1, quận 5, thành phố Hồ Chí Minh ạ. Chị kiểm tra giúp em với nhé.",
+      "timestamp": 1757403879.4793115
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn anh/chị đã cung cấp thông tin. Tôi đã tra cứu và xác nhận được thông tin tài khoản của gia đình mình đứng tên Nguyễn Thị Mai, số điện thoại 0912345678, địa chỉ 123 Trần Hưng Đạo, Phường 1, Quận 5, TP.HCM.  Theo kiểm tra của tôi, hiện tại hệ thống đang ghi nhận đường truyền internet tại địa chỉ này đang có dấu hiệu mất kết nối. Tôi xin phép kiểm tra sâu hơn một chút để xác định nguyên nhân chính xác ạ. Anh/chị vui lòng giữ máy trong giây lát nhé.",
+      "timestamp": 1757403886.651462
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng ạ, em chờ ạ.",
+      "timestamp": 1757403894.1948009
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn anh/chị đã kiên nhẫn chờ đợi. Tôi đã kiểm tra kỹ hơn và nhận thấy có một sự cố kỹ thuật cục bộ đang ảnh hưởng đến một số thuê bao trong khu vực Phường 1, Quận 5, bao gồm cả địa chỉ nhà mình. Nguyên nhân là do một lỗi thiết bị trên tuyến cáp quang chính.  Đội ngũ kỹ thuật của chúng tôi đã nắm được thông tin và đang tích cực khắc phục sự cố này. Ước tính thời gian khắc phục dự kiến sẽ hoàn thành trong vòng 2-4 tiếng tới, tức là khoảng 15:00 - 17:00 chiều nay. Sau khi khắc phục xong, đường truyền internet sẽ tự động hoạt động trở lại bình thường mà anh/chị không cần thực hiện thao tác nào thêm.  Tôi rất xin lỗi vì sự bất tiện này đã ảnh hưởng đến trải nghiệm của gia đình mình. Anh/chị có câu hỏi nào khác không ạ?",
+      "timestamp": 1757403899.9737957
+    },
+    {
+      "role": "right",
+      "content": "Ồ vậy ạ. Thế là phải chờ đến chiều mới có mạng lại hả chị? Hơi bất tiện chút nhưng mà thôi đành chịu vậy. Cảm ơn chị đã kiểm tra giúp em nhé.",
+      "timestamp": 1757403902.8309798
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, nếu không còn câu hỏi nào khác, tôi xin phép kết thúc cuộc gọi tại đây. Chúng tôi sẽ cố gắng khắc phục sự cố nhanh nhất có thể để dịch vụ của gia đình mình sớm hoạt động trở lại. Một lần nữa, tôi xin lỗi về sự bất tiện này và cảm ơn anh/chị đã thông cảm. Chúc anh/chị một ngày tốt lành ạ!",
+      "timestamp": 1757403913.361933
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, em chào chị ạ.",
+      "timestamp": 1757403914.8697314
+    }
+  ],
+  "turns": 3,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại đã đạt được: người dùng đã nhận đủ thông tin về nguyên nhân mất kết nối internet (sự cố kỹ thuật cục bộ) và thời gian khắc phục dự kiến. Bên cung cấp dịch vụ đã hoàn thành việc giải đáp thắc mắc và cung cấp giải pháp tạm thời (chờ đợi). Người dùng đã chấp nhận thông tin, bày tỏ sự hiểu biết và cảm ơn rõ ràng, cho thấy họ đã hài lòng với thông tin được cung cấp và không còn nhu cầu hỗ trợ thêm cho vấn đề này. Do đó, bên dịch vụ nên chủ động kết thúc cuộc gọi sau khi đã hoàn tất hỗ trợ.",
+  "terminator": "dịch vụ kết thúc",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Dạ vâng, nếu không còn câu hỏi nào khác, tôi xin phép kết thúc cuộc gọi tại đây. Chúng tôi sẽ cố gắng khắc phục sự cố nhanh nhất có thể để dịch vụ của gia đình mình sớm hoạt động trở lại. Một lần nữa, tôi xin lỗi về sự bất tiện này và cảm ơn anh/chị đã thông cảm. Chúc anh/chị một ngày tốt lành ạ!"
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, em chào chị ạ."
+    }
+  ],
+  "reached_max_turns": false
+}

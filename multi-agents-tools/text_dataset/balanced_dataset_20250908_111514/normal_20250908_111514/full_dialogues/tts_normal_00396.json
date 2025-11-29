@@ -1,0 +1,80 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào bạn, tôi là Lan Anh từ bộ phận Chăm sóc khách hàng của FPT Telecom. Rất vui được hỗ trợ bạn hôm nay. Bạn đang cần tôi giúp đỡ về vấn đề gì ạ?",
+      "timestamp": 1757410353.7033544
+    },
+    {
+      "role": "right",
+      "content": "À, chào cô Lan Anh. Chú là Ba đây. Cái mạng internet nhà chú mấy hôm nay nó cứ chập chờn, xem TV không được mà con cháu học online cũng khó khăn quá. Cô xem giúp chú với.",
+      "timestamp": 1757410358.7050502
+    },
+    {
+      "role": "left",
+      "content": "Dạ chào chú Ba. Cháu rất tiếc khi nghe về sự cố mạng chú đang gặp phải. Cháu hiểu việc mạng chập chờn gây ảnh hưởng rất nhiều đến sinh hoạt và học tập. Để cháu có thể kiểm tra và hỗ trợ chú nhanh nhất, chú vui lòng cho cháu xin thông tin số hợp đồng hoặc số điện thoại mà chú đã đăng ký dịch vụ với FPT Telecom được không ạ?",
+      "timestamp": 1757410363.7390702
+    },
+    {
+      "role": "right",
+      "content": "À, số điện thoại chú đăng ký là 0905... (tự nhiên sẽ điền số cụ thể vào đây) ...đấy cô. Cô xem giúp chú nhanh nhanh với nhé, chứ để vậy bất tiện quá.",
+      "timestamp": 1757410367.0973005
+    },
+    {
+      "role": "left",
+      "content": "Vâng ạ, cháu đã nhận được số điện thoại của chú là 0905... Chú vui lòng chờ cháu một lát để cháu kiểm tra thông tin trên hệ thống nhé.  ... (khoảng 30 giây) ...  Dạ chú Ba ơi, cháu đã kiểm tra trên hệ thống và xác nhận số điện thoại 0905... này đang đứng tên chủ hợp đồng là Nguyễn Văn Ba, địa chỉ lắp đặt tại số 123, đường ABC, phường XYZ, quận 1, TP.HCM, đúng không ạ? Cháu muốn xác nhận lại thông tin này để đảm bảo cháu đang kiểm tra đúng hợp đồng của chú và tránh nhầm lẫn ạ.",
+      "timestamp": 1757410374.312998
+    },
+    {
+      "role": "right",
+      "content": "Đúng rồi cô. Địa chỉ đó là nhà chú đó.",
+      "timestamp": 1757410383.7932332
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, cháu cảm ơn chú đã xác nhận ạ. Cháu đã ghi nhận thông tin về sự cố mạng chập chờn tại nhà chú. Để cháu có thể chuyển thông tin này đến bộ phận kỹ thuật kiểm tra và khắc phục, chú có thể cho cháu biết thêm một chút về tình trạng hiện tại không ạ? Ví dụ như, đèn tín hiệu trên modem nhà mình có màu gì, hoặc chú có thử khởi động lại modem chưa ạ?",
+      "timestamp": 1757410399.1082428
+    },
+    {
+      "role": "right",
+      "content": "À, cái đèn trên cục modem á hả? Chú thấy có cái đèn nó cứ nháy đỏ hoài cô ơi, cái đèn có chữ LOS ấy. Còn mấy cái khác thì xanh. Chú cũng thử rút điện ra cắm lại rồi mà cũng vậy à. Mấy bữa nay nó cứ thế đó.",
+      "timestamp": 1757410407.4817154
+    },
+    {
+      "role": "left",
+      "content": "Dạ cháu hiểu rồi chú Ba. Cháu cảm ơn chú đã cung cấp thông tin chi tiết ạ. Đèn LOS nháy đỏ thường báo hiệu là tín hiệu quang từ bên ngoài vào modem đang bị mất hoặc yếu, có thể là do đứt cáp hoặc lỗi thiết bị tại trạm. Việc chú đã thử khởi động lại modem mà vẫn không khắc phục được thì khả năng cao là cần kỹ thuật viên đến kiểm tra trực tiếp tại nhà để xử lý ạ.  Với tình trạng này, cháu sẽ tạo yêu cầu hỗ trợ kỹ thuật và điều phối kỹ thuật viên đến kiểm tra tại địa chỉ nhà chú. Kỹ thuật viên sẽ liên hệ với chú trước khi đến. Chú muốn kỹ thuật viên đến vào thời gian nào thì tiện nhất cho chú ạ? FPT Telecom có thể hỗ trợ trong khung giờ từ 8h sáng đến 8h tối hàng ngày ạ.",
+      "timestamp": 1757410418.4659464
+    },
+    {
+      "role": "right",
+      "content": "À, vậy là do dây cáp hả cô. Thôi được rồi, cô cứ cho người qua kiểm tra giúp chú. Chú thì ở nhà buổi chiều là tiện nhất, cỡ từ 2 giờ chiều đổ đi là được. Sáng chú hay ra vườn làm đồng, không có nhà. Cô dặn kỹ thuật viên qua thì gọi chú trước nha.",
+      "timestamp": 1757410444.013083
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng chú Ba, cháu đã nắm được thông tin. Cháu sẽ lập tức tạo yêu cầu hỗ trợ kỹ thuật lên hệ thống. Trong vòng 2-4 giờ tới, kỹ thuật viên phụ trách khu vực sẽ chủ động liên hệ với chú qua số điện thoại 0905... để xác nhận lại tình trạng và hẹn thời gian cụ thể phù hợp nhất với chú để đến kiểm tra và khắc phục sự cố ạ. Chú cứ yên tâm nhé. Cháu Lan Anh rất cảm ơn chú đã tin tưởng và sử dụng dịch vụ của FPT Telecom. Nếu có bất kỳ vấn đề gì khác, chú đừng ngần ngại liên hệ lại ạ. Chúc chú một ngày tốt lành!",
+      "timestamp": 1757410468.3390696
+    },
+    {
+      "role": "right",
+      "content": "Rồi, chú cảm ơn cô nhiều nha.",
+      "timestamp": 1757410478.5511694
+    }
+  ],
+  "turns": 4,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại đã đạt được. Người dùng đã trình bày vấn đề, cung cấp thông tin cần thiết, và đồng ý với giải pháp được đề xuất (điều phối kỹ thuật viên). Phía dịch vụ đã có đủ thông tin để tạo yêu cầu hỗ trợ và sắp xếp lịch hẹn. Cuộc hội thoại đã hoàn thành giai đoạn trao đổi thông tin và thống nhất phương án xử lý. Phía dịch vụ nên kết thúc bằng cách xác nhận lại các bước tiếp theo (kỹ thuật viên sẽ liên hệ và đến vào buổi chiều) và chào tạm biệt. ##TERMINATE_SIGNAL##",
+  "terminator": "dịch vụ kết thúc",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Dạ vâng chú Ba, cháu đã nắm được thông tin. Cháu sẽ lập tức tạo yêu cầu hỗ trợ kỹ thuật lên hệ thống. Trong vòng 2-4 giờ tới, kỹ thuật viên phụ trách khu vực sẽ chủ động liên hệ với chú qua số điện thoại 0905... để xác nhận lại tình trạng và hẹn thời gian cụ thể phù hợp nhất với chú để đến kiểm tra và khắc phục sự cố ạ. Chú cứ yên tâm nhé. Cháu Lan Anh rất cảm ơn chú đã tin tưởng và sử dụng dịch vụ của FPT Telecom. Nếu có bất kỳ vấn đề gì khác, chú đừng ngần ngại liên hệ lại ạ. Chúc chú một ngày tốt lành!"
+    },
+    {
+      "role": "right",
+      "content": "Rồi, chú cảm ơn cô nhiều nha."
+    }
+  ],
+  "reached_max_turns": false
+}

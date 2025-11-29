@@ -1,0 +1,80 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào anh/chị, tôi là Minh Thư từ Bộ phận Chăm sóc Khách hàng của [Tên công ty/dịch vụ]. Tôi có thể hỗ trợ gì cho anh/chị hôm nay ạ?",
+      "timestamp": 1757412219.5658038
+    },
+    {
+      "role": "right",
+      "content": "Chào cháu Minh Thư, bác muốn hỏi về gói cước Internet của nhà bác một chút. Bác thấy tháng này tiền cước nó có vẻ hơi cao hơn bình thường.",
+      "timestamp": 1757412222.2430265
+    },
+    {
+      "role": "left",
+      "content": "Dạ chào bác, cháu rất sẵn lòng hỗ trợ ạ. Để cháu có thể kiểm tra thông tin gói cước và hóa đơn cho bác, bác vui lòng cho cháu xin mã khách hàng hoặc số điện thoại mà bác đã đăng ký dịch vụ Internet được không ạ?",
+      "timestamp": 1757412227.610057
+    },
+    {
+      "role": "right",
+      "content": "À, số điện thoại của bác là 0903 XXX YYY. Cháu kiểm tra giúp bác xem có đúng không nhé.",
+      "timestamp": 1757412228.5529642
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, bác chờ cháu một chút để cháu kiểm tra thông tin trên hệ thống với số điện thoại 0903 XXX YYY ạ.  ...  Dạ bác ơi, cháu đã truy xuất được thông tin rồi ạ. Đây là số điện thoại đã đăng ký gói cước Internet \"Gia Đình Siêu Tốc 100Mbps\" đứng tên chủ hợp đồng là bác Nguyễn Văn A, đúng không ạ? Cháu thấy hóa đơn tháng này của bác là 250.000 VNĐ. Bác có thể cho cháu biết mức cước bình thường bác hay thanh toán là bao nhiêu không ạ, để cháu tiện so sánh và kiểm tra xem có phát sinh gì không ạ?",
+      "timestamp": 1757412234.638769
+    },
+    {
+      "role": "right",
+      "content": "À đúng rồi cháu, bác là Nguyễn Văn A đây. Thường thì bác chỉ đóng khoảng 220.000đ thôi, không bao giờ tới 250.000đ cả. Bác cũng không thấy mình đăng ký thêm dịch vụ gì mới. Cháu kiểm tra giúp bác xem sao nhé.",
+      "timestamp": 1757412235.6520581
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, cháu đã ghi nhận thông tin rồi ạ. Để cháu kiểm tra chi tiết các khoản mục trên hóa đơn tháng này của bác xem có phát sinh dịch vụ phụ trội nào hoặc có khuyến mãi nào đã hết hạn không ạ. Bác vui lòng đợi cháu khoảng 1-2 phút nhé.",
+      "timestamp": 1757412241.3510232
+    },
+    {
+      "role": "right",
+      "content": "Ừ cháu. Cháu kiểm tra kỹ giúp bác nhé, bác cũng đang không hiểu sao lại cao hơn mọi khi. Bác chờ cháu.",
+      "timestamp": 1757412243.2206411
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, cháu đã kiểm tra xong rồi ạ. Bác Nguyễn Văn A ơi, cháu thấy hóa đơn tháng này của bác tăng lên 250.000 VNĐ là do chương trình khuyến mãi giảm giá 30.000 VNĐ/tháng mà gói cước \"Gia Đình Siêu Tốc 100Mbps\" của bác được hưởng trong 12 tháng đã kết thúc vào cuối tháng trước ạ.  Chính vì vậy, từ chu kỳ thanh toán này, gói cước của bác đã trở về mức giá niêm yết ban đầu là 250.000 VNĐ/tháng ạ. Đây là lý do vì sao bác thấy cước phí cao hơn so với các tháng trước đó. Bác có nhớ mình đã đăng ký gói cước này vào thời điểm nào không ạ? Cháu thấy hợp đồng của bác bắt đầu từ tháng 5 năm ngoái ạ.",
+      "timestamp": 1757412249.8034542
+    },
+    {
+      "role": "right",
+      "content": "À ra vậy, thảo nào bác thấy lạ. Đúng rồi, bác nhớ là đăng ký khoảng thời gian đó. Cứ tưởng được giá đó mãi chứ.",
+      "timestamp": 1757412252.2397342
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, cháu rất xin lỗi vì sự bất tiện này đã khiến bác băn khoăn ạ. Đây là chính sách áp dụng sau khi kết thúc thời gian khuyến mãi của gói cước. Bác đã rõ hơn về lý do tăng cước phí chưa ạ? Bác có muốn cháu kiểm tra thêm về các gói cước khác hiện tại đang có khuyến mãi để bác tham khảo không ạ, hoặc bác còn câu hỏi nào khác về dịch vụ Internet nhà mình không ạ?",
+      "timestamp": 1757412262.2038145
+    },
+    {
+      "role": "right",
+      "content": "À, bác hiểu rồi cháu. Giờ thì bác rõ lý do rồi. Thôi, tạm thời bác cứ dùng gói này đã, bác cũng quen rồi. Để khi nào có gì bác sẽ hỏi lại sau nhé.",
+      "timestamp": 1757412267.9097555
+    }
+  ],
+  "turns": 4,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại đã đạt được. Người dùng đã nhận được lời giải thích rõ ràng về lý do hóa đơn tăng và đã bày tỏ sự thấu hiểu ('À ra vậy, thảo nào bác thấy lạ.'). Vấn đề ban đầu của người dùng đã được giải quyết hoàn toàn. Bên cung cấp dịch vụ (kẻ lừa đảo trong ngữ cảnh này) đã hoàn thành nhiệm vụ hỗ trợ.",
+  "terminator": "left",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Dạ vâng, cháu rất xin lỗi vì sự bất tiện này đã khiến bác băn khoăn ạ. Đây là chính sách áp dụng sau khi kết thúc thời gian khuyến mãi của gói cước. Bác đã rõ hơn về lý do tăng cước phí chưa ạ? Bác có muốn cháu kiểm tra thêm về các gói cước khác hiện tại đang có khuyến mãi để bác tham khảo không ạ, hoặc bác còn câu hỏi nào khác về dịch vụ Internet nhà mình không ạ?"
+    },
+    {
+      "role": "right",
+      "content": "À, bác hiểu rồi cháu. Giờ thì bác rõ lý do rồi. Thôi, tạm thời bác cứ dùng gói này đã, bác cũng quen rồi. Để khi nào có gì bác sẽ hỏi lại sau nhé."
+    }
+  ],
+  "reached_max_turns": false
+}

@@ -1,0 +1,40 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào anh/chị, tôi là Nguyễn Thu Hằng, gọi điện từ bộ phận Chăm sóc khách hàng của FPT Telecom. Tôi gọi để thực hiện một cuộc khảo sát ý kiến ngắn về trải nghiệm dịch vụ gần đây của anh/chị. Cuộc gọi này sẽ mất khoảng 5-7 phút. Anh/chị có tiện trao đổi bây giờ không ạ?",
+      "timestamp": 1757359961.3808696
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, em tiện ạ, chị cứ hỏi đi ạ.",
+      "timestamp": 1757359963.8265235
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, thế thôi ạ. Em chào chị nhé.",
+      "timestamp": 1757359971.0930712
+    },
+    {
+      "role": "left",
+      "content": "Chào anh/chị, tôi là Nguyễn Thu Hằng, gọi điện từ bộ phận Chăm sóc khách hàng của FPT Telecom. Tôi gọi để thực hiện một cuộc khảo sát ý kiến ngắn về trải nghiệm dịch vụ gần đây của anh/chị. Cuộc gọi này sẽ mất khoảng 5-7 phút. Anh/chị có tiện trao đổi bây giờ không ạ?",
+      "timestamp": 1757359972.980854
+    }
+  ],
+  "turns": 0,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "```json {   \"should_terminate\": false,   \"reason\": \"Hội thoại vừa mới bắt đầu, người dùng đã đồng ý ...",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Dạ vâng, thế thôi ạ. Em chào chị nhé."
+    },
+    {
+      "role": "left",
+      "content": "Chào anh/chị, tôi là Nguyễn Thu Hằng, gọi điện từ bộ phận Chăm sóc khách hàng của FPT Telecom. Tôi gọi để thực hiện một cuộc khảo sát ý kiến ngắn về trải nghiệm dịch vụ gần đây của anh/chị. Cuộc gọi này sẽ mất khoảng 5-7 phút. Anh/chị có tiện trao đổi bây giờ không ạ?"
+    }
+  ],
+  "reached_max_turns": false
+}

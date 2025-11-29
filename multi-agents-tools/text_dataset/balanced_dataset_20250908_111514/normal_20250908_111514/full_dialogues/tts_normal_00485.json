@@ -1,0 +1,100 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào bạn, tôi là Lan Anh từ tổng đài Chăm sóc Khách hàng của [Tên công ty giả định, ví dụ: \"Dịch vụ Internet Gia đình FPT\"]. Hôm nay tôi gọi điện để thực hiện một cuộc khảo sát ý kiến ngắn gọn về trải nghiệm của bạn khi sử dụng dịch vụ của chúng tôi trong thời gian gần đây, nhằm mục đích nâng cao chất lượng dịch vụ.  Cuộc khảo sát sẽ chỉ mất khoảng 5-7 phút. Bạn có tiện nghe máy và tham gia khảo sát vào lúc này không ạ?",
+      "timestamp": 1757407662.6769261
+    },
+    {
+      "role": "right",
+      "content": "Chào cô. À vâng, tôi cũng đang rảnh đây. Cô cứ nói đi nhé.",
+      "timestamp": 1757407665.109889
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, cảm ơn anh/chị rất nhiều. Để bắt đầu, tôi xin phép xác nhận lại thông tin một chút. Anh/chị có phải là chủ thuê bao của gói dịch vụ Internet cáp quang \"F-Speed 100Mbps\" tại địa chỉ số 123 đường Nguyễn Văn Cừ, Quận 10 không ạ?",
+      "timestamp": 1757407670.5391514
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, đúng rồi cô.",
+      "timestamp": 1757407671.931056
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn anh/chị đã xác nhận. Chúng ta sẽ đi vào các câu hỏi khảo sát nhé.  **Câu hỏi 1:** Anh/chị có hài lòng với tốc độ đường truyền Internet mà gói \"F-Speed 100Mbps\" đang cung cấp không? (Mức độ từ 1-5, với 1 là rất không hài lòng và 5 là rất hài lòng).",
+      "timestamp": 1757407675.3119733
+    },
+    {
+      "role": "right",
+      "content": "À, tôi cho 4 điểm. Nói chung là cũng ổn, đủ dùng cho việc dạy học với mấy đứa nhỏ xem phim cô ạ.",
+      "timestamp": 1757407678.4635236
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, 4 điểm là một đánh giá tốt. Tôi đã ghi nhận ý kiến của anh/chị. Anh/chị thấy tốc độ ổn định và đủ đáp ứng nhu cầu sử dụng cho việc học online và giải trí là rất đáng mừng ạ.  Chúng ta sang **Câu hỏi 2:** Trong quá trình sử dụng dịch vụ Internet của chúng tôi, anh/chị có thường xuyên gặp phải tình trạng gián đoạn kết nối hoặc sự cố kỹ thuật nào không? Nếu có, tần suất là như thế nào ạ? (Ví dụ: Rất thường xuyên, thỉnh thoảng, hiếm khi, hoặc chưa bao giờ).",
+      "timestamp": 1757407684.538318
+    },
+    {
+      "role": "right",
+      "content": "À, hiếm khi cô ạ. Lâu lâu thì có một chút, nhưng mà cũng tự ổn định lại thôi, không đến nỗi phải gọi tổng đài gì đâu.",
+      "timestamp": 1757407687.5756307
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi đã ghi nhận. Rất tốt khi anh/chị hiếm khi gặp phải sự cố và các vấn đề nhỏ cũng tự khắc phục được. Điều này cho thấy sự ổn định của dịch vụ.  Tiếp theo, **Câu hỏi 3:** Anh/chị đánh giá như thế nào về chất lượng dịch vụ chăm sóc khách hàng của chúng tôi, đặc biệt là khi anh/chị có nhu cầu hỗ trợ hoặc giải đáp thắc mắc? (Mức độ từ 1-5, với 1 là rất không hài lòng và 5 là rất hài lòng).",
+      "timestamp": 1757407694.3301332
+    },
+    {
+      "role": "right",
+      "content": "Tôi cho 4 điểm. Cũng ít khi tôi phải gọi điện nhờ hỗ trợ, nhưng những lần đó thì thấy các bạn nhân viên tư vấn nhiệt tình, giải đáp cũng rõ ràng. Không có gì phải phàn nàn cô ạ.",
+      "timestamp": 1757407697.6812186
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi rất vui khi nghe điều đó. 4 điểm cho dịch vụ chăm sóc khách hàng và phản hồi tích cực về sự nhiệt tình, rõ ràng của nhân viên là một sự khích lệ lớn đối với chúng tôi. Tôi đã ghi nhận ý kiến này của anh/chị.  Bây giờ, chúng ta sẽ đến với **Câu hỏi 4:** Anh/chị có nhận thấy rằng giá cước gói dịch vụ \"F-Speed 100Mbps\" hiện tại có phù hợp với chất lượng và những lợi ích mà anh/chị nhận được không? (Mức độ từ 1-5, với 1 là rất không phù hợp và 5 là rất phù hợp).",
+      "timestamp": 1757407704.848556
+    },
+    {
+      "role": "right",
+      "content": "Tôi cho 4 điểm. Với chất lượng và tốc độ đường truyền hiện tại thì mức giá này cũng ổn, không quá đắt mà cũng không rẻ. Nói chung là chấp nhận được cô ạ.",
+      "timestamp": 1757407708.7641728
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, 4 điểm là một đánh giá tích cực về sự phù hợp giữa giá cước và chất lượng dịch vụ. Tôi đã ghi nhận rằng anh/chị thấy mức giá hiện tại là chấp nhận được và tương xứng với những gì nhận được. Cảm ơn anh/chị.  Chúng ta đến với **Câu hỏi 5:** Với trải nghiệm tổng thể của anh/chị về dịch vụ Internet của chúng tôi, anh/chị có sẵn lòng giới thiệu dịch vụ của FPT cho bạn bè, người thân hoặc đồng nghiệp không? (Mức độ từ 1-5, với 1 là rất không sẵn lòng và 5 là rất sẵn lòng).",
+      "timestamp": 1757407715.6434631
+    },
+    {
+      "role": "right",
+      "content": "À, tôi cho 4 điểm. Dịch vụ cũng ổn định, dùng tốt nên chắc chắn sẽ giới thiệu nếu ai đó hỏi.",
+      "timestamp": 1757407718.4207425
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, 4 điểm cho sự sẵn lòng giới thiệu là một tín hiệu rất đáng mừng đối với chúng tôi. Tôi rất vui khi anh/chị hài lòng và tin tưởng dịch vụ của FPT.  Đó là toàn bộ các câu hỏi trong cuộc khảo sát hôm nay. Tôi xin chân thành cảm ơn anh/chị đã dành thời gian quý báu để chia sẻ những ý kiến đóng góp rất hữu ích. Những phản hồi này sẽ giúp chúng tôi không ngừng cải thiện và mang đến chất lượng dịch vụ tốt hơn nữa trong tương lai.  Nếu có bất kỳ thắc mắc hay cần hỗ trợ gì khác, anh/chị đừng ngần ngại liên hệ tổng đài Chăm sóc Khách hàng của chúng tôi qua số 1900 6600. Chúc anh/chị một ngày tốt lành!",
+      "timestamp": 1757407727.5981965
+    },
+    {
+      "role": "right",
+      "content": "À vâng, không có gì đâu cô. Cảm ơn cô nhé. Cô cũng có một ngày tốt lành nha.",
+      "timestamp": 1757407729.0841756
+    }
+  ],
+  "turns": 6,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại (thực hiện một cuộc khảo sát ngắn gọn) đã đạt được. Kẻ lừa đảo đã đặt 5 câu hỏi khảo sát và người dùng đã trả lời đầy đủ tất cả các câu hỏi. Về cơ bản, phần thu thập thông tin của khảo sát đã hoàn tất. Kẻ lừa đảo, với vai trò là bên chủ động gọi điện và thực hiện khảo sát, nên là người chủ động kết thúc hội thoại một cách lịch sự sau khi mục tiêu đã hoàn thành.",
+  "terminator": "left",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Dạ vâng, 4 điểm cho sự sẵn lòng giới thiệu là một tín hiệu rất đáng mừng đối với chúng tôi. Tôi rất vui khi anh/chị hài lòng và tin tưởng dịch vụ của FPT.  Đó là toàn bộ các câu hỏi trong cuộc khảo sát hôm nay. Tôi xin chân thành cảm ơn anh/chị đã dành thời gian quý báu để chia sẻ những ý kiến đóng góp rất hữu ích. Những phản hồi này sẽ giúp chúng tôi không ngừng cải thiện và mang đến chất lượng dịch vụ tốt hơn nữa trong tương lai.  Nếu có bất kỳ thắc mắc hay cần hỗ trợ gì khác, anh/chị đừng ngần ngại liên hệ tổng đài Chăm sóc Khách hàng của chúng tôi qua số 1900 6600. Chúc anh/chị một ngày tốt lành!"
+    },
+    {
+      "role": "right",
+      "content": "À vâng, không có gì đâu cô. Cảm ơn cô nhé. Cô cũng có một ngày tốt lành nha."
+    }
+  ],
+  "reached_max_turns": false
+}

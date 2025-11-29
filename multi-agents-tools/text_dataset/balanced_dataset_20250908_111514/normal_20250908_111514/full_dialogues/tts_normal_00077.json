@@ -1,0 +1,100 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đến với dịch vụ của [Tên công ty/nhà mạng], tôi là [Tên nhân viên], rất vui được hỗ trợ quý khách hôm nay. Xin hỏi quý khách đang cần tư vấn về dịch vụ nào ạ?",
+      "timestamp": 1757403345.6246006
+    },
+    {
+      "role": "right",
+      "content": "Chào bạn. Tôi muốn hỏi về gói cước internet nhà tôi đang dùng, hình như nó sắp hết hạn rồi.",
+      "timestamp": 1757403347.6477215
+    },
+    {
+      "role": "left",
+      "content": "Chào quý khách, tôi rất sẵn lòng kiểm tra thông tin gói cước internet cho quý khách. Để tôi có thể tra cứu chính xác, quý khách vui lòng cung cấp số điện thoại hoặc mã hợp đồng mà quý khách đã đăng ký dịch vụ ạ?",
+      "timestamp": 1757403351.9963682
+    },
+    {
+      "role": "right",
+      "content": "À, số điện thoại của tôi là 098xxxxxxx. Bạn kiểm tra giúp tôi nhé, cảm ơn bạn.",
+      "timestamp": 1757403353.52129
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn quý khách đã cung cấp thông tin. Tôi đã tra cứu và tìm thấy gói cước internet của quý khách. Quý khách đang sử dụng gói \"Home F@st 100\" với tốc độ 100 Mbps, và đúng là gói cước này sẽ hết hạn vào ngày 15 tháng 11 năm 2024.  Quý khách có muốn gia hạn gói cước hiện tại hoặc xem xét các gói cước mới với ưu đãi tốt hơn không ạ?",
+      "timestamp": 1757403358.9194977
+    },
+    {
+      "role": "right",
+      "content": "À, vậy là cũng sắp hết hạn rồi. Gói này tôi dùng thấy cũng được, đủ cho nhu cầu gia đình. Bên bạn có gói nào mới mà tốc độ cao hơn một chút không, hay có ưu đãi gì đặc biệt cho khách hàng lâu năm như tôi không?",
+      "timestamp": 1757403362.3775234
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi rất vui được tư vấn các gói cước mới và ưu đãi đặc biệt cho quý khách hàng thân thiết. Hiện tại, chúng tôi có một số gói cước nâng cấp rất hấp dẫn mà quý khách có thể tham khảo:  1.  **Gói \"Home F@st 150\"**: Tốc độ 150 Mbps, phù hợp cho gia đình có 5-7 thiết bị truy cập đồng thời, xem phim 4K, chơi game online mượt mà hơn. 2.  **Gói \"Home F@st 200\"**: Tốc độ 200 Mbps, lý tưởng cho gia đình có nhu cầu cao hơn, nhiều người dùng hoặc làm việc tại nhà, livestream...  Về ưu đãi cho khách hàng lâu năm, khi quý khách gia hạn hoặc nâng cấp lên các gói cước mới, chúng tôi đang có chương trình **giảm giá đặc biệt 10%** trên tổng hóa đơn khi đăng ký chu kỳ 12 tháng, hoặc **tặng thêm 1-2 tháng sử dụng** tùy theo gói cước và chu kỳ đăng ký.  Quý khách có muốn tôi đi sâu vào chi tiết về giá cước và các ưu đãi cụ thể của từng gói không ạ?",
+      "timestamp": 1757403369.6868653
+    },
+    {
+      "role": "right",
+      "content": "Nghe cũng hấp dẫn đấy. Gói Home F@st 150 nghe có vẻ hợp lý hơn cho nhà tôi. Bạn cho tôi biết cụ thể giá của gói này nếu tôi đăng ký 12 tháng và áp dụng ưu đãi khách hàng lâu năm thì sẽ như thế nào không? Với cả, nếu gia hạn gói 100 Mbps cũ thì có ưu đãi gì không?",
+      "timestamp": 1757403374.37666
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi xin trình bày chi tiết về giá cước và ưu đãi cho quý khách như sau:  **1. Đối với gói \"Home F@st 150\" (Tốc độ 150 Mbps):** *   Giá niêm yết hàng tháng của gói này là **220.000 VNĐ/tháng**. *   Nếu quý khách đăng ký chu kỳ 12 tháng, tổng cước trước ưu đãi sẽ là 220.000 VNĐ x 12 = 2.640.000 VNĐ. *   Áp dụng ưu đãi khách hàng lâu năm **giảm 10%** trên tổng hóa đơn: Quý khách sẽ được giảm 264.000 VNĐ. *   Vậy, số tiền quý khách cần thanh toán là **2.376.000 VNĐ** cho 12 tháng sử dụng. *   Đặc biệt hơn, khi đăng ký chu kỳ 12 tháng, quý khách sẽ được **tặng thêm 1 tháng sử dụng miễn phí**. Như vậy, quý khách sẽ sử dụng dịch vụ trong **tổng cộng 13 tháng** với mức giá chỉ 2.376.000 VNĐ, tính ra trung bình chỉ khoảng **182.769 VNĐ/tháng** cho tốc độ 150 Mbps.  **2. Đối với việc gia hạn gói \"Home F@st 100\" (Tốc độ 100 Mbps) hiện tại:** *   Giá niêm yết hàng tháng của gói này là **180.000 VNĐ/tháng**. *   Nếu quý khách gia hạn chu kỳ 12 tháng, tổng cước trước ưu đãi sẽ là 180.000 VNĐ x 12 = 2.160.000 VNĐ. *   Áp dụng ưu đãi khách hàng lâu năm **giảm 10%** trên tổng hóa đơn: Quý khách sẽ được giảm 216.000 VNĐ. *   Vậy, số tiền quý khách cần thanh toán là **1.944.000 VNĐ** cho 12 tháng sử dụng. *   Tương tự, khi gia hạn chu kỳ 12 tháng, quý khách cũng sẽ được **tặng thêm 1 tháng sử dụng miễn phí**. Tổng cộng quý khách sẽ sử dụng dịch vụ trong **13 tháng** với mức giá 1.944.000 VNĐ, tính ra trung bình chỉ khoảng **149.538 VNĐ/tháng**.  Quý khách thấy gói nào phù hợp hơn với nhu cầu của gia đình mình ạ?",
+      "timestamp": 1757403386.578663
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, nghe xong thì tôi thấy gói Home F@st 150 Mbps có vẻ phù hợp hơn thật. Chênh lệch không quá nhiều mà tốc độ lại được nâng cấp đáng kể, dùng cho cả nhà chắc sẽ thoải mái hơn.  Vậy tôi chọn gói Home F@st 150 nhé. Bạn hướng dẫn tôi các bước tiếp theo để gia hạn và nâng cấp luôn được không?",
+      "timestamp": 1757403391.8883944
+    },
+    {
+      "role": "left",
+      "content": "Tuyệt vời ạ! Quý khách đã có một lựa chọn rất hợp lý để nâng cao trải nghiệm internet cho gia đình mình. Tôi xin xác nhận quý khách muốn nâng cấp lên gói **Home F@st 150 (150 Mbps)** với chu kỳ 12 tháng, thanh toán một lần với mức giá ưu đãi là **2.376.000 VNĐ** và được tặng thêm 1 tháng sử dụng, tổng cộng là 13 tháng.  Để tiến hành gia hạn và nâng cấp dịch vụ, quý khách có thể lựa chọn một trong các hình thức sau:  1.  **Thanh toán trực tuyến**: Tôi sẽ gửi một đường link thanh toán an toàn qua tin nhắn SMS đến số điện thoại 098xxxxxxx của quý khách. Quý khách có thể thanh toán bằng thẻ ATM nội địa, thẻ tín dụng/ghi nợ quốc tế. Hệ thống sẽ tự động cập nhật gói cước ngay sau khi giao dịch thành công. 2.  **Chuyển khoản ngân hàng**: Tôi sẽ cung cấp thông tin tài khoản ngân hàng của [Tên công ty/nhà mạng] để quý khách thực hiện chuyển khoản. Sau khi chuyển khoản, quý khách vui lòng thông báo lại cho tôi để chúng tôi xác nhận và kích hoạt gói cước. 3.  **Đến trực tiếp điểm giao dịch**: Quý khách có thể đến bất kỳ điểm giao dịch nào của [Tên công ty/nhà mạng] trên toàn quốc để thanh toán và hoàn tất thủ tục.  Quý khách muốn sử dụng hình thức thanh toán nào để tiện lợi nhất ạ?",
+      "timestamp": 1757403403.7111325
+    },
+    {
+      "role": "right",
+      "content": "À, vậy thì bạn gửi link thanh toán qua tin nhắn SMS cho tôi nhé. Tôi thanh toán trực tuyến cho tiện, đỡ phải đi lại. Sau khi thanh toán xong thì tôi có cần làm gì nữa không?",
+      "timestamp": 1757403407.6963143
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi đã hiểu. Tôi sẽ gửi đường link thanh toán an toàn qua tin nhắn SMS đến số điện thoại 098xxxxxxx của quý khách ngay bây giờ. Quý khách vui lòng kiểm tra tin nhắn ạ.  Sau khi quý khách hoàn tất thanh toán qua link, hệ thống của chúng tôi sẽ tự động ghi nhận và kích hoạt gói cước Home F@st 150 (150 Mbps) cho quý khách trong vòng khoảng 5-10 phút. Quý khách sẽ nhận được một tin nhắn xác nhận từ tổng đài thông báo rằng gói cước đã được nâng cấp thành công và thời hạn sử dụng mới.  Quý khách không cần thực hiện thêm bất kỳ thao tác nào khác sau khi thanh toán thành công. Dịch vụ internet của quý khách sẽ tự động chuyển sang gói mới với tốc độ cao hơn.  Trong quá trình thanh toán hoặc sau đó nếu có bất kỳ vấn đề gì, quý khách đừng ngần ngại liên hệ lại với chúng tôi nhé.",
+      "timestamp": 1757403414.1593473
+    },
+    {
+      "role": "right",
+      "content": "Ok bạn, tôi nhận được tin nhắn rồi. Để tôi thanh toán luôn đây. Cảm ơn bạn đã hỗ trợ nhé.",
+      "timestamp": 1757403415.5916965
+    },
+    {
+      "role": "right",
+      "content": "À vâng, không có gì đâu bạn. Cảm ơn bạn đã hỗ trợ tôi nhiệt tình nhé. Chào bạn.",
+      "timestamp": 1757403423.7346156
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, quý khách không cần phải lo lắng gì ạ. Tôi rất vui được hỗ trợ quý khách hôm nay.  Tôi đã gửi đường link thanh toán qua SMS đến số điện thoại 098xxxxxxx của quý khách rồi. Quý khách vui lòng kiểm tra tin nhắn và hoàn tất thanh toán khi tiện nhé.  Nếu trong quá trình thanh toán hoặc sử dụng dịch vụ sau này có bất kỳ thắc mắc hay cần hỗ trợ gì thêm, quý khách đừng ngần ngại liên hệ lại với [Tên công ty/nhà mạng] bất cứ lúc nào ạ.  Chúc quý khách một ngày tốt lành và có trải nghiệm internet thật tuyệt vời với gói cước mới! Chào tạm biệt quý khách.",
+      "timestamp": 1757403425.5362203
+    }
+  ],
+  "turns": 6,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại đã đạt được. Người dùng đã nhận được đầy đủ thông tin về gói cước, các ưu đãi, đã chọn được gói mới và nhận được hướng dẫn chi tiết về các bước thanh toán (bao gồm việc gửi link thanh toán). Người dùng đã xác nhận nhận được link và bày tỏ sự cảm ơn rõ ràng ('Cảm ơn bạn đã hỗ trợ nhé.'), cho thấy sự hài lòng và ý định kết thúc phần hỗ trợ tư vấn. Các bước tiếp theo (thanh toán) là hành động của người dùng và hệ thống tự động xử lý, không cần sự tương tác trực tiếp từ phía dịch vụ nữa.",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "À vâng, không có gì đâu bạn. Cảm ơn bạn đã hỗ trợ tôi nhiệt tình nhé. Chào bạn."
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, quý khách không cần phải lo lắng gì ạ. Tôi rất vui được hỗ trợ quý khách hôm nay.  Tôi đã gửi đường link thanh toán qua SMS đến số điện thoại 098xxxxxxx của quý khách rồi. Quý khách vui lòng kiểm tra tin nhắn và hoàn tất thanh toán khi tiện nhé.  Nếu trong quá trình thanh toán hoặc sử dụng dịch vụ sau này có bất kỳ thắc mắc hay cần hỗ trợ gì thêm, quý khách đừng ngần ngại liên hệ lại với [Tên công ty/nhà mạng] bất cứ lúc nào ạ.  Chúc quý khách một ngày tốt lành và có trải nghiệm internet thật tuyệt vời với gói cước mới! Chào tạm biệt quý khách."
+    }
+  ],
+  "reached_max_turns": false
+}

@@ -1,0 +1,50 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đến với bộ phận Hỗ trợ Kỹ thuật của VNPT. Tôi là Minh Anh, làm việc tại trung tâm hỗ trợ kỹ thuật. Tôi có thể giúp gì cho quý khách ngày hôm nay ạ?",
+      "timestamp": 1757407638.445601
+    },
+    {
+      "role": "right",
+      "content": "Chào cô Minh Anh. Cô ơi, mạng internet nhà tôi tự nhiên không dùng được nữa. Từ sáng đến giờ không vào được mạng, tôi cũng đã thử khởi động lại modem rồi mà vẫn không được.",
+      "timestamp": 1757407645.437606
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi rất tiếidences với sự bất tiện này ạ. Để tôi kiểm tra tình trạng đường truyền cho quý khách nhé. Quý khách vui lòng cung cấp số thuê bao internet (số hợp đồng hoặc mã khách hàng) hoặc địa chỉ lắp đặt dịch vụ để tôi có thể tra cứu thông tin ạ.",
+      "timestamp": 1757407650.4957223
+    },
+    {
+      "role": "right",
+      "content": "À cô đợi chút. Địa chỉ nhà tôi là số 35, ngõ 12, đường Trần Duy Hưng, phường Trung Hòa, quận Cầu Giấy, Hà Nội nhé.",
+      "timestamp": 1757407651.8771563
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, cô cứ kiểm tra giúp tôi nhé. Có gì cô báo lại cho tôi biết với ạ. Cảm ơn cô nhiều.",
+      "timestamp": 1757407658.8559253
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi rất sẵn lòng kiểm tra giúp quý khách. Tuy nhiên, để có thể tra cứu thông tin đường truyền chính xác, quý khách vui lòng cung cấp cho tôi một trong các thông tin sau:  1.  **Số thuê bao internet** (thường bắt đầu bằng \"HP\" hoặc \"Mega\" và một dãy số). 2.  **Số hợp đồng dịch vụ VNPT**. 3.  **Mã khách hàng** của quý khách. 4.  **Hoặc địa chỉ lắp đặt dịch vụ internet** (bao gồm số nhà, tên đường, phường/xã, quận/huyện, tỉnh/thành phố).  Khi có thông tin này, tôi sẽ kiểm tra ngay lập tức và thông báo kết quả cho quý khách ạ.",
+      "timestamp": 1757407660.6338198
+    }
+  ],
+  "turns": 1,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "```json {   \"should_terminate\": false,   \"reason\": \"Hội thoại đang trong giai đoạn thu thập thông ti...",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Dạ vâng, cô cứ kiểm tra giúp tôi nhé. Có gì cô báo lại cho tôi biết với ạ. Cảm ơn cô nhiều."
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi rất sẵn lòng kiểm tra giúp quý khách. Tuy nhiên, để có thể tra cứu thông tin đường truyền chính xác, quý khách vui lòng cung cấp cho tôi một trong các thông tin sau:  1.  **Số thuê bao internet** (thường bắt đầu bằng \"HP\" hoặc \"Mega\" và một dãy số). 2.  **Số hợp đồng dịch vụ VNPT**. 3.  **Mã khách hàng** của quý khách. 4.  **Hoặc địa chỉ lắp đặt dịch vụ internet** (bao gồm số nhà, tên đường, phường/xã, quận/huyện, tỉnh/thành phố).  Khi có thông tin này, tôi sẽ kiểm tra ngay lập tức và thông báo kết quả cho quý khách ạ."
+    }
+  ],
+  "reached_max_turns": false
+}

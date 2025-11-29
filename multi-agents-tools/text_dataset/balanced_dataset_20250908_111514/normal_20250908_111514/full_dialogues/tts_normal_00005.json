@@ -1,0 +1,100 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào bạn, tôi là Lan Anh từ tổng đài hỗ trợ khách hàng của FPT Telecom. Rất vui được hỗ trợ bạn hôm nay. Bạn đang cần tư vấn về dịch vụ gì ạ?",
+      "timestamp": 1757404775.9205227
+    },
+    {
+      "role": "right",
+      "content": "Chào bạn, mình là khách hàng của FPT. Mấy hôm nay mạng internet nhà mình cứ bị chập chờn, rất khó làm việc. Bạn kiểm tra giúp mình với ạ.",
+      "timestamp": 1757404779.1109092
+    },
+    {
+      "role": "left",
+      "content": "Chào bạn, tôi rất tiếc khi nghe về sự cố mạng bạn đang gặp phải. Để tôi có thể kiểm tra thông tin và hỗ trợ bạn một cách nhanh nhất, bạn vui lòng cung cấp cho tôi mã khách hàng hoặc số điện thoại mà bạn đã đăng ký dịch vụ với FPT Telecom được không ạ?",
+      "timestamp": 1757404783.63037
+    },
+    {
+      "role": "right",
+      "content": "À, số điện thoại của mình là 0901234567 nhé bạn. Bạn kiểm tra giúp mình xem có vấn đề gì không với. Cảm ơn bạn!",
+      "timestamp": 1757404785.4232774
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn bạn đã cung cấp thông tin. Tôi đã tra cứu và thấy số điện thoại 0901234567 của bạn đang liên kết với hợp đồng dịch vụ internet tại địa chỉ 123 Đường ABC, Phường XYZ, Quận 1, TP. Hồ Chí Minh. Có phải đây là địa chỉ chính xác không ạ?",
+      "timestamp": 1757404790.5752988
+    },
+    {
+      "role": "right",
+      "content": "Đúng rồi bạn. Địa chỉ đó đó.",
+      "timestamp": 1757404792.2009535
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn bạn đã xác nhận. Tôi đã kiểm tra hệ thống và hiện tại không ghi nhận sự cố mạng diện rộng nào tại khu vực của bạn. Tuy nhiên, tình trạng mạng chập chờn có thể do nhiều nguyên nhân khác nhau.  Để tôi có thể hỗ trợ bạn khắc phục, bạn vui lòng cho tôi biết thêm một chút thông tin về tình trạng cụ thể: 1.  **Mạng chập chờn xảy ra vào thời điểm nào trong ngày?** (Ví dụ: liên tục, chỉ vào buổi tối, sáng sớm...) 2.  **Bạn đang sử dụng thiết bị nào để kết nối mạng?** (Ví dụ: máy tính, điện thoại, laptop...) và các thiết bị khác trong nhà có gặp tình trạng tương tự không? 3.  **Bạn có thử khởi động lại modem/router chưa ạ?** Đây là một bước cơ bản nhưng thường rất hiệu quả để khắc phục các lỗi nhỏ.  Tôi sẽ hướng dẫn bạn các bước kiểm tra cơ bản để xác định nguyên nhân nhé.",
+      "timestamp": 1757404797.389461
+    },
+    {
+      "role": "right",
+      "content": "À nó cứ chập chờn cả ngày luôn đó bạn, đặc biệt là lúc mình làm việc trên laptop thì thấy rõ nhất. Điện thoại mình dùng cũng thấy chậm nữa. Mình cũng đã thử khởi động lại modem rồi mà tình hình vẫn không khá hơn mấy.",
+      "timestamp": 1757404800.0164492
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn bạn đã cung cấp thêm thông tin chi tiết. Việc bạn đã khởi động lại modem mà tình hình vẫn không cải thiện cho thấy có thể vấn đề không chỉ đơn thuần là lỗi tạm thời.  Để xác định rõ hơn nguyên nhân, chúng ta hãy thử một vài bước kiểm tra cơ bản nữa nhé:  1.  **Kiểm tra đèn tín hiệu trên modem:** Bạn vui lòng nhìn vào modem Wi-Fi của mình và cho tôi biết các đèn tín hiệu (như đèn Power, LOS/PON, LAN, Wi-Fi) đang hiển thị màu gì và có nhấp nháy hay không? Đặc biệt chú ý đèn LOS/PON, nếu đèn này màu đỏ hoặc không sáng thì có thể có vấn đề về tín hiệu đường truyền từ bên ngoài. 2.  **Thử kết nối bằng dây LAN (nếu có thể):** Nếu bạn có máy tính bàn hoặc laptop có cổng LAN, bạn có thể thử kết nối trực tiếp laptop/máy tính của bạn với modem bằng dây LAN. Sau đó kiểm tra xem tốc độ mạng có ổn định hơn không. Việc này giúp chúng ta loại trừ khả năng vấn đề nằm ở sóng Wi-Fi.  Bạn có thể thực hiện các bước này và cho tôi biết kết quả không ạ?",
+      "timestamp": 1757404806.435494
+    },
+    {
+      "role": "right",
+      "content": "Mình vừa kiểm tra modem rồi. Đèn Power với Wi-Fi thì xanh với nhấp nháy bình thường, nhưng cái đèn LOS/PON nó đang đỏ chót luôn đó bạn.  Mình có thử cắm dây LAN vào laptop rồi, thì thấy nó có vẻ ổn định hơn chút xíu nhưng tốc độ vẫn rất chậm, không đủ để làm việc được.",
+      "timestamp": 1757404811.3241687
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn bạn đã kiểm tra và cung cấp thông tin rất chi tiết. Việc đèn LOS/PON báo đỏ là một dấu hiệu quan trọng, cho thấy tín hiệu quang từ nhà mạng đến modem của bạn đang gặp vấn đề. Điều này giải thích tại sao cả Wi-Fi và kết nối dây LAN đều chậm và không ổn định.  Với tình trạng này, tôi cần cử kỹ thuật viên đến tận nơi để kiểm tra và khắc phục sự cố đường truyền cho bạn.  Bạn vui lòng xác nhận lại địa chỉ để kỹ thuật viên tiện di chuyển nhé: **123 Đường ABC, Phường XYZ, Quận 1, TP. Hồ Chí Minh.** Và bạn có thể cho tôi biết thời gian nào trong ngày mai hoặc ngày kia là thuận tiện nhất để kỹ thuật viên đến kiểm tra không ạ? (Ví dụ: Sáng mai từ 8h-12h, Chiều mai từ 13h-17h, Sáng ngày kia...)",
+      "timestamp": 1757404818.405734
+    },
+    {
+      "role": "right",
+      "content": "Đúng địa chỉ đó bạn. Mai thì mình bận cả ngày rồi, hay là chiều ngày kia, tầm 2-3 giờ chiều được không bạn? Lúc đó mình ở nhà.",
+      "timestamp": 1757404820.1797183
+    },
+    {
+      "role": "left",
+      "content": "Vâng, tôi đã ghi nhận yêu cầu của bạn. Tôi sẽ lên lịch hẹn kỹ thuật viên đến kiểm tra và khắc phục sự cố tại địa chỉ **123 Đường ABC, Phường XYZ, Quận 1, TP. Hồ Chí Minh** vào **chiều ngày kia, trong khoảng thời gian từ 14h00 đến 15h00**.  Kỹ thuật viên sẽ liên hệ với bạn qua số điện thoại 0901234567 trước khi đến để xác nhận lại.  Bạn có muốn tôi gửi một tin nhắn SMS xác nhận lịch hẹn này đến số điện thoại của bạn không ạ?",
+      "timestamp": 1757404827.7390647
+    },
+    {
+      "role": "right",
+      "content": "Có bạn, bạn gửi tin nhắn xác nhận giúp mình nhé. Cảm ơn bạn nhiều!",
+      "timestamp": 1757404829.075782
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi đã gửi tin nhắn xác nhận lịch hẹn đến số điện thoại 0901234567 của bạn rồi ạ. Trong tin nhắn có đầy đủ thông tin về lịch hẹn và số điện thoại của bộ phận hỗ trợ kỹ thuật nếu bạn cần thay đổi lịch. FPT Telecom sẽ cố gắng khắc phục sự cố cho bạn nhanh nhất có thể. Cảm ơn bạn đã liên hệ FPT Telecom và chúc bạn một ngày tốt lành!",
+      "timestamp": 1757404840.6337204
+    },
+    {
+      "role": "right",
+      "content": "Vâng, không có gì ạ. Chúc bạn cũng một ngày tốt lành nhé!",
+      "timestamp": 1757404841.774052
+    }
+  ],
+  "turns": 6,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu của hội thoại đã đạt được: người dùng đã nhận được thông tin về nguyên nhân sự cố mạng và đã được lên lịch hẹn kỹ thuật viên đến tận nơi để khắc phục. Người dùng đã xác nhận thông tin, yêu cầu gửi tin nhắn xác nhận và bày tỏ sự cảm ơn rõ ràng, cho thấy họ đã hài lòng và không có thêm yêu cầu nào trong cuộc hội thoại này. Dịch vụ đã hoàn thành phần hỗ trợ qua kênh chat.",
+  "terminator": "người dùng kết thúc",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi đã gửi tin nhắn xác nhận lịch hẹn đến số điện thoại 0901234567 của bạn rồi ạ. Trong tin nhắn có đầy đủ thông tin về lịch hẹn và số điện thoại của bộ phận hỗ trợ kỹ thuật nếu bạn cần thay đổi lịch. FPT Telecom sẽ cố gắng khắc phục sự cố cho bạn nhanh nhất có thể. Cảm ơn bạn đã liên hệ FPT Telecom và chúc bạn một ngày tốt lành!"
+    },
+    {
+      "role": "right",
+      "content": "Vâng, không có gì ạ. Chúc bạn cũng một ngày tốt lành nhé!"
+    }
+  ],
+  "reached_max_turns": false
+}

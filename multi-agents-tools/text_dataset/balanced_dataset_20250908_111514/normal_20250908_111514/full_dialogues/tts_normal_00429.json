@@ -1,0 +1,80 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đã gọi đến tổng đài hỗ trợ của [Tên Công ty], tôi là [Tên nhân viên]. Tôi có thể hỗ trợ gì cho quý khách ngày hôm nay ạ?",
+      "timestamp": 1757410567.4793377
+    },
+    {
+      "role": "right",
+      "content": "Chào cháu, cô muốn hỏi về hóa đơn cước internet tháng này. Cô thấy số tiền có vẻ hơi cao hơn bình thường nên muốn kiểm tra lại xem có gì không.",
+      "timestamp": 1757410569.9185266
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, cháu rất sẵn lòng hỗ trợ cô kiểm tra thông tin hóa đơn cước internet ạ. Để cháu có thể tra cứu chính xác, cô vui lòng cung cấp giúp cháu một trong các thông tin sau: số hợp đồng, mã khách hàng, hoặc số điện thoại mà cô đã đăng ký dịch vụ ạ.",
+      "timestamp": 1757410574.017645
+    },
+    {
+      "role": "right",
+      "content": "À, số điện thoại cô đăng ký là 0903... [số điện thoại]. Cháu kiểm tra giúp cô nhé.",
+      "timestamp": 1757410574.9295962
+    },
+    {
+      "role": "left",
+      "content": "Dạ v vâng, cháu đã nhận được số điện thoại 0903... của cô ạ. Cô vui lòng chờ cháu trong giây lát để cháu kiểm tra thông tin trên hệ thống nhé.  ... (Vài giây sau) ...  Dạ cô ơi, cháu đã tra cứu xong rồi ạ. Theo thông tin trên hệ thống, số thuê bao 0903... của cô đang đứng tên chủ hợp đồng là cô Nguyễn Thị Lan, sử dụng gói cước \"Internet Gia Đình Tốc Độ Cao\" với chu kỳ thanh toán hàng tháng là 220.000 VNĐ.  Hóa đơn cước tháng 11/2023 của cô là 255.000 VNĐ, bao gồm 220.000 VNĐ cước thuê bao gói Internet và 35.000 VNĐ là phí sử dụng thêm dịch vụ Fim+ trong chu kỳ từ ngày 05/11 đến 04/12. Cô có nhớ mình đã đăng ký hay sử dụng dịch vụ Fim+ nào không ạ?",
+      "timestamp": 1757410582.93263
+    },
+    {
+      "role": "right",
+      "content": "Ôi Fim+ à? Cô không nhớ mình có đăng ký dịch vụ này đâu cháu. Chắc là mấy đứa nhỏ ở nhà bấm nhầm hay sao ấy. Giờ làm sao để hủy cái này được cháu nhỉ? Cô không có nhu cầu dùng đâu.",
+      "timestamp": 1757410586.9784095
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, cháu hiểu rồi ạ. Rất có thể các cháu nhỏ ở nhà đã vô tình kích hoạt dịch vụ này khi xem phim hoặc truy cập ứng dụng.  Cô hoàn toàn có thể hủy dịch vụ Fim+ này ạ. Khi hủy, dịch vụ sẽ ngừng gia hạn vào chu kỳ tiếp theo và cô sẽ không bị tính phí nữa. Đối với khoản phí 35.000 VNĐ của tháng này, do dịch vụ đã được kích hoạt và sử dụng trong chu kỳ hiện tại, nên hệ thống đã ghi nhận phí rồi ạ.  Cô có muốn cháu hỗ trợ hủy dịch vụ Fim+ này ngay bây giờ không ạ?",
+      "timestamp": 1757410596.4968915
+    },
+    {
+      "role": "right",
+      "content": "À thế thì cháu giúp cô hủy luôn đi nhé. Cô không dùng đến đâu, để không lại tốn tiền. Còn cái tiền tháng này thì thôi vậy, coi như là lỡ rồi.",
+      "timestamp": 1757410599.1880803
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, cháu đã tiếp nhận yêu cầu hủy dịch vụ Fim+ của cô ạ. Cháu xin phép thực hiện thao tác hủy ngay bây giờ.  ... (Vài giây sau) ...  Dạ cô ơi, cháu đã hủy thành công dịch vụ Fim+ cho số thuê bao của cô rồi ạ. Kể từ chu kỳ thanh toán tiếp theo, tức là từ ngày 05/12 trở đi, dịch vụ Fim+ sẽ không còn được gia hạn và cô sẽ không bị tính thêm phí cho dịch vụ này nữa ạ.  Cô có muốn cháu kiểm tra thêm thông tin nào khác về gói cước internet của mình không ạ, hoặc cô có bất kỳ thắc mắc nào khác về các dịch vụ của công ty không ạ?",
+      "timestamp": 1757410606.3992052
+    },
+    {
+      "role": "right",
+      "content": "Thế là tốt rồi, cảm ơn cháu nhé. Cô chỉ muốn kiểm tra cái đó thôi. Giờ thì yên tâm rồi.",
+      "timestamp": 1757410608.3457015
+    },
+    {
+      "role": "right",
+      "content": "Vậy cô chào cháu nhé, cảm ơn cháu đã hỗ trợ.",
+      "timestamp": 1757410615.7211564
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, cháu rất vui vì đã hỗ trợ được cô ạ. Nếu trong quá trình sử dụng dịch vụ hoặc về sau có bất kỳ thắc mắc nào khác, cô đừng ngần ngại gọi lại tổng đài của chúng cháu nhé.  Chúc cô một ngày tốt lành ạ!",
+      "timestamp": 1757410617.8268366
+    }
+  ],
+  "turns": 4,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Người dùng đã nhận được thông tin giải đáp thắc mắc về hóa đơn cước và dịch vụ Fim+ đã được hủy thành công. Người dùng bày tỏ sự hài lòng và cảm ơn, đồng thời xác nhận rằng họ không cần hỗ trợ thêm (\"Cô chỉ muốn kiểm tra cái đó thôi. Giờ thì yên tâm rồi.\"). Điều này đáp ứng tiêu chí mục tiêu hội thoại đã đạt được và người dùng cảm ơn rõ ràng để kết thúc hội thoại.",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Vậy cô chào cháu nhé, cảm ơn cháu đã hỗ trợ."
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, cháu rất vui vì đã hỗ trợ được cô ạ. Nếu trong quá trình sử dụng dịch vụ hoặc về sau có bất kỳ thắc mắc nào khác, cô đừng ngần ngại gọi lại tổng đài của chúng cháu nhé.  Chúc cô một ngày tốt lành ạ!"
+    }
+  ],
+  "reached_max_turns": false
+}

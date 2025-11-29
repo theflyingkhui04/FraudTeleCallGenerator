@@ -1,0 +1,80 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào bạn, tôi là Mai Anh, nhân viên hỗ trợ kỹ thuật từ VNPT. Rất vui được hỗ trợ bạn hôm nay. Bạn đang gặp vấn đề gì ạ?",
+      "timestamp": 1757410077.934699
+    },
+    {
+      "role": "right",
+      "content": "Chào cô. Cái mạng internet ở nhà tôi mấy hôm nay tự nhiên nó cứ chập chờn, lúc được lúc không ấy cô. Khó chịu quá.",
+      "timestamp": 1757410080.9109719
+    },
+    {
+      "role": "left",
+      "content": "Chào bạn, tôi hiểu sự bất tiện khi mạng internet không ổn định. Để tôi có thể kiểm tra và hỗ trợ bạn tốt nhất, bạn vui lòng cung cấp cho tôi mã số hợp đồng hoặc số điện thoại mà bạn đã đăng ký dịch vụ VNPT được không ạ?",
+      "timestamp": 1757410087.249846
+    },
+    {
+      "role": "right",
+      "content": "À, số điện thoại của tôi là 0912345678 cô ạ. Cô kiểm tra giúp tôi với nhé.",
+      "timestamp": 1757410088.7311983
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn bạn. Tôi đã tra cứu thông tin theo số điện thoại 0912345678. Đây là gói cước Home Net 2, địa chỉ lắp đặt tại số 123 đường Lê Lợi, Phường 1, Quận Gò Vấp, TP.HCM, đúng không ạ?",
+      "timestamp": 1757410093.7545354
+    },
+    {
+      "role": "right",
+      "content": "Đúng rồi cô. Địa chỉ đó, gói cước đó. Cô xem giúp tôi tại sao nó lại chập chờn vậy.",
+      "timestamp": 1757410094.920251
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng. Để tôi kiểm tra sơ bộ tình trạng đường truyền của bạn trên hệ thống. Trong lúc đó, bạn vui lòng kiểm tra giúp tôi các đèn tín hiệu trên thiết bị modem/router của mình đang có màu gì và trạng thái như thế nào (có nhấp nháy hay không nhấp nháy, có đèn nào màu đỏ không) ạ? Đặc biệt là các đèn báo hiệu LOS, PON/AUTH, Internet/WAN.",
+      "timestamp": 1757410101.2225146
+    },
+    {
+      "role": "right",
+      "content": "À để tôi ra xem thử. (tạm dừng một chút) Rồi cô, tôi thấy mấy cái đèn này. Cái đèn LOS thì không sáng. Còn cái đèn PON thì nó màu xanh lá cây, nó sáng đứng yên luôn, không nhấp nháy. Còn cái đèn Internet thì nó cũng xanh lá cây, nhưng mà nó nhấp nháy liên tục cô ạ.",
+      "timestamp": 1757410103.374246
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn bạn đã kiểm tra kỹ lưỡng. Tình trạng đèn PON sáng xanh đứng yên và đèn LOS không sáng cho thấy tín hiệu quang từ VNPT đến modem của bạn vẫn đang ổn định, đây là một dấu hiệu tốt. Đèn Internet nhấp nháy xanh cũng là bình thường khi có hoạt động mạng.  Với tình trạng mạng chập chờn như bạn mô tả, đôi khi chỉ là do modem/router hoạt động lâu ngày cần được làm mới. Bạn vui lòng thử thực hiện thao tác khởi động lại thiết bị modem/router giúp tôi nhé:  1.  **Rút dây nguồn điện** của modem/router ra khỏi ổ cắm. 2.  **Chờ khoảng 1-2 phút** để thiết bị xả hết điện tích. 3.  **Cắm lại dây nguồn điện** vào ổ cắm. 4.  **Chờ khoảng 3-5 phút** để modem khởi động lại hoàn toàn và các đèn tín hiệu ổn định trở lại.  Sau khi khởi động lại, bạn vui lòng kiểm tra xem mạng internet đã hoạt động ổn định hơn chưa ạ?",
+      "timestamp": 1757410112.031569
+    },
+    {
+      "role": "right",
+      "content": "À, được rồi, để tôi thử làm theo cô nói xem sao. (tạm dừng khoảng vài phút)  Tôi rút điện ra rồi, chờ một lát... giờ cắm lại rồi nè. Mấy cái đèn nó cũng sáng lại rồi. Để tôi thử vào mạng xem sao. (một lát sau)  À, tôi thấy nó có vẻ ổn định hơn rồi đó cô. Lúc nãy vào nó cứ quay quay, giờ thì thấy nhanh hơn rồi. Chắc là do cái modem nó nóng quá thật.",
+      "timestamp": 1757410116.7756364
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, rất mừng là mạng đã hoạt động ổn định trở lại rồi ạ. Đôi khi việc khởi động lại modem sẽ giúp thiết bị làm mới và giải quyết các vấn đề nhỏ về đường truyền.  Nếu trong quá trình sử dụng sau này mà bạn gặp lại tình trạng tương tự, bạn có thể thử khởi động lại modem theo cách vừa rồi nhé. Và nếu vấn đề vẫn tiếp diễn hoặc bạn cần hỗ trợ thêm bất cứ điều gì khác, đừng ngần ngại liên hệ lại với VNPT ạ. Chúc bạn có trải nghiệm internet thật tốt!",
+      "timestamp": 1757410131.0774903
+    },
+    {
+      "role": "right",
+      "content": "À, vậy là tốt rồi. Cảm ơn cô nhiều nhé. Cô hướng dẫn nhiệt tình quá, tôi làm theo được ngay. Có gì tôi lại gọi cô sau.",
+      "timestamp": 1757410132.6425824
+    }
+  ],
+  "turns": 4,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại đã đạt được. Người dùng đã xác nhận rằng mạng internet đã hoạt động ổn định trở lại sau khi thực hiện thao tác khởi động lại modem theo hướng dẫn của bên dịch vụ. Dù người dùng chưa cảm ơn hay kết thúc rõ ràng, vấn đề ban đầu đã được giải quyết và không còn thông tin mới cần trao đổi. Bên dịch vụ nên chủ động kết thúc cuộc gọi sau khi xác nhận vấn đề đã được khắc phục.",
+  "terminator": "left",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Dạ vâng, rất mừng là mạng đã hoạt động ổn định trở lại rồi ạ. Đôi khi việc khởi động lại modem sẽ giúp thiết bị làm mới và giải quyết các vấn đề nhỏ về đường truyền.  Nếu trong quá trình sử dụng sau này mà bạn gặp lại tình trạng tương tự, bạn có thể thử khởi động lại modem theo cách vừa rồi nhé. Và nếu vấn đề vẫn tiếp diễn hoặc bạn cần hỗ trợ thêm bất cứ điều gì khác, đừng ngần ngại liên hệ lại với VNPT ạ. Chúc bạn có trải nghiệm internet thật tốt!"
+    },
+    {
+      "role": "right",
+      "content": "À, vậy là tốt rồi. Cảm ơn cô nhiều nhé. Cô hướng dẫn nhiệt tình quá, tôi làm theo được ngay. Có gì tôi lại gọi cô sau."
+    }
+  ],
+  "reached_max_turns": false
+}

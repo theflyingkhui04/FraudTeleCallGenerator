@@ -1,0 +1,60 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào bạn, tôi là Lan Anh, chuyên viên tư vấn từ nhà mạng ABC. Cuộc gọi này được thực hiện để thông báo chính thức đến bạn về một số thay đổi quan trọng liên quan đến gói dịch vụ \"Internet Gia Đình Cao Cấp\" mà bạn đang sử dụng. Bạn có tiện nghe máy trong vài phút không ạ?",
+      "timestamp": 1757360187.7236812
+    },
+    {
+      "role": "right",
+      "content": "À vâng, tôi nghe đây. Có chuyện gì vậy ạ?",
+      "timestamp": 1757360190.0671525
+    },
+    {
+      "role": "left",
+      "content": "Chào bạn, cảm ơn bạn đã dành thời gian. Như đã đề cập, chúng tôi muốn thông báo về việc gói cước \"Internet Gia Đình Cao Cấp\" của bạn sẽ được nâng cấp miễn phí lên gói \"Internet Siêu Tốc 500Mbps\" bắt đầu từ ngày 15 tháng 11 năm 2023. Đây là một phần trong nỗ lực của nhà mạng ABC nhằm mang lại trải nghiệm tốt nhất cho khách hàng thân thiết.",
+      "timestamp": 1757360194.921267
+    },
+    {
+      "role": "right",
+      "content": "Ồ, nghe có vẻ tốt đấy ạ. Vậy là tốc độ tăng mà phí dịch vụ vẫn giữ nguyên, không phát sinh thêm gì đúng không bạn?",
+      "timestamp": 1757360199.5828614
+    },
+    {
+      "role": "left",
+      "content": "Đúng vậy, bạn hoàn toàn chính xác. Tốc độ internet của bạn sẽ được nâng cấp từ 300Mbps lên 500Mbps, tức là tăng 200Mbps, nhưng cước phí hàng tháng của gói \"Internet Siêu Tốc 500Mbps\" vẫn sẽ giữ nguyên như gói \"Internet Gia Đình Cao Cấp\" hiện tại của bạn là 250.000 VNĐ/tháng. Không có bất kỳ khoản phí phát sinh nào khác liên quan đến việc nâng cấp này.",
+      "timestamp": 1757360205.887795
+    },
+    {
+      "role": "right",
+      "content": "À vậy là tốt quá rồi. Tốc độ tăng mà giá vẫn giữ nguyên là quá ổn luôn. Cảm ơn bạn nhé.",
+      "timestamp": 1757360208.651212
+    },
+    {
+      "role": "right",
+      "content": "Vâng, vậy cảm ơn bạn đã thông báo nhé.",
+      "timestamp": 1757360220.7879455
+    },
+    {
+      "role": "left",
+      "content": "Thật vui khi thông tin này hữu ích cho bạn. Ngoài việc nâng cấp tốc độ và giữ nguyên cước phí, gói \"Internet Siêu Tốc 500Mbps\" còn đi kèm với một số lợi ích bổ sung khác mà bạn có thể quan tâm. Bạn có muốn tôi chia sẻ thêm về những lợi ích này không ạ?",
+      "timestamp": 1757360222.0547147
+    }
+  ],
+  "turns": 2,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Người dùng đã nhận được tất cả thông tin mà họ thắc mắc về gói cước và chi phí. Họ đã bày tỏ sự hài lòng rõ ràng (\"quá ổn luôn\") và cảm ơn chuyên viên, cho thấy họ coi cuộc hội thoại đã hoàn thành mục tiêu và không cần thêm hỗ trợ.",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Vâng, vậy cảm ơn bạn đã thông báo nhé."
+    },
+    {
+      "role": "left",
+      "content": "Thật vui khi thông tin này hữu ích cho bạn. Ngoài việc nâng cấp tốc độ và giữ nguyên cước phí, gói \"Internet Siêu Tốc 500Mbps\" còn đi kèm với một số lợi ích bổ sung khác mà bạn có thể quan tâm. Bạn có muốn tôi chia sẻ thêm về những lợi ích này không ạ?"
+    }
+  ],
+  "reached_max_turns": false
+}

@@ -1,0 +1,90 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Xin chào, tôi là Ngọc Anh từ Dịch vụ khách hàng của Công ty ABC. Tôi có thể giúp gì cho quý khách hôm nay ạ?",
+      "timestamp": 1757402659.8823562
+    },
+    {
+      "role": "right",
+      "content": "Chào Ngọc Anh, mình là Minh. Mình gọi vì có một vấn đề với đơn hàng online mình vừa nhận bên mình. Mã đơn hàng của mình là ABC12345, mình kiểm tra thì thấy bị thiếu mất một món đồ.",
+      "timestamp": 1757402664.5691009
+    },
+    {
+      "role": "left",
+      "content": "Chào anh Minh. Cảm ơn anh đã liên hệ. Tôi rất tiếc khi biết đơn hàng của anh bị thiếu sản phẩm. Để tôi kiểm tra thông tin đơn hàng ABC12345 của anh ngay bây giờ nhé. Anh có thể vui lòng xác nhận lại tên đầy đủ và số điện thoại anh đã dùng khi đặt hàng được không ạ?",
+      "timestamp": 1757402669.8735206
+    },
+    {
+      "role": "right",
+      "content": "À vâng, tên đầy đủ của mình là Nguyễn Văn Minh, số điện thoại là 0987654321.",
+      "timestamp": 1757402671.0333328
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn anh Minh đã cung cấp thông tin. Tôi đã tìm thấy đơn hàng ABC12345 của anh Nguyễn Văn Minh, số điện thoại 0987654321.  Theo hệ thống của chúng tôi, đơn hàng này bao gồm: *   1 x Áo phông nam Cotton Basic màu Xám size L *   1 x Quần Jeans Slim Fit màu Xanh Đậm size 32 *   1 x Dây lưng da cao cấp màu Đen  Anh Minh có thể cho tôi biết món đồ nào bị thiếu trong đơn hàng anh vừa nhận được không ạ?",
+      "timestamp": 1757402677.2825692
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, mình nhận được áo phông với quần jeans rồi, nhưng mà bị thiếu mất cái dây lưng da cao cấp màu đen đó bạn.",
+      "timestamp": 1757402678.8680487
+    },
+    {
+      "role": "left",
+      "content": "Tôi rất xin lỗi về sự bất tiện này, anh Minh. Đúng như anh nói, đơn hàng của anh có bao gồm một chiếc dây lưng da cao cấp màu đen. Có vẻ như đã có sai sót trong quá trình đóng gói.  Để khắc phục, tôi sẽ ngay lập tức tạo yêu cầu gửi bổ sung chiếc dây lưng này đến anh. Anh có thể vui lòng xác nhận lại địa chỉ giao hàng của anh một lần nữa được không ạ? Địa chỉ trên hệ thống của chúng tôi là: Số 10, Đường Lê Lợi, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh.",
+      "timestamp": 1757402684.3038228
+    },
+    {
+      "role": "right",
+      "content": "Dạ đúng rồi bạn, địa chỉ đó đó.",
+      "timestamp": 1757402686.0275605
+    },
+    {
+      "role": "left",
+      "content": "Tuyệt vời, cảm ơn anh đã xác nhận. Tôi đã tạo yêu cầu gửi bổ sung chiếc dây lưng da cao cấp màu đen đến địa chỉ Số 10, Đường Lê Lợi, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh.  Thông thường, thời gian giao hàng cho các đơn hàng bổ sung trong khu vực TP. Hồ Chí Minh sẽ mất khoảng 1-2 ngày làm việc. Anh sẽ nhận được một tin nhắn SMS hoặc email xác nhận với mã vận đơn mới ngay khi đơn hàng được gửi đi. Anh có muốn tôi gửi thông tin chi tiết về đơn hàng bổ sung này qua email cho anh không ạ?",
+      "timestamp": 1757402691.5002887
+    },
+    {
+      "role": "right",
+      "content": "Dạ có ạ, bạn gửi vào email mình đã đăng ký nhé.",
+      "timestamp": 1757402694.6842015
+    },
+    {
+      "role": "left",
+      "content": "Vâng, tôi đã ghi nhận. Tôi sẽ gửi email xác nhận chi tiết về đơn hàng bổ sung, bao gồm mã vận đơn mới và thời gian dự kiến giao hàng, đến địa chỉ email anh đã đăng ký với chúng tôi. Anh vui lòng kiểm tra hộp thư đến (và cả hộp thư spam/thư rác nếu không thấy nhé) trong vòng vài phút tới.  Anh Minh có còn câu hỏi nào khác hoặc cần tôi hỗ trợ thêm về vấn đề này không ạ?",
+      "timestamp": 1757402701.8746524
+    },
+    {
+      "role": "right",
+      "content": "Dạ không, hiện tại thì mình không có câu hỏi nào khác. Cảm ơn bạn nhiều nha.",
+      "timestamp": 1757402703.978884
+    },
+    {
+      "role": "right",
+      "content": "À vậy thôi, cảm ơn bạn nhiều nha. Chào bạn.",
+      "timestamp": 1757402710.0029101
+    },
+    {
+      "role": "left",
+      "content": "Không có gì ạ, anh Minh. Tôi rất vui được hỗ trợ anh. Một lần nữa, tôi xin lỗi về sự thiếu sót trong đơn hàng của anh. Nếu có bất kỳ vấn đề gì khác hoặc anh cần thêm thông tin về đơn hàng bổ sung, xin đừng ngần ngại liên hệ lại với chúng tôi nhé. Chúc anh một ngày tốt lành!",
+      "timestamp": 1757402711.2174516
+    }
+  ],
+  "turns": 5,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại đã đạt được: vấn đề của người dùng (thiếu món đồ trong đơn hàng) đã được giải quyết bằng cách tạo yêu cầu gửi bổ sung. Người dùng đã nhận được thông tin về thời gian giao hàng và xác nhận qua email. Quan trọng hơn, người dùng đã cảm ơn rõ ràng và xác nhận không còn câu hỏi nào khác, cho thấy sự hài lòng và sẵn sàng kết thúc hội thoại.",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "À vậy thôi, cảm ơn bạn nhiều nha. Chào bạn."
+    },
+    {
+      "role": "left",
+      "content": "Không có gì ạ, anh Minh. Tôi rất vui được hỗ trợ anh. Một lần nữa, tôi xin lỗi về sự thiếu sót trong đơn hàng của anh. Nếu có bất kỳ vấn đề gì khác hoặc anh cần thêm thông tin về đơn hàng bổ sung, xin đừng ngần ngại liên hệ lại với chúng tôi nhé. Chúc anh một ngày tốt lành!"
+    }
+  ],
+  "reached_max_turns": false
+}

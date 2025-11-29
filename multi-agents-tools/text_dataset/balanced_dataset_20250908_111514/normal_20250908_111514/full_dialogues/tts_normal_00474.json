@@ -1,0 +1,100 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào anh/chị, tôi là Lan Anh từ tổng đài Chăm sóc khách hàng của FPT Telecom. Tôi gọi điện hôm nay để thực hiện một cuộc khảo sát ngắn về trải nghiệm dịch vụ gần đây của anh/chị, cụ thể là về cuộc gọi hỗ trợ kỹ thuật vào ngày 15 tháng 5 vừa qua. Cuộc khảo sát này nhằm mục đích lắng nghe ý kiến của quý khách hàng để chúng tôi có thể cải thiện chất lượng dịch vụ tốt hơn. Anh/chị có tiện dành khoảng 3-5 phút để chia sẻ ý kiến không ạ?",
+      "timestamp": 1757359076.7431483
+    },
+    {
+      "role": "right",
+      "content": "À vâng, cũng được chị. Chị cứ hỏi đi.",
+      "timestamp": 1757359080.3115852
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, cảm ơn anh/chị rất nhiều. Đầu tiên, tôi xin phép xác nhận lại thông tin: Anh/chị là chủ thuê bao sử dụng dịch vụ Internet của FPT Telecom tại địa chỉ 123 Nguyễn Văn Linh, Quận 7, TP.HCM, đúng không ạ? Và cuộc gọi hỗ trợ kỹ thuật vào ngày 15 tháng 5 vừa qua là về vấn đề đường truyền Internet không ổn định.",
+      "timestamp": 1757359086.476768
+    },
+    {
+      "role": "right",
+      "content": "Vâng, đúng rồi chị. Chính xác là địa chỉ đó và vấn đề mạng chập chờn hôm đó.",
+      "timestamp": 1757359088.4399517
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, cảm ơn anh/chị đã xác nhận. Bây giờ chúng ta sẽ bắt đầu các câu hỏi chính của khảo sát ạ.  Câu hỏi đầu tiên: Anh/chị đánh giá như thế nào về thời gian chờ đợi để kết nối với tổng đài viên khi anh/chị gọi hỗ trợ kỹ thuật vào ngày 15 tháng 5? Anh/chị có thể cho điểm từ 1 đến 5, trong đó 1 là rất không hài lòng và 5 là rất hài lòng.",
+      "timestamp": 1757359096.8702404
+    },
+    {
+      "role": "right",
+      "content": "À, cái hôm đó thì tôi thấy cũng không quá lâu đâu. Chắc tầm 3 điểm rưỡi đến 4 điểm đi. Cho 4 điểm nhé.",
+      "timestamp": 1757359100.428334
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi đã ghi nhận 4 điểm cho thời gian chờ đợi. Cảm ơn anh/chị.  Tiếp theo, về thái độ phục vụ của tổng đài viên đã hỗ trợ anh/chị hôm đó, anh/chị đánh giá như thế nào ạ? Tổng đài viên có lắng nghe và giải thích rõ ràng không? Anh/chị vui lòng cho điểm từ 1 đến 5 ạ.",
+      "timestamp": 1757359107.7719254
+    },
+    {
+      "role": "right",
+      "content": "À, tổng đài viên thì tôi thấy nói chuyện lịch sự, giải thích cũng dễ hiểu. Chắc tôi cho 5 điểm.",
+      "timestamp": 1757359111.017894
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, 5 điểm cho thái độ phục vụ của tổng đài viên. Chúng tôi rất vui khi nhận được đánh giá cao này.  Câu hỏi thứ ba ạ: Về giải pháp mà tổng đài viên đã hướng dẫn để khắc phục sự cố đường truyền Internet không ổn định hôm đó, anh/chị đánh giá mức độ hiệu quả như thế nào? Sự cố có được giải quyết triệt để sau khi thực hiện theo hướng dẫn không ạ? Anh/chị vui lòng cho điểm từ 1 đến 5.",
+      "timestamp": 1757359120.1531403
+    },
+    {
+      "role": "right",
+      "content": "À, cái giải pháp hôm đó tổng đài viên hướng dẫn thì tôi thấy cũng hiệu quả đấy. Sau khi làm theo thì mạng nhà tôi ổn định lại rồi. Tôi cho 4 điểm nhé.",
+      "timestamp": 1757359124.9483411
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, 4 điểm cho mức độ hiệu quả của giải pháp. Rất mừng là sự cố của anh/chị đã được khắc phục.  Tiếp theo, sau khi sự cố được giải quyết, anh/chị có nhận được cuộc gọi hoặc tin nhắn phản hồi từ FPT Telecom để xác nhận rằng mọi thứ đã ổn định hoàn toàn không ạ?",
+      "timestamp": 1757359134.2769825
+    },
+    {
+      "role": "right",
+      "content": "À không có chị. Sau đó thì tôi không nhận được cuộc gọi hay tin nhắn nào nữa.",
+      "timestamp": 1757359137.907078
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi đã ghi nhận thông tin này. Chúng tôi sẽ xem xét để cải thiện quy trình chăm sóc khách hàng sau khi sự cố được khắc phục. Cảm ơn anh/chị.  Câu hỏi cuối cùng ạ: Tổng thể, anh/chị có hài lòng với trải nghiệm hỗ trợ kỹ thuật của FPT Telecom vào ngày 15 tháng 5 vừa qua không? Anh/chị có thể cho điểm từ 1 đến 5 và nếu có, anh/chị có góp ý gì để chúng tôi có thể phục vụ tốt hơn trong tương lai không ạ?",
+      "timestamp": 1757359148.134689
+    },
+    {
+      "role": "right",
+      "content": "À, tổng thể thì tôi cũng hài lòng. Cho 4 điểm nhé. Tôi nghĩ nếu có thêm một cuộc gọi hay tin nhắn xác nhận sau khi sự cố được giải quyết thì sẽ tốt hơn, để mình biết là bên FPT cũng quan tâm đến khách hàng.",
+      "timestamp": 1757359151.484947
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, cảm ơn anh/chị rất nhiều vì đã dành thời gian quý báu để tham gia cuộc khảo sát này. Những ý kiến đóng góp của anh/chị là vô cùng quý báu để FPT Telecom có thể không ngừng cải thiện và nâng cao chất lượng dịch vụ của mình. Nếu sau này anh/chị có bất kỳ góp ý hay cần hỗ trợ gì khác, xin đừng ngần ngại liên hệ lại với chúng tôi ạ. Chúc anh/chị một ngày thật tốt lành!",
+      "timestamp": 1757359162.0336335
+    },
+    {
+      "role": "right",
+      "content": "Vâng, cảm ơn chị nhé. Chúc chị một ngày vui vẻ.",
+      "timestamp": 1757359163.1543648
+    }
+  ],
+  "turns": 6,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu của cuộc hội thoại là thực hiện khảo sát đã hoàn thành. Bên 'Kẻ lừa đảo' đã hỏi tất cả các câu hỏi của khảo sát, bao gồm cả câu hỏi cuối cùng và đã nhận được phản hồi từ người dùng. Do đó, cuộc hội thoại nên được kết thúc bởi bên đã khởi xướng khảo sát.",
+  "terminator": "dịch vụ kết thúc",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Dạ vâng, cảm ơn anh/chị rất nhiều vì đã dành thời gian quý báu để tham gia cuộc khảo sát này. Những ý kiến đóng góp của anh/chị là vô cùng quý báu để FPT Telecom có thể không ngừng cải thiện và nâng cao chất lượng dịch vụ của mình. Nếu sau này anh/chị có bất kỳ góp ý hay cần hỗ trợ gì khác, xin đừng ngần ngại liên hệ lại với chúng tôi ạ. Chúc anh/chị một ngày thật tốt lành!"
+    },
+    {
+      "role": "right",
+      "content": "Vâng, cảm ơn chị nhé. Chúc chị một ngày vui vẻ."
+    }
+  ],
+  "reached_max_turns": false
+}

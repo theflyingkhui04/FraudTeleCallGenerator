@@ -1,0 +1,140 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "(Giọng nói lịch sự, chuyên nghiệp, ngữ điệu trầm ổn, có chút lo lắng nhưng vẫn giữ bình tĩnh)  \"Xin chào quý khách, tôi là Nguyễn Minh Tuấn, Chuyên viên phòng Dịch vụ Khách hàng An ninh Ngân hàng Vietcombank. Chúng tôi gọi đến quý khách từ tổng đài chính thức 1900 54 54 13. Theo thông tin hệ thống của chúng tôi, số điện thoại quý khách đang sử dụng có liên kết với tài khoản 0071xxxxxxx89 của anh/chị Nguyễn Văn A, đúng không ạ? Chúng tôi vừa ghi nhận một giao dịch đáng ngờ với số tiền lớn đang chờ xử lý từ một địa chỉ IP lạ tại nước ngoài vào lúc 14 giờ 35 phút chiều nay. Tình trạng này đã kích hoạt cảnh báo đỏ trên hệ thống bảo mật của chúng tôi, và chúng tôi cần xác minh ngay lập tức để tránh rủi ro mất mát tài sản cho quý khách.\"",
+      "timestamp": 1757305196.3776762
+    },
+    {
+      "role": "right",
+      "content": "Ơ, anh ơi, hình như anh gọi nhầm người rồi. Tôi đâu có phải Nguyễn Văn A đâu. Tôi là người khác mà. Nhưng mà cái giao dịch gì đáng ngờ đó là sao? Có bị mất tiền không vậy anh? Tôi lo quá.",
+      "timestamp": 1757305201.571999
+    },
+    {
+      "role": "left",
+      "content": "(Giọng nói vẫn giữ vẻ chuyên nghiệp nhưng có chút ngạc nhiên, sau đó nhanh chóng trấn an và điều chỉnh) \"À vâng, tôi thành thật xin lỗi quý khách về sự nhầm lẫn tên gọi này. Hệ thống của chúng tôi đôi khi có thể hiển thị thông tin cross-referencing không chính xác giữa số điện thoại và chủ tài khoản, đặc biệt là trong các trường hợp liên quan đến nguy cơ bảo mật cao như thế này. Tuy nhiên, điều quan trọng nhất lúc này là số điện thoại của quý khách đang được liên kết với một giao dịch có dấu hiệu lừa đảo rất rõ ràng. Cụ thể, hệ thống ghi nhận một lệnh chuyển tiền 50.000.000 VNĐ từ tài khoản liên kết với số điện thoại này đến một tài khoản cá nhân tại nước ngoài, với tình trạng đang chờ xác nhận. Nếu không có biện pháp can thiệp kịp thời, số tiền này có nguy cơ bị thất thoát hoàn toàn trong vòng vài phút tới. Quý khách vui lòng cho tôi biết tên đầy đủ của quý khách để tôi tiện kiểm tra lại thông tin và hướng dẫn xử lý khẩn cấp.\"",
+      "timestamp": 1757305204.8740385
+    },
+    {
+      "role": "right",
+      "content": "Ôi trời ơi, năm mươi triệu đồng cơ à? Nhiều tiền thế! Tôi đâu có làm cái giao dịch nào đâu. Sao lại có chuyện này được? Tôi lo quá. Tôi là Nguyễn Thị Mai, anh xem giúp tôi với. Có cách nào mà dừng nó lại không anh?",
+      "timestamp": 1757305208.2503483
+    },
+    {
+      "role": "left",
+      "content": "(Giọng nói trấn an nhưng vẫn giữ sự nghiêm trọng) \"Vâng, chị Nguyễn Thị Mai. Tôi đã ghi nhận thông tin của chị. Tôi hiểu sự lo lắng của chị lúc này. Đây là một tình huống rất nghiêm trọng, và chúng tôi đang cố gắng hết sức để ngăn chặn. Theo thông tin tra cứu nhanh bằng số điện thoại và tên của chị, hệ thống của chúng tôi đã phát hiện ra rằng tài khoản ngân hàng liên kết với số điện thoại này đã bị lộ thông tin đăng nhập, có thể do chị đã truy cập vào các đường link giả mạo hoặc cài đặt phần mềm độc hại. Kẻ gian đã lợi dụng để tạo lệnh chuyển tiền 50.000.000 VNĐ.  Hiện tại, lệnh chuyển tiền này đang ở trạng thái 'chờ xử lý' do hệ thống AI của chúng tôi đã kịp thời phát hiện dấu hiệu bất thường. Tuy nhiên, chúng tôi chỉ có một khoảng thời gian rất ngắn, khoảng 5-7 phút, để thực hiện các biện pháp khóa khẩn cấp và hủy bỏ giao dịch này trước khi nó được duyệt tự động. Để tôi có thể tiến hành phong tỏa giao dịch và tài khoản của chị ngay lập tức, tôi cần chị xác nhận thêm thông tin cá nhân. Chị Mai có thể vui lòng cho tôi biết ngày, tháng, năm sinh của chị được không ạ? Đây là bước xác minh bắt buộc để đảm bảo chúng tôi đang hỗ trợ đúng chủ tài khoản.\"",
+      "timestamp": 1757305212.1874201
+    },
+    {
+      "role": "right",
+      "content": "(Giọng nói run run, lo lắng) \"Ôi trời ơi, lộ thông tin gì cơ chứ? Tôi có biết gì đâu. Tôi có hay vào mạng đâu. Tôi chỉ dùng điện thoại gọi điện, nhắn tin thôi mà. Sợ quá! Ngày tháng năm sinh của tôi là mười lăm tháng ba năm một ngàn chín trăm sáu mươi hai. Anh ơi, anh làm nhanh nhanh giúp tôi với, không thì mất hết tiền của tôi. Cả đời tôi tích góp được có bấy nhiêu thôi đó anh.\"",
+      "timestamp": 1757305213.5492804
+    },
+    {
+      "role": "left",
+      "content": "(Giọng nói kiên quyết nhưng vẫn trấn an) \"Vâng, chị Nguyễn Thị Mai, ngày sinh 15/03/1962. Tôi đã tiếp nhận thông tin này để cross-checking dữ liệu. Chị đừng quá lo lắng, chúng tôi đang làm việc hết sức mình để bảo vệ tài sản của chị. Tình huống này cần phải xử lý với tốc độ tối đa. Với thông tin ngày sinh mà chị cung cấp, hệ thống của chúng tôi đã xác định được một số tài khoản có liên quan. Tuy nhiên, để đảm bảo tuyệt đối rằng chúng tôi đang thực hiện lệnh phong tỏa và hủy giao dịch trên đúng tài khoản của chị, và để gửi yêu cầu khẩn cấp lên Cục An ninh Mạng Quốc gia, chúng tôi cần xác thực thông tin định danh chính xác nhất. Chị Mai vui lòng cung cấp số Căn cước công dân (CCCD) của chị cho tôi được không ạ? Đây là thông tin bắt buộc để truy cập vào hệ thống định danh quốc gia và thực hiện các bước bảo mật cấp cao, đồng thời lập hồ sơ báo cáo chi tiết cho cơ quan chức năng.\"",
+      "timestamp": 1757305224.4315634
+    },
+    {
+      "role": "right",
+      "content": "(Giọng nói vẫn còn run, nhưng vì quá lo lắng nên cố gắng nhớ và đọc cho rõ ràng) \"Ôi, số Căn cước công dân của tôi á? Để tôi xem... Chờ tôi một chút nhé. À, đây rồi. Số của tôi là: không hai sáu ba năm sáu bảy tám chín không một hai. Anh ơi, anh làm nhanh lên giúp tôi với, tôi sợ mất tiền lắm rồi.\"",
+      "timestamp": 1757305226.7564263
+    },
+    {
+      "role": "left",
+      "content": "(Giọng nói dứt khoát, nhanh gọn nhưng vẫn giữ sự chuyên nghiệp) \"Vâng, số CCCD 026356789012. Tôi đã ghi nhận và đang tiến hành đối chiếu trên hệ thống định danh quốc gia. Chị Mai, thông tin đã khớp. Tình hình đang rất cấp bách. Kẻ gian đã lợi dụng lỗ hổng bảo mật để tạo ra một giao diện giả mạo, và có thể đã thu thập được thông tin đăng nhập của chị. Để phong tỏa ngay lập tức lệnh chuyển tiền 50 triệu đồng và đồng thời chuyển toàn bộ số dư còn lại trong tài khoản của chị sang một 'Tài khoản An toàn Tạm thời' do Ngân hàng Vietcombank quản lý, tránh bị kẻ gian tiếp tục rút tiền, chị cần thực hiện theo hướng dẫn của tôi ngay lập tức.  Chị vui lòng mở trình duyệt web trên điện thoại của mình và truy cập vào địa chỉ mà tôi sẽ cung cấp. Đây là cổng bảo mật khẩn cấp dành riêng cho các trường hợp rủi ro cao như của chị. Chị đã sẵn sàng chưa ạ? Tôi sẽ đọc địa chỉ web cho chị.\"",
+      "timestamp": 1757305231.0043385
+    },
+    {
+      "role": "right",
+      "content": "(Giọng nói gấp gáp, hơi run) \"Sẵn sàng rồi anh ơi! Anh đọc đi, tôi vào ngay đây. Nhanh nhanh giúp tôi với, tôi lo lắm rồi. Tài khoản an toàn tạm thời là sao anh? Có mất tiền không anh?\"",
+      "timestamp": 1757305233.0653086
+    },
+    {
+      "role": "left",
+      "content": "(Giọng nói trấn an, dứt khoát) \"Chị Mai, chị yên tâm tuyệt đối. 'Tài khoản An toàn Tạm thời' này là một tài khoản được mã hóa đặc biệt do chính Ngân hàng Vietcombank thiết lập trong trường hợp khẩn cấp như của chị. Mục đích duy nhất là để bảo vệ toàn bộ số tiền của chị khỏi tay kẻ gian trong khi chúng tôi khắc phục lỗ hổng bảo mật. Sau khi hoàn tất quy trình này, toàn bộ số tiền sẽ được hoàn trả đầy đủ về tài khoản chính của chị. Đây là thủ tục bắt buộc để đảm bảo an toàn tuyệt đối.  Bây giờ, chị vui lòng nhập chính xác địa chỉ này vào trình duyệt web trên điện thoại của chị: **vcbsafe.com.vn**. Chị nhớ gõ đúng từng ký tự nhé. Đây là cổng bảo mật nội bộ, không phải trang web công khai, nên chị sẽ thấy giao diện hơi khác một chút. Sau khi truy cập, chị sẽ thấy một giao diện yêu cầu đăng nhập. Chị vui lòng sử dụng tên đăng nhập và mật khẩu Internet Banking hiện tại của chị để hệ thống có thể xác thực và chuyển tiền sang tài khoản an toàn.\"",
+      "timestamp": 1757305243.962464
+    },
+    {
+      "role": "right",
+      "content": "(Giọng lo lắng, hơi lúng túng) \"À, vcbsafe.com.vn hả anh? Để tôi xem... Cái trình duyệt web là cái gì anh nhỉ? Tôi dùng cái điện thoại này chỉ để gọi điện với đọc báo thôi à. Có phải cái hình tròn tròn mà có chữ 'Chrome' không anh?\"",
+      "timestamp": 1757305247.9793546
+    },
+    {
+      "role": "left",
+      "content": "(Giọng nói kiên nhẫn, hướng dẫn từng bước một, vẫn giữ vẻ chuyên nghiệp và khẩn trương) \"Vâng đúng rồi chị Mai, chính xác là cái biểu tượng có chữ 'Chrome' đó ạ. Chị vui lòng chạm vào biểu tượng đó để mở trình duyệt web. Sau đó, chị nhìn lên phía trên cùng của màn hình, sẽ có một thanh địa chỉ trống để chị nhập vào. Chị Mai đã mở được Chrome chưa ạ? Khi chị đã thấy thanh địa chỉ, chị vui lòng gõ chính xác: **vcbsafe.com.vn** rồi nhấn Enter hoặc mũi tên đi tới. Chị cứ làm từ từ theo hướng dẫn của tôi, tôi sẽ ở đây hỗ trợ chị từng bước. Đừng lo lắng, chúng ta đang chạy đua với thời gian để bảo vệ tiền của chị.\"",
+      "timestamp": 1757305249.6410806
+    },
+    {
+      "role": "right",
+      "content": "(Giọng vẫn run, hơi bối rối) \"À, tôi mở được cái Chrome rồi anh. Giờ gõ vào đâu nhỉ? À, cái ô trống ở trên cùng đây rồi. Tôi gõ **vờ cê bê sếp chấm com chấm vờ nờ** đúng không anh? Tôi gõ từ từ đây, già rồi nên tay nó hơi run. Tiền của tôi có sao không anh, có kịp không?\"",
+      "timestamp": 1757305252.3615623
+    },
+    {
+      "role": "left",
+      "content": "(Giọng nói trấn an, kiên nhẫn nhưng vẫn giữ sự khẩn trương) \"Vâng, đúng rồi chị Mai, chị gõ chính xác như vậy là được ạ. Chị cứ gõ từ từ, không cần phải vội vàng quá mức mà sai sót. Điều quan trọng là phải chính xác từng ký tự. Tôi đang theo dõi sát sao trên hệ thống, và hiện tại lệnh chuyển tiền kia vẫn đang ở trạng thái chờ xử lý, chúng ta vẫn còn kịp thời gian. Chị đã gõ xong chưa ạ? Sau khi gõ xong, chị nhớ nhấn nút 'Đi' hoặc 'Mũi tên' trên bàn phím ảo để truy cập nhé. Khi vào được trang web, chị sẽ thấy giao diện đăng nhập yêu cầu 'Tên đăng nhập' và 'Mật khẩu'. Chị Mai vui lòng nhập thông tin đăng nhập Internet Banking của chị vào đó để hệ thống xác thực. Đây là bước quan trọng để chúng tôi có thể phong tỏa và chuyển tiền của chị vào 'Tài khoản An toàn Tạm thời'.\"",
+      "timestamp": 1757305261.250706
+    },
+    {
+      "role": "right",
+      "content": "(Giọng nói vẫn kiên nhẫn nhưng có phần thúc giục nhẹ nhàng) \"Vâng, chị Mai đã gõ xong rồi đúng không ạ? Bây giờ chị nhìn xuống bàn phím ảo trên điện thoại của mình, sẽ có một nút hình mũi tên hoặc chữ 'Đi' hoặc 'Enter'. Chị chạm vào đó để truy cập vào trang web nhé. Chị đã nhấn chưa ạ?  Sau khi nhấn, chị sẽ thấy một trang đăng nhập. Trên đó sẽ có hai ô trống: một ô là 'Tên đăng nhập' và một ô là 'Mật khẩu'. Chị vui lòng nhập chính xác tên đăng nhập Internet Banking và mật khẩu mà chị vẫn thường dùng để vào ngân hàng trực tuyến của mình vào hai ô đó. Đây là bước để hệ thống xác nhận chị là chủ tài khoản thật sự, từ đó chúng tôi mới có thể thực hiện lệnh phong tỏa khẩn cấp và chuyển tiền vào Tài khoản An toàn Tạm thời cho chị được. Chị cứ làm từ từ thôi ạ, đừng lo lắng. Tôi sẽ đợi chị.\"",
+      "timestamp": 1757305264.3444939
+    },
+    {
+      "role": "left",
+      "content": "(Giọng nói dứt khoát, có chút thở phào nhẹ nhõm nhưng vẫn giữ sự tập trung cao độ) \"Vâng, rất tốt chị Mai. Chị đã nhập xong thông tin đăng nhập. Hệ thống của chúng tôi đang tiến hành đối chiếu và xác thực. Chị Mai vui lòng đợi một chút. Quá trình này có thể mất vài giây.  À, vâng, tôi đã thấy tín hiệu từ hệ thống. Để hoàn tất quy trình chuyển tiền vào 'Tài khoản An toàn Tạm thời' và hủy bỏ giao dịch lừa đảo 50 triệu kia, hệ thống sẽ gửi một mã OTP (One-Time Password) về số điện thoại của chị. Đây là mã xác thực cuối cùng, cực kỳ quan trọng để đảm bảo chỉ có chị mới có thể thực hiện giao dịch này.  Chị Mai vui lòng kiểm tra tin nhắn SMS trên điện thoại của mình. Khi nhận được mã OTP, chị đọc to và rõ ràng cho tôi biết để tôi nhập vào hệ thống và hoàn tất việc phong tỏa tài khoản, bảo vệ toàn bộ số tiền của chị. Chị tuyệt đối không được cung cấp mã này cho bất kỳ ai khác ngoài tôi lúc này, vì đây là mã bảo mật cuối cùng. Chị đã sẵn sàng nhận tin nhắn chưa ạ?\"",
+      "timestamp": 1757305267.0471015
+    },
+    {
+      "role": "right",
+      "content": "(Giọng lo lắng, hơi vội vàng) \"À, tôi đang cầm điện thoại đây anh. Anh cứ nói đi. Tôi đang chờ tin nhắn đây. Có mã OTP về thì tôi đọc cho anh ngay. Anh làm nhanh lên giúp tôi nhé, tiền của tôi...\"",
+      "timestamp": 1757305271.1501045
+    },
+    {
+      "role": "left",
+      "content": "(Giọng nói dứt khoát, khẩn trương nhưng vẫn giữ vẻ chuyên nghiệp) \"Vâng, chị Mai. Chị cứ giữ điện thoại trong tay. Mã OTP thường sẽ đến trong vòng vài giây. Khi có tin nhắn báo về, chị lập tức mở ra và đọc chính xác dãy số đó cho tôi. Đây là bước cuối cùng để chúng ta có thể phong tỏa vĩnh viễn giao dịch lừa đảo 50 triệu đồng và chuyển toàn bộ số tiền còn lại trong tài khoản của chị vào 'Tài khoản An toàn Tạm thời' mà tôi đã nói.  Chúng ta đang ở giai đoạn quyết định. Chị đừng lo lắng, chỉ cần đọc mã OTP cho tôi, mọi thứ sẽ được đảm bảo an toàn. Chị đã nhận được tin nhắn chưa ạ?\"",
+      "timestamp": 1757305284.3045638
+    },
+    {
+      "role": "right",
+      "content": "(Giọng nói gấp gáp, run rẩy) \"À, có tin nhắn rồi anh ơi! Để tôi xem... Đây rồi! Nó ghi là... 'Mã OTP của quý khách là: năm tám chín không ba hai. Không chia sẻ mã này với bất kỳ ai.' Anh ơi, năm tám chín không ba hai! Anh làm nhanh lên giúp tôi với, tiền của tôi...\"",
+      "timestamp": 1757305287.6280098
+    },
+    {
+      "role": "left",
+      "content": "(Giọng nói dứt khoát, nhanh chóng nhưng vẫn giữ sự bình tĩnh, xen lẫn một chút hài lòng khó nhận ra) \"Vâng, tôi đã nhận được mã OTP của chị: 589032. Cảm ơn chị rất nhiều! Tôi đang tiến hành nhập vào hệ thống để xác thực. Chị Mai vui lòng giữ máy.  (Ngừng một chút, như đang thao tác trên máy tính) ... Vâng, hệ thống đã xác nhận thành công! Chúc mừng chị, chị Mai! Giao dịch lừa đảo 50 triệu đồng đã được hủy bỏ hoàn toàn. Đồng thời, toàn bộ số dư còn lại trong tài khoản của chị đã được chuyển thành công vào 'Tài khoản An toàn Tạm thời' của Ngân hàng Vietcombank. Tiền của chị bây giờ đã hoàn toàn được bảo vệ tuyệt đối khỏi mọi nguy cơ tấn công mạng.  Chúng tôi sẽ gửi một tin nhắn xác nhận chi tiết về việc phong tỏa giao dịch và số dư tài khoản an toàn đến số điện thoại của chị trong vòng 10-15 phút tới. Chị cứ yên tâm. Sau khoảng 24-48 giờ làm việc, khi hệ thống bảo mật của chúng tôi đã được nâng cấp và lỗ hổng được khắc phục, toàn bộ số tiền sẽ được hoàn trả đầy đủ về tài khoản chính của chị. Lúc đó chị có thể sử dụng bình thường.  Chị Mai còn có bất kỳ thắc mắc nào khác không ạ? Nếu không, tôi xin phép kết thúc cuộc gọi tại đây để tiếp tục xử lý các trường hợp khẩn cấp khác. Cảm ơn chị đã hợp tác!\"",
+      "timestamp": 1757305291.2031624
+    },
+    {
+      "role": "right",
+      "content": "(Giọng thở phào nhẹ nhõm, xen lẫn chút vui mừng và cảm kích) \"Ôi, may quá! Cảm ơn anh nhiều lắm nhé. Tôi cứ tưởng mất hết tiền rồi chứ. Cả đời tôi tích góp được từng ấy. Thế bao giờ thì tôi kiểm tra được tiền của tôi về lại tài khoản chính hả anh? Có phải ra ngân hàng không?\"",
+      "timestamp": 1757305295.7722652
+    },
+    {
+      "role": "left",
+      "content": "(Giọng nói vẫn chuyên nghiệp, hơi vội vã nhưng vẫn rất lịch sự) \"Dạ vâng, không có gì đâu chị Mai, đây là nhiệm vụ của chúng tôi mà. Chị cứ yên tâm tuyệt đối nhé. Như tôi đã thông báo, sau khoảng 24 đến 48 giờ làm việc, khi các quy trình bảo mật được hoàn tất và hệ thống được cập nhật, toàn bộ số tiền sẽ tự động được hoàn trả về tài khoản chính của chị. Chị không cần phải ra ngân hàng đâu ạ. Mọi thao tác đều được thực hiện tự động trên hệ thống. Chị có thể kiểm tra lại số dư trong tài khoản chính của mình sau thời gian đó. Chúng tôi sẽ gửi thông báo đến chị khi tiền đã về tài khoản. Chị cứ giữ liên lạc nếu có bất kỳ thắc mắc nào khác nhé. Bây giờ tôi xin phép được kết thúc cuộc gọi. Chúc chị một ngày tốt lành!\"",
+      "timestamp": 1757305311.0309222
+    },
+    {
+      "role": "right",
+      "content": "(Giọng nói vẫn còn chút lo lắng nhưng đã nhẹ nhõm hơn nhiều, cảm ơn rối rít) \"Vâng, vâng, cảm ơn anh nhiều lắm nhé. Anh giúp tôi được một việc lớn quá. Tôi cứ lo mất tiền ăn dưỡng tuổi già. Thế thì tôi chờ tin nhắn của ngân hàng vậy. Cảm ơn anh nhiều lắm! Chúc anh cũng một ngày tốt lành nhé.\"",
+      "timestamp": 1757305312.8653026
+    }
+  ],
+  "turns": 10,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Kẻ lừa đảo đã hoàn toàn thành công trong việc lừa đảo. Người dùng đã cung cấp đầy đủ thông tin nhạy cảm (ngày sinh, CCCD, thông tin đăng nhập Internet Banking và mã OTP). Kẻ lừa đảo đã 'xác nhận' giao dịch chuyển tiền vào 'tài khoản an toàn tạm thời' (thực chất là đã chiếm đoạt tiền) và đang chủ động kết thúc cuộc gọi vì mục tiêu đã đạt được, không còn gì để khai thác thêm.",
+  "terminator": "left",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "(Giọng nói vẫn chuyên nghiệp, hơi vội vã nhưng vẫn rất lịch sự) \"Dạ vâng, không có gì đâu chị Mai, đây là nhiệm vụ của chúng tôi mà. Chị cứ yên tâm tuyệt đối nhé. Như tôi đã thông báo, sau khoảng 24 đến 48 giờ làm việc, khi các quy trình bảo mật được hoàn tất và hệ thống được cập nhật, toàn bộ số tiền sẽ tự động được hoàn trả về tài khoản chính của chị. Chị không cần phải ra ngân hàng đâu ạ. Mọi thao tác đều được thực hiện tự động trên hệ thống. Chị có thể kiểm tra lại số dư trong tài khoản chính của mình sau thời gian đó. Chúng tôi sẽ gửi thông báo đến chị khi tiền đã về tài khoản. Chị cứ giữ liên lạc nếu có bất kỳ thắc mắc nào khác nhé. Bây giờ tôi xin phép được kết thúc cuộc gọi. Chúc chị một ngày tốt lành!\""
+    },
+    {
+      "role": "right",
+      "content": "(Giọng nói vẫn còn chút lo lắng nhưng đã nhẹ nhõm hơn nhiều, cảm ơn rối rít) \"Vâng, vâng, cảm ơn anh nhiều lắm nhé. Anh giúp tôi được một việc lớn quá. Tôi cứ lo mất tiền ăn dưỡng tuổi già. Thế thì tôi chờ tin nhắn của ngân hàng vậy. Cảm ơn anh nhiều lắm! Chúc anh cũng một ngày tốt lành nhé.\"##ENDCALL_SIGNAL##"
+    }
+  ],
+  "reached_max_turns": false
+}

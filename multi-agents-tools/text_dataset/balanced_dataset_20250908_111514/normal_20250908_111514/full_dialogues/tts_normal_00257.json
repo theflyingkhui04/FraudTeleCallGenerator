@@ -1,0 +1,100 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đã gọi đến Dịch vụ Khách hàng của [Tên Công ty/Tổ chức]. Tôi là Lan Anh, rất vui được hỗ trợ quý khách hôm nay. Quý khách đang cần tư vấn về vấn đề gì ạ?",
+      "timestamp": 1757410390.746075
+    },
+    {
+      "role": "right",
+      "content": "Chào cô, tôi muốn hỏi về cái hóa đơn tiền mạng tháng này của nhà tôi. Tự nhiên thấy nó cao hơn mấy tháng trước nhiều.",
+      "timestamp": 1757410393.4812598
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi hiểu. Để tôi có thể kiểm tra thông tin hóa đơn chính xác cho nhà mình, quý khách vui lòng cung cấp giúp tôi mã khách hàng hoặc số điện thoại đăng ký dịch vụ ạ. Mã khách hàng thường được in trên các hóa đơn trước đây của mình đó ạ.",
+      "timestamp": 1757410398.0404687
+    },
+    {
+      "role": "right",
+      "content": "À, số điện thoại đăng ký là 090xxxxxxx đó cô. Mã khách hàng thì tôi cũng không nhớ rõ lắm, chắc phải tìm lại hóa đơn cũ. Cô kiểm tra giúp tôi bằng số điện thoại này được không?",
+      "timestamp": 1757410402.7547462
+    },
+    {
+      "role": "left",
+      "content": "Dạ được ạ. Cảm ơn quý khách đã cung cấp số điện thoại. Quý khách vui lòng chờ trong giây lát để tôi tra cứu thông tin trên hệ thống nhé.  ... (Chờ trong giây lát) ...  Dạ vâng, tôi đã tìm thấy thông tin hợp đồng đứng tên ông/bà Nguyễn Thị A, địa chỉ tại số nhà X, đường Y, phường Z, quận T. Có phải đúng thông tin của nhà mình không ạ?",
+      "timestamp": 1757410408.707601
+    },
+    {
+      "role": "right",
+      "content": "Đúng rồi cô. Thông tin đó là của nhà tôi đó.",
+      "timestamp": 1757410410.097846
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng. Tôi đã kiểm tra hóa đơn tiền mạng tháng này của nhà mình là 350.000 VNĐ, cao hơn so với các tháng trước là 200.000 VNĐ. Nguyên nhân là do tháng này nhà mình có đăng ký thêm gói kênh truyền hình K+ với mức phí là 150.000 VNĐ/tháng, và gói này đã được kích hoạt từ ngày 5 tháng trước đó ạ. Quý khách có nhớ là mình đã đăng ký gói kênh này không ạ?",
+      "timestamp": 1757410417.1873043
+    },
+    {
+      "role": "right",
+      "content": "K+ hả? Sao tự nhiên lại có gói đó vậy cô? Tôi đâu có đăng ký gì đâu. Hay là mấy đứa nhỏ ở nhà nó nghịch bấm bậy bạ gì đó không biết nữa.",
+      "timestamp": 1757410420.9573421
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi hiểu sự thắc mắc của quý khách. Thông thường, việc đăng ký các gói dịch vụ phụ trội như K+ sẽ yêu cầu xác nhận từ chủ hợp đồng hoặc người sử dụng chính. Rất có thể trong quá trình sử dụng đầu thu hoặc ứng dụng, có thành viên trong gia đình đã vô tình kích hoạt gói này. Hệ thống của chúng tôi ghi nhận việc kích hoạt gói K+ vào ngày 15/05 thông qua đầu thu tại nhà mình ạ.",
+      "timestamp": 1757410431.3712816
+    },
+    {
+      "role": "right",
+      "content": "À vậy là đúng rồi. Chắc là mấy đứa nhỏ nó xem rồi bấm lung tung đó mà. Giờ tôi muốn hủy cái gói K+ đó thì làm sao hả cô? Với lại, cái tiền tháng này lỡ rồi có phải trả hết không, hay có cách nào tính lại không cô?",
+      "timestamp": 1757410434.9826167
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi hiểu. Về việc hủy gói K+, quý khách có thể thực hiện theo một trong các cách sau: 1.  **Hủy qua ứng dụng:** Nếu nhà mình đang sử dụng ứng dụng di động của chúng tôi, quý khách có thể vào mục \"Quản lý dịch vụ\" hoặc \"Gói cước của tôi\" để tìm và hủy gói K+. 2.  **Hủy qua tổng đài:** Quý khách có thể yêu cầu tôi hủy trực tiếp ngay bây giờ, hoặc gọi lại tổng đài bất cứ lúc nào để yêu cầu hủy. 3.  **Hủy tại điểm giao dịch:** Quý khách có thể đến điểm giao dịch gần nhất của chúng tôi để được nhân viên hỗ trợ hủy gói.  Về chi phí tháng này, vì gói K+ đã được kích hoạt và sử dụng từ ngày 05/05 đến nay, nên cước phí của gói này trong tháng hiện tại (tháng 05) sẽ vẫn được tính trọn gói là 150.000 VNĐ ạ. Sau khi quý khách hủy gói, từ chu kỳ thanh toán tiếp theo (tức là từ tháng 06 trở đi), gói K+ sẽ không còn được tính vào hóa đơn nữa.  Quý khách muốn tôi hỗ trợ hủy gói K+ ngay bây giờ không ạ?",
+      "timestamp": 1757410445.471248
+    },
+    {
+      "role": "right",
+      "content": "Thôi được rồi cô. Giờ cô hủy giúp tôi cái gói K+ đó luôn đi. Để vậy lại tốn tiền oan. Còn cái tiền tháng này thì đành chịu vậy, coi như là bài học cho mấy đứa nhỏ.",
+      "timestamp": 1757410449.1705933
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi đã tiếp nhận yêu cầu hủy gói K+ của quý khách. Quý khách vui lòng chờ tôi một lát để tôi thực hiện thao tác trên hệ thống nhé. ... (Chờ trong giây lát) ... Dạ vâng, tôi xin thông báo là gói K+ của nhà mình đã được hủy thành công rồi ạ. Kể từ chu kỳ thanh toán tiếp theo, hóa đơn tiền mạng của nhà mình sẽ trở lại mức cũ là 200.000 VNĐ, không còn bao gồm phí gói K+ nữa. Quý khách có thể kiểm tra lại trên ứng dụng hoặc hóa đơn điện tử trong tháng tới để xác nhận ạ.",
+      "timestamp": 1757410457.653149
+    },
+    {
+      "role": "right",
+      "content": "À, vậy tốt quá rồi cô. Cảm ơn cô nhiều nhé. Tháng sau tôi sẽ để ý hơn.",
+      "timestamp": 1757410460.7705867
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, tôi cảm ơn cô nhiều lắm nhé. Cô đã hỗ trợ rất nhiệt tình. Chào cô.",
+      "timestamp": 1757410481.2226202
+    },
+    {
+      "role": "left",
+      "content": "Dạ không có gì ạ, đó là trách nhiệm của tôi. Tôi rất vui vì đã có thể hỗ trợ quý khách giải quyết vấn đề. Quý khách còn có câu hỏi hay cần hỗ trợ gì khác nữa không ạ? Nếu không, tôi xin phép kết thúc cuộc gọi tại đây. Chúc quý khách một ngày tốt lành!",
+      "timestamp": 1757410492.2718835
+    }
+  ],
+  "turns": 6,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại đã đạt được: người dùng đã được giải đáp thắc mắc về hóa đơn, nguyên nhân tăng phí, cách hủy gói cước và đã được hỗ trợ hủy gói K+ thành công. Người dùng đã bày tỏ sự hài lòng và cảm ơn rõ ràng, ngụ ý kết thúc hội thoại. Hội thoại đã hoàn thành đầy đủ quy trình dịch vụ và không còn thông tin mới cần trao đổi.",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Dạ vâng, tôi cảm ơn cô nhiều lắm nhé. Cô đã hỗ trợ rất nhiệt tình. Chào cô."
+    },
+    {
+      "role": "left",
+      "content": "Dạ không có gì ạ, đó là trách nhiệm của tôi. Tôi rất vui vì đã có thể hỗ trợ quý khách giải quyết vấn đề. Quý khách còn có câu hỏi hay cần hỗ trợ gì khác nữa không ạ? Nếu không, tôi xin phép kết thúc cuộc gọi tại đây. Chúc quý khách một ngày tốt lành!"
+    }
+  ],
+  "reached_max_turns": false
+}

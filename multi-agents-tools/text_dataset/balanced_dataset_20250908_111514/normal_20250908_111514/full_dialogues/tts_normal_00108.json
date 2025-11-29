@@ -1,0 +1,60 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đến với Trung tâm Dịch vụ Khách hàng của [Tên công ty giả định, ví dụ: VNPT SmartConnect]. Tôi là Minh Anh, rất vui được hỗ trợ quý khách hôm nay. Quý khách đang cần tư vấn về dịch vụ nào ạ, hay có vấn đề gì cần chúng tôi giải đáp không?",
+      "timestamp": 1757408749.33885
+    },
+    {
+      "role": "right",
+      "content": "Chào cháu, cô là Hạnh. Cô gọi là để hỏi về cái mạng internet ở nhà cô. Mấy hôm nay nó cứ chập chờn, lúc được lúc không ấy cháu ạ.",
+      "timestamp": 1757408751.7737749
+    },
+    {
+      "role": "left",
+      "content": "Dạ chào cô Hạnh. Cháu rất tiếc khi nghe về sự cố mạng internet mà cô đang gặp phải. Để cháu có thể hỗ trợ cô một cách nhanh chóng và chính xác nhất, cô vui lòng cho cháu xin một vài thông tin ạ:  1.  **Mã hợp đồng** hoặc **số điện thoại đăng ký dịch vụ** của gia đình mình là gì ạ? 2.  Cô có thể mô tả cụ thể hơn về tình trạng chập chờn không ạ? Ví dụ như đèn tín hiệu trên modem có màu gì, hay cô chỉ gặp vấn đề khi sử dụng thiết bị nào đó không? 3.  Cô đã thử khởi động lại modem/router chưa ạ? Đây là bước đầu tiên và thường giải quyết được nhiều vấn đề nhỏ về kết nối.  Cháu cảm ơn cô.",
+      "timestamp": 1757408756.2701113
+    },
+    {
+      "role": "right",
+      "content": "À, số điện thoại của cô là 0903 XXX YYYY cháu nhé.  Về tình trạng mạng thì nó cứ chậm chậm, rồi thỉnh thoảng lại mất hẳn, rồi lát sau lại có lại. Đèn trên cái cục đen đen (modem) thì cô thấy nó cứ nhấp nháy màu xanh lá cây, có lúc thì nó chuyển sang màu cam rồi đứng yên luôn. Cả nhà ai dùng điện thoại, máy tính bảng hay xem tivi đều bị hết chứ không riêng gì một cái máy nào đâu cháu.  Cô cũng đã thử rút điện ra cắm lại mấy lần rồi đó cháu, mà nó vẫn không ăn thua.",
+      "timestamp": 1757408759.208493
+    },
+    {
+      "role": "left",
+      "content": "Dạ cháu cảm ơn cô Hạnh đã cung cấp thông tin ạ. Cháu đã tra cứu theo số điện thoại 0903 XXX YYYY và xác nhận đây là gói cước internet cáp quang \"Home Super 100\" của gia đình mình, với tốc độ 100Mbps.  Dựa trên mô tả của cô về đèn tín hiệu trên modem: đèn nhấp nháy xanh lá là bình thường, nhưng khi chuyển sang màu cam và đứng yên có thể báo hiệu đường truyền đang gặp sự cố hoặc tín hiệu quang yếu. Việc cô đã thử khởi động lại modem mà không cải thiện cho thấy vấn đề có thể nằm ngoài thiết bị của cô, có thể là do đường truyền hoặc thiết bị tại trạm phát.  Để khắc phục tình trạng này một cách triệt để, cháu xin phép ghi nhận yêu cầu hỗ trợ kỹ thuật của cô lên hệ thống. Bộ phận kỹ thuật của chúng cháu sẽ liên hệ với cô trong vòng 30 phút tới để xác nhận thông tin và sẽ cử nhân viên đến tận nhà kiểm tra, xử lý sự cố trong vòng 2-4 giờ làm việc kể từ khi xác nhận yêu cầu.  Cô Hạnh vui lòng cho cháu xác nhận lại địa chỉ lắp đặt dịch vụ là số [Số nhà], đường [Tên đường], phường [Tên phường], quận [Tên quận], thành phố [Tên thành phố] đúng không ạ? Và cô có thể cho cháu xin một số điện thoại di động khác (nếu có) để kỹ thuật viên tiện liên hệ khi đến nhà không ạ?",
+      "timestamp": 1757408766.0451674
+    },
+    {
+      "role": "right",
+      "content": "Đúng rồi cháu, địa chỉ là số [Số nhà], đường [Tên đường], phường [Tên phường], quận [Tên quận], thành phố [Tên thành phố] đó. Số điện thoại thì cứ gọi số 0903 XXX YYYY là được rồi, số đó cô dùng luôn. Cháu cứ cho kỹ thuật viên qua kiểm tra giúp cô sớm sớm nhé, chứ không có mạng bất tiện lắm. Cảm ơn cháu nhiều.",
+      "timestamp": 1757408767.3738906
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, địa chỉ [Số nhà], đường [Tên đường], phường [Tên phường], quận [Tên quận], thành phố [Tên thành phố] là chính xác rồi ạ. Cháu xin phép ghi nhận yêu cầu hỗ trợ kỹ thuật của cô với mã số yêu cầu là [Mã yêu cầu giả định, ví dụ: SC20240715-001]. Bộ phận kỹ thuật của chúng cháu sẽ liên hệ với cô trong vòng 30 phút tới để xác nhận lại và sẽ có mặt để kiểm tra, khắc phục sự cố trong vòng 2-4 giờ làm việc.  Nếu có bất kỳ thay đổi nào hoặc cô cần hỗ trợ thêm trong thời gian chờ đợi, cô đừng ngần ngại gọi lại cho chúng cháu nhé. Cháu cảm ơn cô Hạnh đã tin tưởng sử dụng dịch vụ của VNPT SmartConnect. Chúc cô một ngày tốt lành ạ!",
+      "timestamp": 1757408778.7614973
+    },
+    {
+      "role": "right",
+      "content": "Thôi được rồi, vậy cháu cứ làm giúp cô nhé. Cô chờ kỹ thuật viên qua xem sao. Cảm ơn cháu nhiều.",
+      "timestamp": 1757408779.7793663
+    }
+  ],
+  "turns": 2,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Hội thoại đã đạt được mục tiêu chính: người dùng đã báo cáo sự cố mạng và bên dịch vụ đã tiếp nhận, xác định vấn đề sơ bộ và lên lịch cử kỹ thuật viên đến kiểm tra, xử lý. Người dùng đã cung cấp đủ thông tin cần thiết, xác nhận lại địa chỉ và số điện thoại, đồng thời bày tỏ sự cảm ơn rõ ràng ('Cảm ơn cháu nhiều'). Các bước tiếp theo sẽ do bộ phận kỹ thuật thực hiện, không còn nằm trong phạm vi của cuộc gọi này. Do đó, bên cung cấp dịch vụ có thể chủ động kết thúc hội thoại một cách lịch sự.",
+  "terminator": "dịch vụ kết thúc",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Dạ vâng, địa chỉ [Số nhà], đường [Tên đường], phường [Tên phường], quận [Tên quận], thành phố [Tên thành phố] là chính xác rồi ạ. Cháu xin phép ghi nhận yêu cầu hỗ trợ kỹ thuật của cô với mã số yêu cầu là [Mã yêu cầu giả định, ví dụ: SC20240715-001]. Bộ phận kỹ thuật của chúng cháu sẽ liên hệ với cô trong vòng 30 phút tới để xác nhận lại và sẽ có mặt để kiểm tra, khắc phục sự cố trong vòng 2-4 giờ làm việc.  Nếu có bất kỳ thay đổi nào hoặc cô cần hỗ trợ thêm trong thời gian chờ đợi, cô đừng ngần ngại gọi lại cho chúng cháu nhé. Cháu cảm ơn cô Hạnh đã tin tưởng sử dụng dịch vụ của VNPT SmartConnect. Chúc cô một ngày tốt lành ạ!"
+    },
+    {
+      "role": "right",
+      "content": "Thôi được rồi, vậy cháu cứ làm giúp cô nhé. Cô chờ kỹ thuật viên qua xem sao. Cảm ơn cháu nhiều."
+    }
+  ],
+  "reached_max_turns": false
+}

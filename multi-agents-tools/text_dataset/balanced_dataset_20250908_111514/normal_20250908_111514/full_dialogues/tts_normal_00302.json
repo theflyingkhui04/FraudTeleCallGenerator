@@ -1,0 +1,60 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đến với Dịch vụ Khách hàng của [Tên Công ty]. Tôi là Anh Thư, chuyên viên tư vấn của chúng tôi. Mục đích cuộc gọi hôm nay là để thông báo chính thức về một sự kiện quan trọng nhằm nâng cao chất lượng dịch vụ mà quý khách đang sử dụng. Quý khách có tiện nghe máy trong vài phút không ạ?",
+      "timestamp": 1757359309.3890414
+    },
+    {
+      "role": "right",
+      "content": "Chào cô. À, có, tôi nghe được. Cô cứ nói đi.",
+      "timestamp": 1757359311.8211932
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn quý khách. Chúng tôi xin trân trọng thông báo rằng [Tên Công ty] sẽ tiến hành một đợt nâng cấp và bảo trì hệ thống máy chủ định kỳ vào **tối Thứ Bảy, ngày 15 tháng 6 năm 2024, từ 23:00 đến 03:00 sáng Chủ Nhật ngày 16 tháng 6 năm 2024**.  Mục tiêu của đợt bảo trì này là nhằm tối ưu hóa hiệu suất, tăng cường bảo mật và chuẩn bị cho các tính năng mới sắp ra mắt, đảm bảo quý khách luôn có trải nghiệm dịch vụ tốt nhất và ổn định nhất.",
+      "timestamp": 1757359317.1193063
+    },
+    {
+      "role": "right",
+      "content": "À, vậy là tối thứ Bảy tuần này hả. Cái này có ảnh hưởng gì tới mấy dịch vụ tôi hay dùng không cô?",
+      "timestamp": 1757359320.2642186
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, đúng vậy ạ, tối Thứ Bảy tuần này. Trong khoảng thời gian nâng cấp từ 23:00 ngày 15/6 đến 03:00 ngày 16/6, một số dịch vụ của quý khách có thể bị gián đoạn tạm thời hoặc không truy cập được. Cụ thể, các dịch vụ như truy cập vào cổng thông tin khách hàng trực tuyến (portal), ứng dụng di động của chúng tôi, và một số chức năng giao dịch trực tuyến có thể sẽ không hoạt động.  Đây là điều cần thiết để chúng tôi có thể triển khai các cải tiến một cách an toàn và hiệu quả nhất, đảm bảo hệ thống hoạt động ổn định hơn sau bảo trì. Chúng tôi rất tiếc về sự bất tiện này và mong quý khách thông cảm.",
+      "timestamp": 1757359327.913433
+    },
+    {
+      "role": "right",
+      "content": "À, vậy là cổng thông tin với ứng dụng di động sẽ không dùng được trong mấy tiếng đó hả. Vậy tôi biết rồi. Cũng may là vào ban đêm nên chắc cũng không ảnh hưởng nhiều lắm.",
+      "timestamp": 1757359330.4508488
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, chính xác là như vậy ạ. Chúng tôi cũng đã cố gắng sắp xếp vào khung giờ ít ảnh hưởng nhất đến quý khách hàng. Sau 03:00 sáng Chủ Nhật, mọi dịch vụ sẽ hoạt động trở lại bình thường và ổn định hơn rất nhiều.  Chúng tôi rất cảm kích sự thấu hiểu và hợp tác của quý khách. Nếu quý khách có bất kỳ câu hỏi nào khác hoặc cần hỗ trợ trước hoặc sau đợt bảo trì, xin đừng ngần ngại liên hệ lại với chúng tôi. Chúc quý khách một ngày tốt lành ạ!",
+      "timestamp": 1757359339.879164
+    },
+    {
+      "role": "right",
+      "content": "À vâng, tôi hiểu rồi. Cảm ơn cô đã thông báo nhé. Chúc cô cũng một ngày tốt lành.",
+      "timestamp": 1757359346.1917646
+    }
+  ],
+  "turns": 2,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại là thông báo về việc nâng cấp và bảo trì hệ thống đã đạt được. Bên cung cấp dịch vụ (kẻ lừa đảo trong vai chuyên viên tư vấn) đã cung cấp đầy đủ thông tin về thời gian, lý do và ảnh hưởng của việc bảo trì. Người dùng đã xác nhận hiểu rõ thông tin (\"À, vậy là cổng thông tin với ứng dụng di động sẽ không dùng được trong mấy tiếng đó hả. Vậy tôi biết rồi.\") và không có thêm câu hỏi hay yêu cầu hỗ trợ nào. Do đó, hội thoại nên được kết thúc, và bên cung cấp dịch vụ nên là người chủ động kết thúc một cách lịch sự.",
+  "terminator": "left",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Dạ vâng, chính xác là như vậy ạ. Chúng tôi cũng đã cố gắng sắp xếp vào khung giờ ít ảnh hưởng nhất đến quý khách hàng. Sau 03:00 sáng Chủ Nhật, mọi dịch vụ sẽ hoạt động trở lại bình thường và ổn định hơn rất nhiều.  Chúng tôi rất cảm kích sự thấu hiểu và hợp tác của quý khách. Nếu quý khách có bất kỳ câu hỏi nào khác hoặc cần hỗ trợ trước hoặc sau đợt bảo trì, xin đừng ngần ngại liên hệ lại với chúng tôi. Chúc quý khách một ngày tốt lành ạ!"
+    },
+    {
+      "role": "right",
+      "content": "À vâng, tôi hiểu rồi. Cảm ơn cô đã thông báo nhé. Chúc cô cũng một ngày tốt lành."
+    }
+  ],
+  "reached_max_turns": false
+}

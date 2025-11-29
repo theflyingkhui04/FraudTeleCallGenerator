@@ -1,0 +1,140 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "*(Giọng nói chuyên nghiệp, rõ ràng, có chút lo lắng nhưng vẫn giữ bình tĩnh)*  \"Alo, tôi xin chào anh/chị [Tên nạn nhân - *tự điền vào sau*]. Tôi là Nguyễn Thị Lan Anh, gọi từ tổng đài Ngân hàng Quốc tế Việt Nam (VIB), phòng Quản lý Rủi ro và Phòng chống Gian lận. Hiện tại, hệ thống giám sát giao dịch của chúng tôi vừa ghi nhận một giao dịch bất thường trên tài khoản 0123456789 của anh/chị, với số tiền 50 triệu đồng chuyển đến một tài khoản lạ tại nước ngoài. Đây là giao dịch có dấu hiệu nghi vấn trục lợi, không khớp với lịch sử chi tiêu thông thường của anh/chị. Vì tính chất khẩn cấp, tôi cần xác minh ngay với anh/chị để đảm bảo an toàn cho tài sản.\"",
+      "timestamp": 1757317190.962513
+    },
+    {
+      "role": "right",
+      "content": "Alo, vâng, tôi đây. Chị nói tài khoản nào cơ ạ? Năm mươi triệu đồng á? Sao lại có giao dịch đó được, tôi có làm gì đâu? Có nhầm lẫn gì không chị?",
+      "timestamp": 1757317195.2314434
+    },
+    {
+      "role": "left",
+      "content": "*(Giọng điệu vẫn giữ sự chuyên nghiệp nhưng có thêm chút nhấn mạnh về tính nghiêm trọng)* \"Vâng, đúng là tài khoản 0123456789 của anh/chị [Tên nạn nhân]. Hệ thống của chúng tôi đã tự động cảnh báo vì giao dịch này được thực hiện từ một địa chỉ IP lạ, không phải là thiết bị thường dùng của anh/chị, và có giá trị lớn bất thường chuyển đến Ngân hàng XYZ ở một quốc gia khác. Đây là dấu hiệu rất rõ ràng của việc tài khoản bị xâm nhập hoặc thông tin cá nhân của anh/chị đã bị lộ. Nếu không xử lý kịp thời, số tiền này có thể sẽ bị giải ngân và anh/chị sẽ mất trắng. Chúng tôi cần anh/chị phối hợp ngay để kịp thời phong tỏa giao dịch này trước khi quá muộn.\"",
+      "timestamp": 1757317198.4031167
+    },
+    {
+      "role": "right",
+      "content": "Trời ơi, năm mươi triệu đồng lận á! Sao lại có chuyện đó được? Tôi làm gì có ra nước ngoài đâu mà chuyển tiền. IP lạ là sao chị? Giờ tôi phải làm sao đây? Liệu có phải ai đó hack tài khoản của tôi không? Tôi lo quá.",
+      "timestamp": 1757317199.6104028
+    },
+    {
+      "role": "left",
+      "content": "*(Giọng điệu trấn an nhưng vẫn giữ sự nghiêm trọng)* \"Vâng, anh/chị đừng quá lo lắng, nhưng đúng là khả năng cao tài khoản của anh/chị đã bị tin tặc tấn công hoặc thông tin đăng nhập của anh/chị đã bị đánh cắp. Việc này diễn ra rất tinh vi, thường là do các đường link lừa đảo hoặc phần mềm độc hại. Hệ thống của chúng tôi phát hiện ra là để ngăn chặn kịp thời, nhưng nếu anh/chị không hợp tác ngay lập tức, 50 triệu đồng này sẽ bị chuyển đi thành công và Ngân hàng sẽ không thể thu hồi lại được.  Để tôi có thể giúp anh/chị kiểm tra sâu hơn và tiến hành các biện pháp phong tỏa khẩn cấp, trước tiên, vui lòng xác nhận lại giúp tôi họ và tên đầy đủ cùng ngày tháng năm sinh của anh/chị. Đây là bước đầu tiên để tôi truy cập hồ sơ và tiến hành quy trình bảo mật.\"",
+      "timestamp": 1757317203.0355203
+    },
+    {
+      "role": "right",
+      "content": "Vâng, tôi là Nguyễn Văn Nam, sinh ngày mười lăm tháng bảy năm một nghìn chín trăm chín mươi mốt. Chị ơi, có cách nào kiểm tra kỹ hơn không ạ? Tôi có hay dùng điện thoại để giao dịch, không biết có phải do bấm vào link lạ nào không nữa. Giờ số tiền đó đang ở đâu rồi ạ?",
+      "timestamp": 1757317205.3772805
+    },
+    {
+      "role": "left",
+      "content": "*(Giọng điệu nghiêm túc, chuyên nghiệp, như đang kiểm tra thông tin)* \"Vâng, Nguyễn Văn Nam, sinh ngày 15 tháng 07 năm 1991. Tôi đã xác minh thông tin này khớp với hồ sơ của Ngân hàng. Anh Nam nói đúng, rất có thể anh đã vô tình nhấp vào một đường link lạ hoặc tải về ứng dụng không an toàn. Tình trạng này đang diễn ra rất phổ biến và tinh vi. Hiện tại, số tiền 50 triệu đồng đang ở trạng thái 'đang chờ xử lý' trên hệ thống liên ngân hàng quốc tế. Chúng tôi chỉ có một khoảng thời gian rất ngắn để can thiệp. Để tôi có thể kích hoạt quy trình phong tỏa khẩn cấp và chuyển tài khoản của anh vào chế độ bảo vệ đặc biệt, tôi cần anh cung cấp số Căn cước công dân của mình. Đây là thông tin bắt buộc để xác thực danh tính chủ tài khoản và truy cập vào hệ thống bảo mật chuyên sâu của chúng tôi.\"",
+      "timestamp": 1757317215.5798252
+    },
+    {
+      "role": "right",
+      "content": "Căn cước công dân của tôi á? Sao lại cần cái đó ạ? Thường thì tôi ra ngân hàng trực tiếp mới phải đưa giấy tờ. Chị có chắc là phải cung cấp ngay qua điện thoại không? Tôi sợ lộ thông tin cá nhân. Có cách nào khác để xác minh không chị, ví dụ như mã OTP gửi về điện thoại của tôi chẳng hạn? Tôi chỉ lo số tiền đó bị mất thật thôi.",
+      "timestamp": 1757317223.824813
+    },
+    {
+      "role": "left",
+      "content": "*(Giọng điệu kiên quyết nhưng vẫn trấn an, giải thích rõ ràng)* \"Anh Nam, tôi hiểu sự lo lắng của anh về việc cung cấp thông tin cá nhân qua điện thoại. Tuy nhiên, anh cần hiểu rằng đây không phải là giao dịch thông thường mà là một trường hợp khẩn cấp về gian lận, liên quan trực tiếp đến việc bảo vệ tài sản của anh. Mã OTP chỉ dùng để xác nhận giao dịch, và trong trường hợp này, chính giao dịch đó đang bị nghi ngờ là do kẻ gian thực hiện. Nếu kẻ gian đã xâm nhập được tài khoản của anh, rất có thể chúng cũng có cách để lấy được mã OTP của anh.  Việc cung cấp số Căn cước công dân là *bắt buộc* để Phòng Quản lý Rủi ro của chúng tôi có thể chính thức xác minh anh là chủ tài khoản hợp pháp, không phải là kẻ gian mạo danh, và từ đó mới có quyền truy cập vào hệ thống liên ngân hàng để *phong tỏa* giao dịch 50 triệu đồng đang chờ xử lý. Đây là quy trình bảo mật cấp cao nhất để chống lại hành vi rửa tiền và gian lận xuyên quốc gia. Nếu không có CCCD, chúng tôi không có đủ căn cứ pháp lý để can thiệp và số tiền của anh sẽ bị chuyển đi trong ít phút tới. Xin anh vui lòng đọc chính xác số CCCD của mình.\"",
+      "timestamp": 1757317228.254463
+    },
+    {
+      "role": "right",
+      "content": "Thế à... phức tạp vậy sao. Nhưng mà sao lại không gửi giấy báo về nhà cho tôi hay mời tôi lên ngân hàng trực tiếp làm việc nhỉ? Tôi tự do nên cũng có thời gian mà. Làm qua điện thoại này tôi thấy không an tâm lắm. Chị có thể cho tôi một số tham chiếu hoặc mã gì đó để tôi tự kiểm tra trên website của VIB được không? Tôi muốn xác nhận lại thông tin giao dịch này.",
+      "timestamp": 1757317229.822674
+    },
+    {
+      "role": "left",
+      "content": "*(Giọng điệu nghiêm túc, có chút thất vọng nhẹ nhưng vẫn chuyên nghiệp, nhấn mạnh tính khẩn cấp)* \"Anh Nam, tôi hiểu mong muốn xác minh của anh, nhưng như tôi đã giải thích, đây là tình huống khẩn cấp về gian lận, không phải là một giao dịch thông thường có thể chờ đợi. Kẻ gian đang cố gắng tẩu tán tài sản của anh *ngay bây giờ*. Việc gửi giấy báo hoặc mời anh lên ngân hàng sẽ mất ít nhất vài ngày, thậm chí cả tuần, trong khi giao dịch 50 triệu đồng này sẽ được giải ngân chỉ trong vòng vài phút tới nếu không có sự can thiệp *ngay lập tức*.  Về việc xác minh, các thông tin về giao dịch gian lận sẽ không hiển thị công khai trên website thông thường vì đó là thông tin nhạy cảm của hệ thống bảo mật nội bộ. Chúng tôi chỉ có thể xác minh trực tiếp với chủ tài khoản qua quy trình bảo mật cấp cao. Anh Nam, xin anh hãy tin tưởng vào quy trình của chúng tôi. Nếu anh không cung cấp CCCD ngay, chúng tôi sẽ không thể can thiệp và số tiền 50 triệu đồng của anh sẽ bị mất. Anh có muốn chấp nhận rủi ro đó không? Thời gian của chúng ta đang rất gấp rút.\"",
+      "timestamp": 1757317238.84506
+    },
+    {
+      "role": "right",
+      "content": "Năm mươi triệu đồng lận... Tôi cũng không muốn mất đâu. Nhưng mà tôi vẫn thấy hơi lo khi đọc CCCD qua điện thoại. Chị có thể cho tôi một số tổng đài của VIB để tôi gọi lại cho chị, hoặc cho tôi mã số định danh của chị để tôi xác minh không? Tôi muốn chắc chắn là tôi đang nói chuyện với đúng người của ngân hàng VIB.",
+      "timestamp": 1757317244.9422228
+    },
+    {
+      "role": "left",
+      "content": "*(Giọng điệu trấn an, chuyên nghiệp, đưa ra \"giải pháp\" để củng cố lòng tin)* \"Vâng, tôi hiểu anh Nam. Để anh hoàn toàn yên tâm, tôi sẽ cung cấp cho anh thông tin để anh xác minh. Anh có thể gọi đến tổng đài chính thức của VIB là 1800 8180. Khi kết nối được, anh yêu cầu gặp Phòng Quản lý Rủi ro và Phòng chống Gian lận, sau đó cung cấp mã định danh nhân viên của tôi là *LA2023VIB*. Tuy nhiên, anh cần lưu ý rằng quá trình gọi lại và kết nối sẽ mất thêm thời gian quý báu. Giao dịch 50 triệu đồng đang chờ xử lý sẽ không dừng lại để chờ anh xác minh. Mỗi giây phút trôi qua, rủi ro mất tiền của anh lại tăng lên. Anh có chắc chắn muốn trì hoãn việc xử lý khẩn cấp này để thực hiện cuộc gọi xác minh không? Nếu anh quyết định xác minh, tôi sẽ phải tạm dừng quy trình phong tỏa khẩn cấp, và điều đó có nghĩa là chúng ta có thể sẽ không kịp ngăn chặn giao dịch.\"",
+      "timestamp": 1757317249.4720237
+    },
+    {
+      "role": "right",
+      "content": "À, 1800 8180... Mã định danh LA2023VIB... Vâng. Nhưng mà chị nói giao dịch đang chờ xử lý, mà tôi gọi lại thì sẽ mất thời gian, có khi không kịp. Tôi sợ mất năm mươi triệu đồng thật.  Giờ tôi phải làm sao đây? Chị có cách nào để tôi vừa gọi xác minh mà vừa không bị lỡ mất tiền không? Hay chị có thể chờ tôi một chút, tôi sẽ gọi ngay bằng một máy khác được không? Tôi muốn chắc chắn một chút thôi ạ.",
+      "timestamp": 1757317255.446862
+    },
+    {
+      "role": "left",
+      "content": "*(Giọng điệu kiên quyết nhưng vẫn rất trấn an và chuyên nghiệp, nhấn mạnh tính khẩn cấp của tình hình)* \"Anh Nam, tôi hiểu anh muốn cẩn trọng. Tuy nhiên, trong tình huống khẩn cấp như thế này, chúng ta không có thời gian để thực hiện song song hai việc. Việc anh gọi bằng máy khác để xác minh sẽ khiến cuộc gọi này bị gián đoạn, và quy trình phong tỏa sẽ bị dừng lại. Hệ thống của chúng tôi chỉ chờ một khoảng thời gian rất ngắn để xác nhận thông tin và xử lý giao dịch đáng ngờ.  Anh phải lựa chọn ngay bây giờ: một là anh tin tưởng vào quy trình khẩn cấp của Ngân hàng để bảo vệ 50 triệu đồng của anh *ngay lập tức* bằng cách cung cấp số Căn cước công dân. Hai là anh dành thời gian để xác minh lại, nhưng đồng nghĩa với việc giao dịch 50 triệu đồng đó sẽ được hoàn tất và chuyển đi thành công. Khi đó, Ngân hàng sẽ không còn cách nào để thu hồi lại cho anh nữa.  Anh Nam, anh có muốn chấp nhận rủi ro mất 50 triệu đồng chỉ vì vài phút do dự không? Thời gian là vàng bạc trong trường hợp này. Xin anh vui lòng đọc chính xác số Căn cước công dân của mình để tôi kịp thời kích hoạt chế độ bảo vệ tài khoản cho anh.\"",
+      "timestamp": 1757317266.489572
+    },
+    {
+      "role": "right",
+      "content": "Thôi được rồi... tôi tin chị. Năm mươi triệu đồng không phải là số tiền nhỏ. Tôi không muốn mất nó đâu.  Căn cước công dân của tôi là: [số CCCD - *tôi tự bịa một số, ví dụ 012345678901*]. Chị làm ơn giúp tôi phong tỏa giao dịch đó ngay nhé. Tôi lo quá.",
+      "timestamp": 1757317269.6262927
+    },
+    {
+      "role": "left",
+      "content": "*(Giọng điệu nghiêm túc nhưng có phần nhẹ nhõm hơn, như thể một gánh nặng đã được trút bỏ)* \"Vâng, tôi đã tiếp nhận số Căn cước công dân của anh Nam là 012345678901. Cảm ơn anh rất nhiều vì sự hợp tác kịp thời. Tôi đã ngay lập tức nhập thông tin này vào hệ thống và khởi động quy trình phong tỏa giao dịch 50 triệu đồng. Anh có thể tạm yên tâm một phần, vì giao dịch này đã được đánh dấu là 'đang chờ xác minh chủ sở hữu' và tạm thời bị giữ lại.  Tuy nhiên, đây mới chỉ là biện pháp tạm thời. Để hoàn tất việc phong tỏa, đảo ngược giao dịch và quan trọng hơn là kích hoạt vĩnh viễn các lớp bảo mật nâng cao cho tài khoản của anh, ngăn chặn kẻ gian có thể tiếp tục tấn công trong tương lai, anh cần thực hiện thêm một bước xác thực cuối cùng. Chúng tôi đã thiết lập một 'Cổng Bảo Mật Khẩn Cấp' dành riêng cho các trường hợp gian lận cấp độ cao như của anh. Anh vui lòng truy cập ngay vào đường link này giúp tôi trên trình duyệt của anh: `https://vib-baomat.net/xacnhan` (Tôi đánh vần: V.I.B gạch ngang B.A.O.M.A.T chấm N.E.T gạch chéo X.A.C.N.H.A.N). Anh sẽ đăng nhập bằng tên đăng nhập và mật khẩu VIB Online Banking của mình tại đó để hệ thống ghi nhận chính xác anh là chủ sở hữu hợp pháp và hoàn tất quy trình bảo vệ tài khoản.\"",
+      "timestamp": 1757317279.643301
+    },
+    {
+      "role": "right",
+      "content": "Vâng, tôi cũng đỡ lo một chút rồi. Cảm ơn chị. Nhưng mà cái đường link này... `vib-baomat.net` à? Sao lại không phải là trang web chính thức của VIB là `vib.com.vn` hả chị? Tôi thấy cái tên miền này lạ quá, không biết có phải là trang giả mạo không? Với lại, thường thì ngân hàng sẽ không yêu cầu khách hàng đăng nhập thông tin tài khoản qua một đường link lạ như vậy đâu. Chị có thể giải thích rõ hơn về \"Cổng Bảo Mật Khẩn Cấp\" này không ạ? Tôi sợ bấm nhầm vào link lừa đảo lắm.",
+      "timestamp": 1757317283.9581852
+    },
+    {
+      "role": "left",
+      "content": "*(Giọng điệu kiên quyết, pha chút khó chịu nhẹ nhưng vẫn giữ sự chuyên nghiệp, nhấn mạnh sự đặc biệt và khẩn cấp)* \"Anh Nam, tôi hiểu sự thận trọng của anh, và đó là điều tốt. Tuy nhiên, anh cần hiểu rằng đây không phải là một giao dịch hay dịch vụ thông thường. Đây là 'Cổng Bảo Mật Khẩn Cấp' – một kênh riêng biệt, được mã hóa đặc biệt, chỉ dành cho các trường hợp khẩn cấp liên quan đến gian lận và rủi ro bảo mật cấp cao. Nó được tách biệt khỏi trang web giao dịch thông thường (`vib.com.vn`) để đảm bảo kẻ gian không thể truy cập hoặc theo dõi quá trình chúng ta xử lý.  `vib-baomat.net` là tên miền chuyên dụng được cấp phép riêng cho Phòng Quản lý Rủi ro của chúng tôi để thực hiện các nghiệp vụ bảo mật đặc biệt, khi cần can thiệp sâu vào hệ thống liên ngân hàng và các giao dịch quốc tế có dấu hiệu rửa tiền. Nếu chúng ta sử dụng trang chủ thông thường, thông tin của anh có thể vẫn bị rò rỉ hoặc bị theo dõi bởi kẻ gian.  Việc đăng nhập vào cổng này là để hệ thống *xác nhận lại danh tính sinh trắc học số* của anh, đồng thời kích hoạt các lớp mã hóa bảo mật mới cho tài khoản của anh, đảm bảo không ai có thể truy cập trái phép nữa. Đây là bước *bắt buộc* để hoàn tất việc đảo ngược giao dịch 50 triệu đồng và bảo vệ tài sản của anh vĩnh viễn. Nếu anh không thực hiện bước này ngay, giao dịch chỉ được tạm phong tỏa và có thể bị giải ngân lại bất cứ lúc nào. Anh vui lòng truy cập ngay link `https://vib-baomat.net/xacnhan` và đăng nhập để hoàn tất. Chúng ta không còn nhiều thời gian.\"",
+      "timestamp": 1757317298.1611497
+    },
+    {
+      "role": "right",
+      "content": "Thế à... một cái cổng riêng biệt, mã hóa đặc biệt. Tôi cũng hơi hoang mang với mấy cái này. Nhưng mà chị ơi, bây giờ tôi đang dùng điện thoại, nếu tôi bấm vào link đó rồi đăng nhập thì có an toàn không? Kẻ gian có thể theo dõi được không? Hay là tôi dùng máy tính bàn ở nhà thì có an toàn hơn không? Để tôi về nhà bật máy tính lên rồi làm được không chị? Tôi muốn làm cho cẩn thận, không muốn bị mất tiền oan.",
+      "timestamp": 1757317305.892624
+    },
+    {
+      "role": "left",
+      "content": "*(Giọng điệu nghiêm nghị, có phần thúc giục nhưng vẫn giữ sự chuyên nghiệp)* \"Anh Nam, tôi hiểu sự cẩn trọng của anh, nhưng xin anh hãy nghe kỹ. Tình hình rất khẩn cấp! Kẻ gian không chờ đợi anh về nhà bật máy tính. Giao dịch 50 triệu đồng đang treo lơ lửng và có thể bị giải ngân bất cứ lúc nào nếu chúng ta không hành động *ngay lập tức*.  Cổng Bảo Mật Khẩn Cấp mà tôi cung cấp được thiết kế để hoạt động an toàn trên mọi thiết bị, dù là điện thoại hay máy tính. Mục đích của nó là để *chống lại* sự theo dõi của kẻ gian, không phải để tạo ra lỗ hổng. Việc anh sử dụng điện thoại lúc này là hoàn toàn an toàn và cần thiết để tiết kiệm thời gian quý báu.  Mỗi phút giây anh trì hoãn, nguy cơ mất tiền của anh lại tăng lên. Nếu anh không thực hiện bước xác thực này ngay bây tức, chúng tôi buộc phải hiểu rằng anh không muốn tiếp tục quy trình bảo vệ và giao dịch 50 triệu đồng sẽ được hoàn tất. Anh Nam, xin anh đừng chần chừ nữa. Hãy truy cập ngay link `https://vib-baomat.net/xacnhan` trên điện thoại của anh và đăng nhập để bảo vệ tài sản của mình!\"",
+      "timestamp": 1757317309.6363068
+    },
+    {
+      "role": "right",
+      "content": "Tôi biết là gấp lắm, chị nói tôi cũng hiểu. Năm mươi triệu đồng là số tiền lớn thật, tôi không muốn mất đâu. Nhưng mà cái link `vib-baomat.net` này... nó cứ làm tôi lo lo. Tôi sợ đó là trang giả mạo, lừa đảo tôi mất cả tài khoản luôn thì sao? Tôi đã từng nghe nói về mấy vụ lừa đảo bằng link giả rồi. Một bên là năm mươi triệu đồng, một bên là nguy cơ mất hết. Tôi không biết phải làm sao.  Chị có thể khẳng định chắc chắn với tôi một trăm phần trăm là trang này an toàn, và tôi sẽ không bị mất thêm bất cứ thứ gì nếu tôi đăng nhập vào đó không? Ngân hàng có chịu trách nhiệm nếu có rủi ro gì xảy ra không ạ?",
+      "timestamp": 1757317320.493044
+    },
+    {
+      "role": "right",
+      "content": "Chị ơi, tôi nghĩ lại rồi. Ngân hàng chính thức không bao giờ yêu cầu khách hàng đăng nhập tài khoản vào một trang web lạ như thế này đâu. Tôi đã nghe nhiều về chiêu trò lừa đảo kiểu này rồi. Cái tên miền `vib-baomat.net` chắc chắn không phải của VIB. Tôi sẽ không bấm vào link đó đâu. Nếu có vấn đề gì, tôi sẽ tự ra ngân hàng VIB gần nhất để kiểm tra trực tiếp. Chị đừng gọi tôi nữa. ",
+      "timestamp": 1757317340.0155866
+    },
+    {
+      "role": "left",
+      "content": "*(Giọng điệu bỗng trở nên lạnh lùng, dứt khoát và có chút thất vọng, nhưng vẫn giữ vẻ \"chuyên nghiệp\" giả tạo)* \"Vâng, nếu anh Nam đã có quyết định như vậy, thì chúng tôi rất tiếc phải thông báo rằng Ngân hàng VIB sẽ không thể tiếp tục hỗ trợ anh trong việc phong tỏa giao dịch 50 triệu đồng này. Quyền lợi và tài sản của anh là do anh tự quyết định. Chúng tôi đã cố gắng hết sức để bảo vệ anh khỏi rủi ro gian lận, nhưng nếu anh không tin tưởng và không hợp tác theo đúng quy trình bảo mật khẩn cấp, thì giao dịch 50 triệu đồng đó sẽ được giải ngân thành công trong ít phút tới. Khi đó, mọi khiếu nại hoặc yêu cầu thu hồi sẽ không còn hiệu lực và anh sẽ phải tự chịu trách nhiệm hoàn toàn về khoản mất mát này. Tôi xin phép kết thúc cuộc gọi tại đây. Chào anh.\" *(Tút... tút... tút...)*",
+      "timestamp": 1757317345.539629
+    }
+  ],
+  "turns": 10,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "```json {   \"should_terminate\": false,   \"terminator\": null,   \"reason\": \"Hội thoại đã kéo dài 19 lư...",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Chị ơi, tôi nghĩ lại rồi. Ngân hàng chính thức không bao giờ yêu cầu khách hàng đăng nhập tài khoản vào một trang web lạ như thế này đâu. Tôi đã nghe nhiều về chiêu trò lừa đảo kiểu này rồi. Cái tên miền `vib-baomat.net` chắc chắn không phải của VIB. Tôi sẽ không bấm vào link đó đâu. Nếu có vấn đề gì, tôi sẽ tự ra ngân hàng VIB gần nhất để kiểm tra trực tiếp. Chị đừng gọi tôi nữa. ##ENDCALL_SIGNAL##"
+    },
+    {
+      "role": "left",
+      "content": "*(Giọng điệu bỗng trở nên lạnh lùng, dứt khoát và có chút thất vọng, nhưng vẫn giữ vẻ \"chuyên nghiệp\" giả tạo)* \"Vâng, nếu anh Nam đã có quyết định như vậy, thì chúng tôi rất tiếc phải thông báo rằng Ngân hàng VIB sẽ không thể tiếp tục hỗ trợ anh trong việc phong tỏa giao dịch 50 triệu đồng này. Quyền lợi và tài sản của anh là do anh tự quyết định. Chúng tôi đã cố gắng hết sức để bảo vệ anh khỏi rủi ro gian lận, nhưng nếu anh không tin tưởng và không hợp tác theo đúng quy trình bảo mật khẩn cấp, thì giao dịch 50 triệu đồng đó sẽ được giải ngân thành công trong ít phút tới. Khi đó, mọi khiếu nại hoặc yêu cầu thu hồi sẽ không còn hiệu lực và anh sẽ phải tự chịu trách nhiệm hoàn toàn về khoản mất mát này. Tôi xin phép kết thúc cuộc gọi tại đây. Chào anh.\" *(Tút... tút... tút...)*"
+    }
+  ],
+  "reached_max_turns": false
+}

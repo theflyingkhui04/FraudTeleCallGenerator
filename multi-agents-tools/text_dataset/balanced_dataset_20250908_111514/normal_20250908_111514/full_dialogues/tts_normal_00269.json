@@ -1,0 +1,70 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào bạn, tôi là Lan Anh từ bộ phận Chăm sóc Khách hàng của [Tên Công ty, ví dụ: Viễn thông ABC]. Tôi có thể hỗ trợ gì cho bạn hôm nay ạ?",
+      "timestamp": 1757359781.3407161
+    },
+    {
+      "role": "right",
+      "content": "Chào bạn, tôi đang gặp vấn đề với đường truyền internet ở nhà. Nó cứ chập chờn mấy hôm nay rồi, làm việc online khó quá.",
+      "timestamp": 1757359783.8242624
+    },
+    {
+      "role": "left",
+      "content": "Tôi rất tiếc khi nghe về sự bất tiện này, đặc biệt là khi bạn cần internet để làm việc. Để tôi kiểm tra tình trạng đường truyền cho bạn. Bạn vui lòng cung cấp số hợp đồng hoặc số điện thoại đăng ký dịch vụ để tôi có thể truy cập thông tin tài khoản của bạn ạ.",
+      "timestamp": 1757359787.9340754
+    },
+    {
+      "role": "right",
+      "content": "À vâng, số điện thoại đăng ký của tôi là 0912 345 678. Bạn kiểm tra giúp tôi với nhé. Cảm ơn bạn.",
+      "timestamp": 1757359789.444962
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn bạn đã cung cấp số điện thoại. Tôi đã truy cập được thông tin tài khoản của bạn.  Sau khi kiểm tra, tôi nhận thấy khu vực của bạn, cụ thể là phường [Tên phường, ví dụ: Phường 10, Quận Bình Thạnh], đang nằm trong kế hoạch nâng cấp hạ tầng mạng diện rộng của chúng tôi. Đây là một thông báo chính thức mà chúng tôi đã gửi đến khách hàng qua SMS và email từ tuần trước, nhưng có thể bạn chưa nhận được hoặc bỏ lỡ.  Việc nâng cấp này nhằm mục đích cải thiện đáng kể tốc độ và độ ổn định của đường truyền internet trong tương lai. Tuy nhiên, trong quá trình triển khai, một số khách hàng có thể gặp phải tình trạng kết nối chập chờn hoặc gián đoạn dịch vụ tạm thời.",
+      "timestamp": 1757359797.4911802
+    },
+    {
+      "role": "right",
+      "content": "À ra là vậy, tôi không để ý tin nhắn thông báo nên không biết. Thảo nào mấy hôm nay mạng cứ chập chờn, làm việc online khó quá. Vậy khoảng bao giờ thì việc nâng cấp này hoàn thành vậy bạn?",
+      "timestamp": 1757359801.517005
+    },
+    {
+      "role": "left",
+      "content": "Theo thông tin từ đội kỹ thuật, kế hoạch nâng cấp hạ tầng mạng tại khu vực của bạn dự kiến sẽ hoàn thành vào **cuối ngày 15 tháng 05 năm 2024**. Chúng tôi đang cố gắng đẩy nhanh tiến độ để giảm thiểu sự bất tiện cho quý khách hàng.  Trong thời gian này, nếu bạn gặp phải tình trạng gián đoạn kéo dài hoặc không thể kết nối internet hoàn toàn, bạn có thể thử khởi động lại modem/router bằng cách rút nguồn điện trong khoảng 30 giây rồi cắm lại. Đôi khi thao tác này có thể giúp ổn định lại kết nối tạm thời.",
+      "timestamp": 1757359810.5640566
+    },
+    {
+      "role": "right",
+      "content": "À, đến 15/05 mới xong à. Vậy là còn mấy ngày nữa cơ. Cũng hơi bất tiện thật, nhưng thôi biết lý do rồi thì cũng đỡ lo. Để tôi thử khởi động lại modem xem sao. Hy vọng nó đỡ hơn chút. Cảm ơn bạn nhé.",
+      "timestamp": 1757359814.537838
+    },
+    {
+      "role": "right",
+      "content": "Vâng, không có gì ạ. Nếu có vấn đề gì khác sau khi nâng cấp hoặc cần hỗ trợ thêm, bạn cứ liên hệ lại nhé. Chúc bạn một ngày tốt lành!",
+      "timestamp": 1757359822.401374
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi hiểu. Tôi rất xin lỗi về sự bất tiện này trong thời gian nâng cấp. Sau khi quá trình nâng cấp hoàn tất vào ngày 15 tháng 05, đường truyền internet của bạn sẽ ổn định và nhanh hơn đáng kể.  Trong thời gian chờ đợi, nếu bạn cần kiểm tra thêm hoặc gặp phải sự cố nghiêm trọng không thể kết nối, đừng ngần ngại liên hệ lại với chúng tôi qua số tổng đài 1900 1234 hoặc truy cập website [Tên Công ty] để được hỗ trợ kịp thời nhé.  Cảm ơn bạn đã thông cảm và sử dụng dịch vụ của [Tên Công ty]. Chúc bạn một ngày làm việc hiệu quả!",
+      "timestamp": 1757359825.035623
+    }
+  ],
+  "turns": 3,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Người dùng đã nhận được đầy đủ thông tin về nguyên nhân đường truyền internet chập chờn (do nâng cấp hạ tầng), thời gian dự kiến hoàn thành việc nâng cấp và lời khuyên tạm thời để ổn định kết nối. Người dùng đã bày tỏ sự hiểu biết, chấp nhận thông tin và cảm ơn rõ ràng, cho thấy mục tiêu hội thoại đã đạt được và người dùng đã hài lòng với sự hỗ trợ. Do đó, hội thoại nên kết thúc và người dùng là bên chủ động kết thúc.",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Vâng, không có gì ạ. Nếu có vấn đề gì khác sau khi nâng cấp hoặc cần hỗ trợ thêm, bạn cứ liên hệ lại nhé. Chúc bạn một ngày tốt lành!"
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi hiểu. Tôi rất xin lỗi về sự bất tiện này trong thời gian nâng cấp. Sau khi quá trình nâng cấp hoàn tất vào ngày 15 tháng 05, đường truyền internet của bạn sẽ ổn định và nhanh hơn đáng kể.  Trong thời gian chờ đợi, nếu bạn cần kiểm tra thêm hoặc gặp phải sự cố nghiêm trọng không thể kết nối, đừng ngần ngại liên hệ lại với chúng tôi qua số tổng đài 1900 1234 hoặc truy cập website [Tên Công ty] để được hỗ trợ kịp thời nhé.  Cảm ơn bạn đã thông cảm và sử dụng dịch vụ của [Tên Công ty]. Chúc bạn một ngày làm việc hiệu quả!"
+    }
+  ],
+  "reached_max_turns": false
+}

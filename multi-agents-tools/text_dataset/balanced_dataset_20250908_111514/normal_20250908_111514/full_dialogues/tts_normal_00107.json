@@ -1,0 +1,80 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đến với dịch vụ của FPT Telecom. Tôi là Thu Thảo, chuyên viên tư vấn. Không biết tôi có thể hỗ trợ gì cho quý khách ngày hôm nay ạ?",
+      "timestamp": 1757359975.4995284
+    },
+    {
+      "role": "right",
+      "content": "À chào cô Thảo. Cô ơi, nhà tôi dùng mạng FPT mấy năm rồi, tự nhiên mấy hôm nay nó cứ chập chờn, yếu lắm. Không biết bên cô có kiểm tra giúp tôi được không?",
+      "timestamp": 1757359979.234528
+    },
+    {
+      "role": "left",
+      "content": "Chào anh/chị. Tôi rất tiếc khi biết đường truyền internet nhà mình đang gặp vấn đề. Để tôi có thể kiểm tra thông tin và hỗ trợ anh/chị tốt nhất, anh/chị vui lòng cung cấp giúp tôi số hợp đồng hoặc số điện thoại đã đăng ký dịch vụ với FPT Telecom được không ạ?",
+      "timestamp": 1757359983.9172297
+    },
+    {
+      "role": "right",
+      "content": "À đây, số điện thoại của tôi là 0903 555 888. Cô Thảo kiểm tra giúp tôi với nhé, mấy hôm nay mạng chập chờn làm tôi xem phim cũng khó.",
+      "timestamp": 1757359985.599347
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn anh/chị. Tôi đã tra cứu thông tin theo số điện thoại 0903 555 888. Tôi thấy đây là hợp đồng của anh Nguyễn Văn An, tại địa chỉ số 123, đường Trần Hưng Đạo, Phường 1, Quận Gò Vấp, TP.HCM, gói cước Super 100. Không biết thông tin này có đúng với anh/chị không ạ?  Về tình trạng mạng chập chờn, yếu, tôi sẽ kiểm tra tín hiệu từ hệ thống đến modem nhà mình ngay. Trong lúc đó, anh/chị vui lòng thử giúp tôi một bước cơ bản là khởi động lại modem bằng cách rút dây nguồn của modem ra khỏi ổ điện, chờ khoảng 30 giây rồi cắm lại. Sau đó chờ khoảng 2-3 phút để modem khởi động hoàn chỉnh và kiểm tra xem tình hình có cải thiện không nhé. Việc này thường giúp khắc phục các lỗi nhỏ về tín hiệu.",
+      "timestamp": 1757359993.5115983
+    },
+    {
+      "role": "right",
+      "content": "À đúng rồi cô Thảo, thông tin đó là của tôi đó, Nguyễn Văn An đúng rồi.  Cô bảo rút dây nguồn modem hả? Để tôi làm thử xem sao. Mấy hôm nay mạng yếu làm tôi xem thời sự với mấy chương trình ca nhạc cũng bị giật giật khó chịu lắm.",
+      "timestamp": 1757359997.2628546
+    },
+    {
+      "role": "left",
+      "content": "Vâng, anh/chị cứ thực hiện theo hướng dẫn và thông báo lại cho tôi kết quả nhé. Trong thời gian chờ anh/chị khởi động lại modem, tôi cũng đã kiểm tra sơ bộ trên hệ thống và chưa phát hiện sự cố diện rộng nào tại khu vực của anh/chị. Tuy nhiên, việc mạng chập chờn có thể do nhiều nguyên nhân khác nhau như tín hiệu yếu cục bộ, thiết bị modem gặp vấn đề, hoặc có thể do số lượng thiết bị truy cập đồng thời quá nhiều. Anh/chị vui lòng kiểm tra xem sau khi khởi động lại modem, đèn tín hiệu trên modem có ổn định không (thường là đèn PON hoặc LOS không nháy đỏ, đèn Internet sáng xanh)? Và anh/chị đang sử dụng bao nhiêu thiết bị kết nối mạng cùng lúc ạ?",
+      "timestamp": 1757360003.5570507
+    },
+    {
+      "role": "right",
+      "content": "Tôi mới rút ra cắm lại rồi đó cô Thảo. Để tôi xem... à, mấy cái đèn xanh thì sáng ổn định rồi, không thấy cái nào nháy đỏ hết. Cái đèn Internet cũng sáng xanh luôn.  Nhà tôi thì thường chỉ có tôi với bà nhà dùng thôi, mỗi người một cái điện thoại với cái tivi thông minh xem mạng. Tính ra chắc khoảng 3-4 thiết bị thôi. Từ nãy giờ thì tôi thấy có vẻ đỡ hơn chút rồi đó.",
+      "timestamp": 1757360009.2752857
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi rất vui khi nghe thấy tín hiệu có vẻ đã cải thiện sau khi khởi động lại modem. Việc khởi động lại modem giúp làm mới kết nối giữa modem và nhà mạng, đồng thời giải phóng bộ nhớ đệm của thiết bị, từ đó có thể khắc phục các lỗi nhỏ hoặc tình trạng tắc nghẽn tạm thời.  Với 3-4 thiết bị sử dụng đồng thời trên gói cước Super 100 Mbps của anh/chị thì là hoàn toàn phù hợp và không gây quá tải đâu ạ.  Để đảm bảo mạng đã ổn định hoàn toàn, anh/chị có thể giúp tôi kiểm tra tốc độ mạng tại thời điểm hiện tại bằng cách truy cập vào trang web speedtest.net trên điện thoại hoặc máy tính và thông báo lại kết quả cho tôi được không ạ? Nếu tốc độ đạt gần 100 Mbps thì mạng nhà mình đã hoạt động bình thường rồi đó ạ.",
+      "timestamp": 1757360018.4417298
+    },
+    {
+      "role": "right",
+      "content": "Thôi cô Thảo ơi, tôi già rồi, mấy cái trang web kiểm tra tốc độ này tôi cũng không rành lắm đâu. Giờ tôi thấy nó chạy ổn định hơn nhiều rồi, xem thời sự với mấy chương trình ca nhạc không còn bị giật giật nữa là được rồi. Chắc là ổn rồi đó cô. Cảm ơn cô nhé.",
+      "timestamp": 1757360021.042005
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, vậy là tốt rồi cô Thảo nhé. Tôi thấy mạng giờ ổn định lại rồi, xem tivi không còn bị giật nữa. Cảm ơn cô đã hỗ trợ tôi nhiệt tình. Chào cô nhé.",
+      "timestamp": 1757360030.9497592
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi rất mừng khi nghe thấy vấn đề đã được khắc phục và mạng nhà mình đã hoạt động ổn định trở lại. Nếu trong quá trình sử dụng sau này anh/chị có bất kỳ vấn đề gì khác về dịch vụ hoặc cần hỗ trợ thêm, đừng ngần ngại liên hệ lại với FPT Telecom qua tổng đài 1900 6600 hoặc ứng dụng Hi FPT nhé.  FPT Telecom luôn sẵn lòng phục vụ anh/chị. Chúc anh/chị có một ngày tốt lành!",
+      "timestamp": 1757360032.4989436
+    }
+  ],
+  "turns": 4,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại đã đạt được. Người dùng đã xác nhận vấn đề về mạng chập chờn đã được khắc phục sau khi khởi động lại modem. Người dùng cũng từ chối thực hiện bước kiểm tra tốc độ mạng tiếp theo và cảm ơn rõ ràng, cho thấy họ đã hài lòng và không cần hỗ trợ thêm. Đây là tín hiệu rõ ràng từ phía người dùng muốn kết thúc hội thoại.",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Dạ vâng, vậy là tốt rồi cô Thảo nhé. Tôi thấy mạng giờ ổn định lại rồi, xem tivi không còn bị giật nữa. Cảm ơn cô đã hỗ trợ tôi nhiệt tình. Chào cô nhé."
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi rất mừng khi nghe thấy vấn đề đã được khắc phục và mạng nhà mình đã hoạt động ổn định trở lại. Nếu trong quá trình sử dụng sau này anh/chị có bất kỳ vấn đề gì khác về dịch vụ hoặc cần hỗ trợ thêm, đừng ngần ngại liên hệ lại với FPT Telecom qua tổng đài 1900 6600 hoặc ứng dụng Hi FPT nhé.  FPT Telecom luôn sẵn lòng phục vụ anh/chị. Chúc anh/chị có một ngày tốt lành!"
+    }
+  ],
+  "reached_max_turns": false
+}

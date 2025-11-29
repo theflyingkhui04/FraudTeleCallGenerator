@@ -1,0 +1,90 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào bạn, tôi là Lan Anh từ bộ phận Chăm sóc Khách hàng của Viettel. Rất vui được hỗ trợ bạn hôm nay. Bạn đang cần tôi giúp đỡ về vấn đề gì ạ?",
+      "timestamp": 1757401353.58522
+    },
+    {
+      "role": "right",
+      "content": "Chào chị Lan Anh. Em muốn hỏi về gói cước 4G của em ạ. Tự nhiên mấy hôm nay thấy mạng chậm hẳn, dùng cứ bị giật giật khó chịu quá.",
+      "timestamp": 1757401356.7766821
+    },
+    {
+      "role": "left",
+      "content": "Chào bạn. Tôi hiểu cảm giác khó chịu khi mạng chậm. Để tôi kiểm tra tình trạng gói cước 4G hiện tại của bạn và xem xét nguyên nhân nhé. Bạn vui lòng cho tôi xin số điện thoại mà bạn đang sử dụng để tôi có thể truy cập thông tin chính xác ạ?",
+      "timestamp": 1757401361.3652654
+    },
+    {
+      "role": "right",
+      "content": "Dạ, số của em là 0987654321 ạ. Chị kiểm tra giúp em xem gói của em còn dung lượng không hay là có vấn đề gì khác không ạ. Mấy hôm nay em có việc cần dùng mạng nhiều mà cứ thế này khó chịu quá.",
+      "timestamp": 1757401363.4139369
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn bạn đã cung cấp số điện thoại. Tôi đã tra cứu thông tin cho số 0987654321.  Theo hệ thống, gói cước 4G bạn đang sử dụng là V90C, có 1GB data tốc độ cao mỗi ngày và miễn phí các cuộc gọi nội mạng dưới 20 phút. Gói cước này của bạn sẽ tự động gia hạn vào ngày 25 hàng tháng.  Hiện tại, tôi thấy dung lượng data tốc độ cao trong ngày của bạn đã hết. Khi hết dung lượng tốc độ cao, hệ thống sẽ chuyển về tốc độ thường để bạn vẫn có thể truy cập internet, nhưng tốc độ sẽ chậm hơn đáng kể. Đây có thể là nguyên nhân chính khiến bạn cảm thấy mạng chậm và giật đó ạ.  Bạn có muốn tôi kiểm tra thêm về việc sử dụng data của bạn trong những ngày gần đây để xác nhận không ạ?",
+      "timestamp": 1757401369.7533796
+    },
+    {
+      "role": "right",
+      "content": "À ra vậy ạ, thảo nào em thấy mạng chậm hẳn. Hóa ra là hết dung lượng tốc độ cao rồi. Chị kiểm tra giúp em xem có gói nào mua thêm dung lượng tốc độ cao dùng tạm trong ngày không ạ, hoặc có cách nào để em dùng mạng mượt hơn không chị? Em đang cần dùng gấp quá.",
+      "timestamp": 1757401372.858206
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi hiểu bạn đang cần dùng mạng gấp. Để hỗ trợ bạn có trải nghiệm mạng mượt mà hơn ngay lập tức, Viettel có một số gói cước mua thêm data tốc độ cao trong ngày rất linh hoạt.  Bạn có thể tham khảo các gói sau đây: 1.  **Gói ST5K:** Với 5.000đ, bạn sẽ có ngay 500MB data tốc độ cao sử dụng trong 24 giờ kể từ thời điểm đăng ký. Gói này phù hợp nếu bạn chỉ cần một lượng data nhỏ để xử lý công việc gấp. 2.  **Gói ST10K:** Với 10.000đ, bạn sẽ có 1GB data tốc độ cao sử dụng trong 24 giờ. Gói này cung cấp lượng data lớn hơn một chút, đủ dùng cho nhiều tác vụ hơn trong ngày. 3.  **Gói ST15K:** Với 15.000đ, bạn sẽ có 3GB data tốc độ cao sử dụng trong 24 giờ. Đây là lựa chọn tốt nếu bạn có nhu cầu sử dụng data rất nhiều trong ngày.  Các gói này đều là gói data tốc độ cao, và khi bạn đăng ký thành công, dung lượng sẽ được cộng ngay lập tức để bạn sử dụng. Bạn muốn tôi hướng dẫn cách đăng ký gói nào ạ, hay bạn muốn tôi kiểm tra xem có gói nào phù hợp hơn với nhu cầu sử dụng lâu dài của bạn không?",
+      "timestamp": 1757401381.6323764
+    },
+    {
+      "role": "right",
+      "content": "À vậy ạ, nghe cũng ổn đó chị. Em nghĩ em đăng ký gói ST10K đi. Chị hướng dẫn em cách đăng ký gói đó với ạ.  Với cả, chị có thể giới thiệu thêm cho em gói nào dùng lâu dài mà nhiều data hơn chút không ạ? Gói V90C của em 1GB/ngày nhiều khi không đủ thật.",
+      "timestamp": 1757401384.6172223
+    },
+    {
+      "role": "left",
+      "content": "Tuyệt vời! Để đăng ký gói ST10K, bạn chỉ cần soạn tin nhắn với cú pháp: **ST10K gửi 191**. Ngay sau khi gửi, hệ thống sẽ gửi tin nhắn xác nhận đăng ký thành công và cộng 1GB data tốc độ cao vào tài khoản của bạn để sử dụng trong 24 giờ. Bạn sẽ nhận được thông báo ngay lập tức ạ. Về nhu cầu sử dụng lâu dài với nhiều data hơn, tôi rất sẵn lòng giới thiệu cho bạn một số gói cước phù hợp. Hiện tại, Viettel có các gói data không giới hạn dung lượng tốc độ cao hoặc gói có dung lượng rất lớn, ví dụ như: 1.  **Gói V120N:** Với 120.000đ/tháng, bạn sẽ có 4GB data tốc độ cao mỗi ngày (tổng cộng 120GB/tháng). Hết 4GB/ngày sẽ dừng truy cập. Ngoài ra, bạn còn được miễn phí tất cả các cuộc gọi nội mạng dưới 20 phút và 50 phút gọi ngoại mạng. 2.  **Gói SD90:** Với 90.000đ/tháng, bạn sẽ có 1.5GB data tốc độ cao mỗi ngày (tổng cộng 45GB/tháng). Hết 1.5GB/ngày sẽ dừng truy cập. 3.  **Gói SD120:** Với 120.000đ/tháng, bạn sẽ có 2GB data tốc độ cao mỗi ngày (tổng cộng 60GB/tháng). Hết 2GB/ngày sẽ dừng truy cập. Những gói này đều có ưu đãi data lớn hơn đáng kể so với gói V90C hiện tại của bạn, giúp bạn thoải mái sử dụng hơn. Bạn thấy gói nào có vẻ phù hợp với nhu cầu của mình hơn ạ? Hoặc bạn có thể cho tôi biết mức chi tiêu hàng tháng dự kiến cho điện thoại để tôi tư vấn gói tối ưu nhất.",
+      "timestamp": 1757401396.5023408
+    },
+    {
+      "role": "right",
+      "content": "À, em vừa gửi tin nhắn đăng ký ST10K rồi đó chị. Cảm ơn chị nha.  Về mấy gói dài hạn, em thấy gói V120N nghe có vẻ hấp dẫn nhất đó chị. 4GB/ngày là thoải mái dùng luôn. Với lại giá cũng bằng gói SD120 mà được nhiều data hơn hẳn. Chị cho em hỏi gói V120N có tự động gia hạn không ạ? Với lại nếu em muốn chuyển từ V90C sang gói này thì làm thế nào ạ?",
+      "timestamp": 1757401402.9436035
+    },
+    {
+      "role": "left",
+      "content": "Tuyệt vời, bạn đã đăng ký ST10K thành công rồi đó ạ. Hy vọng bạn sẽ có trải nghiệm mạng mượt mà hơn ngay lập tức! Về gói V120N, dạ đúng rồi, gói này rất ưu đãi với 4GB data tốc độ cao mỗi ngày và còn miễn phí gọi nội mạng dưới 20 phút cùng 50 phút ngoại mạng. Gói V120N cũng sẽ **tự động gia hạn** sau mỗi 30 ngày sử dụng, bạn không cần phải đăng ký lại hàng tháng đâu ạ. Để chuyển từ gói V90C sang gói V120N, bạn có thể thực hiện theo 2 cách sau: 1.  **Cách 1 (đơn giản nhất):** Bạn soạn tin nhắn với cú pháp: **V120N gửi 191**. Hệ thống sẽ tự động hủy gói V90C hiện tại của bạn và đăng ký gói V120N mới. 2.  **Cách 2 (qua ứng dụng My Viettel):** Bạn có thể tải ứng dụng My Viettel về điện thoại (nếu chưa có). Sau đó đăng nhập bằng số điện thoại của bạn, vào mục \"Gói cước\", tìm kiếm \"V120N\" và làm theo hướng dẫn để đăng ký. Khi đăng ký gói V120N thành công, gói V90C của bạn sẽ tự động được hủy. Số tiền còn lại của gói V90C (nếu có) sẽ không được hoàn lại, nhưng bạn sẽ được hưởng ưu đãi của gói V120N ngay lập tức. Bạn có muốn tôi hỗ trợ đăng ký gói V120N ngay bây giờ không ạ, hay bạn muốn cân nhắc thêm?",
+      "timestamp": 1757401417.7517664
+    },
+    {
+      "role": "right",
+      "content": "Dạ em hiểu rồi, cảm ơn chị nhiều nha. Em vừa soạn tin nhắn V120N gửi 191 luôn rồi đó ạ. Chắc là nó sẽ chuyển sang gói mới luôn nhỉ. May quá, từ giờ chắc thoải mái dùng mạng hơn rồi.",
+      "timestamp": 1757401429.2556112
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, cảm ơn chị Lan Anh nhiều lắm nha. Chị đã hỗ trợ em rất nhiệt tình và giải quyết được vấn đề của em rồi ạ. Chúc chị một ngày làm việc vui vẻ nhé!",
+      "timestamp": 1757401440.2816546
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi rất vui vì đã có thể hỗ trợ bạn giải quyết vấn đề mạng chậm và tìm được gói cước phù hợp. Nếu trong quá trình sử dụng có bất kỳ thắc mắc hay cần hỗ trợ gì khác, bạn đừng ngần ngại liên hệ lại với Viettel nhé. Chúc bạn có một ngày làm việc và sử dụng mạng thật hiệu quả ạ!",
+      "timestamp": 1757401441.7417705
+    }
+  ],
+  "turns": 5,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Người dùng đã nhận được tất cả thông tin cần thiết để giải quyết vấn đề mạng chậm (cả giải pháp tạm thời và dài hạn). Người dùng đã thực hiện các hành động theo hướng dẫn (đăng ký gói ST10K và V120N) và bày tỏ sự hài lòng, cảm ơn rõ ràng ở cuối hội thoại. Các mục tiêu hội thoại đã đạt được và không còn câu hỏi hay yêu cầu hỗ trợ nào thêm từ phía người dùng.",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Dạ vâng, cảm ơn chị Lan Anh nhiều lắm nha. Chị đã hỗ trợ em rất nhiệt tình và giải quyết được vấn đề của em rồi ạ. Chúc chị một ngày làm việc vui vẻ nhé!"
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi rất vui vì đã có thể hỗ trợ bạn giải quyết vấn đề mạng chậm và tìm được gói cước phù hợp. Nếu trong quá trình sử dụng có bất kỳ thắc mắc hay cần hỗ trợ gì khác, bạn đừng ngần ngại liên hệ lại với Viettel nhé. Chúc bạn có một ngày làm việc và sử dụng mạng thật hiệu quả ạ!"
+    }
+  ],
+  "reached_max_turns": false
+}

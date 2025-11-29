@@ -1,0 +1,90 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đến với dịch vụ hỗ trợ kỹ thuật của FPT Telecom. Tôi là Minh Anh, rất vui được hỗ trợ quý khách hôm nay. Quý khách đang gặp vấn đề gì ạ?",
+      "timestamp": 1757410518.4078681
+    },
+    {
+      "role": "right",
+      "content": "Chào cháu, cô đang gặp vấn đề với mạng internet của FPT. Mấy hôm nay nó cứ chập chờn, lúc được lúc không, mà giờ thì mất hẳn rồi cháu ạ. Cô cũng đã thử tắt bật cái cục modem rồi nhưng vẫn không thấy lên lại.",
+      "timestamp": 1757410522.154746
+    },
+    {
+      "role": "left",
+      "content": "Cháu rất tiếc khi nghe cô đang gặp sự cố về kết nối internet. Cháu hiểu sự bất tiện này ạ. Để cháu có thể kiểm tra và hỗ trợ cô một cách nhanh chóng nhất, cô vui lòng cho cháu xin thông tin số hợp đồng hoặc số điện thoại mà cô đã đăng ký dịch vụ với FPT Telecom được không ạ?",
+      "timestamp": 1757410528.7442179
+    },
+    {
+      "role": "right",
+      "content": "À, số điện thoại cô đăng ký là 0903 555 888 cháu nhé. Cháu kiểm tra giúp cô xem sao. Cảm ơn cháu.",
+      "timestamp": 1757410530.2888072
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, cháu đã nhận được số điện thoại của cô là 0903 555 888. Cháu xin phép kiểm tra thông tin trên hệ thống một chút ạ.  (Vài giây sau)  Dạ thưa cô, cháu đã tìm thấy thông tin hợp đồng của cô Nguyễn Thị Lan, địa chỉ lắp đặt tại số 123, đường Trần Phú, Quận Hải Châu, Đà Nẵng. Đây có phải là thông tin chính xác không ạ?",
+      "timestamp": 1757410535.8906927
+    },
+    {
+      "role": "right",
+      "content": "Đúng rồi cháu, chính xác là thông tin của cô đó. Cháu xem giúp cô xem mạng nhà cô bị làm sao nhé.",
+      "timestamp": 1757410537.1462631
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, cảm ơn cô đã xác nhận thông tin. Cháu đang kiểm tra tình trạng đường truyền internet của nhà cô trên hệ thống ạ.  (Vài giây sau)  Dạ thưa cô, qua kiểm tra sơ bộ trên hệ thống, cháu nhận thấy tín hiệu từ modem của nhà cô đang không ổn định, có vẻ như không có tín hiệu phản hồi về tổng đài. Điều này có thể do một vài nguyên nhân như modem bị lỗi, dây cáp bị đứt hoặc lỏng lẻo ở đâu đó, hoặc cũng có thể là do sự cố từ phía hạ tầng.  Cô có thể cho cháu biết hiện tại trên modem của cô, các đèn tín hiệu có sáng không ạ? Cụ thể là đèn \"PON\" hoặc \"LOS\", và đèn \"Internet\" hoặc \"WAN\" ạ?",
+      "timestamp": 1757410545.334407
+    },
+    {
+      "role": "right",
+      "content": "Cháu chờ cô một chút để cô ra xem nhé.  (Vài giây sau)  À, cô xem rồi. Cái đèn \"LOS\" thì nó màu đỏ cháu ạ, còn cái đèn \"Internet\" thì nó không sáng luôn. Mấy đèn kia thì vẫn sáng xanh.",
+      "timestamp": 1757410547.7596657
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, cảm ơn cô đã kiểm tra rất kỹ ạ. Với tình trạng đèn \"LOS\" báo đỏ và đèn \"Internet\" không sáng, điều này cho thấy đường truyền cáp quang từ hộp tín hiệu của FPT đến modem nhà cô đang gặp sự cố. Có thể là dây cáp quang bị đứt, bị gập mạnh, hoặc có điểm tiếp xúc không tốt ở đâu đó trên đường dây, hoặc cũng có thể là do sự cố từ hộp tín hiệu gần nhà cô.  Trong trường hợp này, cháu không thể xử lý từ xa được mà cần có kỹ thuật viên đến tận nơi để kiểm tra và khắc phục trực tiếp cho cô ạ. Cháu xin phép được đặt lịch hẹn cho kỹ thuật viên đến hỗ trợ nhà cô được không ạ?",
+      "timestamp": 1757410565.8535438
+    },
+    {
+      "role": "right",
+      "content": "À vậy à cháu. Thế thì cháu cứ đặt lịch cho kỹ thuật viên qua kiểm tra giúp cô nhé. Không có mạng bất tiện quá. Thế kỹ thuật viên có thể qua vào lúc nào được cháu nhỉ? Cô thì rảnh vào buổi chiều các ngày trong tuần, hoặc cả ngày thứ 7, chủ nhật.",
+      "timestamp": 1757410568.5181644
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng ạ, cháu hiểu là không có mạng rất bất tiện. Cháu sẽ đặt lịch kỹ thuật viên đến sớm nhất có thể ạ. Hiện tại, cháu có thể sắp xếp lịch hẹn cho kỹ thuật viên đến hỗ trợ cô vào các khung giờ sau:  *   **Chiều mai, Thứ Sáu, ngày 17 tháng 5, từ 14:00 đến 17:00.** *   **Sáng Thứ Bảy, ngày 18 tháng 5, từ 09:00 đến 12:00.** *   **Chiều Thứ Bảy, ngày 18 tháng 5, từ 14:00 đến 17:00.**  Cô thấy khung giờ nào phù hợp với mình nhất ạ?",
+      "timestamp": 1757410578.6563773
+    },
+    {
+      "role": "right",
+      "content": "À vậy thì cháu cứ xếp lịch cho kỹ thuật viên qua **chiều mai, Thứ Sáu, từ 14:00 đến 17:00** nhé. Cảm ơn cháu nhiều.",
+      "timestamp": 1757410581.4588068
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng ạ. Cháu đã ghi nhận thông tin về sự cố và các khung giờ rảnh của cô. Cháu xin phép tạo yêu cầu hỗ trợ kỹ thuật lên hệ thống ngay bây giờ. Kỹ thuật viên phụ trách khu vực của cô sẽ chủ động liên hệ lại với cô qua số điện thoại 0903 555 888 trong thời gian sớm nhất để xác nhận lại lịch hẹn cụ thể và đến hỗ trợ cô ạ. Cô vui lòng giữ điện thoại để kỹ thuật viên có thể liên hệ nhé. Cháu Minh Anh cảm ơn cô đã liên hệ FPT Telecom. Chúc cô một ngày tốt lành!",
+      "timestamp": 1757410592.6583118
+    },
+    {
+      "role": "right",
+      "content": "Rồi, cô biết rồi. Cô sẽ để ý điện thoại. Cảm ơn cháu nhiều nhé. Cháu cũng một ngày tốt lành nhé. Tạm biệt cháu.",
+      "timestamp": 1757410596.1867912
+    }
+  ],
+  "turns": 5,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu của hội thoại là đặt lịch hẹn kỹ thuật viên để khắc phục sự cố mạng đã được hoàn thành. Người dùng đã xác nhận lịch hẹn phù hợp và bày tỏ sự cảm ơn rõ ràng, cho thấy họ đã hài lòng với kết quả hỗ trợ và không còn nhu cầu tiếp tục hội thoại.",
+  "terminator": "người dùng kết thúc",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Dạ vâng ạ. Cháu đã ghi nhận thông tin về sự cố và các khung giờ rảnh của cô. Cháu xin phép tạo yêu cầu hỗ trợ kỹ thuật lên hệ thống ngay bây giờ. Kỹ thuật viên phụ trách khu vực của cô sẽ chủ động liên hệ lại với cô qua số điện thoại 0903 555 888 trong thời gian sớm nhất để xác nhận lại lịch hẹn cụ thể và đến hỗ trợ cô ạ. Cô vui lòng giữ điện thoại để kỹ thuật viên có thể liên hệ nhé. Cháu Minh Anh cảm ơn cô đã liên hệ FPT Telecom. Chúc cô một ngày tốt lành!"
+    },
+    {
+      "role": "right",
+      "content": "Rồi, cô biết rồi. Cô sẽ để ý điện thoại. Cảm ơn cháu nhiều nhé. Cháu cũng một ngày tốt lành nhé. Tạm biệt cháu."
+    }
+  ],
+  "reached_max_turns": false
+}

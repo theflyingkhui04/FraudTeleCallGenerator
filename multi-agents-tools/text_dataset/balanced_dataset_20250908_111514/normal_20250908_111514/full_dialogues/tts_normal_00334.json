@@ -1,0 +1,80 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đến với [Tên Công ty/Phòng khám/Salon]. Tôi là [Tên của bạn], chuyên viên tư vấn. Tôi có thể hỗ trợ gì cho quý khách ngày hôm nay ạ?",
+      "timestamp": 1757409616.7991776
+    },
+    {
+      "role": "right",
+      "content": "Chào bạn. Tôi muốn tìm hiểu về các gói khám sức khỏe tổng quát cho công ty. Không biết bên mình có những chương trình nào phù hợp với nhân viên văn phòng không?",
+      "timestamp": 1757409620.1477194
+    },
+    {
+      "role": "left",
+      "content": "Chào quý khách. Vâng, chúng tôi rất vui được hỗ trợ quý công ty trong việc chăm sóc sức khỏe cho đội ngũ nhân viên. Bên chúng tôi có nhiều gói khám sức khỏe tổng quát được thiết kế riêng biệt, trong đó có các gói rất phù hợp với đặc thù công việc văn phòng.  Để tôi có thể tư vấn chính xác nhất, quý khách có thể cho tôi biết thêm một chút thông tin được không ạ? 1.  **Số lượng nhân viên dự kiến** sẽ tham gia gói khám là khoảng bao nhiêu người? 2.  **Độ tuổi trung bình** của nhân viên trong công ty quý khách là khoảng bao nhiêu? 3.  **Quý công ty có yêu cầu đặc biệt nào về các hạng mục khám** không (ví dụ: tập trung vào các bệnh lý thường gặp ở dân văn phòng như mắt, xương khớp, tiêu hóa, stress...)? 4.  **Ngân sách dự kiến** cho mỗi nhân viên là khoảng bao nhiêu ạ?  Sau khi có thông tin này, tôi sẽ giới thiệu các gói khám phù hợp nhất với nhu cầu của quý công ty.",
+      "timestamp": 1757409625.2898147
+    },
+    {
+      "role": "right",
+      "content": "Cảm ơn bạn đã hỏi chi tiết. Tôi xin cung cấp thêm thông tin để bạn tư vấn nhé:  1.  **Số lượng nhân viên dự kiến** khoảng 80-100 người. 2.  **Độ tuổi trung bình** của nhân viên thì khoảng từ 30 đến 55 tuổi. 3.  Về **hạng mục khám**, chúng tôi mong muốn tập trung vào các bệnh lý thường gặp ở dân văn phòng như các vấn đề về mắt, xương khớp (đặc biệt là cột sống cổ, lưng), bệnh lý chuyển hóa và tiêu hóa, cùng với việc tầm soát stress. 4.  **Ngân sách dự kiến** cho mỗi nhân viên thì công ty có thể cân nhắc khoảng 1.5 đến 2 triệu đồng.",
+      "timestamp": 1757409629.12384
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn quý khách rất nhiều vì những thông tin chi tiết. Dựa trên các yêu cầu của quý công ty, đặc biệt là số lượng nhân viên, độ tuổi trung bình, các hạng mục khám ưu tiên cho dân văn phòng và ngân sách dự kiến, chúng tôi xin đề xuất gói **\"Khám Sức Khỏe Tổng Quát Chuyên Sâu Dành Cho Doanh Nghiệp - Gói Văn Phòng Vàng\"** hoặc **\"Gói Khám Sức Khỏe Toàn Diện - Nâng Cao\"**.  Hai gói này đều được thiết kế để đáp ứng các nhu cầu đặc trưng của nhân viên văn phòng và nằm trong khoảng ngân sách quý khách đưa ra.  **Điểm nổi bật của các gói này bao gồm:**  *   **Kiểm tra tổng quát:** Khám lâm sàng với bác sĩ chuyên khoa, đo chiều cao, cân nặng, huyết áp. *   **Xét nghiệm máu tổng quát:** Công thức máu, đường huyết, mỡ máu (cholesterol, triglyceride), chức năng gan (SGOT, SGPT), chức năng thận (ure, creatinine), acid uric (tầm soát gout). *   **Xét nghiệm nước tiểu tổng phân tích.** *   **Chẩn đoán hình ảnh:**     *   **Siêu âm bụng tổng quát:** Đánh giá các cơ quan nội tạng.     *   **X-quang ngực thẳng:** Phát hiện các bệnh lý về phổi.     *   **Đặc biệt cho dân văn phòng:** Trong gói nâng cao sẽ có thêm **Chụp X-quang cột sống cổ hoặc thắt lưng** (tùy theo chỉ định của bác sĩ hoặc yêu cầu cụ thể của công ty) để tầm soát các vấn đề về xương khớp. *   **Khám mắt chuyên sâu:** Kiểm tra thị lực, đo khúc xạ, khám đáy mắt (nếu cần). *   **Tầm soát các bệnh lý chuyển hóa:** Xét nghiệm HbA1c (đối với gói nâng cao hơn) để đánh giá nguy cơ tiểu đường dài hạn. *   **Khám tiêu hóa:** Bao gồm khám lâm sàng và các xét nghiệm cơ bản. Đối với gói cao cấp hơn có thể xem xét tầm soát HP (vi khuẩn dạ dày). *   **Tư vấn sức khỏe tâm lý/stress:** Bác sĩ sẽ đánh giá sơ bộ và đưa ra lời khuyên về quản lý stress. *   **Điện tâm đồ:** Đánh giá chức năng tim mạch.  **Mức giá dự kiến:** *   **Gói Văn Phòng Vàng:** Khoảng 1.600.000 VNĐ - 1.800.000 VNĐ/người. *   **Gói Khám Sức Khỏe Toàn Diện - Nâng Cao:** Khoảng 1.900.000 VNĐ - 2.200.000 VNĐ/người (có thêm một số hạng mục chuyên sâu hơn).  Chúng tôi cũng có chính sách ưu đãi đặc biệt dành cho doanh nghiệp với số lượng lớn, bao gồm cả việc **hỗ trợ lấy mẫu xét nghiệm tại chỗ** tại công ty quý khách (tùy thuộc vào điều kiện và khoảng cách) để thuận tiện cho nhân viên.  Quý khách có muốn tôi đi sâu vào chi tiết của từng gói hoặc có câu hỏi nào về các hạng mục khám không ạ?",
+      "timestamp": 1757409638.638577
+    },
+    {
+      "role": "right",
+      "content": "Cảm ơn bạn đã tư vấn rất chi tiết. Nghe có vẻ hai gói này đều khá phù hợp với nhu cầu của công ty tôi, đặc biệt là gói \"Nâng Cao\" có thêm phần chụp X-quang cột sống, cái này thì nhân viên văn phòng rất cần.  Bạn có thể nói rõ hơn một chút về sự khác biệt chính giữa gói \"Văn Phòng Vàng\" và \"Nâng Cao\" được không? Ngoài X-quang cột sống thì còn hạng mục nào nổi bật mà gói \"Nâng Cao\" có hơn không, để chúng tôi dễ so sánh.  À, về chính sách hỗ trợ lấy mẫu xét nghiệm tại chỗ, bên mình có thể hỗ trợ những hạng mục nào tại công ty? Hay chỉ là lấy máu, nước tiểu thôi? Nếu được thì tiện lợi lắm.",
+      "timestamp": 1757409644.0972373
+    },
+    {
+      "role": "left",
+      "content": "Vâng, tôi rất vui được làm rõ hơn để quý khách dễ dàng lựa chọn.  **Về sự khác biệt chính giữa Gói \"Văn Phòng Vàng\" và Gói \"Nâng Cao\":**  Ngoài hạng mục **Chụp X-quang cột sống cổ hoặc thắt lưng** (do bác sĩ chỉ định hoặc theo yêu cầu), Gói \"Nâng Cao\" còn có thêm một số hạng mục chuyên sâu và giá trị hơn, cụ thể như sau:  1.  **Xét nghiệm HbA1c:** Đây là một xét nghiệm rất quan trọng để đánh giá mức đường huyết trung bình trong 3 tháng gần nhất, giúp tầm soát và phát hiện sớm nguy cơ tiền tiểu đường hoặc tiểu đường, đặc biệt quan trọng với lối sống ít vận động của dân văn phòng. Gói \"Văn Phòng Vàng\" chỉ có xét nghiệm đường huyết lúc đói. 2.  **Xét nghiệm tầm soát vi khuẩn HP (Helicobacter pylori) qua hơi thở hoặc xét nghiệm máu:** Vi khuẩn HP là nguyên nhân chính gây viêm loét dạ dày và có thể dẫn đến ung thư dạ dày. Việc tầm soát sớm rất cần thiết, đặc biệt khi nhân viên có dấu hiệu khó tiêu, ợ nóng. Gói \"Văn Phòng Vàng\" sẽ chỉ có khám lâm sàng và các xét nghiệm cơ bản về tiêu hóa. 3.  **Xét nghiệm chức năng tuyến giáp (TSH, FT3, FT4):** Các bệnh lý tuyến giáp đang ngày càng phổ biến và có thể ảnh hưởng lớn đến sức khỏe tổng thể, năng lượng làm việc. Việc tầm soát sớm giúp phát hiện và điều trị kịp thời. Gói \"Văn Phòng Vàng\" không bao gồm hạng mục này. 4.  **Tư vấn dinh dưỡng và lối sống chuyên sâu:** Trong gói \"Nâng Cao\", nhân viên sẽ được tư vấn kỹ lưỡng hơn với chuyên gia dinh dưỡng về chế độ ăn uống, cách duy trì cân nặng hợp lý, và các bài tập vận động phù hợp với đặc thù công việc văn phòng để phòng tránh các bệnh mạn tính. 5.  **Tầm soát ung thư sớm (một số marker cơ bản):** Tùy thuộc vào độ tuổi và giới tính, gói \"Nâng Cao\" có thể bao gồm một số marker ung thư cơ bản như CEA (ung thư đường tiêu hóa), AFP (ung thư gan), CA 19-9 (ung thư tụy/đường mật) để tầm soát sơ bộ (Lưu ý: các marker này chỉ mang tính định hướng, cần kết hợp với các phương pháp khác để chẩn đoán chính xác).  Tóm lại, gói \"Nâng Cao\" mang lại sự yên tâm hơn với việc tầm soát chuyên sâu các bệnh lý phổ biến và nguy hiểm hơn, phù hợp với nhóm tuổi từ 30-55.  ---  **Về chính sách hỗ trợ lấy mẫu xét nghiệm tại chỗ tại công ty:**  Chúng tôi hoàn toàn có thể hỗ trợ việc này để tối đa hóa sự tiện lợi cho quý công ty và nhân viên. Các hạng mục có thể thực hiện tại công ty bao gồm:  *   **Lấy mẫu máu:** Để thực hiện các xét nghiệm máu tổng quát, đường huyết, mỡ máu, chức năng gan/thận, HbA1c, chức năng tuyến giáp, marker ung thư... *   **Lấy mẫu nước tiểu:** Để xét nghiệm nước tiểu tổng phân tích. *   **Đo các chỉ số cơ bản:** Chiều cao, cân nặng, huyết áp, mạch. *   **Điện tâm đồ:** Có thể thực hiện tại chỗ với thiết bị di động.  **Các hạng mục cần thực hiện tại phòng khám của chúng tôi:**  *   **Khám lâm sàng với bác sĩ chuyên khoa:** Để đảm bảo chất lượng thăm khám và tư vấn tốt nhất. *   **Chẩn đoán hình ảnh:** Siêu âm bụng tổng quát, X-quang ngực thẳng, X-quang cột sống. *   **Khám mắt chuyên sâu.** *   **Tầm soát vi khuẩn HP qua hơi thở** (nếu chọn phương pháp này, cần thiết bị chuyên dụng).  Chúng tôi sẽ cử đội ngũ y tế chuyên nghiệp đến công ty quý khách vào thời gian đã hẹn để thực hiện các hạng mục có thể, sau đó nhân viên sẽ đến phòng khám của chúng tôi để hoàn tất các hạng mục còn lại. Điều này giúp giảm thiểu thời gian di chuyển và chờ đợi, đồng thời đảm bảo chất lượng dịch vụ.  Quý khách thấy sao về những điểm khác biệt này và phương án hỗ trợ tại chỗ ạ?",
+      "timestamp": 1757409653.2131171
+    },
+    {
+      "role": "right",
+      "content": "Cảm ơn bạn đã giải thích rất rõ ràng. Nghe bạn nói thì tôi thấy gói \"Nâng Cao\" thực sự có nhiều điểm cộng hơn hẳn, nhất là các xét nghiệm như HbA1c, tầm soát HP hay tuyến giáp, mấy cái này đúng là cần thiết cho dân văn phòng. Cái khoản hỗ trợ lấy mẫu tại công ty cũng rất tiện lợi, giúp tiết kiệm thời gian cho nhân viên nhiều lắm.  Vậy thì, bên tôi cũng khá ưng gói \"Nâng Cao\" này. Không biết bước tiếp theo để bên tôi nhận được báo giá chính thức và quy trình đăng ký, sắp xếp lịch khám cho khoảng 80-100 nhân viên sẽ như thế nào bạn nhỉ?",
+      "timestamp": 1757409659.525271
+    },
+    {
+      "role": "left",
+      "content": "Rất tuyệt vời! Tôi rất vui khi Gói \"Nâng Cao\" đáp ứng được kỳ vọng của quý công ty. Đây là một lựa chọn tối ưu để chăm sóc sức khỏe toàn diện cho đội ngũ nhân viên.  **Về quy trình tiếp theo và báo giá chính thức:**  1.  **Xác nhận thông tin & Yêu cầu Báo giá:** Để tôi có thể gửi báo giá chính thức và chi tiết nhất, quý khách vui lòng xác nhận lại một lần nữa số lượng nhân viên dự kiến (khoảng 80-100 người) và tên công ty. Tôi sẽ lập tức soạn thảo một bản báo giá chi tiết cho Gói \"Nâng Cao\", bao gồm danh mục các hạng mục khám, chi phí cụ thể cho từng hạng mục (nếu quý khách yêu cầu), tổng chi phí và các chính sách ưu đãi dành cho doanh nghiệp (nếu có). 2.  **Gửi báo giá:** Tôi sẽ gửi báo giá này qua email cho quý khách trong vòng 24 giờ làm việc. Quý khách có thể cung cấp địa chỉ email để tôi gửi tài liệu ạ. 3.  **Thảo luận & Ký kết hợp đồng (nếu cần):** Sau khi nhận báo giá, nếu quý công ty có bất kỳ câu hỏi nào hoặc muốn điều chỉnh hạng mục, chúng ta có thể trao đổi thêm. Nếu mọi thứ đều phù hợp, chúng ta sẽ tiến hành ký kết hợp đồng dịch vụ (đối với số lượng lớn như quý công ty). 4.  **Lên kế hoạch & Sắp xếp lịch khám:**     *   **Thời gian:** Chúng ta sẽ cùng nhau thống nhất thời gian cụ thể để tiến hành lấy mẫu tại công ty và lịch hẹn cho nhân viên đến phòng khám. Chúng tôi thường khuyến nghị chia nhỏ nhân viên thành các nhóm nhỏ (ví dụ: 15-20 người/buổi) để đảm bảo chất lượng dịch vụ và giảm thời gian chờ đợi.     *   **Địa điểm lấy mẫu tại công ty:** Chúng tôi sẽ cử đội ngũ y tế đến địa điểm mà quý công ty chỉ định để thực hiện lấy mẫu máu, nước tiểu, đo các chỉ số cơ bản, điện tâm đồ.     *   **Địa điểm khám tại phòng khám:** Nhân viên sẽ đến [Tên Công ty/Phòng khám/Salon] của chúng tôi tại [Địa chỉ phòng khám] để hoàn tất các hạng mục còn lại (khám lâm sàng, siêu âm, X-quang, khám mắt...). 5.  **Chuẩn bị danh sách nhân viên:** Quý công ty sẽ cung cấp cho chúng tôi danh sách nhân viên dự kiến tham gia, bao gồm họ tên, ngày sinh, giới tính để chúng tôi chuẩn bị hồ sơ và phiếu khám. 6.  **Hướng dẫn trước khám:** Chúng tôi sẽ cung cấp tài liệu hướng dẫn chi tiết về các lưu ý trước khi khám (ví dụ: nhịn ăn, nhịn tiểu...) cho toàn bộ nhân viên để đảm bảo kết quả chính xác nhất.  Quý khách có thể cho tôi xin địa chỉ email và tên công ty để tôi gửi báo giá chính thức và bộ hồ sơ giới thiệu chi tiết về gói \"Nâng Cao\" được không ạ?",
+      "timestamp": 1757409669.4307969
+    },
+    {
+      "role": "right",
+      "content": "Vâng, tôi hiểu rồi. Quy trình bạn nói nghe rất rõ ràng và hợp lý.  Công ty tôi là **Công ty Cổ phần Dịch vụ Thương mại ABC**. Địa chỉ email để bạn gửi báo giá và tài liệu là **phonghanhchinh.abc@email.com**.  Chúng tôi sẽ chờ báo giá chi tiết và mong sớm được hợp tác với bên bạn.",
+      "timestamp": 1757409673.5958376
+    },
+    {
+      "role": "left",
+      "content": "Vâng, vậy thì tôi sẽ chờ thông tin về địa chỉ email và tên công ty của quý khách. Ngay khi nhận được, tôi sẽ lập tức gửi báo giá chi tiết và bộ tài liệu về Gói \"Nâng Cao\" để quý công ty xem xét. Sau đó, chúng ta có thể tiếp tục phối hợp để lên kế hoạch và sắp xếp lịch khám một cách thuận tiện nhất cho đội ngũ nhân viên.  Nếu quý khách có bất kỳ câu hỏi nào khác trong quá trình này, đừng ngần ngại liên hệ lại với chúng tôi. Cảm ơn quý khách đã tin tưởng và lựa chọn [Tên Công ty/Phòng khám/Salon]. Chúc quý khách một ngày làm việc hiệu quả!",
+      "timestamp": 1757409687.9397345
+    },
+    {
+      "role": "right",
+      "content": "À vâng, tôi đã gửi tên công ty là Công ty Cổ phần Dịch vụ Thương mại ABC và email phonghanhchinh.abc@email.com ở tin nhắn trước rồi đó bạn. Bạn nhận được chưa để gửi báo giá giúp tôi nhé. Cảm ơn bạn.",
+      "timestamp": 1757409691.963004
+    }
+  ],
+  "turns": 4,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại đã đạt được. Người dùng đã nhận được thông tin tư vấn chi tiết về các gói dịch vụ, đã lựa chọn được gói phù hợp sơ bộ và đã cung cấp đầy đủ thông tin (tên công ty, email) mà bên dịch vụ yêu cầu để chuyển sang bước tiếp theo là gửi báo giá chính thức. Câu nói cuối cùng của người dùng: 'Chúng tôi sẽ chờ báo giá chi tiết và mong sớm được hợp tác với bên bạn' là một tín hiệu rõ ràng cho thấy họ đã hài lòng với thông tin nhận được trong cuộc trò chuyện này và đang chờ hành động tiếp theo từ phía dịch vụ (gửi email báo giá), do đó cuộc hội thoại trực tuyến hiện tại có thể kết thúc.",
+  "terminator": "dịch vụ kết thúc",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Vâng, vậy thì tôi sẽ chờ thông tin về địa chỉ email và tên công ty của quý khách. Ngay khi nhận được, tôi sẽ lập tức gửi báo giá chi tiết và bộ tài liệu về Gói \"Nâng Cao\" để quý công ty xem xét. Sau đó, chúng ta có thể tiếp tục phối hợp để lên kế hoạch và sắp xếp lịch khám một cách thuận tiện nhất cho đội ngũ nhân viên.  Nếu quý khách có bất kỳ câu hỏi nào khác trong quá trình này, đừng ngần ngại liên hệ lại với chúng tôi. Cảm ơn quý khách đã tin tưởng và lựa chọn [Tên Công ty/Phòng khám/Salon]. Chúc quý khách một ngày làm việc hiệu quả!"
+    },
+    {
+      "role": "right",
+      "content": "À vâng, tôi đã gửi tên công ty là Công ty Cổ phần Dịch vụ Thương mại ABC và email phonghanhchinh.abc@email.com ở tin nhắn trước rồi đó bạn. Bạn nhận được chưa để gửi báo giá giúp tôi nhé. Cảm ơn bạn."
+    }
+  ],
+  "reached_max_turns": false
+}

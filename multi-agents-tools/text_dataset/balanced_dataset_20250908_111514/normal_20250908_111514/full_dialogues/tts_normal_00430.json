@@ -1,0 +1,80 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Xin chào quý khách, tôi là Lan Anh từ bộ phận Chăm sóc Khách hàng của [Tên công ty/dịch vụ của chúng tôi]. Rất vui được hỗ trợ quý khách hôm nay. Quý khách cần tôi giúp đỡ về vấn đề gì ạ?",
+      "timestamp": 1757410753.7820036
+    },
+    {
+      "role": "right",
+      "content": "Chào Lan Anh. Tôi gọi đến để hỏi về đường truyền internet nhà tôi. Mấy hôm nay nó chậm với hay bị rớt mạng liên tục, làm việc cũng khó. Cô kiểm tra giúp tôi xem có lỗi gì không nhé.",
+      "timestamp": 1757410766.1306436
+    },
+    {
+      "role": "left",
+      "content": "Chào anh/chị. Tôi rất tiếc khi nghe về sự cố đường truyền internet của mình. Tôi hiểu việc mạng chập chờn sẽ ảnh hưởng rất nhiều đến công việc và sinh hoạt. Để tôi có thể kiểm tra chính xác tình trạng đường truyền của anh/chị, vui lòng cung cấp cho tôi một trong các thông tin sau: số hợp đồng, số điện thoại đăng ký dịch vụ, hoặc địa chỉ lắp đặt cụ thể ạ.",
+      "timestamp": 1757410771.5376773
+    },
+    {
+      "role": "right",
+      "content": "À, số điện thoại đăng ký dịch vụ của tôi là 0987654321 nhé. Cô kiểm tra giúp tôi với.",
+      "timestamp": 1757410773.7574134
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn anh/chị đã cung cấp thông tin. Tôi đã tra cứu và xác nhận số điện thoại 0987654321 thuộc về hợp đồng dịch vụ internet tại địa chỉ 123 Đường ABC, Phường XYZ, Quận 1, TP.HCM, đúng không ạ?  Tôi đang kiểm tra trạng thái đường truyền cho anh/chị trên hệ thống. Xin vui lòng chờ trong giây lát nhé.",
+      "timestamp": 1757410777.591098
+    },
+    {
+      "role": "right",
+      "content": "Vâng, cô cứ kiểm tra giúp tôi nhé. Mấy hôm nay bực mình vì mạng lắm rồi.",
+      "timestamp": 1757410779.799097
+    },
+    {
+      "role": "left",
+      "content": "Tôi rất hiểu sự khó chịu của anh/chị khi mạng gặp vấn đề, đặc biệt là khi ảnh hưởng đến công việc.  Sau khi kiểm tra trên hệ thống, tôi nhận thấy đường truyền internet của anh/chị tại địa chỉ 123 Đường ABC đang có tín hiệu không ổn định ở một số thời điểm trong ngày, đặc biệt là vào buổi chiều tối. Hiện tại, hệ thống cũng ghi nhận có một số lỗi nhỏ về gói tin (packet loss) từ modem về trung tâm.  Điều này có thể là nguyên nhân gây ra tình trạng mạng chậm và rớt mạng mà anh/chị đang gặp phải.",
+      "timestamp": 1757410787.8875039
+    },
+    {
+      "role": "right",
+      "content": "À, vậy là đúng rồi đó cô. Đúng là cứ tầm chiều tối là nó hay bị nhất. Thế bây giờ có cách nào khắc phục được không Lan Anh?",
+      "timestamp": 1757410791.708912
+    },
+    {
+      "role": "left",
+      "content": "Vâng, đúng như anh/chị mô tả. Để khắc phục tình trạng này, trước tiên, tôi xin phép hướng dẫn anh/chị một vài bước kiểm tra và xử lý cơ bản tại nhà có thể giúp cải thiện tình hình ngay lập tức:  1.  **Khởi động lại modem và router:** Anh/chị vui lòng rút nguồn điện của cả modem và router (nếu có) ra khỏi ổ cắm, chờ khoảng 1-2 phút, sau đó cắm lại nguồn điện. Hãy đợi cho đến khi tất cả các đèn tín hiệu trên thiết bị ổn định trở lại (thường là đèn Power, DSL/Fiber, Internet). Việc này có thể giúp làm mới kết nối và khắc phục các lỗi nhỏ. 2.  **Kiểm tra dây cáp:** Anh/chị vui lòng kiểm tra xem tất cả các dây cáp kết nối từ hộp cáp vào modem, và từ modem đến router (nếu có) có được cắm chặt chưa, có bị lỏng lẻo hoặc hư hỏng gì không. Đôi khi dây cáp bị lỏng cũng gây ra tín hiệu không ổn định. 3.  **Thử kết nối trực tiếp:** Nếu anh/chị đang sử dụng Wi-Fi, hãy thử kết nối máy tính trực tiếp với modem bằng dây mạng LAN và kiểm tra tốc độ xem có cải thiện không. Điều này giúp xác định vấn đề nằm ở modem hay do tín hiệu Wi-Fi.  Sau khi thực hiện các bước trên, anh/chị vui lòng kiểm tra lại xem đường truyền có ổn định hơn không nhé.  Nếu sau khi thử các bước trên mà tình trạng vẫn không được cải thiện, hoặc vẫn còn chậm và rớt mạng, thì khả năng cao vấn đề nằm ở đường dây hoặc thiết bị cần được kiểm tra kỹ thuật chuyên sâu hơn. Trong trường hợp đó, tôi sẽ tiến hành tạo yêu cầu hỗ trợ kỹ thuật để các kỹ thuật viên của chúng tôi đến tận nơi kiểm tra và xử lý cho anh/chị.",
+      "timestamp": 1757410804.7425394
+    },
+    {
+      "role": "right",
+      "content": "Ok, để tôi thử làm theo mấy bước cô vừa hướng dẫn xem sao. Khởi động lại modem với kiểm tra dây cáp, rồi thử cắm dây LAN trực tiếp. Hy vọng là nó được, chứ cứ thế này mãi thì khó chịu quá. Nếu không được thì chắc phải nhờ bên kỹ thuật xuống kiểm tra thôi cô nhỉ.",
+      "timestamp": 1757410807.9162288
+    },
+    {
+      "role": "left",
+      "content": "Vâng, vậy anh/chị cứ thử thực hiện các bước khắc phục tại nhà mà tôi vừa hướng dẫn nhé. Hy vọng các bước này sẽ giúp đường truyền của anh/chị ổn định trở lại. Nếu sau khi thực hiện mà tình trạng vẫn không cải thiện, anh/chị vui lòng liên hệ lại với chúng tôi qua số tổng đài hoặc kênh hỗ trợ khác, hoặc gọi lại cho tôi qua số này, để tôi có thể hỗ trợ tạo yêu cầu kỹ thuật viên đến kiểm tra trực tiếp. Rất mong vấn đề của anh/chị sớm được giải quyết. Cảm ơn anh/chị đã gọi đến bộ phận Chăm sóc Khách hàng của chúng tôi và chúc anh/chị một ngày tốt lành!",
+      "timestamp": 1757410823.1539931
+    },
+    {
+      "role": "right",
+      "content": "Vâng, cảm ơn Lan Anh nhiều nhé. Để tôi thử xem sao. Nếu có gì tôi sẽ gọi lại. Chúc cô một ngày tốt lành.",
+      "timestamp": 1757410824.590118
+    }
+  ],
+  "turns": 4,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại đã đạt được. Kẻ lừa đảo (đóng vai trò nhân viên chăm sóc khách hàng) đã cung cấp chẩn đoán vấn đề đường truyền internet và hướng dẫn chi tiết các bước khắc phục cơ bản tại nhà. Đồng thời, đã đưa ra lộ trình tiếp theo nếu các bước này không hiệu quả (tạo yêu cầu kỹ thuật viên đến kiểm tra). Người dùng đã tiếp nhận thông tin, đồng ý thực hiện các bước được hướng dẫn và hiểu rõ các bước tiếp theo. Hội thoại đã hoàn thành đầy đủ quy trình dịch vụ cho giai đoạn này và đạt đến điểm dừng tự nhiên, nơi người dùng cần hành động trước khi có thể cung cấp thêm hỗ trợ.",
+  "terminator": "dịch vụ kết thúc",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Vâng, vậy anh/chị cứ thử thực hiện các bước khắc phục tại nhà mà tôi vừa hướng dẫn nhé. Hy vọng các bước này sẽ giúp đường truyền của anh/chị ổn định trở lại. Nếu sau khi thực hiện mà tình trạng vẫn không cải thiện, anh/chị vui lòng liên hệ lại với chúng tôi qua số tổng đài hoặc kênh hỗ trợ khác, hoặc gọi lại cho tôi qua số này, để tôi có thể hỗ trợ tạo yêu cầu kỹ thuật viên đến kiểm tra trực tiếp. Rất mong vấn đề của anh/chị sớm được giải quyết. Cảm ơn anh/chị đã gọi đến bộ phận Chăm sóc Khách hàng của chúng tôi và chúc anh/chị một ngày tốt lành!"
+    },
+    {
+      "role": "right",
+      "content": "Vâng, cảm ơn Lan Anh nhiều nhé. Để tôi thử xem sao. Nếu có gì tôi sẽ gọi lại. Chúc cô một ngày tốt lành."
+    }
+  ],
+  "reached_max_turns": false
+}

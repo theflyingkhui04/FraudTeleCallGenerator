@@ -1,0 +1,70 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đã gọi đến Trung tâm Dịch vụ Khách hàng của [Tên công ty giả định, ví dụ: FPT Telecom]. Tôi là Lan Anh, rất vui được hỗ trợ quý khách hôm nay. Xin hỏi quý khách đang cần tư vấn về dịch vụ nào ạ?",
+      "timestamp": 1757401353.9873192
+    },
+    {
+      "role": "right",
+      "content": "Dạ chào cô. Tôi là Nguyễn Văn Ba. Tôi gọi để hỏi về cái hóa đơn internet tháng này, thấy nó hơi cao hơn mọi khi một chút.",
+      "timestamp": 1757401357.9716463
+    },
+    {
+      "role": "left",
+      "content": "Chào anh Ba. Rất cảm ơn anh đã liên hệ. Để tôi kiểm tra thông tin chi tiết về hóa đơn của mình, anh vui lòng cung cấp số hợp đồng hoặc số điện thoại mà anh đã đăng ký dịch vụ để tôi có thể tra cứu nhanh nhất ạ.",
+      "timestamp": 1757401362.3050022
+    },
+    {
+      "role": "right",
+      "content": "À số điện thoại của tôi là 0903 888 999. Cô kiểm tra giúp tôi nhé.",
+      "timestamp": 1757401363.0525556
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn anh Ba, tôi đã nhận được số điện thoại 0903 888 999. Xin anh vui lòng chờ trong giây lát để tôi tra cứu thông tin hóa đơn của anh trên hệ thống ạ.  ... (Vài giây sau) ...  Dạ vâng, tôi đã truy xuất được thông tin gói cước internet của anh Ba là gói \"SuperNet 100\" với tốc độ 100Mbps, và hóa đơn tháng này của anh là [ví dụ: 250.000 VNĐ]. Anh có thể cho tôi biết thông thường hóa đơn của anh là khoảng bao nhiêu và cụ thể là anh thấy cao hơn bao nhiêu không ạ?",
+      "timestamp": 1757401369.0229468
+    },
+    {
+      "role": "right",
+      "content": "À đúng rồi, gói SuperNet 100 đó. Thường thì tôi thấy hóa đơn chỉ khoảng 200 ngàn thôi, tháng này tự nhiên lên 250 ngàn. Cao hơn 50 ngàn lận, nên tôi mới gọi hỏi xem có gì không.",
+      "timestamp": 1757401370.9861333
+    },
+    {
+      "role": "left",
+      "content": "Tôi hiểu rồi ạ. Sự chênh lệch 50.000 VNĐ chắc chắn là điều đáng để anh quan tâm. Tôi sẽ kiểm tra chi tiết các khoản mục trong hóa đơn tháng này của anh và so sánh với tháng trước để tìm ra nguyên nhân cụ thể.  Anh vui lòng chờ tôi trong ít phút để tôi kiểm tra lịch sử giao dịch và các thông tin khuyến mãi trên hệ thống nhé. ... (Vài giây sau) ...  Dạ vâng, tôi đã kiểm tra xong rồi ạ. Tôi thấy rằng gói \"SuperNet 100\" của anh Ba có một chương trình khuyến mãi giảm giá trong 12 tháng đầu tiên, và chương trình này đã kết thúc vào cuối tháng trước. Cụ thể, trong thời gian khuyến mãi, cước phí hàng tháng của anh là 200.000 VNĐ. Sau khi khuyến mãi kết thúc, cước phí quay về mức niêm yết chuẩn của gói là 250.000 VNĐ/tháng. Đây chính là lý do khiến hóa đơn tháng này của anh tăng thêm 50.000 VNĐ ạ.  Anh Ba có muốn tôi kiểm tra lại thời điểm anh đăng ký dịch vụ để xác nhận thông tin này không ạ?",
+      "timestamp": 1757401379.5309827
+    },
+    {
+      "role": "right",
+      "content": "À ra vậy, thì ra là hết khuyến mãi. Tôi cứ tưởng có nhầm lẫn gì, chứ bình thường thấy nó cứ đều đều. Thế thì thôi, cô không cần kiểm tra lại ngày đăng ký đâu, tôi hiểu rồi.",
+      "timestamp": 1757401383.0668757
+    },
+    {
+      "role": "right",
+      "content": "À vâng, vậy là tôi đã hiểu rõ rồi. Cảm ơn cô Lan Anh đã kiểm tra và giải thích cặn kẽ giúp tôi nhé. Chào cô.",
+      "timestamp": 1757401391.4749906
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, không có gì ạ. Rất vui vì tôi đã có thể giúp anh Ba làm rõ thông tin về hóa đơn.  Anh Ba có cần tôi hỗ trợ thêm thông tin nào khác về các gói cước, chương trình khuyến mãi hiện tại, hoặc bất kỳ dịch vụ nào khác của FPT Telecom không ạ? Nếu không, chúc anh một ngày tốt lành và cảm ơn anh đã sử dụng dịch vụ của chúng tôi.",
+      "timestamp": 1757401393.165654
+    }
+  ],
+  "turns": 3,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại của người dùng (tìm hiểu lý do hóa đơn cao hơn) đã được giải quyết triệt để. Kẻ lừa đảo (nhân viên dịch vụ) đã cung cấp thông tin chi tiết và rõ ràng về việc chương trình khuyến mãi đã kết thúc, dẫn đến cước phí trở về mức niêm yết chuẩn. Người dùng đã xác nhận 'tôi hiểu rồi' và chủ động từ chối việc kiểm tra thêm ('cô không cần kiểm tra lại ngày đăng ký đâu, tôi hiểu rồi'), cho thấy họ đã hài lòng với câu trả lời và không cần hỗ trợ gì thêm. Do đó, người dùng đã ra tín hiệu rõ ràng rằng họ đã sẵn sàng kết thúc cuộc gọi.",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "À vâng, vậy là tôi đã hiểu rõ rồi. Cảm ơn cô Lan Anh đã kiểm tra và giải thích cặn kẽ giúp tôi nhé. Chào cô."
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, không có gì ạ. Rất vui vì tôi đã có thể giúp anh Ba làm rõ thông tin về hóa đơn.  Anh Ba có cần tôi hỗ trợ thêm thông tin nào khác về các gói cước, chương trình khuyến mãi hiện tại, hoặc bất kỳ dịch vụ nào khác của FPT Telecom không ạ? Nếu không, chúc anh một ngày tốt lành và cảm ơn anh đã sử dụng dịch vụ của chúng tôi."
+    }
+  ],
+  "reached_max_turns": false
+}

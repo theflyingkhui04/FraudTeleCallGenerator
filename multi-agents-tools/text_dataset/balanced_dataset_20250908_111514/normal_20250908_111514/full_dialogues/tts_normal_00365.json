@@ -1,0 +1,70 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào bạn, tôi là Lan Anh từ bộ phận Chăm sóc khách hàng của [Tên công ty - ví dụ: Dịch vụ Internet FPT]. Rất vui được hỗ trợ bạn hôm nay. Bạn đang cần tôi giúp đỡ về vấn đề gì ạ?",
+      "timestamp": 1757406115.614614
+    },
+    {
+      "role": "right",
+      "content": "Chào chị Lan Anh. Em cần hỗ trợ về mạng internet ở nhà ạ. Mấy hôm nay mạng chậm quá, làm việc cứ bị gián đoạn hoài.",
+      "timestamp": 1757406117.8686123
+    },
+    {
+      "role": "left",
+      "content": "Chào bạn, tôi hiểu rằng mạng internet chậm gây ảnh hưởng đến công việc của bạn. Để tôi có thể kiểm tra tình trạng đường truyền và hỗ trợ bạn hiệu quả nhất, bạn vui lòng cung cấp cho tôi một số thông tin sau được không ạ:  1.  **Tên chủ hợp đồng** hoặc **Số chứng minh thư/Căn cước công dân** đăng ký dịch vụ. 2.  **Địa chỉ lắp đặt dịch vụ** (số nhà, tên đường, phường/xã, quận/huyện). 3.  **Số điện thoại liên hệ** để tôi có thể gửi thông báo hoặc kỹ thuật viên liên hệ khi cần.  Với những thông tin này, tôi sẽ nhanh chóng tra cứu và xem xét nguyên nhân ạ.",
+      "timestamp": 1757406122.9415433
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, chị chờ em chút nha.  Tên chủ hợp đồng là Nguyễn Văn A, số CCCD là 012345678910. Địa chỉ lắp đặt là 123/45 đường Cách Mạng Tháng Tám, Phường 12, Quận 10, TP.HCM. Số điện thoại liên hệ của em là 0987123456 ạ.  Chị kiểm tra giúp em với. Cảm ơn chị.",
+      "timestamp": 1757406126.0464873
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn bạn đã cung cấp thông tin. Tôi đã tiếp nhận và đang tiến hành kiểm tra trên hệ thống ạ.  Vâng, tôi đã tìm thấy thông tin hợp đồng của bạn Nguyễn Văn A tại địa chỉ 123/45 Cách Mạng Tháng Tám, Phường 12, Quận 10, TP.HCM, gói cước Super 100Mbps.  Hiện tại, hệ thống của chúng tôi không ghi nhận sự cố mất kết nối diện rộng tại khu vực của bạn. Tuy nhiên, tôi thấy có một vài tín hiệu không ổn định từ modem của bạn trong vài ngày gần đây.  Để khắc phục tình trạng này, trước tiên, bạn vui lòng thử khởi động lại modem và router Wi-Fi (nếu có) bằng cách rút nguồn điện, chờ khoảng 30 giây rồi cắm lại. Sau khi khởi động lại, bạn vui lòng kiểm tra xem tốc độ mạng có được cải thiện không nhé.  Nếu sau khi khởi động lại mà mạng vẫn chậm, bạn vui lòng cho tôi biết kết quả để tôi có thể tiếp tục hỗ trợ bằng cách kiểm tra sâu hơn hoặc cử kỹ thuật viên đến tận nơi ạ.",
+      "timestamp": 1757406139.0825686
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, em hiểu rồi ạ. Để em thử rút nguồn modem rồi cắm lại xem sao. Em hy vọng là nó sẽ cải thiện được, chứ mạng chậm thế này làm việc khó quá. Nếu không được em báo lại chị liền nha.",
+      "timestamp": 1757406140.925029
+    },
+    {
+      "role": "left",
+      "content": "Vâng, bạn cứ thực hiện theo hướng dẫn và kiểm tra lại nhé. Nếu sau khi khởi động lại modem mà tình hình vẫn không cải thiện, hoặc bạn vẫn gặp khó khăn trong quá trình làm việc, đừng ngần ngại liên hệ lại với tôi qua số tổng đài hoặc phản hồi lại đây. Tôi sẽ sẵn lòng hỗ trợ bạn tiếp tục, có thể là thực hiện các bước kiểm tra chuyên sâu hơn từ xa hoặc sắp xếp lịch hẹn với kỹ thuật viên để đến tận nơi kiểm tra đường truyền và thiết bị cho bạn.  Tôi sẽ ghi nhận lại yêu cầu của bạn và theo dõi tình trạng này. Chúc bạn sớm khắc phục được sự cố và có trải nghiệm internet tốt hơn!",
+      "timestamp": 1757406147.3982146
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, em cảm ơn chị nhiều nha. Em sẽ thử làm theo hướng dẫn rồi có gì em báo lại chị sau ạ. Hy vọng là sẽ được luôn.",
+      "timestamp": 1757406149.270666
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, em cảm ơn chị Lan Anh nhiều nha. Em sẽ làm theo hướng dẫn ạ. Chào chị.",
+      "timestamp": 1757406163.0883174
+    },
+    {
+      "role": "left",
+      "content": "Chào bạn, tôi là Lan Anh từ bộ phận Chăm sóc khách hàng của FPT. Tôi gọi lại để hỏi thăm tình hình đường truyền internet của bạn sau khi bạn đã thực hiện khởi động lại modem ạ. Tốc độ mạng nhà mình đã ổn định hơn chưa ạ?",
+      "timestamp": 1757406164.1523225
+    }
+  ],
+  "turns": 3,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại hiện tại (cung cấp hướng dẫn khắc phục sự cố ban đầu) đã đạt được. Người dùng đã nhận được thông tin cần thiết, đồng ý thực hiện theo hướng dẫn và cảm ơn rõ ràng. Người dùng cũng đã ngụ ý sẽ liên hệ lại nếu vấn đề chưa được giải quyết, cho thấy họ đã sẵn sàng tạm dừng cuộc hội thoại hiện tại để thực hiện các bước tiếp theo. Đây là một điểm dừng tự nhiên do người dùng chủ động kết thúc lượt trao đổi này.",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Dạ vâng, em cảm ơn chị Lan Anh nhiều nha. Em sẽ làm theo hướng dẫn ạ. Chào chị."
+    },
+    {
+      "role": "left",
+      "content": "Chào bạn, tôi là Lan Anh từ bộ phận Chăm sóc khách hàng của FPT. Tôi gọi lại để hỏi thăm tình hình đường truyền internet của bạn sau khi bạn đã thực hiện khởi động lại modem ạ. Tốc độ mạng nhà mình đã ổn định hơn chưa ạ?"
+    }
+  ],
+  "reached_max_turns": false
+}

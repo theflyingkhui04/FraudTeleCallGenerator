@@ -1,0 +1,70 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào bạn, tôi là Lan Anh từ bộ phận Chăm sóc Khách hàng của [Tên công ty dịch vụ, ví dụ: FPT Telecom]. Rất vui được hỗ trợ bạn hôm nay. Bạn đang cần tư vấn về dịch vụ nào ạ?",
+      "timestamp": 1757402469.4158657
+    },
+    {
+      "role": "right",
+      "content": "À chào cô. Tôi muốn hỏi cái vụ internet nhà tôi, mấy bữa nay nó cứ chập chờn hoài, dùng không được cô ơi.",
+      "timestamp": 1757402473.8155394
+    },
+    {
+      "role": "left",
+      "content": "Chào bạn, tôi rất tiếc khi nghe về sự cố đường truyền internet nhà mình. Để tôi có thể kiểm tra và hỗ trợ bạn một cách chính xác nhất, bạn vui lòng cho tôi xin thông tin về mã khách hàng hoặc số điện thoại đăng ký dịch vụ của bạn được không ạ?",
+      "timestamp": 1757402478.9678977
+    },
+    {
+      "role": "right",
+      "content": "À số điện thoại của tôi là 0987654321 đó cô. Mấy bữa nay nó cứ chậm rì, coi TV cũng giật giật, khó chịu lắm cô ơi.",
+      "timestamp": 1757402481.03088
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn bạn đã cung cấp số điện thoại. Tôi đã kiểm tra trên hệ thống và xác nhận bạn đang sử dụng gói cước Super 100 của FPT Telecom tại địa chỉ 123 Lê Lợi, Quận 1.  Về tình trạng chập chờn mà bạn đang gặp phải, có một vài nguyên nhân phổ biến như: 1.  **Thiết bị Modem/Router:** Có thể thiết bị đang gặp lỗi hoặc cần được khởi động lại. 2.  **Tín hiệu đường truyền:** Tín hiệu từ hộp cáp đến nhà bạn có thể bị suy yếu do tác động từ môi trường hoặc các yếu tố bên ngoài. 3.  **Quá tải mạng:** Nếu có quá nhiều thiết bị kết nối cùng lúc hoặc đang có hoạt động tải xuống/tải lên lớn, đường truyền cũng có thể bị ảnh hưởng. 4.  **Lỗi phần mềm/cấu hình:** Ít gặp hơn nhưng cũng có thể xảy ra.  Trước tiên, bạn vui lòng thử giúp tôi một thao tác đơn giản là **khởi động lại modem và router Wi-Fi** bằng cách rút nguồn điện của cả hai thiết bị ra, chờ khoảng 30 giây rồi cắm lại. Sau đó, chờ thêm vài phút cho thiết bị khởi động hoàn tất và kiểm tra xem tốc độ internet có cải thiện không nhé.  Nếu sau khi khởi động lại mà tình trạng vẫn không được cải thiện, tôi sẽ lập một yêu cầu kỹ thuật để nhân viên của chúng tôi đến tận nơi kiểm tra và xử lý cho bạn ạ.",
+      "timestamp": 1757402488.2287924
+    },
+    {
+      "role": "right",
+      "content": "Thì ra là vậy. Tôi cũng không rành mấy cái này lắm. Để tôi thử rút điện ra rồi cắm lại như cô nói xem sao. Mà nếu không được thì mấy đứa kỹ thuật có đến kiểm tra liền không cô? Nhà tôi có mỗi cái tivi giải trí thôi à.",
+      "timestamp": 1757402491.2250361
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, bạn cứ thử thao tác khởi động lại modem và router giúp tôi trước nhé. Đây là bước khắc phục cơ bản và thường hiệu quả với nhiều trường hợp.  Nếu sau khi khởi động lại mà tình trạng internet vẫn chập chờn hoặc không cải thiện, bạn vui lòng gọi lại cho tôi hoặc phản hồi qua kênh này. Khi đó, tôi sẽ lập tức tạo yêu cầu hỗ trợ kỹ thuật trên hệ thống.  Thông thường, sau khi yêu cầu được tạo, nhân viên kỹ thuật của chúng tôi sẽ liên hệ với bạn trong vòng **2 đến 4 giờ làm việc** để xác nhận lịch hẹn và đến tận nhà kiểm tra, xử lý sự cố. Chúng tôi luôn cố gắng sắp xếp nhanh nhất có thể để đảm bảo trải nghiệm dịch vụ của bạn không bị gián đoạn lâu.  Bạn yên tâm nhé, nếu cần kỹ thuật viên đến hỗ trợ, chúng tôi sẽ sắp xếp nhanh chóng ạ.",
+      "timestamp": 1757402500.5447013
+    },
+    {
+      "role": "right",
+      "content": "À vậy hả cô. Vậy tôi hiểu rồi. 2 đến 4 tiếng cũng được, miễn sao có người xuống kiểm tra giúp tôi là được. Tôi thử làm như cô nói trước.",
+      "timestamp": 1757402505.0931249
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, bạn cứ thử khởi động lại thiết bị theo hướng dẫn nhé. Nếu sau đó mà đường truyền vẫn không ổn định, bạn đừng ngần ngại gọi lại cho tôi hoặc liên hệ qua kênh này bất cứ lúc nào. Tôi sẽ lập tức tạo yêu cầu hỗ trợ kỹ thuật để nhân viên có thể đến kiểm tra sớm nhất cho bạn.  Cảm ơn bạn đã liên hệ FPT Telecom. Chúc bạn một ngày tốt lành!",
+      "timestamp": 1757402523.7053714
+    },
+    {
+      "role": "right",
+      "content": "Cảm ơn cô nhiều nha. Chào cô.",
+      "timestamp": 1757402525.5667853
+    }
+  ],
+  "turns": 3,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại đã đạt được. Người dùng đã nhận được hướng dẫn chi tiết về bước khắc phục ban đầu (khởi động lại modem/router) và hiểu rõ quy trình tiếp theo nếu vấn đề không được giải quyết (kỹ thuật viên đến hỗ trợ trong 2-4 giờ). Lời cuối của người dùng ('À vậy hả cô. Vậy tôi hiểu rồi. 2 đến 4 tiếng cũng được, miễn sao có người xuống kiểm tra giúp tôi là được. Tôi thử làm như cô nói trước.') thể hiện sự hài lòng với thông tin đã nhận và ý định thực hiện theo hướng dẫn, ngụ ý rằng họ không cần hỗ trợ thêm ngay lập tức và cuộc trò chuyện có thể tạm dừng. Do đó, người dùng đã chủ động kết thúc giai đoạn hỗ trợ này.",
+  "terminator": "người dùng kết thúc",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Dạ vâng, bạn cứ thử khởi động lại thiết bị theo hướng dẫn nhé. Nếu sau đó mà đường truyền vẫn không ổn định, bạn đừng ngần ngại gọi lại cho tôi hoặc liên hệ qua kênh này bất cứ lúc nào. Tôi sẽ lập tức tạo yêu cầu hỗ trợ kỹ thuật để nhân viên có thể đến kiểm tra sớm nhất cho bạn.  Cảm ơn bạn đã liên hệ FPT Telecom. Chúc bạn một ngày tốt lành!"
+    },
+    {
+      "role": "right",
+      "content": "Cảm ơn cô nhiều nha. Chào cô."
+    }
+  ],
+  "reached_max_turns": false
+}

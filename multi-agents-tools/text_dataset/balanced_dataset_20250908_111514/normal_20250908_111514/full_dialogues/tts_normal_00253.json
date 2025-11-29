@@ -1,0 +1,60 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đến với Dịch vụ Tư vấn của chúng tôi. Tôi là Minh Anh, rất vui được hỗ trợ quý khách hôm nay. Xin quý khách vui lòng cho biết quý khách đang cần tư vấn về thủ tục hay dịch vụ cụ thể nào ạ?",
+      "timestamp": 1757406804.071485
+    },
+    {
+      "role": "right",
+      "content": "Chào cô Minh Anh. Tôi muốn hỏi về mấy cái thủ tục lãnh lương hưu tháng này. Thấy có thông báo gì mới mà tôi đọc chưa rõ lắm.",
+      "timestamp": 1757406806.683067
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi hiểu rồi ạ. Quý khách đang quan tâm đến thủ tục lãnh lương hưu tháng này và có thông báo mới cần được giải thích rõ hơn. Để tôi có thể hỗ trợ quý khách một cách chính xác nhất, quý khách có thể cho tôi biết quý khách thường nhận lương hưu theo hình thức nào không ạ? Ví dụ như nhận tiền mặt tại bưu điện, qua tài khoản ngân hàng, hay tại nhà ạ?",
+      "timestamp": 1757406811.1524875
+    },
+    {
+      "role": "right",
+      "content": "Tôi nhận qua tài khoản ngân hàng cô ạ. Mấy năm nay vẫn vậy, thấy tiện hơn nhiều so với hồi trước phải ra bưu điện xếp hàng.",
+      "timestamp": 1757406814.1573727
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, cảm ơn quý khách đã cung cấp thông tin. Đối với quý khách nhận lương hưu qua tài khoản ngân hàng, thông báo mới nhất từ Bảo hiểm xã hội Việt Nam có một số thay đổi nhỏ về lịch chi trả để đảm bảo sự thuận tiện và an toàn hơn.  Cụ thể, từ tháng 5/2024, lịch chi trả lương hưu và trợ cấp bảo hiểm xã hội hàng tháng qua tài khoản cá nhân (ATM) sẽ được bắt đầu từ ngày 10 hàng tháng và kết thúc chậm nhất vào ngày 13 hàng tháng. Điều này có nghĩa là quý khách sẽ nhận được tiền vào tài khoản trong khoảng thời gian này. Trước đây, có thể quý khách nhận sớm hơn một chút vào đầu tháng, nhưng hiện tại đã được điều chỉnh lại để đồng bộ trên toàn quốc.  Quý khách có bất kỳ thắc mắc nào về thay đổi này không ạ?",
+      "timestamp": 1757406819.4869976
+    },
+    {
+      "role": "right",
+      "content": "À vậy là trễ hơn mấy hôm hả cô? Trước giờ tôi hay canh đầu tháng để chi tiêu, giờ phải đợi thêm mấy ngày. Nhưng mà cũng không sao, miễn là tiền về đúng hẹn là được.",
+      "timestamp": 1757406823.3591642
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, đúng rồi ạ. Thời gian chi trả sẽ bắt đầu từ ngày 10 đến ngày 13 hàng tháng, có thể trễ hơn một vài ngày so với trước đây nhưng vẫn đảm bảo tiền sẽ về tài khoản của quý khách đều đặn và đúng hẹn trong khung thời gian này.  Quý khách có còn câu hỏi nào khác về thủ tục lãnh lương hưu hoặc các dịch vụ khác mà tôi có thể hỗ trợ không ạ? Nếu không, tôi xin phép được kết thúc cuộc gọi tại đây. Chúc quý khách một ngày tốt lành!",
+      "timestamp": 1757406831.6584353
+    },
+    {
+      "role": "right",
+      "content": "À vậy thôi hả cô. Cảm ơn cô nhé. Chào cô.",
+      "timestamp": 1757406835.1095798
+    }
+  ],
+  "turns": 2,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại đã đạt được. Người dùng đã nhận được thông tin đầy đủ và rõ ràng về thông báo mới liên quan đến lịch chi trả lương hưu qua tài khoản ngân hàng. Người dùng đã xác nhận hiểu và chấp nhận thông tin (\"À vậy là trễ hơn mấy hôm hả cô?... Nhưng mà cũng không sao, miễn là tiền về đúng hẹn là được.\") mà không đặt thêm câu hỏi nào. Bên cung cấp dịch vụ (kẻ lừa đảo) nên chủ động kết thúc bằng cách hỏi xem người dùng có cần hỗ trợ gì thêm không hoặc cảm ơn người dùng đã gọi điện.",
+  "terminator": "left",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Dạ vâng, đúng rồi ạ. Thời gian chi trả sẽ bắt đầu từ ngày 10 đến ngày 13 hàng tháng, có thể trễ hơn một vài ngày so với trước đây nhưng vẫn đảm bảo tiền sẽ về tài khoản của quý khách đều đặn và đúng hẹn trong khung thời gian này.  Quý khách có còn câu hỏi nào khác về thủ tục lãnh lương hưu hoặc các dịch vụ khác mà tôi có thể hỗ trợ không ạ? Nếu không, tôi xin phép được kết thúc cuộc gọi tại đây. Chúc quý khách một ngày tốt lành!"
+    },
+    {
+      "role": "right",
+      "content": "À vậy thôi hả cô. Cảm ơn cô nhé. Chào cô."
+    }
+  ],
+  "reached_max_turns": false
+}

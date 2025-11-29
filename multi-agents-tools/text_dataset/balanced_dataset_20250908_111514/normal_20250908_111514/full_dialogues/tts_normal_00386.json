@@ -1,0 +1,70 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đã gọi đến tổng đài hỗ trợ của Công ty Điện lực EVN Hà Nội. Tôi là Minh Thư, rất hân hạnh được hỗ trợ quý khách.  Xin quý khách vui lòng cho biết tôi có thể giúp gì cho quý khách ngày hôm nay ạ?",
+      "timestamp": 1757409021.2601554
+    },
+    {
+      "role": "right",
+      "content": "Dạ chào cô. Tôi muốn hỏi về tình hình mất điện ở khu vực nhà tôi ạ. Cụ thể là ở số nhà 15, ngõ 20, phố Quang Trung, quận Hà Đông. Từ sáng đến giờ không có điện.",
+      "timestamp": 1757409024.371771
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi đã nắm được thông tin địa chỉ của quý khách là số nhà 15, ngõ 20, phố Quang Trung, quận Hà Đông. Để tôi kiểm tra nhanh trên hệ thống xem có thông báo mất điện theo lịch hoặc sự cố đột xuất nào tại khu vực này không ạ. Quý khách vui lòng chờ trong giây lát nhé.",
+      "timestamp": 1757409029.507769
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, tôi chờ ạ. Cảm ơn cô.",
+      "timestamp": 1757409030.5207677
+    },
+    {
+      "role": "left",
+      "content": "Dạ, cảm ơn quý khách đã kiên nhẫn chờ đợi. Tôi đã kiểm tra trên hệ thống và ghi nhận có một sự cố đột xuất đang xảy ra tại khu vực phố Quang Trung, quận Hà Đông, ảnh hưởng đến nguồn cung cấp điện cho một số hộ dân, trong đó có địa chỉ của quý khách. Nguyên nhân ban đầu được xác định là do sự cố kỹ thuật trên đường dây trung thế.",
+      "timestamp": 1757409035.2438045
+    },
+    {
+      "role": "right",
+      "content": "À, vậy là do sự cố kỹ thuật trên đường dây trung thế à. Thế bên điện lực có ước tính bao giờ thì có điện lại không cô? Tại vì mất điện từ sáng đến giờ cũng bất tiện quá.",
+      "timestamp": 1757409037.7606332
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi hoàn toàn hiểu sự bất tiện này của quý khách ạ. Theo thông tin cập nhật từ đội ngũ kỹ thuật đang xử lý tại hiện trường, hiện tại các kỹ sư của chúng tôi đang tích cực khắc phục sự cố.  Đối với các sự cố đột xuất liên quan đến đường dây trung thế, thời gian khắc phục có thể dao động tùy thuộc vào mức độ phức tạp của sự cố. Ước tính ban đầu cho thấy, chúng tôi dự kiến có thể khôi phục lại điện trong khoảng **từ 16h00 đến 18h00 chiều nay** ạ. Tuy nhiên, đây là thời gian dự kiến và có thể thay đổi nếu có phát sinh phức tạp hơn trong quá trình sửa chữa.  Chúng tôi sẽ cố gắng hết sức để cấp điện trở lại cho quý khách sớm nhất có thể.",
+      "timestamp": 1757409047.548778
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, 16h đến 18h chiều nay ạ. Cũng hơi lâu một chút nhưng thôi được rồi, có thông tin cụ thể như vậy là tôi cũng nắm được. Mong là bên điện lực sớm khắc phục được để có điện lại cho bà con. Cảm ơn cô nhiều nhé.",
+      "timestamp": 1757409050.299725
+    },
+    {
+      "role": "right",
+      "content": "Vâng, không có gì đâu cô. Cảm ơn cô đã hỗ trợ nhé. Chào cô.",
+      "timestamp": 1757409056.628782
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, quý khách không cần cảm ơn ạ. Đó là trách nhiệm của chúng tôi. Tôi xin xác nhận lại thông tin là điện dự kiến sẽ có lại trong khoảng từ 16h00 đến 18h00 chiều nay tại địa chỉ số nhà 15, ngõ 20, phố Quang Trung, quận Hà Đông do sự cố kỹ thuật trên đường dây trung thế.  Nếu quý khách cần thêm bất kỳ thông tin nào hoặc có câu hỏi khác, xin đừng ngần ngại gọi lại cho chúng tôi ạ. Chúc quý khách một ngày tốt lành và hy vọng điện sẽ sớm được khôi phục. Cảm ơn quý khách đã sử dụng dịch vụ của EVN Hà Nội. Xin chào quý khách.",
+      "timestamp": 1757409058.152121
+    }
+  ],
+  "turns": 3,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại của người dùng đã đạt được khi nhận được thông tin về nguyên nhân mất điện và thời gian dự kiến khắc phục. Người dùng cũng đã bày tỏ sự hài lòng, nắm được thông tin và cảm ơn rõ ràng, cho thấy không còn nhu cầu hỗ trợ thêm. Đây là thời điểm thích hợp để người dùng kết thúc hội thoại.",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Vâng, không có gì đâu cô. Cảm ơn cô đã hỗ trợ nhé. Chào cô."
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, quý khách không cần cảm ơn ạ. Đó là trách nhiệm của chúng tôi. Tôi xin xác nhận lại thông tin là điện dự kiến sẽ có lại trong khoảng từ 16h00 đến 18h00 chiều nay tại địa chỉ số nhà 15, ngõ 20, phố Quang Trung, quận Hà Đông do sự cố kỹ thuật trên đường dây trung thế.  Nếu quý khách cần thêm bất kỳ thông tin nào hoặc có câu hỏi khác, xin đừng ngần ngại gọi lại cho chúng tôi ạ. Chúc quý khách một ngày tốt lành và hy vọng điện sẽ sớm được khôi phục. Cảm ơn quý khách đã sử dụng dịch vụ của EVN Hà Nội. Xin chào quý khách."
+    }
+  ],
+  "reached_max_turns": false
+}

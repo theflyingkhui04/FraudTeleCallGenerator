@@ -1,0 +1,80 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào anh/chị, tôi là Minh Thư từ Bộ phận Chăm sóc Khách hàng của FPT Telecom. Tôi có thể hỗ trợ gì cho anh/chị hôm nay ạ?",
+      "timestamp": 1757406754.4506733
+    },
+    {
+      "role": "right",
+      "content": "Chào Minh Thư nhé. Mình muốn hỏi về cái mạng nhà mình, mấy hôm nay tự nhiên nó cứ chập chờn, lag liên tục làm mình làm việc khó quá.",
+      "timestamp": 1757406757.8453448
+    },
+    {
+      "role": "left",
+      "content": "Chào anh/chị. Tôi rất tiếc khi nghe về sự bất tiện này. Để tôi kiểm tra thông tin và tìm cách khắc phục cho anh/chị nhé. Anh/chị vui lòng cho tôi xin thông tin số hợp đồng hoặc số điện thoại đã đăng ký dịch vụ để tôi tra cứu được không ạ?",
+      "timestamp": 1757406762.594048
+    },
+    {
+      "role": "right",
+      "content": "À, số điện thoại của mình là 0912345678 nhé. Bạn kiểm tra giúp mình với.",
+      "timestamp": 1757406763.6430285
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn anh/chị. Tôi đã tra cứu và thấy số điện thoại 0912345678 đứng tên chủ hợp đồng Nguyễn Văn A, địa chỉ lắp đặt tại số 123, đường ABC, Quận XYZ, Thành phố Hồ Chí Minh. Có đúng là thông tin của anh/chị không ạ?",
+      "timestamp": 1757406768.143305
+    },
+    {
+      "role": "right",
+      "content": "Đúng rồi bạn. Chính xác là thông tin của mình đó. Bạn xem giúp mình là bị gì nhé.",
+      "timestamp": 1757406769.7861292
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn anh/chị đã xác nhận thông tin. Tôi đã kiểm tra trên hệ thống và ghi nhận tình trạng đường truyền của anh/chị đang có dấu hiệu không ổn định, ping cao và có thể gây ra hiện tượng lag như anh/chị mô tả.  Hiện tại, tôi chưa thấy có thông báo bảo trì hay sự cố diện rộng nào tại khu vực của anh/chị. Để loại trừ các nguyên nhân cơ bản, anh/chị vui lòng thử một số bước khắc phục nhanh sau đây giúp tôi nhé:  1.  **Khởi động lại modem và router Wi-Fi:** Anh/chị vui lòng rút nguồn điện của cả modem và router Wi-Fi (nếu có) ra khỏi ổ cắm, chờ khoảng 30 giây đến 1 phút, sau đó cắm điện lại. Chờ khoảng 3-5 phút để các thiết bị khởi động hoàn toàn và kết nối lại internet. 2.  **Kiểm tra dây cáp:** Anh/chị vui lòng kiểm tra xem tất cả các dây cáp nối từ modem đến ổ cắm tường và từ modem đến router (nếu có) có bị lỏng lẻo, gãy gập hay hư hỏng gì không. Đảm bảo chúng được cắm chặt.  Sau khi thực hiện các bước này, anh/chị vui lòng kiểm tra lại xem tình trạng mạng có được cải thiện không nhé.",
+      "timestamp": 1757406776.4495423
+    },
+    {
+      "role": "right",
+      "content": "À ok, mình hiểu rồi. Để mình thử khởi động lại modem với kiểm tra mấy cái dây cáp xem sao. Hy vọng là được. Nếu mà vẫn không cải thiện thì mình phải làm sao nữa bạn?",
+      "timestamp": 1757406778.5937107
+    },
+    {
+      "role": "left",
+      "content": "Vâng ạ, anh/chị cứ thử thực hiện các bước đó trước giúp tôi nhé.  Nếu sau khi khởi động lại modem và kiểm tra dây cáp mà tình trạng mạng vẫn không cải thiện, anh/chị vui lòng liên hệ lại với tôi hoặc tổng đài FPT Telecom. Khi đó, tôi sẽ ghi nhận yêu cầu và tạo phiếu kỹ thuật để cử nhân viên kỹ thuật đến tận nhà anh/chị kiểm tra trực tiếp đường truyền, thiết bị và khắc phục sự cố một cách triệt để nhất.  Thông thường, chúng tôi sẽ sắp xếp kỹ thuật viên đến trong vòng 24 đến 48 giờ làm việc kể từ khi tiếp nhận yêu cầu chính thức, tùy thuộc vào lịch trình và mức độ ưu tiên của khu vực. Khi anh/chị liên hệ lại, tôi sẽ hỏi anh/chị thời gian nào thuận tiện nhất để kỹ thuật viên có thể ghé qua ạ.  Anh/chị cứ yên tâm, chúng tôi sẽ hỗ trợ đến khi mạng nhà mình hoạt động ổn định trở lại nhé.",
+      "timestamp": 1757406786.027839
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, mình hiểu rồi. Vậy để mình thử trước, nếu không được thì mình sẽ gọi lại cho bạn để tạo phiếu kỹ thuật nhé. Cảm ơn bạn đã hỗ trợ mình.",
+      "timestamp": 1757406788.3182738
+    },
+    {
+      "role": "right",
+      "content": "Chào bạn nhé.",
+      "timestamp": 1757406799.5224812
+    },
+    {
+      "role": "left",
+      "content": "Chào anh/chị. Anh/chị đã thử các bước khắc phục sự cố tôi hướng dẫn chưa ạ? Hay anh/chị cần tôi hỗ trợ thêm thông tin gì khác không ạ?",
+      "timestamp": 1757406803.033119
+    }
+  ],
+  "turns": 4,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Người dùng đã nhận được đầy đủ hướng dẫn khắc phục sự cố ban đầu và lộ trình hỗ trợ tiếp theo nếu vấn đề không được giải quyết. Người dùng đã bày tỏ sự hiểu rõ và kết thúc hội thoại bằng lời cảm ơn rõ ràng, cho thấy họ hài lòng với thông tin đã nhận được và sẵn sàng tự mình thực hiện các bước tiếp theo.",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Chào bạn nhé."
+    },
+    {
+      "role": "left",
+      "content": "Chào anh/chị. Anh/chị đã thử các bước khắc phục sự cố tôi hướng dẫn chưa ạ? Hay anh/chị cần tôi hỗ trợ thêm thông tin gì khác không ạ?"
+    }
+  ],
+  "reached_max_turns": false
+}

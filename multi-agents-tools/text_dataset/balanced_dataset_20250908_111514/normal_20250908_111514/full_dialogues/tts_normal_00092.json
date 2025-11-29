@@ -1,0 +1,40 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đã gọi đến tổng đài hỗ trợ của Công ty Viễn thông ABC. Tôi là Minh Thư, rất vui được hỗ trợ quý khách hôm nay.  Quý khách đang cần tư vấn về dịch vụ nào ạ? Xin mời quý khách chia sẻ để tôi có thể hỗ trợ tốt nhất.",
+      "timestamp": 1757401583.9016593
+    },
+    {
+      "role": "right",
+      "content": "Chào cô Minh Thư. Tôi là Thuận, năm nay 46 tuổi. Tôi gọi đến là vì muốn hỏi về việc lắp đặt internet cho gia đình. Cụ thể là tôi muốn biết các gói cước và thủ tục đăng ký như thế nào ạ.",
+      "timestamp": 1757401587.3666613
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, vậy phiền cô gửi giúp tôi thông tin chi tiết các gói cước và thủ tục qua tin nhắn hoặc email nhé. Tôi sẽ xem xét kỹ rồi có gì sẽ liên hệ lại sau. Cảm ơn cô Minh Thư nhiều.",
+      "timestamp": 1757401600.467588
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi rất sẵn lòng gửi thông tin chi tiết các gói cước và thủ tục đến quý khách. Để tôi có thể chọn lọc và gửi những thông tin phù hợp nhất với nhu cầu của mình, quý khách có thể cho tôi biết quý khách đang quan tâm đến dịch vụ nào không ạ? Ví dụ như dịch vụ Internet cáp quang cho gia đình, truyền hình số, hay các gói di động doanh nghiệp chẳng hạn?  Sau khi xác định được dịch vụ, tôi sẽ tổng hợp và gửi ngay đến quý khách. Quý khách muốn nhận qua tin nhắn SMS hay địa chỉ email nào ạ?",
+      "timestamp": 1757401603.2873383
+    }
+  ],
+  "turns": 0,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "```json {   \"should_terminate\": false,   \"reason\": \"Hội thoại mới bắt đầu. Người dùng đã nêu rõ mục ...",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Dạ vâng, vậy phiền cô gửi giúp tôi thông tin chi tiết các gói cước và thủ tục qua tin nhắn hoặc email nhé. Tôi sẽ xem xét kỹ rồi có gì sẽ liên hệ lại sau. Cảm ơn cô Minh Thư nhiều."
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi rất sẵn lòng gửi thông tin chi tiết các gói cước và thủ tục đến quý khách. Để tôi có thể chọn lọc và gửi những thông tin phù hợp nhất với nhu cầu của mình, quý khách có thể cho tôi biết quý khách đang quan tâm đến dịch vụ nào không ạ? Ví dụ như dịch vụ Internet cáp quang cho gia đình, truyền hình số, hay các gói di động doanh nghiệp chẳng hạn?  Sau khi xác định được dịch vụ, tôi sẽ tổng hợp và gửi ngay đến quý khách. Quý khách muốn nhận qua tin nhắn SMS hay địa chỉ email nào ạ?"
+    }
+  ],
+  "reached_max_turns": false
+}

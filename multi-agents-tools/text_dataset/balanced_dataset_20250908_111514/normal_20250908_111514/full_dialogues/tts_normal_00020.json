@@ -1,0 +1,40 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào bạn, tôi là Lan Anh từ tổng đài hỗ trợ khách hàng của Công ty Cung cấp Giải pháp Công nghệ ABC. Rất vui được hỗ trợ bạn hôm nay. Bạn cần Lan Anh tư vấn về dịch vụ gì ạ?",
+      "timestamp": 1757405016.8338282
+    },
+    {
+      "role": "right",
+      "content": "Chào Lan Anh. Mình muốn hỏi về gói dịch vụ internet cáp quang bên mình ấy. Gói mình đang dùng hình như sắp hết hạn rồi.",
+      "timestamp": 1757405019.2764895
+    },
+    {
+      "role": "right",
+      "content": "À thôi, chắc mình sẽ xem lại thông tin trên web trước vậy. Có gì mình sẽ liên hệ lại sau nhé Lan Anh. Cảm ơn bạn.",
+      "timestamp": 1757405028.948926
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, không sao ạ. Bạn cứ thoải mái tham khảo thông tin chi tiết về các gói dịch vụ trên trang web của Công ty ABC tại địa chỉ www.abc-tech.vn.  Nếu trong quá trình tìm hiểu bạn có bất kỳ câu hỏi nào hoặc cần Lan Anh tư vấn thêm, đừng ngần ngại liên hệ lại nhé. Bạn có thể gọi lại số này hoặc gửi email về địa chỉ support@abc-tech.vn.  Cảm ơn bạn đã liên hệ với Công ty ABC. Chúc bạn một ngày tốt lành!",
+      "timestamp": 1757405030.7281609
+    }
+  ],
+  "turns": 0,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "```json {   \"should_terminate\": false,   \"reason\": \"Hội thoại vừa mới bắt đầu. Người dùng đã nêu rõ ...",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "À thôi, chắc mình sẽ xem lại thông tin trên web trước vậy. Có gì mình sẽ liên hệ lại sau nhé Lan Anh. Cảm ơn bạn."
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, không sao ạ. Bạn cứ thoải mái tham khảo thông tin chi tiết về các gói dịch vụ trên trang web của Công ty ABC tại địa chỉ www.abc-tech.vn.  Nếu trong quá trình tìm hiểu bạn có bất kỳ câu hỏi nào hoặc cần Lan Anh tư vấn thêm, đừng ngần ngại liên hệ lại nhé. Bạn có thể gọi lại số này hoặc gửi email về địa chỉ support@abc-tech.vn.  Cảm ơn bạn đã liên hệ với Công ty ABC. Chúc bạn một ngày tốt lành!"
+    }
+  ],
+  "reached_max_turns": false
+}

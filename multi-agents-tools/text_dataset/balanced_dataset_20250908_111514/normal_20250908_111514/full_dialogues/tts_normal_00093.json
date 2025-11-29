@@ -1,0 +1,80 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào anh/chị, tôi là Minh Thư từ tổng đài hỗ trợ khách hàng của FPT Telecom. Rất vui được phục vụ anh/chị. Anh/chị cần hỗ trợ về dịch vụ nào hôm nay ạ?",
+      "timestamp": 1757404767.8920686
+    },
+    {
+      "role": "right",
+      "content": "À chào cô Minh Thư. Tôi muốn hỏi về dịch vụ internet ở nhà tôi, hình như nó đang bị chập chờn mấy hôm nay.",
+      "timestamp": 1757404769.607651
+    },
+    {
+      "role": "left",
+      "content": "Chào anh/chị. Tôi rất tiếc khi nghe về sự cố đường truyền internet của mình. Để tôi có thể kiểm tra và hỗ trợ anh/chị một cách nhanh chóng nhất, anh/chị vui lòng cung cấp giúp tôi mã khách hàng hoặc số điện thoại đã đăng ký dịch vụ ạ?",
+      "timestamp": 1757404775.170426
+    },
+    {
+      "role": "right",
+      "content": "Số điện thoại của tôi là 0903 567 890. Cô kiểm tra giúp tôi nhé.",
+      "timestamp": 1757404776.663429
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn anh/chị đã cung cấp thông tin. Tôi đã tra cứu trên hệ thống và xác định được dịch vụ internet của anh/chị đang được đăng ký dưới tên Nguyễn Văn A tại địa chỉ số 123, đường ABC, phường X, quận Y, thành phố Đà Nẵng, gói cước Super 100. Không biết thông tin này đã chính xác chưa ạ?",
+      "timestamp": 1757404781.846084
+    },
+    {
+      "role": "right",
+      "content": "Dạ đúng rồi cô. Thông tin đó chính xác hết.",
+      "timestamp": 1757404783.5205944
+    },
+    {
+      "role": "left",
+      "content": "Vâng, cảm ơn anh/chị đã xác nhận. Tôi thấy có ghi nhận một số sự cố gián đoạn dịch vụ nhỏ trong khu vực của anh/chị vào khoảng 2 ngày trước do lỗi kỹ thuật tại trạm phát sóng. Tuy nhiên, sự cố này đã được khắc phục hoàn toàn vào sáng hôm qua.  Để tôi có thể hỗ trợ anh/chị kiểm tra cụ thể hơn tình trạng đường truyền tại nhà mình, anh/chị vui lòng thử khởi động lại modem Wi-Fi bằng cách rút dây nguồn ra khỏi ổ cắm trong khoảng 10-15 giây, sau đó cắm lại và chờ cho các đèn tín hiệu trên modem ổn định lại (thường là đèn PON, LOS, Internet sẽ sáng xanh). Sau đó anh/chị vui lòng kiểm tra lại xem kết nối internet đã ổn định hơn chưa ạ?",
+      "timestamp": 1757404789.9428747
+    },
+    {
+      "role": "right",
+      "content": "À, để tôi thử rút dây nguồn rồi cắm lại xem sao. Cô chờ tôi một lát nhé.",
+      "timestamp": 1757404791.6889722
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, anh/chị cứ thực hiện thao tác ạ. Tôi sẽ giữ máy chờ phản hồi từ anh/chị.",
+      "timestamp": 1757404796.3077803
+    },
+    {
+      "role": "right",
+      "content": "À, tôi làm rồi đây. Giờ thấy ổn định hơn rồi cô ơi, mạng có vẻ không còn chập chờn như lúc nãy nữa.",
+      "timestamp": 1757404798.109852
+    },
+    {
+      "role": "left",
+      "content": "Tuyệt vời quá ạ! Tôi rất vui khi nghe thấy đường truyền internet của anh/chị đã ổn định trở lại. Có vẻ như việc khởi động lại modem đã giúp khắc phục tình trạng chập chờn. Nếu trong quá trình sử dụng sau này anh/chị gặp lại bất kỳ vấn đề nào hoặc cần hỗ trợ thêm, đừng ngần ngại gọi lại cho FPT Telecom nhé. Chúc anh/chị một ngày tốt lành!",
+      "timestamp": 1757404804.823917
+    },
+    {
+      "role": "right",
+      "content": "Vâng, cảm ơn cô nhé. Vậy là ổn rồi. Chúc cô cũng một ngày tốt lành.",
+      "timestamp": 1757404807.776078
+    }
+  ],
+  "turns": 4,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại của người dùng (khắc phục sự cố internet chập chờn) đã đạt được sau khi thực hiện theo hướng dẫn của bên dịch vụ. Người dùng đã xác nhận rằng mạng đã ổn định trở lại. Bên dịch vụ nên chủ động kết thúc sau khi xác nhận lại sự hài lòng của khách hàng hoặc hỏi xem khách hàng còn cần hỗ trợ gì khác không.##TERMINATE_SIGNAL##",
+  "terminator": "left",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Tuyệt vời quá ạ! Tôi rất vui khi nghe thấy đường truyền internet của anh/chị đã ổn định trở lại. Có vẻ như việc khởi động lại modem đã giúp khắc phục tình trạng chập chờn. Nếu trong quá trình sử dụng sau này anh/chị gặp lại bất kỳ vấn đề nào hoặc cần hỗ trợ thêm, đừng ngần ngại gọi lại cho FPT Telecom nhé. Chúc anh/chị một ngày tốt lành!"
+    },
+    {
+      "role": "right",
+      "content": "Vâng, cảm ơn cô nhé. Vậy là ổn rồi. Chúc cô cũng một ngày tốt lành."
+    }
+  ],
+  "reached_max_turns": false
+}

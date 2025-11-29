@@ -1,0 +1,70 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đến với dịch vụ hỗ trợ kỹ thuật của [Tên công ty]. Tôi là [Tên nhân viên], tôi có thể hỗ trợ gì cho quý khách hôm nay ạ?",
+      "timestamp": 1757358962.6202981
+    },
+    {
+      "role": "right",
+      "content": "À chào cháu. Cô gọi điện là vì cái internet ở nhà nó cứ bị lỗi, không vào mạng được. Mấy hôm nay nó cứ lúc được lúc không ấy.",
+      "timestamp": 1757358966.514401
+    },
+    {
+      "role": "left",
+      "content": "Cháu rất tiếc khi nghe về sự cố đường truyền internet của cô. Để cháu có thể hỗ trợ cô tốt nhất, cô vui lòng cho cháu biết tên chủ hợp đồng hoặc số điện thoại đăng ký dịch vụ để cháu kiểm tra thông tin ạ.",
+      "timestamp": 1757358972.0861611
+    },
+    {
+      "role": "right",
+      "content": "À ừ, để cô xem... Tên cô là Nguyễn Thị Lan, số điện thoại đăng ký là 0912 345 678. Cháu kiểm tra giúp cô nhé. Không biết sao mấy bữa nay nó cứ chập chờn hoài.",
+      "timestamp": 1757358974.240927
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, cháu đã tìm thấy thông tin hợp đồng của cô Nguyễn Thị Lan với số điện thoại 0912 345 678. Cháu xin xác nhận lại là địa chỉ lắp đặt dịch vụ là số 123, đường ABC, Phường X, Quận Y, Thành phố Hồ Chí Minh, đúng không ạ?",
+      "timestamp": 1757358980.1129384
+    },
+    {
+      "role": "right",
+      "content": "Dạ đúng rồi cháu. Địa chỉ đó đó. Cháu xem giúp cô xem sao chứ cô không rành mấy cái này.",
+      "timestamp": 1757358982.6898637
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng cô. Cháu đã kiểm tra trên hệ thống và ghi nhận có tín hiệu đường truyền không ổn định từ phía thiết bị modem của gia đình mình. Có thể có một vài nguyên nhân dẫn đến tình trạng này như lỗi cấu hình, lỗi phần mềm thiết bị hoặc đôi khi là do quá tải đường truyền cục bộ.  Trước tiên, cô vui lòng giúp cháu thực hiện một thao tác cơ bản để khắc phục nhanh tại nhà ạ: Cô vui lòng rút dây nguồn của thiết bị modem (cái hộp đen hoặc trắng có nhiều đèn nhấp nháy) ra khỏi ổ cắm điện, chờ khoảng 10-15 giây, sau đó cắm lại nguồn điện. Cô đợi thêm khoảng 2-3 phút để thiết bị khởi động hoàn tất và các đèn tín hiệu trên modem ổn định lại nhé.",
+      "timestamp": 1757358989.7931995
+    },
+    {
+      "role": "right",
+      "content": "À à, rút dây nguồn ra hả cháu? Cái hộp đen đen có đèn nhấp nháy đúng không? Để cô thử xem. Cô rút ra rồi chờ một lát, rồi cắm lại phải không?",
+      "timestamp": 1757358993.2722337
+    },
+    {
+      "role": "right",
+      "content": "À, được rồi cháu. Cô cắm lại xong rồi, để cô đợi một chút xem sao. Nếu vẫn không được thì cô gọi lại cho cháu nhé. Cảm ơn cháu nhiều nha.",
+      "timestamp": 1757359000.3754578
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng cô cứ thực hiện theo hướng dẫn của cháu. Nếu sau khi khởi động lại modem mà tình trạng vẫn không cải thiện, cô vui lòng kiểm tra thêm một bước nữa giúp cháu ạ: Cô có thể thử kết nối internet bằng một thiết bị khác, ví dụ như điện thoại di động hoặc một máy tính xách tay khác, để xem có vào mạng được không. Điều này sẽ giúp cháu xác định xem vấn đề nằm ở thiết bị của cô hay là do đường truyền tổng thể ạ. Cô cứ thử rồi cháu sẽ tiếp tục hỗ trợ cô nhé.",
+      "timestamp": 1757359001.563948
+    }
+  ],
+  "turns": 3,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "```json {   \"should_terminate\": false,   \"reason\": \"Hội thoại vẫn đang diễn ra và chưa đạt được mục ...",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "À, được rồi cháu. Cô cắm lại xong rồi, để cô đợi một chút xem sao. Nếu vẫn không được thì cô gọi lại cho cháu nhé. Cảm ơn cháu nhiều nha."
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng cô cứ thực hiện theo hướng dẫn của cháu. Nếu sau khi khởi động lại modem mà tình trạng vẫn không cải thiện, cô vui lòng kiểm tra thêm một bước nữa giúp cháu ạ: Cô có thể thử kết nối internet bằng một thiết bị khác, ví dụ như điện thoại di động hoặc một máy tính xách tay khác, để xem có vào mạng được không. Điều này sẽ giúp cháu xác định xem vấn đề nằm ở thiết bị của cô hay là do đường truyền tổng thể ạ. Cô cứ thử rồi cháu sẽ tiếp tục hỗ trợ cô nhé."
+    }
+  ],
+  "reached_max_turns": false
+}

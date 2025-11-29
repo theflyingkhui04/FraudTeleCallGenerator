@@ -1,0 +1,90 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào anh/chị, tôi là Nguyễn Thuỳ Linh, chuyên viên chăm sóc khách hàng từ Trung tâm Dịch vụ Khách hàng [Tên Công ty]. Mục đích cuộc gọi hôm nay là để thực hiện một cuộc khảo sát ngắn về trải nghiệm dịch vụ gần đây của anh/chị với chúng tôi. Cuộc khảo sát này sẽ giúp chúng tôi hiểu rõ hơn về mức độ hài lòng của anh/chị và cải thiện chất lượng dịch vụ trong tương lai.  Anh/chị có tiện dành khoảng 5-7 phút để tham gia cuộc khảo sát này không ạ?",
+      "timestamp": 1757402649.096809
+    },
+    {
+      "role": "right",
+      "content": "Chào bạn. À, khảo sát hả? Được thôi, tôi cũng đang tiện đây. Bạn cứ hỏi đi.",
+      "timestamp": 1757402652.5662112
+    },
+    {
+      "role": "left",
+      "content": "Tuyệt vời ạ, cảm ơn anh/chị rất nhiều. Để bắt đầu, tôi xin phép xác nhận lại thông tin một chút. Gần đây anh/chị có sử dụng dịch vụ nào của [Tên Công ty] không ạ? Ví dụ như đăng ký gói cước mới, hỗ trợ kỹ thuật, hoặc giải quyết khiếu nại?",
+      "timestamp": 1757402669.63248
+    },
+    {
+      "role": "right",
+      "content": "À, có chứ. Tuần trước tôi có gọi lên nhờ hỗ trợ kỹ thuật về đường truyền mạng ấy.",
+      "timestamp": 1757402671.7116783
+    },
+    {
+      "role": "left",
+      "content": "Vâng, tôi đã ghi nhận thông tin ạ. Anh/chị có thể cho biết cụ thể hơn về vấn đề đường truyền mạng mà anh/chị đã gặp phải không? Và anh/chị đã liên hệ với chúng tôi qua kênh nào ạ (ví dụ: tổng đài, ứng dụng di động, website)?",
+      "timestamp": 1757402676.8650718
+    },
+    {
+      "role": "right",
+      "content": "À, mạng nhà tôi nó cứ chập chờn ấy, lúc được lúc không, làm ảnh hưởng đến công việc lắm. Tôi gọi lên tổng đài trực tiếp luôn.",
+      "timestamp": 1757402679.0306075
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi hiểu rồi. Vấn đề mạng chập chờn thực sự rất bất tiện. Anh/chị có thể cho tôi biết về trải nghiệm của mình khi liên hệ tổng đài không ạ? Cụ thể là, anh/chị có phải chờ lâu không, và thái độ của nhân viên hỗ trợ như thế nào ạ?",
+      "timestamp": 1757402688.3876555
+    },
+    {
+      "role": "right",
+      "content": "Ừm, chờ cũng không lâu lắm đâu, chắc khoảng vài phút thôi. Nhân viên thì nhiệt tình, nói chuyện cũng lịch sự, giải thích rõ ràng các bước để tôi tự khắc phục. Nói chung là ổn đó.",
+      "timestamp": 1757402691.0446343
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi rất vui khi nghe thấy anh/chị hài lòng về thời gian chờ và thái độ phục vụ của nhân viên. Sau khi được hướng dẫn, anh/chị có thể cho biết vấn đề đường truyền mạng của mình đã được khắc phục hoàn toàn chưa ạ? Và anh/chị đánh giá mức độ hiệu quả của giải pháp mà nhân viên đã đưa ra như thế nào trên thang điểm từ 1 đến 5, với 5 là rất hiệu quả và 1 là không hiệu quả chút nào ạ?",
+      "timestamp": 1757402706.3944502
+    },
+    {
+      "role": "right",
+      "content": "À, sau khi làm theo hướng dẫn thì mạng nhà tôi dùng ổn định lại rồi. Chắc là do lỗi nhỏ thôi. Về hiệu quả thì tôi đánh giá 4/5 nhé.",
+      "timestamp": 1757402714.6903393
+    },
+    {
+      "role": "left",
+      "content": "Dạ, 4/5 là một đánh giá rất tốt ạ. Tôi rất mừng khi vấn đề của anh/chị đã được giải quyết ổn định.  Ngoài những điều đã chia sẻ, anh/chị có bất kỳ góp ý nào khác để chúng tôi có thể cải thiện dịch vụ chăm sóc khách hàng nói chung, hoặc cụ thể hơn là quy trình hỗ trợ kỹ thuật không ạ? Bất kỳ ý kiến nào của anh/chị cũng đều rất quý giá đối với chúng tôi.",
+      "timestamp": 1757402721.2640655
+    },
+    {
+      "role": "right",
+      "content": "Hiện tại thì tôi thấy dịch vụ khá ổn rồi. Nếu có thể, các bạn có thể cân nhắc thêm mấy cái hướng dẫn tự khắc phục chi tiết hơn trên website hoặc app, để khách hàng có thể tự xử lý nhanh mấy lỗi nhỏ mà không cần gọi tổng đài. Tiết kiệm thời gian cho cả hai bên.",
+      "timestamp": 1757402725.6100032
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, đây là một ý kiến rất hay và thiết thực ạ. Chúng tôi sẽ ghi nhận và chuyển góp ý này đến bộ phận liên quan để xem xét và phát triển thêm các tài liệu hướng dẫn tự khắc phục trên các kênh trực tuyến. Điều này chắc chắn sẽ giúp ích rất nhiều cho khách hàng và tối ưu hóa quy trình hỗ trợ của chúng tôi.  Cuộc khảo sát của chúng ta đến đây là kết thúc rồi ạ. Một lần nữa, tôi xin chân thành cảm ơn anh/chị đã dành thời gian quý báu để tham gia và chia sẻ những trải nghiệm, góp ý chân thành. Những thông tin này thực sự rất hữu ích để chúng tôi không ngừng cải thiện chất lượng dịch vụ. Chúc anh/chị một ngày tốt lành ạ!",
+      "timestamp": 1757402732.7253952
+    },
+    {
+      "role": "right",
+      "content": "Ừ, không có gì. Cảm ơn bạn nhé. Chúc bạn cũng một ngày tốt lành.",
+      "timestamp": 1757402733.8530378
+    }
+  ],
+  "turns": 5,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại đã đạt được. Kẻ lừa đảo đã hoàn thành cuộc khảo sát dịch vụ khách hàng, thu thập đầy đủ thông tin về trải nghiệm, mức độ hài lòng, hiệu quả giải quyết vấn đề và các góp ý từ người dùng. Không còn câu hỏi khảo sát nào cần được đặt ra và người dùng cũng đã cung cấp tất cả các thông tin cần thiết. Kẻ lừa đảo (bên cung cấp dịch vụ/khảo sát) nên là người chủ động kết thúc cuộc gọi bằng cách cảm ơn người dùng.",
+  "terminator": "left",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Dạ vâng, đây là một ý kiến rất hay và thiết thực ạ. Chúng tôi sẽ ghi nhận và chuyển góp ý này đến bộ phận liên quan để xem xét và phát triển thêm các tài liệu hướng dẫn tự khắc phục trên các kênh trực tuyến. Điều này chắc chắn sẽ giúp ích rất nhiều cho khách hàng và tối ưu hóa quy trình hỗ trợ của chúng tôi.  Cuộc khảo sát của chúng ta đến đây là kết thúc rồi ạ. Một lần nữa, tôi xin chân thành cảm ơn anh/chị đã dành thời gian quý báu để tham gia và chia sẻ những trải nghiệm, góp ý chân thành. Những thông tin này thực sự rất hữu ích để chúng tôi không ngừng cải thiện chất lượng dịch vụ. Chúc anh/chị một ngày tốt lành ạ!"
+    },
+    {
+      "role": "right",
+      "content": "Ừ, không có gì. Cảm ơn bạn nhé. Chúc bạn cũng một ngày tốt lành."
+    }
+  ],
+  "reached_max_turns": false
+}

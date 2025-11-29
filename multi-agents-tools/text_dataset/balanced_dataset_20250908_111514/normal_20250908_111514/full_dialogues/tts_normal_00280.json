@@ -1,0 +1,70 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đến với Dịch vụ Chăm sóc Khách hàng của [Tên công ty]. Tôi là Anh Thư, rất vui được hỗ trợ quý khách hôm nay. Quý khách đang cần tìm hiểu thông tin hay có câu hỏi nào không ạ?",
+      "timestamp": 1757401578.303151
+    },
+    {
+      "role": "right",
+      "content": "Chào Anh Thư. Vâng, tôi muốn hỏi một chút về gói cước internet nhà tôi đang dùng ấy mà. Cảm ơn cô nhé.",
+      "timestamp": 1757401580.6495023
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, rất sẵn lòng ạ. Để tôi có thể tra cứu thông tin gói cước của quý khách một cách chính xác nhất, xin quý khách vui lòng cung cấp số hợp đồng hoặc số điện thoại đã đăng ký dịch vụ ạ.",
+      "timestamp": 1757401587.7302167
+    },
+    {
+      "role": "right",
+      "content": "À, số điện thoại tôi đăng ký là 0903 XXX 888. Cô kiểm tra giúp tôi với nhé.",
+      "timestamp": 1757401589.3880806
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn quý khách đã cung cấp thông tin. Tôi đã tra cứu và xác nhận số điện thoại 0903 XXX 888 đang sử dụng gói cước \"Internet Gia Đình Siêu Tốc 150Mbps\" của chúng tôi.  Quý khách muốn tìm hiểu thêm thông tin gì về gói cước này ạ? Có phải quý khách đang có thắc mắc về tốc độ, chu kỳ thanh toán, hay các ưu đãi đi kèm không ạ?",
+      "timestamp": 1757401595.1222875
+    },
+    {
+      "role": "right",
+      "content": "Vâng, đúng rồi. Tôi thấy dạo này mạng hơi chậm một chút, không biết có phải do gói cước này không, hay là có gói nào cao hơn không cô?",
+      "timestamp": 1757401598.2770145
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi hiểu sự bất tiện khi tốc độ mạng không được như ý. Gói cước \"Internet Gia Đình Siêu Tốc 150Mbps\" mà quý khách đang sử dụng có tốc độ khá tốt cho nhu cầu gia đình thông thường, đáp ứng tốt việc lướt web, xem phim HD và học tập trực tuyến.  Về tình trạng mạng chậm, có một vài nguyên nhân có thể gây ra ngoài gói cước, ví dụ như số lượng thiết bị truy cập đồng thời, vị trí đặt modem, hoặc có thể là tín hiệu đường truyền đang gặp vấn đề tạm thời.  Hiện tại, chúng tôi có các gói cước cao hơn với tốc độ vượt trội để đáp ứng nhu cầu sử dụng internet cường độ cao hơn. Quý khách có muốn tôi giới thiệu chi tiết về các gói nâng cấp như \"Gói Siêu Tốc 300Mbps\" hoặc \"Gói Cực Nhanh 500Mbps\" không ạ? Hoặc trước tiên, quý khách có muốn tôi kiểm tra tình trạng đường truyền của mình để xem có vấn đề kỹ thuật nào đang ảnh hưởng không ạ?",
+      "timestamp": 1757401605.2499492
+    },
+    {
+      "role": "right",
+      "content": "À vâng, vậy cô kiểm tra giúp tôi đường truyền trước nhé. Xem có vấn đề gì không. Nếu mà đường truyền ổn rồi mà vẫn thấy chậm thì lúc đó cô giới thiệu thêm các gói nâng cấp sau cũng được. Cảm ơn cô nhé.",
+      "timestamp": 1757401608.4949558
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, vậy cô cứ kiểm tra giúp tôi nhé. Cảm ơn cô. Tôi sẽ chờ thông tin từ bên mình.",
+      "timestamp": 1757401617.9622781
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, rất sẵn lòng ạ. Để kiểm tra tình trạng đường truyền, chúng tôi sẽ cần thực hiện một số thao tác kỹ thuật từ xa và có thể sẽ cần liên hệ lại với quý khách nếu cần thêm thông tin chi tiết.  Tôi sẽ tạo một yêu cầu kiểm tra kỹ thuật cho đường truyền internet của số thuê bao 0903 XXX 888. Đội ngũ kỹ thuật của chúng tôi sẽ tiến hành kiểm tra trong vòng 24 giờ tới và sẽ liên hệ lại với quý khách qua số điện thoại đã đăng ký để thông báo kết quả hoặc hẹn lịch khảo sát nếu cần thiết.  Quý khách có đồng ý để tôi gửi yêu cầu kiểm tra này không ạ?",
+      "timestamp": 1757401619.9696913
+    }
+  ],
+  "turns": 3,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "```json {   \"should_terminate\": false,   \"reason\": \"Hội thoại chưa nên kết thúc. Người dùng đã nêu r...",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Dạ vâng, vậy cô cứ kiểm tra giúp tôi nhé. Cảm ơn cô. Tôi sẽ chờ thông tin từ bên mình."
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, rất sẵn lòng ạ. Để kiểm tra tình trạng đường truyền, chúng tôi sẽ cần thực hiện một số thao tác kỹ thuật từ xa và có thể sẽ cần liên hệ lại với quý khách nếu cần thêm thông tin chi tiết.  Tôi sẽ tạo một yêu cầu kiểm tra kỹ thuật cho đường truyền internet của số thuê bao 0903 XXX 888. Đội ngũ kỹ thuật của chúng tôi sẽ tiến hành kiểm tra trong vòng 24 giờ tới và sẽ liên hệ lại với quý khách qua số điện thoại đã đăng ký để thông báo kết quả hoặc hẹn lịch khảo sát nếu cần thiết.  Quý khách có đồng ý để tôi gửi yêu cầu kiểm tra này không ạ?"
+    }
+  ],
+  "reached_max_turns": false
+}

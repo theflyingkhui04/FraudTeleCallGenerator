@@ -1,0 +1,120 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đã gọi đến tổng đài hỗ trợ của MegaNet. Tôi là Mai Anh, rất vui được hỗ trợ quý khách hôm nay. Xin hỏi quý khách cần tôi giúp đỡ về vấn đề gì ạ?",
+      "timestamp": 1757403976.9834833
+    },
+    {
+      "role": "right",
+      "content": "À vâng, chào cô. Tôi là Hùng đây. Cô giúp tôi với, cái mạng nhà tôi tự nhiên không vào được. Tôi cũng thử tắt bật modem rồi mà vẫn không thấy lên lại.",
+      "timestamp": 1757403979.2148979
+    },
+    {
+      "role": "left",
+      "content": "Chào anh Hùng. Tôi rất tiếc khi nghe thấy anh đang gặp sự cố với dịch vụ internet của mình. Để tôi có thể kiểm tra và hỗ trợ anh nhanh nhất, anh vui lòng cho tôi xin số hợp đồng hoặc số điện thoại mà anh đã đăng ký dịch vụ với MegaNet được không ạ?",
+      "timestamp": 1757403984.5970943
+    },
+    {
+      "role": "right",
+      "content": "À, số điện thoại của tôi là 0903 555 888. Cô kiểm tra giúp tôi nhé.",
+      "timestamp": 1757403986.428478
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn anh Hùng. Tôi đã tra cứu thông tin theo số điện thoại 0903 555 888. Tôi thấy anh đang sử dụng gói cước \"MegaNet Gia Đình 150Mbps\" tại địa chỉ số 123 Đường Nguyễn Trãi, Phường 1, Quận 5, TP.HCM. Có đúng không ạ?",
+      "timestamp": 1757403991.5768273
+    },
+    {
+      "role": "right",
+      "content": "Đúng rồi cô, địa chỉ đó với gói cước đó. Cô xem giúp tôi sao nó lại bị mất mạng vậy. Từ sáng tới giờ tôi không làm việc được gì hết.",
+      "timestamp": 1757403993.124901
+    },
+    {
+      "role": "left",
+      "content": "Vâng, tôi hiểu sự bất tiện này ảnh hưởng đến công việc của anh rất nhiều. Tôi xin lỗi vì sự cố không mong muốn này.  Tôi đang kiểm tra trên hệ thống và ghi nhận khu vực của anh, Phường 1, Quận 5, hiện tại không có thông báo về sự cố mạng diện rộng hay bảo trì định kỳ nào đang diễn ra.  Anh Hùng cho tôi hỏi thêm một chút, khi anh kiểm tra modem, anh có thấy đèn tín hiệu nào trên modem đang báo lỗi hoặc có màu lạ (ví dụ như màu đỏ hoặc không sáng) không ạ? Cụ thể là đèn \"LOS\" hoặc \"Internet\" ạ? Anh đã thử tắt modem và rút dây nguồn ra khoảng 5-10 phút rồi cắm lại chưa ạ?",
+      "timestamp": 1757403999.4861941
+    },
+    {
+      "role": "right",
+      "content": "À, để tôi xem nào... Đèn LOS thì tôi không thấy sáng cô ạ, nhưng cái đèn Internet thì nó cứ chớp chớp màu cam. Còn cái vụ tắt bật modem thì tôi cũng chỉ tắt rồi bật lại liền thôi chứ chưa có rút điện ra chờ lâu như cô nói. Vậy để tôi thử rút ra khoảng 5 phút xem sao nhé.",
+      "timestamp": 1757404003.0091739
+    },
+    {
+      "role": "left",
+      "content": "Vâng, anh Hùng vui lòng thử rút dây nguồn điện của modem ra khỏi ổ cắm hoàn toàn, sau đó chờ khoảng 5 đến 10 phút rồi cắm lại. Việc này giúp modem khởi động lại hoàn toàn và có thể khắc phục các lỗi tạm thời hoặc làm mới kết nối.  Trong lúc chờ đợi, anh Hùng có thể kiểm tra giúp tôi xem tất cả các dây cáp kết nối từ tường vào modem (đặc biệt là dây cáp quang nhỏ nếu anh dùng cáp quang) và dây mạng từ modem đến máy tính/router phụ (nếu có) đã được cắm chặt chưa nhé. Đôi khi chỉ một kết nối lỏng lẻo cũng có thể gây ra sự cố này ạ.  Sau khi anh cắm lại nguồn và modem khởi động xong (thường mất khoảng 2-3 phút), anh vui lòng kiểm tra lại trạng thái các đèn tín hiệu trên modem, đặc biệt là đèn \"Internet\" và \"LOS\" xem có thay đổi gì không và thông báo lại cho tôi biết nhé. Tôi sẽ chờ anh ở đây ạ.",
+      "timestamp": 1757404009.7312305
+    },
+    {
+      "role": "right",
+      "content": "Vâng, tôi làm theo cô nói đây. Tôi vừa rút điện ra rồi. Mấy cái dây thì tôi thấy cũng cắm chặt hết rồi, không thấy lỏng lẻo gì đâu. Để tôi chờ khoảng 5 phút rồi cắm lại xem sao. Rồi có gì tôi báo cô ngay.",
+      "timestamp": 1757404012.4515305
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, anh Hùng cứ từ từ thực hiện theo hướng dẫn ạ. Anh không cần vội đâu. Tôi sẽ giữ máy và chờ thông tin từ anh. Nếu sau khi cắm lại nguồn mà vẫn không được, chúng ta sẽ xem xét các bước tiếp theo nhé.",
+      "timestamp": 1757404018.191568
+    },
+    {
+      "role": "right",
+      "content": "Vâng, anh Hùng cứ từ từ làm theo hướng dẫn. Tôi vẫn đang giữ máy và chờ anh báo lại kết quả nhé. Không có gì phải vội đâu ạ.",
+      "timestamp": 1757404020.4731853
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi hiểu ạ. Cảm ơn anh đã xác nhận. Tôi vẫn đang ở đây và chờ anh kiểm tra lại sau khi modem đã khởi động xong nhé. Khi nào có kết quả, anh cứ thông báo lại cho tôi biết ạ.",
+      "timestamp": 1757404033.9780085
+    },
+    {
+      "role": "right",
+      "content": "Vâng, tôi vẫn đang chờ cho đủ 5 phút rồi cắm lại đây cô. Chắc cũng sắp xong rồi.",
+      "timestamp": 1757404037.0614848
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, anh Hùng cứ thoải mái ạ. Không sao đâu ạ. Tôi vẫn đang chờ anh ở đây. Khi nào anh cắm lại nguồn và modem đã khởi động xong, anh vui lòng kiểm tra lại và thông báo cho tôi biết kết quả nhé.",
+      "timestamp": 1757404051.9218044
+    },
+    {
+      "role": "right",
+      "content": "Rồi cô ơi, tôi cắm lại rồi đây. Modem nó đang khởi động lại. Mấy cái đèn nó cứ nháy nháy. Để tôi chờ một lát xem sao.",
+      "timestamp": 1757404052.9046748
+    },
+    {
+      "role": "left",
+      "content": "Vâng, anh Hùng cứ để modem khởi động hoàn tất nhé. Quá trình này thường mất khoảng 2-3 phút. Sau khi các đèn tín hiệu đã ổn định, anh vui lòng kiểm tra lại giúp tôi xem đèn \"Internet\" và đèn \"LOS\" trên modem có còn báo lỗi hay đã chuyển sang màu xanh (hoặc màu ổn định tùy theo thiết kế của modem) không ạ? Anh báo lại cho tôi biết kết quả nhé.",
+      "timestamp": 1757404060.409276
+    },
+    {
+      "role": "right",
+      "content": "À vâng, anh Hùng cứ để modem khởi động xong hoàn toàn nhé. Mấy cái đèn nó nháy một lúc rồi sẽ ổn định thôi.  Sau khi đèn đã ổn định, anh xem giúp tôi lại xem đèn \"Internet\" và đèn \"LOS\" bây giờ nó sáng màu gì, có còn chớp cam hay báo lỗi gì không nhé. Anh cứ từ từ kiểm tra rồi báo lại cho tôi.",
+      "timestamp": 1757404062.6207027
+    },
+    {
+      "role": "left",
+      "content": "Vâng, anh Hùng cứ để modem khởi động xong hoàn toàn nhé. Mấy cái đèn nó nháy một lúc rồi sẽ ổn định thôi. Sau khi đèn đã ổn định, anh vui lòng kiểm tra lại giúp tôi xem đèn \"Internet\" và đèn \"LOS\" trên modem có còn báo lỗi hay đã chuyển sang màu xanh không ạ. Nếu sau khi kiểm tra mà mạng vẫn chưa hoạt động hoặc đèn vẫn báo lỗi, tôi sẽ hỗ trợ anh lên lịch hẹn với kỹ thuật viên để kiểm tra trực tiếp tại nhà mình. Anh Hùng có thể cho tôi biết thời gian nào tiện cho anh trong 1-2 ngày tới để kỹ thuật viên ghé qua không ạ? MegaNet rất tiếc vì sự bất tiện này và mong sớm khắc phục sự cố cho anh.",
+      "timestamp": 1757404081.656978
+    },
+    {
+      "role": "right",
+      "content": "Cô ơi, tôi xem rồi. Cái đèn Internet nó vẫn cứ chớp cam cô ạ, còn đèn LOS thì vẫn không sáng, y như lúc nãy. Chắc phải nhờ kỹ thuật viên qua xem thôi cô.  Cô cho hẹn giúp tôi chiều mai (thứ Ba) hoặc sáng thứ Tư được không? Chiều mai khoảng sau 2 giờ, còn sáng thứ Tư thì trước 11 giờ là được.",
+      "timestamp": 1757404085.5130641
+    }
+  ],
+  "turns": 8,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Hội thoại đã rơi vào bế tắc. Người dùng đã lặp lại chính xác nội dung hướng dẫn hoặc câu nói của Kẻ lừa đảo ở lượt thứ 12 và lượt thứ 18. Điều này cho thấy cuộc hội thoại không còn tiến triển tự nhiên, có thể là do người dùng đang gặp vấn đề kỹ thuật, không hiểu hoặc là một bot bị lỗi. Kẻ lừa đảo nên chủ động kết thúc vì không thể tiếp tục hỗ trợ hiệu quả trong tình trạng này.",
+  "terminator": "left",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Vâng, anh Hùng cứ để modem khởi động xong hoàn toàn nhé. Mấy cái đèn nó nháy một lúc rồi sẽ ổn định thôi. Sau khi đèn đã ổn định, anh vui lòng kiểm tra lại giúp tôi xem đèn \"Internet\" và đèn \"LOS\" trên modem có còn báo lỗi hay đã chuyển sang màu xanh không ạ. Nếu sau khi kiểm tra mà mạng vẫn chưa hoạt động hoặc đèn vẫn báo lỗi, tôi sẽ hỗ trợ anh lên lịch hẹn với kỹ thuật viên để kiểm tra trực tiếp tại nhà mình. Anh Hùng có thể cho tôi biết thời gian nào tiện cho anh trong 1-2 ngày tới để kỹ thuật viên ghé qua không ạ? MegaNet rất tiếc vì sự bất tiện này và mong sớm khắc phục sự cố cho anh."
+    },
+    {
+      "role": "right",
+      "content": "Cô ơi, tôi xem rồi. Cái đèn Internet nó vẫn cứ chớp cam cô ạ, còn đèn LOS thì vẫn không sáng, y như lúc nãy. Chắc phải nhờ kỹ thuật viên qua xem thôi cô.  Cô cho hẹn giúp tôi chiều mai (thứ Ba) hoặc sáng thứ Tư được không? Chiều mai khoảng sau 2 giờ, còn sáng thứ Tư thì trước 11 giờ là được."
+    }
+  ],
+  "reached_max_turns": false
+}

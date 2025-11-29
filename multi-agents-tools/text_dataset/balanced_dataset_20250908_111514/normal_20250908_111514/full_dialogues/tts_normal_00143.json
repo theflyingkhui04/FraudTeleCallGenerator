@@ -1,0 +1,70 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đã gọi đến Trung tâm Hỗ trợ Kỹ thuật của VNPT. Tôi là Minh Anh, rất vui được hỗ trợ quý khách ngày hôm nay. Quý khách đang gặp phải vấn đề gì ạ?",
+      "timestamp": 1757406896.8719413
+    },
+    {
+      "role": "right",
+      "content": "Chào cô, tôi là Hùng. Tôi gọi vì mạng Internet nhà tôi tự nhiên không vào được nữa. Sáng giờ là không dùng được rồi.",
+      "timestamp": 1757406898.5636506
+    },
+    {
+      "role": "left",
+      "content": "Chào anh Hùng, tôi rất tiếc khi nghe thấy anh đang gặp sự cố với dịch vụ Internet. Để tôi có thể hỗ trợ anh một cách nhanh chóng và chính xác nhất, anh vui lòng cho tôi biết một vài thông tin sau được không ạ?  Thứ nhất, anh có thể cho tôi biết số điện thoại hoặc mã hợp đồng mà anh đã đăng ký dịch vụ VNPT được không? Thứ hai, anh vui lòng mô tả chi tiết hơn về tình trạng hiện tại: *   Tất cả các thiết bị trong nhà (máy tính, điện thoại, TV thông minh) đều không truy cập được Internet phải không ạ? *   Anh có để ý đèn tín hiệu trên modem WiFi của mình có sáng bình thường không? Cụ thể là đèn \"LOS\" hoặc \"PON\" (tùy loại modem) có màu đỏ hay nhấp nháy không ạ?  Cảm ơn anh.",
+      "timestamp": 1757406904.0037196
+    },
+    {
+      "role": "right",
+      "content": "À vâng, số điện thoại của tôi là 0912345678.  Đúng rồi cô, tất cả các máy trong nhà đều không vào mạng được hết, từ điện thoại đến máy tính. Còn cái modem á hả, tôi thấy cái đèn \"LOS\" nó cứ nhấp nháy màu đỏ liên tục cô ạ. Mấy đèn khác thì có vẻ bình thường.",
+      "timestamp": 1757406906.4661045
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn anh Hùng đã cung cấp thông tin chi tiết. Với việc đèn \"LOS\" trên modem nhấp nháy màu đỏ liên tục, đây là dấu hiệu cho thấy tín hiệu quang từ hộp cáp VNPT đến nhà anh đang gặp sự cố, có thể là do đứt hoặc suy hao tín hiệu. Điều này thường không thể khắc phục từ xa mà cần có kỹ thuật viên đến kiểm tra trực tiếp tại địa điểm của anh.  Tôi đã kiểm tra trên hệ thống với số điện thoại 0912345678 và xác nhận thông tin thuê bao của anh. Để tôi có thể tạo phiếu yêu cầu hỗ trợ kỹ thuật và cử nhân viên đến kiểm tra, anh vui lòng xác nhận lại địa chỉ lắp đặt dịch vụ của mình là: **Số nhà X, Đường Y, Phường Z, Quận T, Thành phố Hồ Chí Minh** (ví dụ: Số 123, Đường Nguyễn Thị Minh Khai, Phường Bến Thành, Quận 1, TP.HCM) có đúng không ạ?  Và anh muốn kỹ thuật viên đến hỗ trợ vào thời gian nào thì thuận tiện nhất cho anh trong ngày hôm nay hoặc ngày mai ạ? Thông thường, chúng tôi có thể sắp xếp trong vòng 2-4 tiếng làm việc sau khi tiếp nhận yêu cầu.",
+      "timestamp": 1757406910.930042
+    },
+    {
+      "role": "right",
+      "content": "À đúng rồi cô, địa chỉ là số 123 đường Nguyễn Thị Minh Khai, phường Bến Thành, quận 1, TP.HCM đó.  Về thời gian á hả, tôi thì bận bán hàng nên hơi khó. Nếu được thì chiều nay khoảng 3-4 giờ gì đó, hoặc sáng mai trước 10 giờ thì tốt quá. Bên cô sắp xếp được lúc nào thì báo tôi tiếng nhé. Cảm ơn cô.",
+      "timestamp": 1757406912.2762089
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi đã ghi nhận địa chỉ và thời gian anh mong muốn. Tôi sẽ ưu tiên sắp xếp kỹ thuật viên đến kiểm tra vào khung giờ chiều nay từ 15h00 đến 16h00 hoặc sáng mai trước 10h00 như anh yêu cầu.  Thông thường, kỹ thuật viên sẽ liên hệ với anh qua số điện thoại 0912345678 khoảng 30 phút trước khi đến để xác nhận lại thời gian và địa điểm.  Anh Hùng có cần tôi cung cấp mã số phiếu yêu cầu hỗ trợ để anh tiện theo dõi không ạ? Mã số này sẽ giúp anh tra cứu tình trạng xử lý trên tổng đài nếu cần.",
+      "timestamp": 1757406917.5492532
+    },
+    {
+      "role": "right",
+      "content": "Thôi cô cứ sắp xếp kỹ thuật viên qua đi là được rồi. Có gì tôi cứ đợi điện thoại của bên mình. Mã số thì cũng không cần thiết lắm đâu, cảm ơn cô.",
+      "timestamp": 1757406923.647121
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi đã tạo phiếu yêu cầu hỗ trợ kỹ thuật cho anh Hùng rồi ạ. Kỹ thuật viên sẽ liên hệ với anh qua số 0912345678 để xác nhận trước khi đến kiểm tra theo khung giờ anh mong muốn. Nếu có bất kỳ thay đổi nào hoặc cần hỗ trợ thêm, anh đừng ngần ngại gọi lại cho VNPT nhé. Chúc anh một ngày tốt lành và hy vọng sự cố sẽ sớm được khắc phục ạ!",
+      "timestamp": 1757406935.6006145
+    },
+    {
+      "role": "right",
+      "content": "Vâng, cảm ơn cô nhé.",
+      "timestamp": 1757406936.7954333
+    }
+  ],
+  "turns": 3,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại đã đạt được: vấn đề của người dùng đã được chẩn đoán và quy trình hỗ trợ kỹ thuật (cử nhân viên đến kiểm tra) đã được thiết lập. Người dùng đã nhận đủ thông tin về các bước tiếp theo và đã cảm ơn, từ chối việc cung cấp mã số phiếu yêu cầu, cho thấy họ hài lòng và không cần hỗ trợ thêm từ cuộc gọi này.",
+  "terminator": "người dùng kết thúc",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi đã tạo phiếu yêu cầu hỗ trợ kỹ thuật cho anh Hùng rồi ạ. Kỹ thuật viên sẽ liên hệ với anh qua số 0912345678 để xác nhận trước khi đến kiểm tra theo khung giờ anh mong muốn. Nếu có bất kỳ thay đổi nào hoặc cần hỗ trợ thêm, anh đừng ngần ngại gọi lại cho VNPT nhé. Chúc anh một ngày tốt lành và hy vọng sự cố sẽ sớm được khắc phục ạ!"
+    },
+    {
+      "role": "right",
+      "content": "Vâng, cảm ơn cô nhé."
+    }
+  ],
+  "reached_max_turns": false
+}

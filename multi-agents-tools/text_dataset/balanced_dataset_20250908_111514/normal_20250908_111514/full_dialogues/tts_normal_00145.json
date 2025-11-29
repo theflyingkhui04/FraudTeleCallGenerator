@@ -1,0 +1,50 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đến với dịch vụ hỗ trợ kỹ thuật của FPT Telecom. Tôi là Minh, chuyên viên hỗ trợ. Tôi có thể giúp gì cho quý khách ngày hôm nay ạ?",
+      "timestamp": 1757401329.357001
+    },
+    {
+      "role": "right",
+      "content": "Chào cô/chú Minh. Chú là Thành. Chú gọi điện vì cái mạng internet nhà chú mấy hôm nay nó cứ chập chờn, lúc được lúc không ấy. Khó dùng quá.",
+      "timestamp": 1757401331.2659743
+    },
+    {
+      "role": "left",
+      "content": "Chào chú Thành ạ. Cháu rất tiếc khi nghe về sự bất tiện này. Cháu sẽ cố gắng hết sức để giúp chú khắc phục tình trạng mạng chập chờn ạ. Để cháu có thể kiểm tra thông tin và hỗ trợ chú tốt nhất, chú vui lòng cho cháu xin mã số hợp đồng hoặc số điện thoại mà chú đã đăng ký dịch vụ với FPT Telecom được không ạ?",
+      "timestamp": 1757401335.4872203
+    },
+    {
+      "role": "right",
+      "content": "À, số điện thoại chú đăng ký là 0903 123 456 nhé. Cô/chú kiểm tra giúp chú xem sao.",
+      "timestamp": 1757401336.623615
+    },
+    {
+      "role": "right",
+      "content": "Rồi, cô/chú kiểm tra giúp chú nhé. Có gì thì báo chú. Chú cảm ơn.",
+      "timestamp": 1757401345.9803474
+    },
+    {
+      "role": "left",
+      "content": "Dạ chú Thành, cháu rất sẵn lòng kiểm tra giúp chú ạ. Tuy nhiên, để cháu có thể tra cứu thông tin hợp đồng của chú trong hệ thống, chú vui lòng cung cấp cho cháu mã số hợp đồng hoặc số điện thoại mà chú đã đăng ký dịch vụ với FPT Telecom được không ạ? Cháu cần một trong hai thông tin này để định danh tài khoản của chú ạ.",
+      "timestamp": 1757401347.2251964
+    }
+  ],
+  "turns": 1,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "```json {   \"should_terminate\": false,   \"reason\": \"Hội thoại đang diễn ra theo đúng luồng. Người dù...",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Rồi, cô/chú kiểm tra giúp chú nhé. Có gì thì báo chú. Chú cảm ơn."
+    },
+    {
+      "role": "left",
+      "content": "Dạ chú Thành, cháu rất sẵn lòng kiểm tra giúp chú ạ. Tuy nhiên, để cháu có thể tra cứu thông tin hợp đồng của chú trong hệ thống, chú vui lòng cung cấp cho cháu mã số hợp đồng hoặc số điện thoại mà chú đã đăng ký dịch vụ với FPT Telecom được không ạ? Cháu cần một trong hai thông tin này để định danh tài khoản của chú ạ."
+    }
+  ],
+  "reached_max_turns": false
+}

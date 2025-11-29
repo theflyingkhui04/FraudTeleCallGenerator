@@ -1,0 +1,80 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào buổi sáng/chiều! Tôi là Minh Anh từ bộ phận Chăm sóc Khách hàng của [Tên công ty dịch vụ của bạn, ví dụ: \"Dịch vụ Internet FPT\"]. Tôi có thể hỗ trợ gì cho quý khách hôm nay ạ?",
+      "timestamp": 1757409909.2254536
+    },
+    {
+      "role": "right",
+      "content": "Chào cô. Cô ơi, nhà tôi bị mất mạng từ sáng đến giờ, đèn modem cứ nháy đỏ hoài à.",
+      "timestamp": 1757409913.1712852
+    },
+    {
+      "role": "left",
+      "content": "Chào anh/chị. Tôi rất tiếc khi biết đường truyền internet nhà mình đang gặp sự cố. Để tôi kiểm tra thông tin và hỗ trợ anh/chị khắc phục nhanh nhất nhé.  Anh/chị vui lòng cho tôi xin thông tin số hợp đồng hoặc số điện thoại đã đăng ký dịch vụ để tôi truy xuất thông tin ạ.",
+      "timestamp": 1757409917.9151747
+    },
+    {
+      "role": "right",
+      "content": "À, số điện thoại đăng ký là 090xxxxxx55. Cô kiểm tra giúp tôi với nha.",
+      "timestamp": 1757409919.4076772
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, anh/chị vui lòng đợi tôi một chút để tôi kiểm tra trên hệ thống ạ.  [Tạm dừng để tra cứu thông tin]  Cảm ơn anh/chị đã chờ đợi. Tôi đã tìm thấy thông tin hợp đồng đứng tên anh/chị Nguyễn Văn A tại địa chỉ số 123, đường ABC, Phường X, Quận Y, Thành phố Hồ Chí Minh. Có đúng là địa chỉ nhà mình không ạ?",
+      "timestamp": 1757409924.9654858
+    },
+    {
+      "role": "right",
+      "content": "Đúng rồi cô. Chính xác là địa chỉ đó đó.",
+      "timestamp": 1757409926.5926585
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, cảm ơn anh/chị đã xác nhận.  Với tình trạng đèn modem nháy đỏ liên tục, điều này thường báo hiệu đường truyền quang từ bên ngoài vào nhà mình đang gặp sự cố, có thể là do đứt cáp hoặc tín hiệu bị gián đoạn ở đâu đó trên tuyến.  Trước khi báo kỹ thuật viên xuống kiểm tra trực tiếp, anh/chị vui lòng giúp tôi thực hiện một số bước kiểm tra đơn giản tại nhà để loại trừ các nguyên nhân khác nhé:  1.  **Kiểm tra dây cáp:** Anh/chị vui lòng kiểm tra xem tất cả các dây cáp cắm vào modem (đặc biệt là dây quang màu vàng hoặc trắng mỏng, và dây nguồn) có bị lỏng hay tuột ra không. Đảm bảo chúng được cắm chặt vào các cổng tương ứng. 2.  **Khởi động lại modem:** Anh/chị vui lòng rút dây nguồn của modem ra khỏi ổ điện, đợi khoảng 10-15 giây, sau đó cắm lại. Sau khi cắm lại, đợi khoảng 2-3 phút để modem khởi động lại hoàn toàn và kiểm tra xem đèn có còn nháy đỏ không ạ.  Anh/chị có thể thực hiện giúp tôi các bước này không ạ?",
+      "timestamp": 1757409933.4047632
+    },
+    {
+      "role": "right",
+      "content": "À, mấy cái đó thì tôi cũng thử rồi cô. Dây nhợ thì tôi thấy vẫn cắm chặt hết, không lỏng gì đâu. Modem thì tôi cũng rút điện ra cắm lại mấy lần rồi, nhưng mà nó vẫn cứ nháy đèn đỏ hoài à, không thấy xanh lên được.",
+      "timestamp": 1757409936.2209933
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi hiểu rồi ạ. Cảm ơn anh/chị đã thử các bước kiểm tra đó. Việc anh/chị đã kiểm tra dây cáp và khởi động lại modem mà đèn LOS (Loss of Signal) vẫn nháy đỏ liên tục thì khả năng cao là đường truyền tín hiệu quang từ hộp cáp bên ngoài vào nhà mình đang gặp vấn đề, có thể là do đứt cáp, mối nối bị hở hoặc thiết bị trên tuyến gặp sự cố.  Trong trường hợp này, chúng tôi cần cử kỹ thuật viên xuống tận nơi để kiểm tra và khắc phục trực tiếp cho anh/chị.  Anh/chị có tiện cho tôi biết khoảng thời gian nào trong ngày hôm nay hoặc ngày mai thì kỹ thuật viên có thể ghé qua nhà mình để kiểm tra ạ? Chúng tôi có thể sắp xếp vào các khung giờ: buổi sáng (8h-12h), buổi chiều (13h-17h) hoặc buổi tối (17h-20h) tùy theo lịch trình của anh/chị.",
+      "timestamp": 1757409945.8909953
+    },
+    {
+      "role": "right",
+      "content": "Thế thì cô cho kỹ thuật viên qua nhà tôi vào buổi chiều hôm nay đi, khoảng sau 2 giờ chiều là tôi có nhà. Để tôi ở nhà chờ luôn.",
+      "timestamp": 1757409947.7582104
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi đã tiếp nhận thông tin và sẽ lên lịch hẹn kỹ thuật viên xuống kiểm tra đường truyền tại địa chỉ nhà mình vào buổi chiều hôm nay, sau 2 giờ chiều ạ. Kỹ thuật viên sẽ liên hệ với anh/chị qua số điện thoại 090xxxxxx55 trước khi đến để xác nhận lại thời gian cụ thể. Anh/chị vui lòng để ý điện thoại giúp tôi nhé.  Anh/chị còn câu hỏi hay cần hỗ trợ gì khác không ạ? Nếu không, tôi xin phép kết thúc cuộc gọi tại đây. Cảm ơn anh/chị đã sử dụng dịch vụ của chúng tôi và mong vấn đề sẽ được khắc phục sớm nhất. Chúc anh/chị một ngày tốt lành!",
+      "timestamp": 1757409959.9788268
+    },
+    {
+      "role": "right",
+      "content": "Vậy được rồi cô. Cảm ơn cô nha. Mong là kỹ thuật viên qua sửa sớm giúp tôi. Tạm biệt cô.",
+      "timestamp": 1757409963.0680544
+    }
+  ],
+  "turns": 4,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại đã đạt được. Người dùng đã báo cáo sự cố, các bước kiểm tra ban đầu đã được thực hiện và kết quả là cần cử kỹ thuật viên xuống tận nơi. Kẻ lừa đảo (bên cung cấp dịch vụ) đã hoàn thành việc chẩn đoán sơ bộ và đã sắp xếp lịch hẹn cho kỹ thuật viên theo yêu cầu của người dùng. Không còn thông tin nào cần trao đổi thêm trong cuộc hội thoại này. Bên dịch vụ nên xác nhận lại lịch hẹn và kết thúc cuộc gọi.",
+  "terminator": "left",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi đã tiếp nhận thông tin và sẽ lên lịch hẹn kỹ thuật viên xuống kiểm tra đường truyền tại địa chỉ nhà mình vào buổi chiều hôm nay, sau 2 giờ chiều ạ. Kỹ thuật viên sẽ liên hệ với anh/chị qua số điện thoại 090xxxxxx55 trước khi đến để xác nhận lại thời gian cụ thể. Anh/chị vui lòng để ý điện thoại giúp tôi nhé.  Anh/chị còn câu hỏi hay cần hỗ trợ gì khác không ạ? Nếu không, tôi xin phép kết thúc cuộc gọi tại đây. Cảm ơn anh/chị đã sử dụng dịch vụ của chúng tôi và mong vấn đề sẽ được khắc phục sớm nhất. Chúc anh/chị một ngày tốt lành!"
+    },
+    {
+      "role": "right",
+      "content": "Vậy được rồi cô. Cảm ơn cô nha. Mong là kỹ thuật viên qua sửa sớm giúp tôi. Tạm biệt cô."
+    }
+  ],
+  "reached_max_turns": false
+}

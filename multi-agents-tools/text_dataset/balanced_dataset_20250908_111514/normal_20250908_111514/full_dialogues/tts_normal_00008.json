@@ -1,0 +1,110 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào anh/chị, tôi là Lan Anh từ bộ phận Chăm sóc khách hàng của FPT Telecom. Tôi có thể hỗ trợ gì cho anh/chị hôm nay ạ?",
+      "timestamp": 1757359429.5468223
+    },
+    {
+      "role": "right",
+      "content": "Dạ chào chị. Em muốn hỏi về đường truyền internet ở nhà em. Dạo gần đây em thấy mạng nó cứ bị yếu lắm, thỉnh thoảng đang dùng thì mất hẳn tín hiệu luôn. Em đang học online nên cũng hơi bất tiện ạ.",
+      "timestamp": 1757359434.3344264
+    },
+    {
+      "role": "left",
+      "content": "Chào bạn. Tôi rất tiếc khi nghe về trải nghiệm không tốt này của bạn với dịch vụ internet của FPT. Tôi hiểu rằng việc mạng chập chờn, đặc biệt khi bạn đang học online, gây ra rất nhiều bất tiện. Để tôi kiểm tra tình trạng đường truyền cho bạn và xem chúng ta có thể làm gì nhé.  Bạn vui lòng cung cấp cho tôi mã hợp đồng hoặc số điện thoại đã đăng ký dịch vụ để tôi có thể tra cứu thông tin nhanh nhất được không ạ?",
+      "timestamp": 1757359438.9744234
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, số điện thoại em đăng ký là 0987654321 ạ. Chị kiểm tra giúp em với nhé.",
+      "timestamp": 1757359440.4658217
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn bạn. Tôi đã tra cứu thông tin với số điện thoại 0987654321. Tôi thấy bạn đang sử dụng gói cước Super 80, và địa chỉ lắp đặt là tại số 123, đường Nguyễn Văn Linh, phường Tân Thuận Tây, Quận 7, TP.HCM, đúng không ạ?",
+      "timestamp": 1757359446.4008696
+    },
+    {
+      "role": "right",
+      "content": "Dạ đúng rồi ạ, thông tin đó chính xác rồi chị.",
+      "timestamp": 1757359448.2633576
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn bạn đã xác nhận. Tôi đã kiểm tra trên hệ thống và ghi nhận có một số tín hiệu không ổn định từ modem của bạn trong vài ngày gần đây. Điều này có thể là nguyên nhân gây ra tình trạng mạng yếu và mất tín hiệu mà bạn đang gặp phải.  Để khắc phục tình trạng này, trước tiên, tôi có thể hướng dẫn bạn một số bước kiểm tra cơ bản tại nhà không ạ? Đôi khi, việc khởi động lại thiết bị hoặc kiểm tra dây cáp có thể giúp cải thiện ngay lập tức. Bạn có thể thử khởi động lại modem/router bằng cách rút dây nguồn, chờ khoảng 30 giây rồi cắm lại không? Sau đó, vui lòng kiểm tra xem tất cả các đèn tín hiệu trên modem có sáng bình thường không, đặc biệt là đèn \"LOS\" hoặc \"PON\" (nếu có) và đèn \"Internet\".",
+      "timestamp": 1757359456.7437267
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, để em thử khởi động lại modem xem sao ạ. Em cũng thấy mấy cái đèn trên đó dạo này nó cứ chớp chớp không ổn định lắm. Để em rút điện rồi cắm lại như chị hướng dẫn nhé.",
+      "timestamp": 1757359459.164217
+    },
+    {
+      "role": "left",
+      "content": "Vâng, bạn cứ thử thực hiện các bước đó nhé. Nếu sau khi khởi động lại mà tình hình vẫn không cải thiện, hoặc các đèn tín hiệu vẫn chớp bất thường, đặc biệt là đèn \"LOS\" hoặc \"PON\" không sáng ổn định, thì có thể có vấn đề với đường dây cáp quang hoặc thiết bị. Trong trường hợp đó, chúng tôi sẽ cần cử kỹ thuật viên đến tận nhà để kiểm tra và xử lý trực tiếp cho bạn.  Trong lúc bạn đang thử khởi động lại modem, tôi xin phép kiểm tra thêm một số thông tin khác trên hệ thống để chuẩn bị cho các phương án tiếp theo, phòng trường hợp bạn cần kỹ thuật viên hỗ trợ nhé.",
+      "timestamp": 1757359466.0897377
+    },
+    {
+      "role": "right",
+      "content": "Dạ em vừa rút điện ra rồi cắm lại rồi chị. Em chờ một lúc rồi mà mạng vẫn không lên, mấy cái đèn trên modem nó vẫn chớp chớp như cũ, đèn LOS vẫn đỏ lè luôn chị ơi. Chắc phải nhờ bên kỹ thuật qua kiểm tra thôi ạ.",
+      "timestamp": 1757359468.1035225
+    },
+    {
+      "role": "left",
+      "content": "Tôi rất tiếc khi việc khởi động lại không giúp ích được. Đèn LOS màu đỏ cho thấy tín hiệu quang từ bên ngoài đang bị lỗi hoặc không ổn định, đây là nguyên nhân chính gây ra tình trạng mất mạng của bạn. Trong trường hợp này, việc cử kỹ thuật viên đến tận nơi kiểm tra là cần thiết để xác định và khắc phục sự cố.  Tôi sẽ tạo yêu cầu hỗ trợ kỹ thuật ngay bây giờ. Bạn có thể cho tôi biết thời gian nào trong ngày mai (ngày 15 tháng 5) là phù hợp nhất để kỹ thuật viên của chúng tôi ghé qua không? Chúng tôi có các khung giờ buổi sáng (8h-12h), buổi chiều (13h-17h) và buổi tối (17h-20h).",
+      "timestamp": 1757359477.1897657
+    },
+    {
+      "role": "right",
+      "content": "Dạ vậy mai khoảng chiều tối tầm 5h-7h tối thì được đó chị. Lúc đó em ở nhà, tiện cho kỹ thuật qua kiểm tra ạ.",
+      "timestamp": 1757359479.064374
+    },
+    {
+      "role": "left",
+      "content": "Vâng, tôi đã ghi nhận yêu cầu hỗ trợ kỹ thuật cho bạn vào khung giờ từ 17h đến 19h ngày mai, 15 tháng 5. Kỹ thuật viên sẽ liên hệ với bạn qua số điện thoại 0987654321 trước khi đến để xác nhận lại thời gian và địa chỉ.  Ngoài ra, trong lúc chờ kỹ thuật viên đến, bạn có muốn tôi kiểm tra xem gói cước hiện tại của bạn là Super 80 (tốc độ 80Mbps) có còn phù hợp với nhu cầu sử dụng của gia đình mình không? Đôi khi, việc nâng cấp gói cước cũng có thể giúp cải thiện trải nghiệm nếu nhu cầu sử dụng internet của bạn đã tăng lên đáng kể, ví dụ như có nhiều thiết bị kết nối cùng lúc hoặc nhu cầu học/làm việc online nhiều hơn.",
+      "timestamp": 1757359490.654805
+    },
+    {
+      "role": "right",
+      "content": "Dạ chị cứ kiểm tra giúp em thử xem sao. Em cũng không rành lắm, nhưng em thấy dạo này dùng cũng nhiều thiết bị hơn. Nhưng mà quan trọng là giờ phải sửa được mạng trước đã chị nhỉ.",
+      "timestamp": 1757359495.4530387
+    },
+    {
+      "role": "left",
+      "content": "Đúng vậy ạ, ưu tiên hàng đầu bây giờ là khắc phục sự cố đường truyền để bạn có thể sử dụng internet ổn định trở lại. Kỹ thuật viên sẽ xử lý vấn đề này một cách nhanh chóng nhất.  Về gói cước, tôi thấy gói Super 80 là một gói khá phổ biến và phù hợp với nhu cầu cơ bản của gia đình. Tuy nhiên, nếu gia đình bạn có nhiều hơn 5-7 thiết bị kết nối đồng thời, hoặc có nhu cầu xem phim 4K, chơi game online nặng, hay nhiều thành viên cùng học/làm online, thì việc cân nhắc nâng cấp lên gói cước có tốc độ cao hơn có thể mang lại trải nghiệm tốt hơn.  Ví dụ, FPT hiện có gói Super 100 (100Mbps) hoặc Super 150 (150Mbps) với mức giá chênh lệch không quá nhiều so với gói hiện tại của bạn. Gói Super 100 có giá khoảng 215.000 VNĐ/tháng (đã bao gồm VAT) và gói Super 150 là 225.000 VNĐ/tháng. Cả hai gói này đều có tốc độ cao hơn đáng kể so với Super 80 (195.000 VNĐ/tháng).  Khi kỹ thuật viên đến kiểm tra đường truyền, bạn cũng có thể trao đổi trực tiếp với họ về nhu cầu sử dụng để được tư vấn gói cước phù hợp nhất nhé. Họ có thể kiểm tra thực tế tín hiệu và thiết bị tại nhà bạn để đưa ra lời khuyên chính xác hơn.",
+      "timestamp": 1757359510.5753624
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, em cảm ơn chị đã tư vấn mấy gói cước. Để mai kỹ thuật viên qua kiểm tra xong rồi em hỏi thêm họ xem sao. Quan trọng là giờ mạng ổn định lại cái đã ạ.",
+      "timestamp": 1757359512.5334878
+    },
+    {
+      "role": "left",
+      "content": "Vâng, vậy là tôi đã tạo yêu cầu hỗ trợ kỹ thuật cho bạn vào khung giờ từ 17h đến 19h ngày mai, 15 tháng 5. Kỹ thuật viên sẽ liên hệ trước khi đến và sẽ hỗ trợ bạn kiểm tra, khắc phục sự cố đường truyền nhanh nhất có thể. Nếu có bất kỳ thay đổi nào hoặc bạn cần hỗ trợ thêm trước thời điểm đó, đừng ngần ngại liên hệ lại với FPT Telecom nhé. Chúc bạn một ngày tốt lành!",
+      "timestamp": 1757359527.8983305
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, em cảm ơn chị nhiều ạ. Chúc chị cũng một ngày tốt lành ạ.",
+      "timestamp": 1757359528.9372845
+    }
+  ],
+  "turns": 7,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu chính của hội thoại (khắc phục sự cố internet) đã được xử lý bằng cách tạo yêu cầu cử kỹ thuật viên và xác nhận lịch hẹn. Người dùng đã nhận được đủ thông tin cần thiết cho bước tiếp theo. Vấn đề phụ về tư vấn gói cước cũng đã được cung cấp thông tin và người dùng đã bày tỏ ý định sẽ trao đổi thêm với kỹ thuật viên trực tiếp. Lời cảm ơn và việc người dùng nêu rõ 'Quan trọng là giờ mạng ổn định lại cái đã ạ' cho thấy họ đã hài lòng với những hỗ trợ hiện tại và không cần thêm thông tin từ phía tổng đài viên nữa. Dịch vụ nên chủ động kết thúc hội thoại bằng một lời chào và xác nhận cuối cùng.",
+  "terminator": "dịch vụ kết thúc",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Vâng, vậy là tôi đã tạo yêu cầu hỗ trợ kỹ thuật cho bạn vào khung giờ từ 17h đến 19h ngày mai, 15 tháng 5. Kỹ thuật viên sẽ liên hệ trước khi đến và sẽ hỗ trợ bạn kiểm tra, khắc phục sự cố đường truyền nhanh nhất có thể. Nếu có bất kỳ thay đổi nào hoặc bạn cần hỗ trợ thêm trước thời điểm đó, đừng ngần ngại liên hệ lại với FPT Telecom nhé. Chúc bạn một ngày tốt lành!"
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, em cảm ơn chị nhiều ạ. Chúc chị cũng một ngày tốt lành ạ."
+    }
+  ],
+  "reached_max_turns": false
+}

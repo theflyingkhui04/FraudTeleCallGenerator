@@ -1,0 +1,90 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào anh/chị, tôi là Minh Thư từ tổng đài hỗ trợ khách hàng của VNPT. Rất vui được hỗ trợ anh/chị. Anh/chị cần tôi giúp đỡ về vấn đề gì ạ?",
+      "timestamp": 1757359189.5405755
+    },
+    {
+      "role": "right",
+      "content": "Chào bạn. Mình muốn hỏi về đường truyền internet ở nhà mình. Dạo này nó cứ chập chờn với chậm lắm, nhất là buổi tối. Mình đã thử khởi động lại modem rồi mà vẫn không ăn thua.",
+      "timestamp": 1757359191.9959323
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi hiểu sự bất tiện này ạ. Để tôi kiểm tra thông tin đường truyền cho anh/chị. Anh/chị vui lòng cung cấp giúp tôi số điện thoại đăng ký dịch vụ hoặc mã hợp đồng của mình được không ạ?",
+      "timestamp": 1757359209.197226
+    },
+    {
+      "role": "right",
+      "content": "Số điện thoại của mình là 0912345678. Bạn kiểm tra giúp mình nhé.",
+      "timestamp": 1757359210.9667296
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, anh/chị vui lòng chờ trong giây lát để tôi tra cứu thông tin với số điện thoại 0912345678 ạ.  ...  Tôi đã tra cứu được thông tin rồi ạ. Số điện thoại 0912345678 đang đứng tên thuê bao Nguyễn Văn A, địa chỉ lắp đặt tại số 123, đường ABC, Phường X, Quận Y, TP.HCM, gói cước FiberVNN Home 100Mbps. Anh/chị vui lòng xác nhận lại thông tin này có đúng không ạ?",
+      "timestamp": 1757359216.6061912
+    },
+    {
+      "role": "right",
+      "content": "Đúng rồi bạn, thông tin đó chính xác. Bạn kiểm tra giúp mình xem đường truyền có vấn đề gì không nhé.",
+      "timestamp": 1757359219.3775573
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, cảm ơn anh/chị đã xác nhận. Tôi đang tiến hành kiểm tra tình trạng đường truyền internet của thuê bao 0912345678 trên hệ thống ạ.  Qua kiểm tra sơ bộ, tôi nhận thấy đường truyền của anh/chị đang có một số gói tin bị mất và độ trễ cao hơn bình thường, đặc biệt là vào các khung giờ cao điểm buổi tối như anh/chị đã phản ánh. Điều này có thể là nguyên nhân gây ra tình trạng chập chờn và chậm mạng ạ.  Để khắc phục tình trạng này, tôi xin phép thực hiện một số thao tác reset tín hiệu từ tổng đài về modem nhà mình. Anh/chị vui lòng giữ nguyên trạng thái thiết bị và chờ khoảng 2-3 phút giúp tôi nhé.",
+      "timestamp": 1757359234.1088367
+    },
+    {
+      "role": "right",
+      "content": "À, vậy là có vấn đề thật. Ok bạn, cứ làm đi nhé, mình chờ 2-3 phút.",
+      "timestamp": 1757359235.6180522
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi đã tiếp nhận thông tin và đang tiến hành reset tín hiệu đường truyền cho thuê bao của anh/chị rồi ạ.  Trong thời gian này, anh/chị vui lòng kiểm tra xem đèn tín hiệu LOS (Loss of Signal) trên modem có sáng đỏ không. Nếu có, vui lòng báo lại cho tôi biết nhé. Còn nếu đèn PON và LAN vẫn sáng ổn định, thì anh/chị có thể thử truy cập internet sau khoảng 2-3 phút để kiểm tra lại tốc độ và độ ổn định ạ.",
+      "timestamp": 1757359243.0421176
+    },
+    {
+      "role": "right",
+      "content": "Ok bạn. Mình đang nhìn modem đây. Đèn LOS thì không sáng đỏ, PON với LAN vẫn sáng bình thường. Để mình chờ thêm lát rồi thử lại mạng xem sao.",
+      "timestamp": 1757359246.4914343
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, cảm ơn anh/chị đã kiểm tra. Việc đèn LOS không sáng đỏ là một dấu hiệu tốt ạ. Tôi đã hoàn tất thao tác reset tín hiệu từ hệ thống.  Anh/chị vui lòng thử truy cập internet lại trên một vài thiết bị (ví dụ: điện thoại, máy tính) để kiểm tra xem tốc độ và độ ổn định đã được cải thiện chưa ạ? Nếu có thể, anh/chị có thể thử truy cập vào một trang web hoặc ứng dụng mà trước đây hay bị chậm để đánh giá rõ hơn.",
+      "timestamp": 1757359259.9555335
+    },
+    {
+      "role": "right",
+      "content": "Để mình thử xem sao. À, mình vừa thử vào mấy trang web với xem YouTube thì thấy có vẻ ổn định hơn rồi đấy. Tốc độ cũng nhanh hơn lúc nãy nhiều. Cảm ơn bạn nhé.",
+      "timestamp": 1757359262.5784004
+    },
+    {
+      "role": "right",
+      "content": "Vậy là tốt rồi. Cảm ơn bạn rất nhiều vì đã hỗ trợ nhiệt tình nhé. Chúc bạn một ngày làm việc vui vẻ.",
+      "timestamp": 1757359270.5161333
+    },
+    {
+      "role": "left",
+      "content": "Dạ không có gì ạ, rất vui được hỗ trợ anh/chị. Anh/chị đã kiểm tra lại đường truyền và thấy ổn định hơn chưa ạ? Nếu có bất kỳ vấn đề nào khác phát sinh, anh/chị đừng ngần ngại liên hệ lại với VNPT nhé.  Chúc anh/chị một ngày tốt lành và sử dụng internet thật mượt mà ạ!",
+      "timestamp": 1757359271.9120207
+    }
+  ],
+  "turns": 5,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại của người dùng (khắc phục đường truyền internet chập chờn, chậm) đã đạt được. Người dùng đã xác nhận vấn đề đã được cải thiện ('thấy có vẻ ổn định hơn rồi đấy. Tốc độ cũng nhanh hơn lúc nãy nhiều') và bày tỏ sự hài lòng, cảm ơn rõ ràng ('Cảm ơn bạn nhé'). Do đó, hội thoại nên kết thúc và người dùng là người đã chủ động ra tín hiệu kết thúc bằng lời cảm ơn và xác nhận vấn đề đã được giải quyết.",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Vậy là tốt rồi. Cảm ơn bạn rất nhiều vì đã hỗ trợ nhiệt tình nhé. Chúc bạn một ngày làm việc vui vẻ."
+    },
+    {
+      "role": "left",
+      "content": "Dạ không có gì ạ, rất vui được hỗ trợ anh/chị. Anh/chị đã kiểm tra lại đường truyền và thấy ổn định hơn chưa ạ? Nếu có bất kỳ vấn đề nào khác phát sinh, anh/chị đừng ngần ngại liên hệ lại với VNPT nhé.  Chúc anh/chị một ngày tốt lành và sử dụng internet thật mượt mà ạ!"
+    }
+  ],
+  "reached_max_turns": false
+}

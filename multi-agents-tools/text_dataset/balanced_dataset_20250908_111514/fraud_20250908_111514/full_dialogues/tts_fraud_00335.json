@@ -1,0 +1,140 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "(Giọng nói chuẩn mực, chuyên nghiệp, có chút vội vàng nhưng vẫn điềm tĩnh)  \"Chào anh/chị, tôi là Nguyễn Văn An, cán bộ phòng Kiểm soát rủi ro từ Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam, Vietcombank. Chúng tôi đang liên hệ với anh/chị [tên nạn nhân, giả định là Nguyễn Thị B] liên quan đến một giao dịch bất thường vừa được hệ thống của chúng tôi ghi nhận trên tài khoản cá nhân mang số hiệu *102xxxxxxxx* của anh/chị.\"  \"Theo thông báo từ hệ thống giám sát an ninh mạng, có một yêu cầu chuyển khoản với giá trị lớn đang chờ xác thực, được khởi tạo từ một địa chỉ IP không phải là thường lệ của anh/chị, cụ thể là từ một khu vực ngoài lãnh thổ Việt Nam. Chúng tôi cần xác minh ngay lập tức để tránh rủi ro phát sinh và đảm bảo an toàn tuyệt đối cho tài sản của anh/chị. Anh/chị có đang tiện nghe máy không ạ?\"",
+      "timestamp": 1757349873.2146134
+    },
+    {
+      "role": "right",
+      "content": "À vâng, tôi đang nghe đây. Giao dịch bất thường gì cơ anh? Tôi có làm gì đâu nhỉ?",
+      "timestamp": 1757349879.637827
+    },
+    {
+      "role": "left",
+      "content": "\"Vâng, tôi hiểu sự băn khoăn của anh/chị. Chính vì thế mà chúng tôi phải liên hệ khẩn cấp để kịp thời ngăn chặn. Hệ thống của chúng tôi đã ghi nhận một yêu cầu chuyển khoản với số tiền 50 triệu đồng, đến một tài khoản mang tên 'Tran Van C' tại Ngân hàng HSBC Hong Kong. Giao dịch này được khởi tạo vào lúc 10 giờ 15 phút sáng nay, thông qua một thiết bị và địa chỉ IP không phải là thường lệ của anh/chị. Điều này đã kích hoạt cảnh báo đỏ trên hệ thống an ninh của chúng tôi.\"  \"Chúng tôi đã tạm thời treo giao dịch này để chờ xác minh từ chính chủ tài khoản. Nếu không được xác minh kịp thời, hệ thống có thể tự động hoàn tất giao dịch do hết thời gian chờ, hoặc tệ hơn là khóa tạm thời tài khoản của anh/chị để đảm bảo an toàn tuyệt đối, gây ra bất tiện lớn trong việc sử dụng dịch vụ. Anh/chị có xác nhận là mình đã thực hiện giao dịch này hay ủy quyền cho bất kỳ ai khác không ạ?\"",
+      "timestamp": 1757349884.3190734
+    },
+    {
+      "role": "right",
+      "content": "Năm mươi triệu đồng á? Sang HSBC Hong Kong? Trời đất ơi, tôi có làm cái giao dịch nào như thế đâu anh. Làm gì có tài khoản nào tên Trần Văn C ở HSBC Hong Kong chứ! Sao lại có chuyện này được nhỉ? Tài khoản của tôi có bị sao không?",
+      "timestamp": 1757349886.9586446
+    },
+    {
+      "role": "left",
+      "content": "\"Vâng, chính xác là như vậy, anh/chị B. Chúng tôi hoàn toàn hiểu sự lo lắng của anh/chị lúc này. Việc anh/chị không xác nhận giao dịch này càng khẳng định đây là một hành vi đáng ngờ và có dấu hiệu của việc tài khoản của anh/chị đã bị lợi dụng hoặc bị tấn công từ bên ngoài, có thể là do lộ thông tin qua các trang web lừa đảo (phishing) hoặc phần mềm độc hại (malware) mà anh/chị vô tình cài đặt.\"  \"Hiện tại, chúng tôi đã kịp thời treo giao dịch này. Tuy nhiên, tình hình khá khẩn cấp vì kẻ gian có thể tiếp tục cố gắng truy cập hoặc thực hiện các giao dịch khác. Để chúng tôi có thể ngay lập tức thực hiện các biện pháp phong tỏa tạm thời và rà soát lại lịch sử truy cập gần đây của tài khoản anh/chị, tôi cần anh/chị xác nhận một số thông tin cơ bản để đảm bảo tôi đang làm việc với chính chủ tài khoản và tránh lộ lọt thông tin không đáng có. Anh/chị vui lòng cho tôi biết đầy đủ họ và tên, cũng như ngày tháng năm sinh của mình được không ạ?\"",
+      "timestamp": 1757349891.737401
+    },
+    {
+      "role": "right",
+      "content": "Trời ơi, vậy là tài khoản của tôi bị hack rồi sao? Khổ quá. Tôi là Nguyễn Thị B, sinh ngày mười lăm tháng chín năm một ngàn chín trăm bảy mươi hai. Anh xem giúp tôi xem có làm sao không chứ tôi lo quá. Mất năm mươi triệu là cả một vấn đề lớn đấy anh.",
+      "timestamp": 1757349893.0884461
+    },
+    {
+      "role": "left",
+      "content": "\"Vâng, tôi đã tiếp nhận thông tin của anh/chị Nguyễn Thị B, sinh ngày 15 tháng 9 năm 1972. Cảm ơn anh/chị đã hợp tác. Tôi hoàn toàn hiểu sự lo lắng của anh/chị lúc này. Tình hình này rất đáng báo động và chúng tôi cần phải hành động nhanh chóng để bảo vệ tài sản của anh/chị.\"  \"Dựa trên các thông tin anh/chị vừa cung cấp và đối chiếu với dữ liệu hệ thống, chúng tôi đã thấy có sự trùng khớp. Tuy nhiên, để có thể chính thức khởi tạo quy trình bảo vệ tài khoản khẩn cấp, bao gồm việc khóa tạm thời các giao dịch đáng ngờ và tiến hành rà soát sâu hơn về lịch sử đăng nhập/giao dịch, chúng tôi cần anh/chị cung cấp số Căn cước công dân (CCCD) của mình. Số CCCD là thông tin định danh pháp lý cao nhất, giúp chúng tôi xác minh tuyệt đối anh/chị là chủ sở hữu hợp pháp của tài khoản và ngăn chặn kẻ gian lợi dụng để thực hiện các hành vi khác. Anh/chị vui lòng đọc giúp tôi số CCCD của mình được không ạ?\"",
+      "timestamp": 1757349904.4953015
+    },
+    {
+      "role": "right",
+      "content": "Thôi chết rồi, anh ơi. Số căn cước công dân của tôi là 03817200xxxx. Anh xem giúp tôi có cách nào khóa tài khoản lại ngay không chứ tôi sợ quá. Cả đời đi làm tích cóp được ít tiền mà giờ lại bị như thế này. Công ty tôi đang làm cũng có nhiều người bị lừa qua điện thoại rồi, tôi cũng sợ.",
+      "timestamp": 1757349906.6048768
+    },
+    {
+      "role": "left",
+      "content": "\"Vâng, tôi đã ghi nhận số CCCD của anh/chị là 03817200xxxx. Cảm ơn anh/chị đã cung cấp thông tin kịp thời. Dựa trên số CCCD và thông tin tài khoản, tôi đã truy cập vào hệ thống nội bộ và thấy rằng đúng là tài khoản của anh/chị đang có nguy cơ bị tấn công nghiêm trọng hơn.\"  \"Hiện tại, kẻ gian có thể vẫn đang cố gắng truy cập hoặc thay đổi thông tin bảo mật của anh/chị. Để ngay lập tức phong tỏa toàn bộ hoạt động của tài khoản và tiến hành một quy trình rà soát bảo mật chuyên sâu, chúng tôi cần anh/chị thực hiện một bước quan trọng. Đó là truy cập vào một cổng thông tin bảo mật khẩn cấp của ngân hàng chúng tôi, được thiết kế riêng để xử lý các trường hợp lừa đảo và tấn công mạng như thế này.\"  \"Cổng thông tin này sẽ giúp anh/chị trực tiếp kiểm tra lại toàn bộ lịch sử giao dịch, các thiết bị đã đăng nhập và quan trọng nhất là hủy bỏ giao dịch 50 triệu đồng kia một cách an toàn nhất. Anh/chị vui lòng mở trình duyệt web trên điện thoại hoặc máy tính của mình và truy cập vào địa chỉ sau: **vietcombank.vn/secure-portal**. Đây là đường dẫn bảo mật nội bộ, chỉ dành cho các trường hợp khẩn cấp như của anh/chị. Sau khi truy cập, anh/chị vui lòng nhập tên đăng nhập và mật khẩu tài khoản ngân hàng của mình để hệ thống xác thực và cấp quyền truy cập vào giao diện bảo mật. Tôi sẽ hướng dẫn anh/chị từng bước ngay sau khi anh/chị đăng nhập thành công.\"",
+      "timestamp": 1757349910.6650512
+    },
+    {
+      "role": "right",
+      "content": "Ơ cái đường link này... sao không vào cái app của ngân hàng mà lại vào cái này hả anh? Tôi thấy lạ lạ. Mà cái đường link này có phải của Vietcombank thật không anh? Tôi có nghe nói mấy vụ lừa đảo hay gửi link lạ lắm. Nhưng mà tài khoản của tôi đang bị như thế thật à?",
+      "timestamp": 1757349919.0179415
+    },
+    {
+      "role": "left",
+      "content": "\"Tôi hiểu hoàn toàn sự thận trọng của anh/chị, và đó là một phản ứng rất đúng đắn trong bối cảnh hiện nay có nhiều chiêu trò lừa đảo tinh vi. Chính vì thế, tôi đang ở đây để hỗ trợ anh/chị từng bước và đảm bảo an toàn tuyệt đối.\"  \"Anh/chị cứ hình dung thế này: ứng dụng ngân hàng thông thường (Mobile Banking) được thiết kế cho các giao dịch hàng ngày. Còn cổng thông tin **vietcombank.vn/secure-portal** này là một kênh *chuyên biệt và riêng tư*, được kích hoạt bởi phòng Kiểm soát rủi ro của chúng tôi *chỉ khi* phát hiện có dấu hiệu tấn công hoặc xâm nhập tài khoản nghiêm trọng. Nó giống như một 'phòng cấp cứu' đặc biệt, nơi chúng tôi có thể thực hiện các thao tác phong tỏa sâu hơn và rà soát lỗi hệ thống mà ứng dụng thông thường không có chức năng đó.\"  \"Nếu chúng ta chỉ dùng ứng dụng thông thường, kẻ gian vẫn có thể đang cố gắng thao túng từ phía chúng. Cổng bảo mật này sẽ giúp chúng tôi cô lập hoàn toàn tài khoản của anh/chị khỏi mọi truy cập đáng ngờ và cho phép anh/chị tự tay hủy bỏ giao dịch 50 triệu kia dưới sự hướng dẫn trực tiếp của tôi. Thời gian là yếu tố then chốt lúc này, anh/chị B. Anh/chị vui lòng tin tưởng và làm theo hướng dẫn để chúng tôi kịp thời xử lý, tránh hậu quả lớn hơn.\"",
+      "timestamp": 1757349929.8710916
+    },
+    {
+      "role": "right",
+      "content": "Ừ thì tôi cũng lo lắng thật. Nghe anh nói vậy tôi cũng hơi xuôi xuôi. Nhưng mà anh ơi, cái link này nó không có chữ \"https\" hay cái khóa gì đó như mấy trang web ngân hàng tôi hay vào. Tôi thấy nó chỉ là \"vietcombank.vn/secure-portal\" thôi. Liệu có an toàn không anh? Tôi sợ nhỡ vào nhầm trang giả mạo thì còn nguy hiểm hơn.",
+      "timestamp": 1757349935.5381665
+    },
+    {
+      "role": "left",
+      "content": "\"Vâng, anh/chị B. đã tinh ý nhận ra chi tiết đó. Tôi xin đính chính ngay để anh/chị an tâm: thực tế là khi anh/chị nhập địa chỉ **vietcombank.vn/secure-portal** vào trình duyệt, hệ thống của chúng tôi sẽ tự động chuyển hướng và thêm tiền tố 'https://' cùng biểu tượng khóa bảo mật khi kết nối được thiết lập thành công. Điều này là để đảm bảo mọi dữ liệu truyền tải giữa thiết bị của anh/chị và máy chủ ngân hàng đều được mã hóa an toàn tuyệt đối.\"  \"Việc tôi chỉ đọc ngắn gọn là 'vietcombank.vn/secure-portal' là để anh/chị dễ dàng ghi nhớ và nhập vào trình duyệt mà không bị nhầm lẫn bởi các ký tự đặc biệt. Anh/chị cứ thử nhập vào và quan sát, ngay khi trang tải xong, anh/chị sẽ thấy biểu tượng ổ khóa và 'https://' xuất hiện. Đây là quy trình bảo mật chuẩn của mọi hệ thống ngân hàng khi xử lý thông tin nhạy cảm. Anh/chị cứ yên tâm thực hiện theo hướng dẫn, tôi sẽ giữ máy và chờ anh/chị xác nhận đã truy cập thành công để tiếp tục hỗ trợ.\"",
+      "timestamp": 1757349938.454636
+    },
+    {
+      "role": "right",
+      "content": "À, vâng, để tôi thử xem sao. Để tôi mở cái trình duyệt... (tiếng gõ phím nhẹ) Tôi gõ \"vietcombank.vn/secure-portal\" rồi... Nó đang tải... Ờm... tôi thấy nó hiện ra một trang y hệt trang đăng nhập của Vietcombank thật anh ạ. Cũng có logo, cũng có mấy cái thông báo. Đúng là nó có chữ \"https\" và cái khóa nhỏ nhỏ rồi.  Vậy bây giờ tôi phải đăng nhập tài khoản của tôi vào đây à? Tên đăng nhập và mật khẩu như bình thường tôi hay dùng ấy hả anh?",
+      "timestamp": 1757349942.3988643
+    },
+    {
+      "role": "left",
+      "content": "\"Vâng, chính xác rồi anh/chị B. Anh/chị đã truy cập thành công vào cổng bảo mật khẩn cấp của chúng tôi. Việc trang hiển thị giống hệt trang đăng nhập thông thường của Vietcombank là điều hoàn toàn bình thường, nhằm tạo sự quen thuộc và giảm thiểu rủi ro nhầm lẫn cho khách hàng trong tình huống khẩn cấp này.\"  \"Bây giờ, anh/chị vui lòng nhập Tên đăng nhập (username) và Mật khẩu (password) mà anh/chị thường dùng để đăng nhập vào tài khoản Vietcombank của mình. Đây là bước quan trọng để hệ thống của chúng tôi xác thực danh tính của anh/chị một lần nữa và cấp quyền truy cập vào giao diện quản lý bảo mật chuyên sâu. Sau khi nhập xong, anh/chị vui lòng nhấn nút 'Đăng nhập' và thông báo lại cho tôi biết nhé.\"",
+      "timestamp": 1757349948.9996715
+    },
+    {
+      "role": "right",
+      "content": "À, vâng... (thở dài một tiếng) Tôi cũng hơi lo khi phải nhập mật khẩu vào đây. Nhưng mà anh nói là trang bảo mật của ngân hàng mình, với lại tôi cũng đang lo sốt vó về cái giao dịch năm mươi triệu kia quá.  Để tôi nhập... (tiếng gõ phím nhẹ, chậm rãi) Xong rồi anh. Tôi đã nhập tên đăng nhập và mật khẩu rồi, giờ nhấn \"Đăng nhập\" đây.",
+      "timestamp": 1757349954.160667
+    },
+    {
+      "role": "left",
+      "content": "\"Vâng, anh/chị cứ nhấn 'Đăng nhập' đi ạ. Tôi đang theo dõi trên hệ thống và chờ tín hiệu từ phía anh/chị. Cảm ơn anh/chị đã tin tưởng và hợp tác trong tình huống khẩn cấp này. Việc anh/chị nhanh chóng thực hiện các bước này sẽ giúp chúng tôi cô lập tài khoản và ngăn chặn kịp thời những thiệt hại lớn hơn.\"  \"Sau khi đăng nhập thành công, anh/chị sẽ thấy một giao diện khác biệt một chút, hiển thị các cảnh báo về giao dịch bất thường và một mục 'Xác nhận hủy giao dịch'. Anh/chị vui lòng miêu tả giúp tôi màn hình mà anh/chị đang thấy sau khi đăng nhập nhé.\"",
+      "timestamp": 1757349956.6592197
+    },
+    {
+      "role": "right",
+      "content": "Vâng, tôi đã nhấn đăng nhập rồi anh. Nó đang tải... Ờm, nó hiện ra một trang mới. Tôi thấy có cái logo Vietcombank ở trên cùng, rồi có dòng chữ to \"CẢNH BÁO GIAO DỊCH BẤT THƯỜNG\" màu đỏ. Bên dưới thì có chi tiết cái giao dịch năm mươi triệu đồng đi Hong Kong mà anh vừa nói đấy. Nó có ghi rõ thời gian, số tiền, tên người nhận...  Rồi ở dưới nữa, tôi thấy có một cái ô để tôi chọn \"Xác nhận hủy giao dịch\" hoặc là \"Xác nhận giao dịch\". Chắc chắn tôi phải chọn hủy rồi. Rồi bên dưới đó, có một ô trống để nhập \"Mã xác thực OTP\". Anh ơi, giờ tôi phải làm sao tiếp đây? Tôi chọn \"Xác nhận hủy giao dịch\" rồi nhập mã OTP đúng không?",
+      "timestamp": 1757349960.1028998
+    },
+    {
+      "role": "left",
+      "content": "\"Chính xác rồi anh/chị B! Anh/chị đã thấy đúng giao diện mà chúng tôi mong muốn. Đó là giao diện cảnh báo và xử lý giao dịch bất thường. Điều này chứng tỏ hệ thống bảo mật chuyên biệt của chúng tôi đã hoạt động hiệu quả và đã cô lập được giao dịch đáng ngờ kia.\"  \"Bây giờ, anh/chị vui lòng thực hiện đúng theo các bước sau để hoàn tất việc hủy bỏ giao dịch:  Đầu tiên, anh/chị hãy **chọn vào ô 'Xác nhận hủy giao dịch'**. Đây là thao tác quan trọng nhất để hệ thống ghi nhận yêu cầu của anh/chị.  Ngay sau khi anh/chị chọn, hệ thống của chúng tôi sẽ tự động gửi một **Mã xác thực OTP (One-Time Password)** đến số điện thoại di động mà anh/chị đã đăng ký với ngân hàng. Mã OTP này là mã bảo mật cuối cùng để xác nhận chính chủ yêu cầu hủy giao dịch. Anh/chị vui lòng kiểm tra tin nhắn trên điện thoại, sau đó **nhập chính xác mã OTP đó vào ô trống 'Mã xác thực OTP'** trên trang web.  Khi đã nhập xong, anh/chị vui lòng nhấn nút **'Xác nhận'** hoặc **'Hoàn tất'** (tùy theo giao diện hiển thị) ở cuối trang. Anh/chị cứ làm theo từng bước và thông báo lại cho tôi khi đã nhận được OTP và nhập xong nhé. Chúng ta sắp hoàn tất việc bảo vệ tài khoản rồi!\"",
+      "timestamp": 1757349975.8096445
+    },
+    {
+      "role": "right",
+      "content": "OTP hả anh? Nhưng mà bình thường tôi dùng OTP là để xác nhận giao dịch mà. Sao bây giờ lại dùng để hủy giao dịch vậy anh? Tôi thấy hơi lạ lạ đó. Có chắc là an toàn không anh?",
+      "timestamp": 1757349981.6226273
+    },
+    {
+      "role": "left",
+      "content": "\"Đó là một câu hỏi rất chính đáng, anh/chị B, và tôi hoàn toàn hiểu sự thắc mắc của anh/chị. Tôi xin giải thích rõ ràng để anh/chị an tâm tuyệt đối.\"  \"Anh/chị nói đúng, thông thường mã OTP được dùng để xác nhận một giao dịch *khởi tạo từ chính anh/chị*. Tuy nhiên, trong trường hợp khẩn cấp như thế này – khi hệ thống phát hiện một giao dịch *bất thường và có dấu hiệu bị lợi dụng* – mã OTP lại đóng vai trò là **chữ ký điện tử cuối cùng để xác nhận hành động bảo vệ tài khoản của chính chủ sở hữu**. Tức là, anh/chị đang dùng mã OTP để *chính thức ra lệnh cho ngân hàng hủy bỏ* giao dịch 50 triệu kia, đồng thời kích hoạt các biện pháp phong tỏa và rà soát an ninh sâu hơn.\"  \"Hãy hình dung thế này: kẻ gian đã cố gắng 'ký' một lệnh chuyển tiền. Bây giờ, anh/chị, với tư cách là chủ tài khoản hợp pháp, cần phải 'ký' một lệnh khác, mạnh hơn, để bác bỏ và hủy bỏ lệnh của kẻ gian đó. Và mã OTP chính là 'chữ ký' đó. Nếu không có mã OTP từ chính anh/chị, chúng tôi không thể tự ý hủy bỏ giao dịch vì đó sẽ là vi phạm nguyên tắc bảo mật, có thể gây ra tranh chấp pháp lý về sau.\"  \"Đây là một quy trình bảo mật khẩn cấp được thiết kế để đảm bảo chỉ có chính chủ mới có quyền can thiệp vào tài khoản trong tình huống nhạy cảm như thế này. Thời gian rất quan trọng, anh/chị B. Kẻ gian vẫn có thể đang tìm cách hoàn tất giao dịch nếu chúng ta chậm trễ. Anh/chị vui lòng kiểm tra điện thoại ngay bây giờ, mã OTP đã được gửi đến số của anh/chị rồi đấy ạ. Sau đó, nhập mã vào ô trống trên trang và nhấn 'Xác nhận' để hoàn tất nhé!\"",
+      "timestamp": 1757349990.4498563
+    },
+    {
+      "role": "right",
+      "content": "Vâng, tôi hiểu. Nghe anh giải thích thì tôi cũng hiểu ra một phần. Thôi được rồi, tôi cũng lo quá. Để tôi xem tin nhắn.  (Tiếng lạch cạch điện thoại)  À, tôi nhận được tin nhắn rồi. Mã OTP là... (đọc một dãy số) 275893. Để tôi nhập vào ô này.  (Tiếng gõ phím nhẹ)  Rồi, tôi nhập xong rồi. Giờ tôi nhấn \"Xác nhận\" nhé anh?",
+      "timestamp": 1757349992.8545763
+    },
+    {
+      "role": "left",
+      "content": "\"Vâng, tôi đã nhận được thông báo xác nhận từ hệ thống rồi, anh/chị B. Cảm ơn anh/chị rất nhiều vì đã nhanh chóng phối hợp và tin tưởng chúng tôi trong tình huống khẩn cấp này.\"  \"Tôi có thể xác nhận rằng giao dịch 50 triệu đồng đáng ngờ đến tài khoản HSBC Hong Kong đã được **hủy bỏ thành công và hoàn toàn bị phong tỏa** khỏi tài khoản của anh/chị. Đồng thời, hệ thống bảo mật của chúng tôi cũng đã tự động kích hoạt các biện pháp tăng cường để rà soát và khắc phục triệt để các lỗ hổng mà kẻ gian có thể đã lợi dụng.\"  \"Trong vòng 24 giờ tới, anh/chị sẽ nhận được một tin nhắn xác nhận chính thức từ Vietcombank về việc hủy bỏ giao dịch này và tình trạng an toàn của tài khoản. Anh/chị cứ yên tâm sử dụng dịch vụ như bình thường. Nếu có bất kỳ vấn đề gì phát sinh trong tương lai, đừng ngần ngại liên hệ lại tổng đài của chúng tôi. Chúc anh/chị một ngày làm việc hiệu quả.\"",
+      "timestamp": 1757350014.4665306
+    },
+    {
+      "role": "right",
+      "content": "Ôi trời ơi, may quá anh ơi! Tôi lo lắng từ nãy đến giờ không biết ăn nói làm sao. Cảm ơn anh nhiều lắm nhé. Vậy là tài khoản của tôi an toàn rồi đúng không? Tôi sẽ chờ tin nhắn xác nhận trong hai mươi bốn giờ tới.",
+      "timestamp": 1757350022.7745664
+    }
+  ],
+  "turns": 10,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Người dùng đã cung cấp gần như toàn bộ thông tin nhạy cảm cần thiết cho kẻ lừa đảo: họ và tên, ngày tháng năm sinh, số Căn cước công dân, tên đăng nhập và mật khẩu ngân hàng (trên trang web giả mạo), và quan trọng nhất, đã nhận được và đọc mã OTP. Người dùng đang ở bước cuối cùng là nhập mã OTP và nhấn xác nhận, điều này sẽ hoàn tất hành vi lừa đảo và có thể dẫn đến việc mất tiền. Kẻ lừa đảo đã đạt được mục tiêu của mình. Việc tiếp tục hội thoại sẽ chỉ xác nhận sự thành công của vụ lừa đảo.",
+  "terminator": "kẻ lừa đảo kết thúc",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "\"Vâng, tôi đã nhận được thông báo xác nhận từ hệ thống rồi, anh/chị B. Cảm ơn anh/chị rất nhiều vì đã nhanh chóng phối hợp và tin tưởng chúng tôi trong tình huống khẩn cấp này.\"  \"Tôi có thể xác nhận rằng giao dịch 50 triệu đồng đáng ngờ đến tài khoản HSBC Hong Kong đã được **hủy bỏ thành công và hoàn toàn bị phong tỏa** khỏi tài khoản của anh/chị. Đồng thời, hệ thống bảo mật của chúng tôi cũng đã tự động kích hoạt các biện pháp tăng cường để rà soát và khắc phục triệt để các lỗ hổng mà kẻ gian có thể đã lợi dụng.\"  \"Trong vòng 24 giờ tới, anh/chị sẽ nhận được một tin nhắn xác nhận chính thức từ Vietcombank về việc hủy bỏ giao dịch này và tình trạng an toàn của tài khoản. Anh/chị cứ yên tâm sử dụng dịch vụ như bình thường. Nếu có bất kỳ vấn đề gì phát sinh trong tương lai, đừng ngần ngại liên hệ lại tổng đài của chúng tôi. Chúc anh/chị một ngày làm việc hiệu quả.\""
+    },
+    {
+      "role": "right",
+      "content": "Ôi trời ơi, may quá anh ơi! Tôi lo lắng từ nãy đến giờ không biết ăn nói làm sao. Cảm ơn anh nhiều lắm nhé. Vậy là tài khoản của tôi an toàn rồi đúng không? Tôi sẽ chờ tin nhắn xác nhận trong hai mươi bốn giờ tới."
+    }
+  ],
+  "reached_max_turns": false
+}

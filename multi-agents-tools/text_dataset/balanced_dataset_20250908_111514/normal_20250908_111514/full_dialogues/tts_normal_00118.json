@@ -1,0 +1,90 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào anh/chị, tôi là Minh Anh từ bộ phận Hỗ trợ Kỹ thuật của VNPT. Tôi có thể giúp gì cho anh/chị hôm nay ạ?",
+      "timestamp": 1757403788.3918853
+    },
+    {
+      "role": "right",
+      "content": "Chào bạn. Mạng nhà mình tự nhiên không vào được nữa, modem thì vẫn thấy đèn sáng nhưng không có internet.",
+      "timestamp": 1757403790.7581785
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi hiểu rồi ạ. Để tôi kiểm tra tình trạng đường truyền cho anh/chị nhé. Anh/chị vui lòng cho tôi xin thông tin số thuê bao internet hoặc địa chỉ lắp đặt dịch vụ để tôi tra cứu được không ạ?",
+      "timestamp": 1757403795.4275012
+    },
+    {
+      "role": "right",
+      "content": "À mình ở địa chỉ số 123 đường Quang Trung, phường 10, quận Gò Vấp, TP.HCM nhé.",
+      "timestamp": 1757403797.1774266
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, số 123 đường Quang Trung, phường 10, quận Gò Vấp, TP.HCM ạ. Tôi đã tìm thấy thông tin đường truyền của anh/chị rồi.  Trước tiên, anh/chị vui lòng kiểm tra giúp tôi các đèn tín hiệu trên modem WiFi nhé. Cụ thể, anh/chị cho tôi biết đèn \"LOS\" hoặc \"PON\" và đèn \"Internet\" (hoặc \"WAN\") đang hiển thị màu gì và có nhấp nháy không ạ?",
+      "timestamp": 1757403801.5053513
+    },
+    {
+      "role": "right",
+      "content": "À để mình xem. Đèn PON thì màu xanh lá cây và nó đứng yên luôn, không nhấp nháy. Còn đèn Internet thì không sáng đèn nào cả.",
+      "timestamp": 1757403802.8915014
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, đèn PON màu xanh lá cây đứng yên là tín hiệu tốt, cho thấy đường truyền cáp quang từ VNPT đến modem nhà mình vẫn ổn định ạ. Tuy nhiên, việc đèn Internet không sáng cho thấy modem chưa thiết lập được kết nối internet.  Anh/chị vui lòng thử khởi động lại modem giúp tôi nhé. Anh/chị có thể rút dây nguồn của modem ra khỏi ổ điện, chờ khoảng 10-15 giây rồi cắm lại. Sau đó, vui lòng đợi khoảng 2-3 phút để modem khởi động hoàn toàn và kiểm tra lại xem đèn Internet có sáng lên không ạ.",
+      "timestamp": 1757403809.5362442
+    },
+    {
+      "role": "right",
+      "content": "Ok bạn, để mình thử rút điện ra rồi cắm lại xem sao. Mình đợi một chút rồi báo lại bạn nhé.",
+      "timestamp": 1757403811.1677225
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, anh/chị cứ thực hiện và báo lại cho tôi kết quả nhé. Tôi sẽ giữ máy chờ ạ.",
+      "timestamp": 1757403816.3054976
+    },
+    {
+      "role": "right",
+      "content": "Mình cắm lại rồi nè, giờ thấy đèn Internet sáng xanh lên rồi. Để mình thử vào mạng xem sao nhé.",
+      "timestamp": 1757403818.838095
+    },
+    {
+      "role": "left",
+      "content": "Tuyệt vời ạ! Đèn Internet đã sáng xanh là một tín hiệu rất tốt. Anh/chị vui lòng thử truy cập vào một trang web bất kỳ hoặc mở ứng dụng cần internet để kiểm tra xem đã vào được mạng chưa nhé. Nếu có bất kỳ vấn đề gì, anh/chị cứ thông báo lại cho tôi ạ.",
+      "timestamp": 1757403825.5859823
+    },
+    {
+      "role": "right",
+      "content": "À được rồi bạn ơi, mình vào mạng lại được rồi. Chắc do nãy modem bị đơ thôi. Cảm ơn bạn nhiều nhé!",
+      "timestamp": 1757403831.8167536
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, vậy là tốt rồi ạ. Cảm ơn bạn Minh Anh đã hỗ trợ nhé! Chào bạn.",
+      "timestamp": 1757403838.7695158
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi rất vui khi nghe thấy mạng nhà mình đã hoạt động bình thường trở lại ạ. Anh/chị còn cần tôi hỗ trợ thêm thông tin hay vấn đề gì khác không ạ?",
+      "timestamp": 1757403839.9089527
+    }
+  ],
+  "turns": 5,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Người dùng đã xác nhận vấn đề mạng đã được giải quyết hoàn toàn (\"mình vào mạng lại được rồi\") và đã gửi lời cảm ơn rõ ràng (\"Cảm ơn bạn nhiều nhé!\"). Điều này cho thấy mục tiêu hội thoại đã đạt được và người dùng hài lòng, không cần hỗ trợ thêm. Bên cung cấp dịch vụ nên xác nhận việc kết thúc và cảm ơn người dùng.",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Dạ vâng, vậy là tốt rồi ạ. Cảm ơn bạn Minh Anh đã hỗ trợ nhé! Chào bạn."
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi rất vui khi nghe thấy mạng nhà mình đã hoạt động bình thường trở lại ạ. Anh/chị còn cần tôi hỗ trợ thêm thông tin hay vấn đề gì khác không ạ?"
+    }
+  ],
+  "reached_max_turns": false
+}

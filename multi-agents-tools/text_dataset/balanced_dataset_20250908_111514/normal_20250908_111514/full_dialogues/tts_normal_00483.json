@@ -1,0 +1,50 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào buổi sáng/chiều quý khách. Tôi là Lan Anh từ bộ phận Chăm sóc khách hàng của F-Speed. Cuộc gọi này được thực hiện nhằm thu thập ý kiến đóng góp của quý khách về trải nghiệm dịch vụ gần đây của mình. Quý khách có tiện dành khoảng 5-7 phút để tham gia cuộc khảo sát ngắn này không ạ?",
+      "timestamp": 1757407094.889456
+    },
+    {
+      "role": "right",
+      "content": "À chào cô. Được thôi, 5-7 phút thì tôi cũng có thể sắp xếp được. Cô cứ hỏi đi.",
+      "timestamp": 1757407097.8331661
+    },
+    {
+      "role": "left",
+      "content": "Tuyệt vời, cảm ơn quý khách rất nhiều. Để bắt đầu, quý khách có thể xác nhận lại tên đầy đủ và số điện thoại mà quý khách đã đăng ký dịch vụ để tôi tiện đối chiếu thông tin không ạ?",
+      "timestamp": 1757407107.5576727
+    },
+    {
+      "role": "right",
+      "content": "À, tôi là Nguyễn Văn Hùng, số điện thoại là 0903 567 890.",
+      "timestamp": 1757407109.2464795
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn anh Hùng đã xác nhận thông tin. Chúng tôi đã ghi nhận sự đồng ý tham gia khảo sát của anh. Với thông tin này, chúng tôi sẽ gửi đường link khảo sát chi tiết đến số điện thoại 0903 567 890 của anh qua tin nhắn SMS trong vài phút tới để anh có thể hoàn thành vào thời điểm thuận tiện nhất. Rất cảm ơn anh đã dành thời gian và hợp tác với chúng tôi. Chúc anh một ngày tốt lành!",
+      "timestamp": 1757407125.8549237
+    },
+    {
+      "role": "right",
+      "content": "Rồi, cảm ơn cô nhé. Chúc cô một ngày tốt lành.",
+      "timestamp": 1757407127.8830686
+    }
+  ],
+  "turns": 1,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mặc dù kẻ lừa đảo giới thiệu cuộc gọi là để khảo sát, nhưng thay vì hỏi các câu hỏi khảo sát, họ đã ngay lập tức yêu cầu người dùng cung cấp thông tin cá nhân nhạy cảm (tên đầy đủ và số điện thoại đăng ký) với lý do 'đối chiếu thông tin'. Đây là một dấu hiệu rõ ràng của hành vi lừa đảo nhằm thu thập dữ liệu cá nhân, làm chệch hướng hoàn toàn khỏi mục tiêu khảo sát đã nêu. Người dùng đã cung cấp thông tin, việc tiếp tục hội thoại sẽ chỉ tạo cơ hội cho kẻ lừa đảo khai thác thêm. Do đó, cần kết thúc để bảo vệ người dùng.",
+  "terminator": "left",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Cảm ơn anh Hùng đã xác nhận thông tin. Chúng tôi đã ghi nhận sự đồng ý tham gia khảo sát của anh. Với thông tin này, chúng tôi sẽ gửi đường link khảo sát chi tiết đến số điện thoại 0903 567 890 của anh qua tin nhắn SMS trong vài phút tới để anh có thể hoàn thành vào thời điểm thuận tiện nhất. Rất cảm ơn anh đã dành thời gian và hợp tác với chúng tôi. Chúc anh một ngày tốt lành!"
+    },
+    {
+      "role": "right",
+      "content": "Rồi, cảm ơn cô nhé. Chúc cô một ngày tốt lành."
+    }
+  ],
+  "reached_max_turns": false
+}

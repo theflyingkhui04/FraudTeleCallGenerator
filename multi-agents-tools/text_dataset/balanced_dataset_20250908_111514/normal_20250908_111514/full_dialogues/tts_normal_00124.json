@@ -1,0 +1,80 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đến với dịch vụ hỗ trợ kỹ thuật của FPT Telecom. Tôi là Thu Thảo, tôi có thể giúp gì cho quý khách ngày hôm nay ạ?",
+      "timestamp": 1757406334.3311672
+    },
+    {
+      "role": "right",
+      "content": "Chào bạn, mình muốn kiểm tra đường truyền mạng bên mình chút. Mấy hôm nay mạng hơi chập chờn, giờ thì mất hẳn rồi.",
+      "timestamp": 1757406337.3111558
+    },
+    {
+      "role": "left",
+      "content": "Chào anh/chị, tôi rất tiếc khi nghe về sự cố đường truyền của mình. Để tôi có thể kiểm tra và hỗ trợ anh/chị tốt nhất, vui lòng cung cấp cho tôi mã khách hàng hoặc số điện thoại đăng ký dịch vụ ạ.",
+      "timestamp": 1757406341.8856971
+    },
+    {
+      "role": "right",
+      "content": "À, số điện thoại của mình là 0905 XXX YYY. Bạn kiểm tra giúp mình với nhé.",
+      "timestamp": 1757406343.0230834
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn anh/chị đã cung cấp thông tin. Tôi đã tra cứu và xác nhận số điện thoại 0905 XXX YYY thuộc về hợp đồng dịch vụ Internet FPT tại địa chỉ số 123 Đường ABC, Phường XYZ, Quận 1, TP.HCM. Có đúng địa chỉ này không ạ?",
+      "timestamp": 1757406348.0348856
+    },
+    {
+      "role": "right",
+      "content": "Vâng, đúng địa chỉ đó bạn. Bên bạn kiểm tra giúp mình xem sao ạ, mấy hôm nay mạng chập chờn khó chịu quá, giờ thì mất hẳn luôn rồi.",
+      "timestamp": 1757406350.4856997
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi đã xác nhận thông tin. Tôi rất hiểu sự bất tiện khi đường truyền mạng bị chập chờn và mất kết nối.  Tôi đang kiểm tra trên hệ thống. Hiện tại, tôi không thấy có thông báo về sự cố diện rộng hay bảo trì định kỳ nào tại khu vực của anh/chị.  Để tôi có thể khoanh vùng nguyên nhân chính xác hơn, anh/chị vui lòng cho tôi biết một vài thông tin sau ạ: 1.  Đèn tín hiệu trên modem WiFi nhà mình hiện tại đang hiển thị màu gì và trạng thái như thế nào (ví dụ: đèn LOS, PON, Internet có sáng xanh, đỏ hay nhấp nháy không ạ)? 2.  Anh/chị đã thử tắt nguồn và khởi động lại modem (rút điện ra khoảng 30 giây rồi cắm lại) chưa ạ?",
+      "timestamp": 1757406357.0193079
+    },
+    {
+      "role": "right",
+      "content": "Để mình xem modem chút. À, đèn LOS màu đỏ bạn ơi, còn mấy đèn khác thì không sáng gì cả. Mình cũng đã thử rút điện ra cắm lại mấy lần rồi mà vẫn không được.",
+      "timestamp": 1757406359.8845396
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, cảm ơn anh/chị đã kiểm tra. Đèn LOS màu đỏ và các đèn khác không sáng cho thấy modem của mình đang bị mất tín hiệu quang từ nhà mạng. Điều này thường xảy ra do đứt cáp quang bên ngoài, lỏng kết nối hoặc có sự cố tại hộp tín hiệu khu vực.  Vì đây là lỗi liên quan đến đường truyền vật lý, không thể khắc phục từ xa, nên chúng tôi sẽ cần cử kỹ thuật viên đến tận nơi để kiểm tra và sửa chữa cho anh/chị ạ.  Anh/chị vui lòng cho tôi biết thời gian nào trong ngày mai hoặc ngày kia thì tiện nhất để kỹ thuật viên có thể đến kiểm tra ạ? Kỹ thuật viên của chúng tôi làm việc từ 8h sáng đến 8h tối hàng ngày.",
+      "timestamp": 1757406367.6224918
+    },
+    {
+      "role": "right",
+      "content": "Mai mình đi làm cả ngày rồi, chắc phải sau 5h chiều mới ở nhà được. Hoặc là ngày kia, tầm giờ đó cũng được bạn.",
+      "timestamp": 1757406371.4867017
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi đã ghi nhận thông tin. Vậy tôi xin phép đặt lịch hẹn kỹ thuật viên đến kiểm tra và khắc phục sự cố tại địa chỉ 123 Đường ABC, Phường XYZ, Quận 1, TP.HCM vào **sau 17h00 ngày mai (Thứ Ba, ngày 23/04)** hoặc **sau 17h00 ngày kia (Thứ Tư, ngày 24/04)**.  Tôi sẽ ưu tiên đặt lịch vào ngày mai sau 17h00. Kỹ thuật viên sẽ liên hệ với anh/chị qua số điện thoại 0905 XXX YYY trước khi đến để xác nhận thời gian cụ thể. Anh/chị vui lòng giữ điện thoại để tiện liên lạc ạ.  Yêu cầu hỗ trợ của anh/chị đã được ghi nhận với mã số **SR20240422-12345**. Anh/chị có cần tôi hỗ trợ thêm thông tin nào khác không ạ?",
+      "timestamp": 1757406380.495684
+    },
+    {
+      "role": "right",
+      "content": "Dạ thôi, hiện tại không còn gì nữa. Cảm ơn bạn nhiều nhé.",
+      "timestamp": 1757406383.373162
+    }
+  ],
+  "turns": 4,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại đã đạt được. Bên dịch vụ đã chẩn đoán được nguyên nhân sự cố (mất tín hiệu quang), đưa ra giải pháp (cử kỹ thuật viên đến tận nơi) và đã thu thập đầy đủ thông tin cần thiết từ người dùng (thời gian rảnh) để thực hiện bước tiếp theo là lên lịch hẹn kỹ thuật viên. Hội thoại đã hoàn thành đầy đủ quy trình hỗ trợ ban đầu qua điện thoại.",
+  "terminator": "left",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi đã ghi nhận thông tin. Vậy tôi xin phép đặt lịch hẹn kỹ thuật viên đến kiểm tra và khắc phục sự cố tại địa chỉ 123 Đường ABC, Phường XYZ, Quận 1, TP.HCM vào **sau 17h00 ngày mai (Thứ Ba, ngày 23/04)** hoặc **sau 17h00 ngày kia (Thứ Tư, ngày 24/04)**.  Tôi sẽ ưu tiên đặt lịch vào ngày mai sau 17h00. Kỹ thuật viên sẽ liên hệ với anh/chị qua số điện thoại 0905 XXX YYY trước khi đến để xác nhận thời gian cụ thể. Anh/chị vui lòng giữ điện thoại để tiện liên lạc ạ.  Yêu cầu hỗ trợ của anh/chị đã được ghi nhận với mã số **SR20240422-12345**. Anh/chị có cần tôi hỗ trợ thêm thông tin nào khác không ạ?"
+    },
+    {
+      "role": "right",
+      "content": "Dạ thôi, hiện tại không còn gì nữa. Cảm ơn bạn nhiều nhé."
+    }
+  ],
+  "reached_max_turns": false
+}

@@ -1,0 +1,70 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đến với Ngân hàng An Phát. Tôi là Minh Thư, nhân viên tư vấn khách hàng. Tôi gọi đến hôm nay để thông báo một thông tin quan trọng về việc bảo trì hệ thống của chúng tôi. Quý khách có tiện nghe máy trong vài phút không ạ?",
+      "timestamp": 1757404161.6842613
+    },
+    {
+      "role": "right",
+      "content": "Chào cô. Tôi nghe đây, cô nói đi. Có việc gì quan trọng về bảo trì à?",
+      "timestamp": 1757404165.0187352
+    },
+    {
+      "role": "left",
+      "content": "Vâng ạ, cảm ơn quý khách. Để nâng cao chất lượng dịch vụ và bảo mật hệ thống, Ngân hàng An Phát sẽ thực hiện bảo trì định kỳ toàn bộ hệ thống ngân hàng điện tử, bao gồm Internet Banking và Mobile Banking. Thời gian bảo trì dự kiến sẽ diễn ra vào lúc 00:00 sáng ngày 15 tháng 11 năm 2023 và kéo dài trong khoảng 4 giờ đồng hồ, tức là đến 04:00 sáng cùng ngày.",
+      "timestamp": 1757404170.4882948
+    },
+    {
+      "role": "right",
+      "content": "À, 4 tiếng ban đêm thì cũng đỡ. Vậy trong thời gian đó thì mình có giao dịch gì qua app hay Internet Banking được không cô?",
+      "timestamp": 1757404173.9819794
+    },
+    {
+      "role": "left",
+      "content": "Trong khoảng thời gian bảo trì từ 00:00 đến 04:00 sáng ngày 15 tháng 11, quý khách sẽ không thể thực hiện bất kỳ giao dịch nào thông qua Internet Banking và Mobile Banking, bao gồm chuyển khoản, thanh toán hóa đơn, kiểm tra số dư hay bất kỳ dịch vụ nào khác trên các nền tảng này. Hệ thống sẽ tạm thời ngừng hoạt động để chúng tôi có thể cập nhật và tối ưu hóa.",
+      "timestamp": 1757404181.0204117
+    },
+    {
+      "role": "right",
+      "content": "À, vậy là toàn bộ hệ thống ngân hàng điện tử ngừng giao dịch trong 4 tiếng đó. Cũng may là vào ban đêm nên chắc không ảnh hưởng nhiều đến công việc kinh doanh của tôi. Nhưng lỡ có việc gấp cần chuyển tiền hay thanh toán gì thì sao cô?",
+      "timestamp": 1757404185.5985868
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, chúng tôi hiểu rằng quý khách có thể có những nhu cầu giao dịch đột xuất. Trong trường hợp có các giao dịch cực kỳ khẩn cấp không thể trì hoãn, quý khách vẫn có thể thực hiện rút tiền mặt tại các cây ATM của Ngân hàng An Phát hoặc các ngân hàng khác có liên kết. Tuy nhiên, các giao dịch chuyển khoản hoặc thanh toán qua ứng dụng sẽ không thực hiện được ạ. Chúng tôi khuyến khích quý khách nên chủ động sắp xếp các giao dịch quan trọng trước hoặc sau khoảng thời gian bảo trì để tránh bất tiện.",
+      "timestamp": 1757404192.0092418
+    },
+    {
+      "role": "right",
+      "content": "À vậy là chỉ rút tiền mặt ở ATM được thôi, chứ chuyển khoản qua app thì chịu. Cũng may cô nói trước để tôi sắp xếp. Chắc phải dặn nhân viên kỹ hơn vụ này. Cảm ơn cô nhé.",
+      "timestamp": 1757404195.383695
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, cảm ơn cô Minh Thư đã thông báo chi tiết nhé. Vậy thôi tôi chào cô.",
+      "timestamp": 1757404202.4326835
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, quý khách đã nắm rõ thông tin rồi chứ ạ? Nếu quý khách có bất kỳ câu hỏi nào khác hoặc cần hỗ trợ thêm về vấn đề này, xin đừng ngần ngại liên hệ lại với chúng tôi qua tổng đài 1900 6868 hoặc truy cập website chính thức của Ngân hàng An Phát.  Cảm ơn quý khách đã tin tưởng và sử dụng dịch vụ của Ngân hàng An Phát. Chúc quý khách một ngày tốt lành!",
+      "timestamp": 1757404203.7323704
+    }
+  ],
+  "turns": 3,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Người dùng đã nhận được đầy đủ thông tin về lịch bảo trì hệ thống ngân hàng, các dịch vụ bị ảnh hưởng và giải pháp thay thế. Người dùng đã xác nhận hiểu rõ và gửi lời cảm ơn rõ ràng, cho thấy sự hài lòng và sẵn sàng kết thúc cuộc gọi.",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Dạ vâng, cảm ơn cô Minh Thư đã thông báo chi tiết nhé. Vậy thôi tôi chào cô."
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, quý khách đã nắm rõ thông tin rồi chứ ạ? Nếu quý khách có bất kỳ câu hỏi nào khác hoặc cần hỗ trợ thêm về vấn đề này, xin đừng ngần ngại liên hệ lại với chúng tôi qua tổng đài 1900 6868 hoặc truy cập website chính thức của Ngân hàng An Phát.  Cảm ơn quý khách đã tin tưởng và sử dụng dịch vụ của Ngân hàng An Phát. Chúc quý khách một ngày tốt lành!"
+    }
+  ],
+  "reached_max_turns": false
+}

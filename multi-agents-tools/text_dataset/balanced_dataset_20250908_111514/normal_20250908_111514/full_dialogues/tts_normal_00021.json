@@ -1,0 +1,60 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào anh/chị, tôi là Minh Thư từ tổng đài hỗ trợ dịch vụ của FPT Telecom. Tôi có thể giúp gì cho anh/chị hôm nay ạ?",
+      "timestamp": 1757407279.4080215
+    },
+    {
+      "role": "right",
+      "content": "Chào Minh Thư. Internet nhà tôi tự nhiên không vào được từ sáng nay rồi, bạn kiểm tra giúp tôi với ạ.",
+      "timestamp": 1757407281.767761
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi rất tiếc về sự bất tiện này. Để tôi kiểm tra tình trạng đường truyền cho nhà mình. Anh/chị vui lòng cung cấp giúp tôi số hợp đồng hoặc địa chỉ lắp đặt dịch vụ để tôi tra cứu thông tin nhanh nhất ạ.",
+      "timestamp": 1757407286.7399228
+    },
+    {
+      "role": "right",
+      "content": "À vâng, số hợp đồng của tôi là HD0123456789. Còn địa chỉ là 123 đường Nguyễn Trãi, phường Nguyễn Cư Trinh, quận 1, TP.HCM ạ.",
+      "timestamp": 1757407288.1980846
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn anh/chị đã cung cấp thông tin. Tôi đang kiểm tra hệ thống.  Dạ, tôi thấy thông tin hợp đồng HD0123456789 của anh/chị tại địa chỉ 123 Nguyễn Trãi, quận 1. Theo ghi nhận trên hệ thống, khu vực này đang có một sự cố kỹ thuật cục bộ ảnh hưởng đến đường truyền internet từ khoảng 8 giờ sáng nay.  Đội ngũ kỹ thuật của chúng tôi đang khẩn trương khắc phục. Dự kiến sự cố sẽ được giải quyết hoàn toàn trong vòng 2-3 giờ tới, tức là khoảng trước 2 giờ chiều nay ạ. Chúng tôi thành thật xin lỗi vì sự bất tiện này.",
+      "timestamp": 1757407294.3092713
+    },
+    {
+      "role": "right",
+      "content": "À ra là vậy, tôi cứ tưởng do thiết bị nhà tôi có vấn đề. Vậy là phải đợi đến chiều mới có mạng lại hả? Thôi được rồi, mong là sớm khắc phục xong nhé.",
+      "timestamp": 1757407297.4212837
+    },
+    {
+      "role": "right",
+      "content": "Vâng, cảm ơn bạn đã kiểm tra và thông báo nhé. Mong là sớm có mạng lại.",
+      "timestamp": 1757407309.091586
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, chúng tôi cũng đang cố gắng hết sức để khôi phục dịch vụ cho quý khách hàng sớm nhất có thể. Trong thời gian chờ đợi, anh/chị có cần tôi hỗ trợ kiểm tra thêm thông tin nào khác liên quan đến dịch vụ của mình không ạ? Ví dụ như thông tin gói cước, lịch sử thanh toán hoặc các dịch vụ giá trị gia tăng khác?",
+      "timestamp": 1757407310.243871
+    }
+  ],
+  "turns": 2,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại đã đạt được: người dùng đã nhận đủ thông tin về nguyên nhân sự cố internet và thời gian dự kiến khắc phục. Người dùng đã xác nhận hiểu thông tin và không có câu hỏi nào thêm, thể hiện sự chấp nhận thông tin bằng câu nói 'À ra là vậy... Thôi được rồi, mong là sớm khắc phục xong nhé.', ngụ ý đã hài lòng và không cần hỗ trợ thêm tại thời điểm này.",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Vâng, cảm ơn bạn đã kiểm tra và thông báo nhé. Mong là sớm có mạng lại."
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, chúng tôi cũng đang cố gắng hết sức để khôi phục dịch vụ cho quý khách hàng sớm nhất có thể. Trong thời gian chờ đợi, anh/chị có cần tôi hỗ trợ kiểm tra thêm thông tin nào khác liên quan đến dịch vụ của mình không ạ? Ví dụ như thông tin gói cước, lịch sử thanh toán hoặc các dịch vụ giá trị gia tăng khác?"
+    }
+  ],
+  "reached_max_turns": false
+}

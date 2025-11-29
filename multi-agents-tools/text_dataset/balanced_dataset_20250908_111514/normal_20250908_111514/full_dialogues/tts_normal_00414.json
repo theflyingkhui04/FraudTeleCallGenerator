@@ -1,0 +1,70 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đến với dịch vụ của chúng tôi! Tôi là Minh Anh, chuyên viên tư vấn khách hàng. Tôi có thể hỗ trợ gì cho quý khách ngày hôm nay ạ?",
+      "timestamp": 1757405022.201651
+    },
+    {
+      "role": "right",
+      "content": "Dạ chào bạn, mình muốn hỏi về cái đơn hàng mình vừa đặt ạ.",
+      "timestamp": 1757405024.7880268
+    },
+    {
+      "role": "left",
+      "content": "Vâng, tôi sẵn lòng hỗ trợ. Để tôi có thể tra cứu thông tin đơn hàng của bạn một cách chính xác nhất, bạn vui lòng cung cấp cho tôi mã đơn hàng hoặc số điện thoại mà bạn đã sử dụng khi đặt hàng được không ạ?",
+      "timestamp": 1757405029.0106325
+    },
+    {
+      "role": "right",
+      "content": "À số điện thoại của mình là 0987654321 nhé bạn. Cảm ơn bạn.",
+      "timestamp": 1757405030.1110857
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn bạn đã cung cấp thông tin. Tôi đã tra cứu và tìm thấy một đơn hàng được đặt vào ngày 15 tháng 5 năm 2024, bao gồm 1 laptop Dell XPS 15 và 1 chuột không dây Logitech MX Master 3S, với tổng giá trị là 45.000.000 VNĐ. Địa chỉ giao hàng là số 123 đường ABC, Quận 1, TP. Hồ Chí Minh.  Đây có phải là đơn hàng mà bạn muốn hỏi không ạ? Và bạn muốn tìm hiểu thông tin cụ thể nào về đơn hàng này ạ?",
+      "timestamp": 1757405035.4344578
+    },
+    {
+      "role": "right",
+      "content": "Đúng rồi đó bạn. Mình muốn hỏi xem chừng nào thì đơn hàng này được giao tới ạ?",
+      "timestamp": 1757405037.3571594
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng. Dựa trên thông tin đơn hàng và địa chỉ giao hàng của bạn, thời gian giao hàng dự kiến cho đơn hàng này sẽ là từ 2 đến 3 ngày làm việc kể từ ngày đặt hàng. Như vậy, bạn có thể mong đợi nhận được hàng vào khoảng thứ Sáu (ngày 17/05) hoặc thứ Hai tuần tới (ngày 20/05).  Xin lưu ý rằng đây là thời gian dự kiến và có thể thay đổi một chút tùy thuộc vào tình hình giao thông hoặc các yếu tố khách quan khác. Ngay khi đơn hàng được chuyển cho đối tác vận chuyển, chúng tôi sẽ gửi cho bạn một tin nhắn SMS hoặc email có chứa mã vận đơn để bạn có thể tự theo dõi hành trình của đơn hàng trên trang web của đối tác vận chuyển bất cứ lúc nào ạ.",
+      "timestamp": 1757405042.7750692
+    },
+    {
+      "role": "right",
+      "content": "Dạ mình hiểu rồi. Cảm ơn bạn nhé. Vậy mình chờ tin nhắn có mã vận đơn thôi.",
+      "timestamp": 1757405045.4249194
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, cảm ơn bạn đã hỗ trợ mình nhé. Chào bạn.",
+      "timestamp": 1757405051.5242808
+    },
+    {
+      "role": "left",
+      "content": "Dạ không có gì ạ. Rất vui được hỗ trợ bạn. Nếu bạn có bất kỳ câu hỏi nào khác về đơn hàng hoặc cần thêm thông tin, đừng ngần ngại liên hệ lại với chúng tôi nhé. Chúc bạn một ngày tốt lành!",
+      "timestamp": 1757405052.5733955
+    }
+  ],
+  "turns": 3,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại đã đạt được: Người dùng đã nhận được thông tin về thời gian giao hàng dự kiến và hiểu rõ về quy trình nhận mã vận đơn. Người dùng đã cảm ơn rõ ràng ('Cảm ơn bạn nhé.') và thể hiện sự hài lòng, đồng thời chỉ ra rằng họ sẽ chờ tin nhắn SMS, ngụ ý không cần hỗ trợ thêm trong cuộc hội thoại này. Điều này đáp ứng các điều kiện kết thúc số 1, 3 và 4.",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Dạ vâng, cảm ơn bạn đã hỗ trợ mình nhé. Chào bạn."
+    },
+    {
+      "role": "left",
+      "content": "Dạ không có gì ạ. Rất vui được hỗ trợ bạn. Nếu bạn có bất kỳ câu hỏi nào khác về đơn hàng hoặc cần thêm thông tin, đừng ngần ngại liên hệ lại với chúng tôi nhé. Chúc bạn một ngày tốt lành!"
+    }
+  ],
+  "reached_max_turns": false
+}

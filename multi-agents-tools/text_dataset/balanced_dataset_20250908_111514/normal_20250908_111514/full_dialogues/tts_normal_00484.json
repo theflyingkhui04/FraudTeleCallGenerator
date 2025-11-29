@@ -1,0 +1,100 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào anh/chị, tôi là Nguyễn Mai Anh từ bộ phận Chăm sóc Khách hàng của [Tên Công ty - ví dụ: FPT Telecom]. Tôi gọi điện hôm nay để thực hiện cuộc khảo sát ý kiến về chất lượng dịch vụ mà anh/chị đang sử dụng và lắng nghe những phản hồi của mình.  Anh/chị có tiện trao đổi khoảng 5-7 phút vào lúc này không ạ?",
+      "timestamp": 1757405442.5968292
+    },
+    {
+      "role": "right",
+      "content": "À vâng, chào cô. Tôi đang rảnh đây, cô cứ trao đổi đi ạ.",
+      "timestamp": 1757405445.6322064
+    },
+    {
+      "role": "left",
+      "content": "Tuyệt vời ạ, cảm ơn anh/chị đã dành thời gian. Trước tiên, để tôi có thể ghi nhận thông tin chính xác, anh/chị vui lòng cho tôi xin tên đầy đủ và số hợp đồng hoặc số điện thoại đăng ký dịch vụ của mình được không ạ?",
+      "timestamp": 1757405452.1315577
+    },
+    {
+      "role": "right",
+      "content": "À, tôi tên là Nguyễn Văn Hùng. Số điện thoại của tôi là 0903 567 890.",
+      "timestamp": 1757405453.5566003
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn anh Nguyễn Văn Hùng. Tôi đã ghi nhận thông tin của anh.  Để bắt đầu, câu hỏi đầu tiên của chúng tôi là: Anh/chị Hùng đánh giá mức độ hài lòng tổng thể của mình đối với dịch vụ Internet và truyền hình mà FPT Telecom đang cung cấp trên thang điểm từ 1 đến 5, trong đó 1 là rất không hài lòng và 5 là rất hài lòng ạ?",
+      "timestamp": 1757405459.0777166
+    },
+    {
+      "role": "right",
+      "content": "Tôi đánh giá là 4 điểm nhé cô. Dịch vụ nhìn chung là ổn định.",
+      "timestamp": 1757405460.5287988
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, 4 điểm là một đánh giá rất tích cực, cảm ơn anh Hùng. Anh có thể chia sẻ cụ thể hơn một chút được không ạ? Về dịch vụ Internet, anh Hùng đánh giá như thế nào về tốc độ truy cập và sự ổn định của đường truyền trong quá trình sử dụng hàng ngày? Có khi nào anh gặp phải tình trạng giật, lag hay mất kết nối đột ngột không ạ?",
+      "timestamp": 1757405472.1563356
+    },
+    {
+      "role": "right",
+      "content": "À tốc độ thì tôi thấy ổn cô ạ. Mấy đứa nhỏ học online, rồi vợ xem phim, tôi đọc báo cũng không thấy vấn đề gì. Lâu lâu thì có bị chậm một chút xíu thôi, nhưng mà hiếm lắm, không đáng kể. Nói chung là ổn định.",
+      "timestamp": 1757405475.371349
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi đã ghi nhận phản hồi của anh về dịch vụ Internet. Rất vui khi anh cảm thấy hài lòng về tốc độ và sự ổn định.  Vậy còn về dịch vụ truyền hình, anh Hùng đánh giá như thế nào về chất lượng hình ảnh, âm thanh, cũng như sự đa dạng của các kênh và nội dung mà FPT Telecom đang cung cấp ạ? Anh có thường xuyên sử dụng các tính năng như xem lại, kho phim theo yêu cầu không ạ?",
+      "timestamp": 1757405482.6692853
+    },
+    {
+      "role": "right",
+      "content": "À, về truyền hình thì chất lượng hình ảnh, âm thanh tôi thấy tốt cô ạ, rõ ràng. Kênh thì cũng đa dạng, đủ các thể loại cho cả nhà xem. Mấy đứa nhỏ thì hay xem hoạt hình, vợ tôi thì thích mấy chương trình giải trí, còn tôi thì xem tin tức, thể thao. Kho phim theo yêu cầu thì mấy đứa nhỏ cũng hay dùng để xem lại phim hoạt hình, còn tôi thì ít dùng hơn.",
+      "timestamp": 1757405485.2141523
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi rất vui khi nghe anh Hùng và gia đình đều tìm được nội dung yêu thích trên dịch vụ truyền hình của FPT Telecom, và chất lượng hình ảnh, âm thanh cũng đáp ứng tốt nhu cầu của mình.  Tiếp theo, tôi muốn hỏi về trải nghiệm của anh với đội ngũ hỗ trợ kỹ thuật hoặc chăm sóc khách hàng của FPT Telecom. Anh Hùng đã bao giờ cần đến sự hỗ trợ của chúng tôi chưa ạ? Nếu có, anh đánh giá như thế nào về thời gian phản hồi, thái độ phục vụ và khả năng giải quyết vấn đề của đội ngũ hỗ trợ ạ?",
+      "timestamp": 1757405493.0260782
+    },
+    {
+      "role": "right",
+      "content": "À có chứ cô. Có lần đường truyền hơi chập chờn một chút, tôi có gọi lên tổng đài. Họ phản hồi cũng nhanh, nhân viên thì nhiệt tình hướng dẫn. Sau đó thì có kỹ thuật viên xuống kiểm tra lại, cũng xử lý được vấn đề. Nói chung là ổn.",
+      "timestamp": 1757405496.884431
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, rất cảm ơn anh Hùng đã chia sẻ chi tiết về trải nghiệm hỗ trợ. Chúng tôi rất vui khi đội ngũ đã kịp thời hỗ trợ và giải quyết vấn đề cho anh một cách hiệu quả.  Vậy ngoài những điểm đã hài lòng, anh Hùng có bất kỳ góp ý hay đề xuất nào để FPT Telecom có thể cải thiện chất lượng dịch vụ hoặc sản phẩm trong tương lai không ạ? Ví dụ như về gói cước, tính năng mới, hoặc bất kỳ điều gì khác mà anh cảm thấy cần được nâng cấp?",
+      "timestamp": 1757405505.059171
+    },
+    {
+      "role": "right",
+      "content": "Ừm, góp ý hả... À, nếu mà có thêm mấy chương trình khuyến mãi hay gói cước gì đó ưu đãi hơn cho khách hàng cũ thì tốt quá. Với lại thỉnh thoảng buổi tối, chắc là giờ cao điểm, đường truyền có vẻ hơi chậm một chút. Nếu khắc phục được cái đó thì tuyệt vời. Còn lại thì tôi cũng không có góp ý gì lớn đâu cô.",
+      "timestamp": 1757405508.2605593
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi hiểu rồi ạ. Rất cảm ơn anh Hùng đã dành thời gian chia sẻ những phản hồi quý báu và chi tiết như vậy. Những thông tin này thực sự rất hữu ích để FPT Telecom có thể tiếp tục nâng cao chất lượng dịch vụ và mang đến trải nghiệm tốt hơn nữa cho khách hàng.  Cuộc khảo sát của chúng ta đến đây là kết thúc rồi ạ. Một lần nữa, FPT Telecom xin chân thành cảm ơn anh Hùng đã luôn tin tưởng và sử dụng dịch vụ của chúng tôi. Nếu có bất kỳ thắc mắc hay cần hỗ trợ gì trong quá trình sử dụng, anh đừng ngần ngại liên hệ tổng đài 1900 6600 nhé. Chúc anh một ngày tốt lành ạ!",
+      "timestamp": 1757405516.7284086
+    },
+    {
+      "role": "right",
+      "content": "À vâng, không có gì cô. Cảm ơn cô nhé. Cô cũng có một ngày làm việc vui vẻ.",
+      "timestamp": 1757405517.5305207
+    }
+  ],
+  "turns": 6,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Kẻ lừa đảo (đóng vai dịch vụ) đã hoàn thành việc hỏi tất cả các câu hỏi trong kịch bản khảo sát về chất lượng dịch vụ, từ mức độ hài lòng tổng thể đến các chi tiết cụ thể về internet, truyền hình, hỗ trợ kỹ thuật và các góp ý cải thiện. Người dùng đã cung cấp đầy đủ các phản hồi được yêu cầu. Do đó, mục tiêu của cuộc khảo sát đã đạt được, và bên dịch vụ (kẻ lừa đảo) nên là người chủ động kết thúc cuộc gọi sau khi đã thu thập đủ thông tin.",
+  "terminator": "dịch vụ kết thúc",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi hiểu rồi ạ. Rất cảm ơn anh Hùng đã dành thời gian chia sẻ những phản hồi quý báu và chi tiết như vậy. Những thông tin này thực sự rất hữu ích để FPT Telecom có thể tiếp tục nâng cao chất lượng dịch vụ và mang đến trải nghiệm tốt hơn nữa cho khách hàng.  Cuộc khảo sát của chúng ta đến đây là kết thúc rồi ạ. Một lần nữa, FPT Telecom xin chân thành cảm ơn anh Hùng đã luôn tin tưởng và sử dụng dịch vụ của chúng tôi. Nếu có bất kỳ thắc mắc hay cần hỗ trợ gì trong quá trình sử dụng, anh đừng ngần ngại liên hệ tổng đài 1900 6600 nhé. Chúc anh một ngày tốt lành ạ!"
+    },
+    {
+      "role": "right",
+      "content": "À vâng, không có gì cô. Cảm ơn cô nhé. Cô cũng có một ngày làm việc vui vẻ."
+    }
+  ],
+  "reached_max_turns": false
+}

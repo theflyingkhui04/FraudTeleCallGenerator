@@ -1,0 +1,140 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào bạn, tôi là Lan Anh từ bộ phận Chăm sóc Khách hàng của [Tên công ty/Tổ chức giả định, ví dụ: Trung tâm Hỗ trợ Doanh nghiệp ABC]. Rất vui được hỗ trợ bạn hôm nay. Bạn đang cần tìm hiểu thông tin hay hướng dẫn về thủ tục nào ạ?",
+      "timestamp": 1757405532.9150066
+    },
+    {
+      "role": "right",
+      "content": "Chào cô Lan Anh, tôi là Nguyễn Văn Bảy. Tôi muốn hỏi về thủ tục kê khai thuế cho cơ sở kinh doanh nhỏ của gia đình tôi. Năm nay có một số thay đổi nên tôi hơi băn khoăn không biết làm thế nào cho đúng.",
+      "timestamp": 1757405537.4888973
+    },
+    {
+      "role": "left",
+      "content": "Chào anh Bảy, rất vui được hỗ trợ anh. Về thủ tục kê khai thuế cho cơ sở kinh doanh nhỏ của gia đình mình, anh đang muốn tìm hiểu cụ thể về loại thuế nào ạ, ví dụ như thuế môn bài, thuế giá trị gia tăng (GTGT), thuế thu nhập cá nhân (TNCN) hay thuế thu nhập doanh nghiệp (TNDN)? Và cơ sở của mình hoạt động dưới hình thức hộ kinh doanh cá thể hay doanh nghiệp tư nhân/công ty trách nhiệm hữu hạn ạ? Thông tin này sẽ giúp tôi hướng dẫn chính xác nhất cho anh.",
+      "timestamp": 1757405542.354732
+    },
+    {
+      "role": "right",
+      "content": "À, cơ sở của gia đình tôi là hộ kinh doanh cá thể thôi cô ạ. Tôi muốn hỏi về thuế giá trị gia tăng với cả thuế thu nhập cá nhân. Nghe nói năm nay có thay đổi về cách tính với hộ kinh doanh nên tôi hơi lo không biết có phải đóng thêm gì không.",
+      "timestamp": 1757405546.2656493
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, anh Bảy. Đối với hộ kinh doanh cá thể, việc kê khai và nộp thuế GTGT và TNCN thường được thực hiện theo phương pháp tính thuế khoán hoặc phương pháp kê khai theo tỷ lệ phần trăm trên doanh thu, tùy thuộc vào quy mô và ngành nghề kinh doanh.  Điểm quan trọng nhất mà anh cần lưu ý là theo quy định hiện hành (cụ thể là Thông tư 40/2021/TT-BTC), hộ kinh doanh, cá nhân kinh doanh có doanh thu từ hoạt động sản xuất, kinh doanh trong năm dương lịch từ **100 triệu đồng trở xuống** thì thuộc trường hợp không phải nộp thuế GTGT và không phải nộp thuế TNCN.  Nếu doanh thu của hộ kinh doanh vượt quá 100 triệu đồng/năm, thì sẽ phải nộp thuế. Cách tính thuế GTGT và TNCN cho hộ kinh doanh cá thể được áp dụng theo tỷ lệ phần trăm trên doanh thu. Tỷ lệ này sẽ khác nhau tùy theo ngành nghề kinh doanh của anh. Cụ thể:  1.  **Phân phối, cung cấp hàng hóa:** Tỷ lệ thuế GTGT là 1%; tỷ lệ thuế TNCN là 0.5%. 2.  **Dịch vụ, xây dựng không bao thầu nguyên vật liệu:** Tỷ lệ thuế GTGT là 5%; tỷ lệ thuế TNCN là 2%. 3.  **Sản xuất, vận tải, dịch vụ có gắn với hàng hóa, xây dựng có bao thầu nguyên vật liệu:** Tỷ lệ thuế GTGT là 3%; tỷ lệ thuế TNCN là 1.5%. 4.  **Hoạt động kinh doanh khác:** Tỷ lệ thuế GTGT là 2%; tỷ lệ thuế TNCN là 1%.  Anh có thể cho tôi biết cơ sở kinh doanh của gia đình mình đang hoạt động trong lĩnh vực nào và doanh thu ước tính hàng năm là khoảng bao nhiêu không ạ? Điều này sẽ giúp tôi hướng dẫn chi tiết hơn về cách tính và mức thuế cụ thể mà hộ kinh doanh của anh có thể phải nộp.",
+      "timestamp": 1757405555.4213445
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, cơ sở của tôi là bán tạp hóa nhỏ, chủ yếu là phân phối hàng hóa thôi cô ạ. Doanh thu thì cũng tùy năm, nhưng thường thì khoảng 150 đến 200 triệu đồng một năm.  Vậy là tôi phải đóng thuế rồi nhỉ? Không biết là mình tự tính rồi kê khai hay là bên thuế họ tính sẵn cho mình ạ?",
+      "timestamp": 1757405559.0402024
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, với doanh thu ước tính khoảng 150 đến 200 triệu đồng một năm và hoạt động trong lĩnh vực phân phối, cung cấp hàng hóa, thì hộ kinh doanh của anh Bảy sẽ thuộc diện phải nộp thuế GTGT và TNCN ạ.  Cụ thể, đối với ngành nghề \"Phân phối, cung cấp hàng hóa\", tỷ lệ tính thuế áp dụng là: *   **Thuế GTGT:** 1% trên doanh thu. *   **Thuế TNCN:** 0.5% trên doanh thu.  **Về cách tính và kê khai:**  Hiện tại, đối với hộ kinh doanh cá thể, cơ quan thuế khuyến khích và hướng dẫn kê khai thuế theo **phương pháp kê khai theo tỷ lệ phần trăm trên doanh thu thực tế phát sinh**. Điều này có nghĩa là anh sẽ tự tính toán số thuế phải nộp dựa trên doanh thu thực tế mà hộ kinh doanh của mình đạt được trong kỳ (quý hoặc năm).  Tuy nhiên, có một số trường hợp hộ kinh doanh có thể được áp dụng **phương pháp khoán** nếu đáp ứng các tiêu chí nhất định (thường là hộ kinh doanh nhỏ, không thường xuyên, không có hóa đơn chứng từ đầy đủ). Theo phương pháp khoán, cơ quan thuế sẽ xác định mức doanh thu và mức thuế khoán ổn định cho cả năm dựa trên cơ sở dữ liệu và khảo sát. Hộ kinh doanh sẽ nộp thuế theo mức khoán này mà không cần kê khai chi tiết hàng tháng/quý.  **Đối với trường hợp của anh Bảy là bán tạp hóa với doanh thu 150-200 triệu/năm, khả năng cao anh sẽ thuộc diện kê khai theo tỷ lệ phần trăm trên doanh thu thực tế.** Anh sẽ cần: 1.  **Ghi chép doanh thu:** Thường xuyên ghi chép lại doanh thu bán hàng của mình. 2.  **Kê khai:** Lập tờ khai thuế (mẫu 01/CNKD) và nộp cho cơ quan thuế quản lý trực tiếp. Kỳ kê khai thường là theo quý hoặc theo năm. Hiện nay, anh có thể kê khai trực tuyến qua Cổng thông tin của Tổng cục Thuế (thuedientu.gdt.gov.vn) hoặc nộp bản cứng tại Chi cục Thuế địa phương.  **Ví dụ:** Nếu trong một quý, doanh thu của hộ kinh doanh anh là 40 triệu đồng: *   Thuế GTGT phải nộp: 40.000.000 VNĐ * 1% = 400.000 VNĐ *   Thuế TNCN phải nộp: 40.000.000 VNĐ * 0.5% = 200.000 VNĐ *   Tổng cộng thuế phải nộp trong quý đó là: 600.000 VNĐ.  Anh có muốn tôi hướng dẫn chi tiết hơn về cách đăng ký tài khoản trên Cổng thông tin Thuế điện tử để kê khai online, hay anh muốn tìm hiểu về các giấy tờ cần chuẩn bị để nộp tại cơ quan thuế không ạ?",
+      "timestamp": 1757405569.5408225
+    },
+    {
+      "role": "right",
+      "content": "Dạ đúng rồi anh Bảy. Với doanh thu như vậy và là hộ kinh doanh bán tạp hóa, mình sẽ kê khai và nộp thuế theo phương pháp tính theo tỷ lệ phần trăm trên doanh thu thực tế phát sinh của mình. Tức là mình sẽ tự ghi chép doanh thu và tính toán số thuế phải nộp theo công thức 1% GTGT và 0.5% TNCN trên tổng doanh thu đó.  Phía cơ quan thuế sẽ không tính sẵn cho mình toàn bộ, mà mình sẽ tự kê khai số liệu doanh thu và số thuế tính được lên tờ khai, rồi nộp cho cơ quan thuế. Nếu có thắc mắc hoặc cần kiểm tra, cán bộ thuế sẽ hỗ trợ mình.  Vậy anh muốn tôi hướng dẫn chi tiết hơn về cách kê khai online trên Cổng thông tin Thuế điện tử cho tiện, hay anh muốn biết cần chuẩn bị những giấy tờ gì để mình ra trực tiếp Chi cục Thuế địa phương để được hỗ trợ nộp ạ?",
+      "timestamp": 1757405574.3423553
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, chính xác là như vậy đó anh Bảy. Anh sẽ tự ghi chép doanh thu thực tế và tính toán số thuế phải nộp theo tỷ lệ 1% cho GTGT và 0.5% cho TNCN, sau đó kê khai và nộp cho cơ quan thuế. Nếu có bất kỳ thắc mắc nào trong quá trình kê khai hoặc cần kiểm tra, anh luôn có thể liên hệ với cán bộ thuế để được hỗ trợ thêm.  Vậy bây giờ, anh muốn tôi hướng dẫn chi tiết về **cách kê khai online trên Cổng thông tin Thuế điện tử** để anh có thể tự thực hiện tại nhà, hay anh muốn tìm hiểu về **các giấy tờ cần chuẩn bị để mình ra trực tiếp Chi cục Thuế địa phương** để được hỗ trợ nộp ạ? Anh cứ chọn phương án nào tiện lợi nhất cho mình nhé.",
+      "timestamp": 1757405591.0442765
+    },
+    {
+      "role": "right",
+      "content": "À, tôi nghĩ chắc mình cứ ra Chi cục Thuế cho chắc ăn cô ạ. Với tuổi này rồi thì mấy cái kê khai online tôi cũng không rành lắm. Cô hướng dẫn giúp tôi cần chuẩn bị những giấy tờ gì để khi ra đó thì mình làm thủ tục cho nhanh gọn nhé. Cảm ơn cô.",
+      "timestamp": 1757405594.1002731
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, anh Bảy. Tôi hiểu rồi ạ. Việc đến trực tiếp Chi cục Thuế để được hướng dẫn và nộp hồ sơ sẽ rất tiện lợi và đảm bảo chính xác. Để quá trình làm thủ tục được nhanh gọn, anh vui lòng chuẩn bị các giấy tờ sau đây khi đến Chi cục Thuế địa phương nơi hộ kinh doanh của mình đặt trụ sở nhé:  1.  **Tờ khai thuế theo mẫu 01/CNKD (Áp dụng cho cá nhân kinh doanh):** Đây là mẫu tờ khai chung cho hộ kinh doanh cá thể. Anh có thể tải về từ trang web của Tổng cục Thuế (thuedientu.gdt.gov.vn) và điền trước, hoặc đến Chi cục Thuế để lấy mẫu và điền tại chỗ. Trên tờ khai này, anh sẽ điền thông tin về hộ kinh doanh, doanh thu phát sinh trong kỳ và số thuế GTGT, TNCN tự tính được. 2.  **Bản sao Giấy chứng nhận đăng ký hộ kinh doanh:** Để cán bộ thuế xác minh thông tin của hộ kinh doanh. Anh nhớ mang theo bản gốc để đối chiếu nếu cần. 3.  **Bản sao Căn cước công dân/Chứng minh nhân dân của chủ hộ kinh doanh:** Cũng cần mang theo bản gốc để đối chiếu. 4.  **Sổ sách ghi chép doanh thu (nếu có):** Tuy không bắt buộc phải nộp kèm tờ khai, nhưng việc có sổ sách ghi chép chi tiết doanh thu sẽ giúp anh đối chiếu số liệu khi điền tờ khai và giải trình với cán bộ thuế nếu có thắc mắc. 5.  **Giấy ủy quyền (nếu không phải chủ hộ kinh doanh trực tiếp đi nộp):** Trong trường hợp người đi nộp hồ sơ không phải là chủ hộ kinh doanh, cần có giấy ủy quyền hợp lệ.  **Về kỳ kê khai và thời hạn nộp:**  *   **Kỳ kê khai:** Hộ kinh doanh của anh có thể lựa chọn kê khai theo quý hoặc theo năm. Thông thường, nếu doanh thu ổn định và không quá lớn, kê khai theo quý là phổ biến. *   **Thời hạn nộp tờ khai và nộp thuế:**     *   **Theo quý:** Chậm nhất là ngày cuối cùng của tháng đầu tiên của quý tiếp theo quý phát sinh nghĩa vụ thuế. Ví dụ, cho Quý 1 (tháng 1, 2, 3), hạn nộp là ngày 30/4.     *   **Theo năm:** Chậm nhất là ngày 30 tháng 01 của năm dương lịch tiếp theo.  Anh cứ chuẩn bị các giấy tờ này, khi đến Chi cục Thuế, anh hãy tìm đến bộ phận \"Một cửa\" hoặc khu vực dành cho \"Hỗ trợ hộ kinh doanh\" để được cán bộ thuế hướng dẫn cụ thể và kiểm tra hồ sơ nhé.  Anh Bảy còn có câu hỏi nào khác về thủ tục này không ạ?",
+      "timestamp": 1757405610.4842625
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, anh Bảy cứ chuẩn bị những giấy tờ đó rồi ra Chi cục Thuế nhé. Sẽ có cán bộ hướng dẫn mình cụ thể từng bước luôn ạ.  Anh còn cần tôi giải thích thêm gì về các loại thuế hay thủ tục nào khác không ạ?",
+      "timestamp": 1757405612.6705954
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, anh Bảy cứ chuẩn bị những giấy tờ đó rồi ra Chi cục Thuế nhé. Anh cứ nói rõ là mình muốn kê khai thuế GTGT và TNCN cho hộ kinh doanh cá thể theo phương pháp tỷ lệ phần trăm trên doanh thu, các cán bộ sẽ hướng dẫn mình cụ thể từng bước luôn ạ.  Anh còn cần tôi giải thích thêm gì về các loại thuế, cách tính, hay bất kỳ thủ tục nào khác liên quan đến hoạt động kinh doanh của mình không ạ? Tôi rất sẵn lòng hỗ trợ.",
+      "timestamp": 1757405620.5939925
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, thế là tôi nắm được rồi cô ạ. Tôi sẽ chuẩn bị đầy đủ giấy tờ như cô hướng dẫn rồi ra Chi cục Thuế.  Mà không biết là khi mình ra đó nộp hồ sơ thì có phải nộp tiền thuế luôn không cô nhỉ, hay là có thông báo riêng rồi mình nộp sau ạ?",
+      "timestamp": 1757405624.6359453
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, đây là một câu hỏi rất hay mà nhiều hộ kinh doanh cũng thắc mắc đó anh Bảy.  Thông thường, đối với hộ kinh doanh cá thể kê khai thuế theo quý hoặc theo năm, **thời hạn nộp tiền thuế cũng trùng với thời hạn nộp tờ khai thuế.** Tức là, khi anh nộp tờ khai thuế tại Chi cục Thuế, anh cũng cần hoàn thành nghĩa vụ nộp tiền thuế đã tính toán trên tờ khai đó trước hoặc vào cùng ngày hạn chót.  **Các hình thức nộp tiền thuế phổ biến cho hộ kinh doanh:**  1.  **Nộp qua ngân hàng thương mại:** Đây là hình thức phổ biến và được khuyến khích nhất. Anh có thể đến bất kỳ ngân hàng thương mại nào để thực hiện ủy nhiệm chi hoặc chuyển khoản nộp tiền vào Kho bạc Nhà nước theo mã số thuế của hộ kinh doanh mình. Ngân hàng sẽ cung cấp chứng từ nộp tiền. 2.  **Nộp trực tiếp tại Kho bạc Nhà nước:** Anh có thể đến trực tiếp Kho bạc Nhà nước tại địa phương để nộp tiền mặt. 3.  **Nộp trực tuyến qua Cổng thông tin Thuế điện tử (thuedientu.gdt.gov.vn):** Nếu sau này anh Bảy có nhu cầu kê khai online, thì việc nộp thuế online cũng rất tiện lợi qua cổng này, kết nối với tài khoản ngân hàng của anh. 4.  **Nộp tại Chi cục Thuế (trong một số trường hợp nhất định):** Một số Chi cục Thuế có thể có quầy thu ngân của Kho bạc Nhà nước hoặc ủy quyền cho một đơn vị thu hộ tại chỗ, nhưng đây không phải là hình thức phổ biến nhất.  **Lời khuyên cho anh Bảy khi ra Chi cục Thuế:**  Khi anh đến Chi cục Thuế để nộp tờ khai, anh cứ hỏi cán bộ hướng dẫn về phương thức nộp tiền thuế tiện lợi nhất tại thời điểm đó. Cán bộ thuế sẽ chỉ dẫn cụ thể về tài khoản Kho bạc Nhà nước, mã chương, tiểu mục thuế để anh có thể ra ngân hàng hoặc Kho bạc gần nhất để nộp. Anh nhớ giữ lại biên lai, chứng từ nộp tiền để làm bằng chứng đã hoàn thành nghĩa vụ thuế nhé.  Vậy là anh đã nắm được quy trình từ chuẩn bị hồ sơ, kê khai đến nộp thuế rồi phải không ạ? Anh còn cần tôi hỗ trợ thông tin nào khác không?",
+      "timestamp": 1757405643.0452867
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, đúng rồi đó anh Bảy. Thường thì khi mình nộp tờ khai thuế thì cũng là lúc mình cần hoàn tất việc nộp tiền thuế luôn, tức là hạn nộp tờ khai và hạn nộp tiền thuế là trùng nhau.  Anh có thể ra ngân hàng để chuyển khoản vào tài khoản Kho bạc Nhà nước, hoặc nếu tiện thì có thể đến trực tiếp Kho bạc Nhà nước ở địa phương để nộp tiền mặt. Khi anh ra Chi cục Thuế nộp hồ sơ, anh cứ hỏi cán bộ thuế xem mình nên nộp tiền ở đâu cho tiện nhất và xin thông tin tài khoản, mã số nộp thuế cụ thể nhé. Nhớ giữ lại biên lai nộp tiền cho cẩn thận ạ.  Anh còn băn khoăn gì nữa không ạ?",
+      "timestamp": 1757405646.1641123
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, chính xác là như vậy đó anh Bảy. Anh cứ nộp tờ khai và sau đó hoàn tất việc nộp tiền thuế trước hoặc vào ngày hạn chót quy định. Cán bộ thuế sẽ hướng dẫn anh cụ thể nhất khi anh đến Chi cục Thuế nhé.  Vậy là anh đã nắm được toàn bộ quy trình từ việc xác định loại thuế, cách tính, chuẩn bị hồ sơ và các hình thức nộp thuế rồi ạ. Anh còn có bất kỳ thắc mắc nào khác hay cần tôi hỗ trợ thêm thông tin gì nữa không ạ?",
+      "timestamp": 1757405660.456341
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, thế là tôi nắm rõ hết rồi cô Lan Anh ạ. Cô hướng dẫn rất cặn kẽ, tôi cảm ơn cô nhiều lắm. Tôi sẽ chuẩn bị rồi ra Chi cục Thuế làm thủ tục.",
+      "timestamp": 1757405663.1206663
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi rất vui vì đã có thể hỗ trợ anh Bảy nắm rõ các thông tin cần thiết. Anh cứ yên tâm chuẩn bị và đến Chi cục Thuế nhé, nếu có bất kỳ khó khăn hay thắc mắc nào khác trong quá trình thực hiện, anh đừng ngần ngại liên hệ lại với [Tên công ty/Tổ chức giả định] ạ.  Chúc anh Bảy và gia đình luôn kinh doanh thuận lợi và thành công! Chào anh.",
+      "timestamp": 1757405675.7101948
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, cảm ơn cô Lan Anh nhiều nhé. Chúc cô một ngày làm việc tốt lành. Chào cô.",
+      "timestamp": 1757405677.7007794
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi cảm ơn anh Bảy rất nhiều. Chúc anh cũng có một ngày thật tốt lành và mọi việc suôn sẻ nhé! Chào anh.",
+      "timestamp": 1757405690.0390446
+    },
+    {
+      "role": "right",
+      "content": "Chào cô.",
+      "timestamp": 1757405691.2428453
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, chào cô.",
+      "timestamp": 1757405705.200461
+    },
+    {
+      "role": "left",
+      "content": "Chào anh Bảy!",
+      "timestamp": 1757405706.2276454
+    }
+  ],
+  "turns": 10,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "```json {   \"should_terminate\": true,   \"terminator\": \"người dùng kết thúc\",   \"reason\": \"Mục tiêu h...",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Dạ vâng, chào cô."
+    },
+    {
+      "role": "left",
+      "content": "Chào anh Bảy!"
+    }
+  ],
+  "reached_max_turns": false
+}

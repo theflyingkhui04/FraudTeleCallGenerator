@@ -1,0 +1,40 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đã gọi đến tổng đài hỗ trợ của chúng tôi! Tôi là Minh Anh, rất vui được hỗ trợ quý khách hôm nay. Xin quý khách cho biết tôi có thể giúp gì ạ?",
+      "timestamp": 1757411851.0237498
+    },
+    {
+      "role": "right",
+      "content": "Chào Minh Anh. Tôi muốn hỏi về hóa đơn tiền điện tháng trước. Tôi thấy có một khoản phí hơi lạ so với bình thường nên muốn kiểm tra lại.",
+      "timestamp": 1757411853.9389794
+    },
+    {
+      "role": "right",
+      "content": "Vâng, cảm ơn Minh Anh nhiều nhé. Vậy tôi sẽ đợi thông tin kiểm tra từ bên mình.",
+      "timestamp": 1757411861.361708
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, quý khách vui lòng cho tôi biết quý khách đang đợi thông tin kiểm tra về vấn đề gì ạ? Đây là cuộc gọi đầu tiên của chúng ta hôm nay, nên tôi chưa có thông tin về yêu cầu trước đó của quý khách.  Xin quý khách vui lòng chia sẻ lại nội dung để tôi có thể kiểm tra và hỗ trợ quý khách một cách nhanh chóng nhất ạ.",
+      "timestamp": 1757411867.046713
+    }
+  ],
+  "turns": 0,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "```json {   \"should_terminate\": false,   \"reason\": \"Hội thoại vừa mới bắt đầu và người dùng đã nêu r...",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Vâng, cảm ơn Minh Anh nhiều nhé. Vậy tôi sẽ đợi thông tin kiểm tra từ bên mình."
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, quý khách vui lòng cho tôi biết quý khách đang đợi thông tin kiểm tra về vấn đề gì ạ? Đây là cuộc gọi đầu tiên của chúng ta hôm nay, nên tôi chưa có thông tin về yêu cầu trước đó của quý khách.  Xin quý khách vui lòng chia sẻ lại nội dung để tôi có thể kiểm tra và hỗ trợ quý khách một cách nhanh chóng nhất ạ."
+    }
+  ],
+  "reached_max_turns": false
+}

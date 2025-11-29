@@ -1,0 +1,80 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đã gọi đến Trung tâm Dịch vụ Khách hàng của [Tên Công Ty/Trung Tâm]. Tôi là [Tên của bạn], làm việc tại bộ phận hỗ trợ đặt lịch hẹn. Tôi có thể giúp gì cho quý khách hôm nay ạ?",
+      "timestamp": 1757412111.7062807
+    },
+    {
+      "role": "right",
+      "content": "À chào cháu, cô muốn đặt lịch khám tổng quát. Cháu xem giúp cô có lịch nào sớm nhất được không ạ?",
+      "timestamp": 1757412114.8350031
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, chào cô ạ. Cô muốn đặt lịch khám tổng quát. Để cháu có thể kiểm tra lịch trống và sắp xếp buổi khám phù hợp nhất cho cô, cô vui lòng cho cháu biết tên đầy đủ của cô và ngày tháng năm sinh được không ạ? Ngoài ra, cô có bất kỳ yêu cầu đặc biệt nào về khung giờ khám không ạ, ví dụ như buổi sáng hay buổi chiều, hay ngày cụ thể nào không ạ?",
+      "timestamp": 1757412121.6347356
+    },
+    {
+      "role": "right",
+      "content": "À cô là Nguyễn Thị Hoa, sinh ngày 15 tháng 3 năm 1969. Về thời gian thì cô muốn khám vào buổi sáng thì tốt nhất, nhưng nếu không có lịch thì buổi chiều cũng được cháu ạ. Miễn là đừng vào cuối tuần là được.",
+      "timestamp": 1757412126.2983186
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, cháu đã ghi nhận thông tin của cô Nguyễn Thị Hoa, sinh ngày 15 tháng 3 năm 1969. Cô ưu tiên khám vào buổi sáng các ngày trong tuần, tránh cuối tuần ạ. Cháu xin phép kiểm tra hệ thống lịch hẹn của phòng khám mình ạ.  Cô vui lòng chờ cháu trong giây lát nhé. Cháu sẽ cố gắng tìm lịch sớm nhất và phù hợp nhất với yêu cầu của cô ạ.",
+      "timestamp": 1757412131.1520422
+    },
+    {
+      "role": "right",
+      "content": "Ừ, cháu cứ kiểm tra đi nhé. Cô chờ được mà.",
+      "timestamp": 1757412135.9808688
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, cháu cảm ơn cô đã chờ ạ.  Cháu đã kiểm tra hệ thống và thấy có một vài lịch trống phù hợp với yêu cầu của cô Nguyễn Thị Hoa ạ:  *   **Lịch sớm nhất:** Buổi chiều ngày **Thứ Tư, ngày 24 tháng 7** lúc **14:00**. *   **Lựa chọn buổi sáng:** Buổi sáng ngày **Thứ Sáu, ngày 26 tháng 7** lúc **09:30**. *   Hoặc buổi sáng ngày **Thứ Hai, ngày 29 tháng 7** lúc **08:30**.  Cô thấy lịch nào trong số này phù hợp với mình nhất ạ? Cháu xin nhắc lại là gói khám tổng quát thường sẽ mất khoảng 2-3 tiếng ạ.",
+      "timestamp": 1757412147.479681
+    },
+    {
+      "role": "right",
+      "content": "À vậy thì cháu đặt cho cô lịch sáng thứ Sáu, ngày 26 tháng 7 lúc 09:30 nhé. Khám 2-3 tiếng thì cũng được, cô sắp xếp thời gian được.",
+      "timestamp": 1757412150.204725
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, cô Hoa đã chọn lịch khám vào **Thứ Sáu, ngày 26 tháng 7, lúc 09:30 sáng**. Cháu xin xác nhận lại một lần nữa các thông tin đặt lịch hẹn của cô ạ:  *   **Tên khách hàng:** Nguyễn Thị Hoa *   **Ngày sinh:** 15 tháng 3 năm 1969 *   **Dịch vụ:** Khám tổng quát *   **Thời gian hẹn:** 09:30 sáng, Thứ Sáu, ngày 26 tháng 7 *   **Địa điểm:** [Tên Phòng Khám/Địa chỉ cụ thể của Trung Tâm, ví dụ: Tầng 3, Tòa nhà ABC, Số 123 Đường XYZ]  Cháu đã đặt lịch thành công cho cô rồi ạ. Để chuẩn bị tốt nhất cho buổi khám, cô vui lòng nhịn ăn và uống (trừ nước lọc) ít nhất 8 tiếng trước giờ khám nhé, đặc biệt là nếu có xét nghiệm máu và siêu âm bụng.  Trong vòng 15 phút tới, hệ thống sẽ gửi một tin nhắn SMS hoặc email xác nhận lịch hẹn kèm theo hướng dẫn chi tiết về việc chuẩn bị trước khám đến số điện thoại/email mà cô đã đăng ký với trung tâm. Cô vui lòng kiểm tra giúp cháu nhé.  Cô có cần cháu hỗ trợ thêm thông tin gì khác không ạ?",
+      "timestamp": 1757412168.589575
+    },
+    {
+      "role": "right",
+      "content": "À ừ, đúng rồi cháu. Cô nhớ rồi, nhịn ăn uống trước khi khám đúng không? Cảm ơn cháu nhiều nhé, vậy là xong rồi.",
+      "timestamp": 1757412171.3241434
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, vậy là lịch hẹn của cô đã được sắp xếp xong xuôi rồi ạ. Cháu rất vui được hỗ trợ cô. Nếu cô có bất kỳ thay đổi nào về lịch hẹn hoặc cần thêm thông tin gì, cô đừng ngần ngại gọi lại cho trung tâm nhé. Cháu chúc cô một ngày tốt lành và hẹn gặp cô vào ngày 26 tháng 7 ạ!",
+      "timestamp": 1757412190.300313
+    },
+    {
+      "role": "right",
+      "content": "Ừ, cảm ơn cháu nhé. Cô cũng chúc cháu một ngày tốt lành.",
+      "timestamp": 1757412194.1220596
+    }
+  ],
+  "turns": 4,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại đã đạt được khi người dùng đã đặt lịch khám tổng quát thành công và nhận được đầy đủ thông tin cần thiết. Người dùng đã cảm ơn rõ ràng và xác nhận rằng 'vậy là xong rồi', cho thấy họ đã hài lòng và không cần hỗ trợ thêm. Điều này đáp ứng các điều kiện kết thúc số 1, 3 và 4.",
+  "terminator": "người dùng kết thúc",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Dạ vâng, vậy là lịch hẹn của cô đã được sắp xếp xong xuôi rồi ạ. Cháu rất vui được hỗ trợ cô. Nếu cô có bất kỳ thay đổi nào về lịch hẹn hoặc cần thêm thông tin gì, cô đừng ngần ngại gọi lại cho trung tâm nhé. Cháu chúc cô một ngày tốt lành và hẹn gặp cô vào ngày 26 tháng 7 ạ!"
+    },
+    {
+      "role": "right",
+      "content": "Ừ, cảm ơn cháu nhé. Cô cũng chúc cháu một ngày tốt lành."
+    }
+  ],
+  "reached_max_turns": false
+}

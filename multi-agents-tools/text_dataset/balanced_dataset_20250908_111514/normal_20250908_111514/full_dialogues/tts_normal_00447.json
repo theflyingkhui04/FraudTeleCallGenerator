@@ -1,0 +1,80 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đã gọi đến Dịch vụ Khách hàng của [Tên Công ty/Ngân hàng/Nhà mạng]. Tôi là Lan Anh, rất vui được hỗ trợ quý khách hôm nay.  Quý khách đang cần tư vấn về dịch vụ nào ạ? Vui lòng cho tôi biết tôi có thể giúp gì cho quý khách?",
+      "timestamp": 1757411237.604411
+    },
+    {
+      "role": "right",
+      "content": "À chào cô. Cô Lan Anh hả? Tôi là Nguyễn Thị An. Tôi gọi để hỏi về cái hóa đơn tiền mạng tháng này á. Tự nhiên thấy nó cao hơn mấy tháng trước một chút. Cô kiểm tra giúp tôi xem có gì không nhé.",
+      "timestamp": 1757411242.2981837
+    },
+    {
+      "role": "left",
+      "content": "Vâng, chào cô An ạ. Tôi đã nhận được thông tin của cô. Tôi hiểu sự lo lắng của cô khi hóa đơn đột nhiên tăng cao. Để tôi có thể kiểm tra chính xác nhất hóa đơn tiền mạng của cô, cô vui lòng cung cấp cho tôi số tài khoản hợp đồng internet hoặc số điện thoại mà cô đã đăng ký với dịch vụ của chúng ta được không ạ?",
+      "timestamp": 1757411247.7336166
+    },
+    {
+      "role": "right",
+      "content": "À, số điện thoại của tôi là 0903 555 123 cô nhé. Cô kiểm tra giúp tôi xem có gì lạ không. Cảm ơn cô.",
+      "timestamp": 1757411250.8050714
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, cô An vui lòng đợi tôi một lát để tôi truy cập hệ thống và kiểm tra thông tin thuê bao 0903 555 123 của cô nhé.  ... (Vài giây chờ) ...  Cảm ơn cô đã chờ đợi. Tôi đã kiểm tra thông tin tài khoản của cô An. Theo dữ liệu trên hệ thống, hóa đơn tiền mạng tháng này của cô là 350.000 VNĐ, cao hơn so với mức trung bình 250.000 VNĐ của các tháng trước.  Tôi thấy rằng vào ngày 15 tháng trước, tài khoản của cô đã được nâng cấp lên gói \"Internet Tốc độ Cao Gia Đình\" với băng thông 100Mbps, thay vì gói \"Internet Cơ bản\" 50Mbps trước đây. Gói cước mới này có mức phí là 350.000 VNĐ/tháng. Cô có nhớ mình đã yêu cầu nâng cấp gói cước này không ạ?",
+      "timestamp": 1757411257.3888156
+    },
+    {
+      "role": "right",
+      "content": "À, vậy hả cô? Tôi đâu có nhớ là mình yêu cầu nâng cấp gì đâu. Chắc là mấy đứa nhỏ ở nhà nó làm đó cô. Mà sao tự nhiên lại nâng cấp vậy ta?",
+      "timestamp": 1757411261.2804217
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi hiểu rồi ạ. Rất có thể các cháu ở nhà đã thao tác nâng cấp gói cước qua ứng dụng di động hoặc trang web của chúng ta, hoặc có thể là qua tin nhắn xác nhận ạ. Thông thường, khi có yêu cầu nâng cấp gói cước, hệ thống sẽ gửi một tin nhắn xác nhận đến số điện thoại đăng ký chính chủ hoặc yêu cầu xác nhận qua ứng dụng để đảm bảo quyền lợi của khách hàng.  Nếu cô không có nhu cầu sử dụng gói \"Internet Tốc độ Cao Gia Đình\" 100Mbps này và muốn quay lại gói cước cũ là \"Internet Cơ bản\" 50Mbps với mức phí 250.000 VNĐ/tháng, tôi hoàn toàn có thể hỗ trợ cô thay đổi lại gói cước ạ.  Cô An muốn giữ nguyên gói cước hiện tại với tốc độ cao hơn, hay muốn chuyển về gói cước cũ để tiết kiệm chi phí hơn ạ?",
+      "timestamp": 1757411272.9421406
+    },
+    {
+      "role": "right",
+      "content": "À, vậy hả cô. Chắc là mấy đứa nhỏ nó nghịch thật. Thôi cô chuyển lại gói cũ cho tôi đi. Gói 250 ngàn là được rồi, tôi ở nhà có mình à, dùng có nhiêu đâu mà tốc độ cao chi cho tốn tiền. Cô chuyển lại giúp tôi nhé.",
+      "timestamp": 1757411277.129132
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi đã hiểu rõ yêu cầu của cô An ạ. Tôi sẽ hỗ trợ cô chuyển về gói cước \"Internet Cơ bản\" với tốc độ 50Mbps và mức phí 250.000 VNĐ/tháng như trước đây.  Việc chuyển đổi gói cước này sẽ có hiệu lực từ chu kỳ thanh toán tiếp theo của cô, tức là từ ngày 01 tháng sau. Đối với hóa đơn tháng này, do cô đã sử dụng gói cước mới \"Internet Tốc độ Cao Gia Đình\" trong toàn bộ chu kỳ, nên chi phí vẫn sẽ là 350.000 VNĐ. Từ tháng sau trở đi, hóa đơn của cô sẽ trở lại mức 250.000 VNĐ ạ.  Sau khi tôi thực hiện thao tác trên hệ thống, cô sẽ nhận được một tin nhắn SMS xác nhận việc chuyển đổi gói cước thành công gửi đến số điện thoại 0903 555 123 của cô.  Cô An xác nhận lại một lần nữa là mình đồng ý chuyển về gói \"Internet Cơ bản\" 50Mbps với giá 250.000 VNĐ/tháng, và chấp nhận hóa đơn tháng này vẫn tính theo gói cũ 350.000 VNĐ nhé ạ?",
+      "timestamp": 1757411292.9389484
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, cô cứ chuyển về gói 250 ngàn cho tôi là được rồi. Tháng này thì mình chịu vậy, coi như lỡ rồi. Miễn sao từ tháng sau về lại đúng gói cũ là được. Cô làm giúp tôi luôn nha.",
+      "timestamp": 1757411296.518056
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, cô An. Tôi đã ghi nhận yêu cầu và sẽ tiến hành chuyển đổi gói cước \"Internet Cơ bản\" 50Mbps với giá 250.000 VNĐ/tháng cho cô ngay bây giờ. Cô vui lòng kiểm tra tin nhắn xác nhận trên điện thoại 0903 555 123 trong ít phút tới nhé. Hóa đơn tháng sau của cô sẽ trở về mức 250.000 VNĐ ạ.  Cảm ơn cô An đã tin tưởng và sử dụng dịch vụ của chúng tôi. Nếu có bất kỳ thắc mắc nào khác, cô đừng ngần ngại liên hệ lại tổng đài. Chúc cô một ngày tốt lành!",
+      "timestamp": 1757411310.959413
+    },
+    {
+      "role": "right",
+      "content": "Dạ, cô cũng vậy nhé. Cảm ơn cô nhiều.",
+      "timestamp": 1757411312.7524946
+    }
+  ],
+  "turns": 4,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "```json {   \"should_terminate\": true,   \"terminator\": \"dịch vụ kết",
+  "terminator": "natural",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Dạ vâng, cô An. Tôi đã ghi nhận yêu cầu và sẽ tiến hành chuyển đổi gói cước \"Internet Cơ bản\" 50Mbps với giá 250.000 VNĐ/tháng cho cô ngay bây giờ. Cô vui lòng kiểm tra tin nhắn xác nhận trên điện thoại 0903 555 123 trong ít phút tới nhé. Hóa đơn tháng sau của cô sẽ trở về mức 250.000 VNĐ ạ.  Cảm ơn cô An đã tin tưởng và sử dụng dịch vụ của chúng tôi. Nếu có bất kỳ thắc mắc nào khác, cô đừng ngần ngại liên hệ lại tổng đài. Chúc cô một ngày tốt lành!"
+    },
+    {
+      "role": "right",
+      "content": "Dạ, cô cũng vậy nhé. Cảm ơn cô nhiều."
+    }
+  ],
+  "reached_max_turns": false
+}

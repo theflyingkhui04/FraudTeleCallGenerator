@@ -1,0 +1,50 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào anh/chị, tôi là Nguyễn Thảo từ bộ phận Chăm sóc Khách hàng của [Tên Công ty]. Chúng tôi đang thực hiện một khảo sát nhanh về trải nghiệm dịch vụ gần đây của quý khách để không ngừng nâng cao chất lượng. Anh/chị có thể dành khoảng 5-7 phút để chia sẻ ý kiến với chúng tôi không ạ?",
+      "timestamp": 1757409444.819953
+    },
+    {
+      "role": "right",
+      "content": "Chào cô Thảo. À, tôi là giáo viên nên giờ này cũng đang trong giờ làm việc. Nếu cô có thể gọi lại vào khoảng chiều tối, tầm 5 rưỡi 6 giờ thì được ạ. Lúc đó tôi rảnh hơn để chia sẻ.",
+      "timestamp": 1757409448.3851526
+    },
+    {
+      "role": "left",
+      "content": "Vâng, tôi rất hiểu ạ. Cảm ơn anh/chị đã báo lại về khung giờ thuận tiện. Vậy tôi xin phép ghi nhận và sẽ gọi lại cho anh/chị vào khoảng 5:30 chiều đến 6:00 tối nay nhé.  Anh/chị vui lòng xác nhận giúp tôi số điện thoại tôi đang gọi đến là số liên lạc chính của anh/chị không ạ, để tôi tiện liên hệ lại?",
+      "timestamp": 1757409454.0867543
+    },
+    {
+      "role": "right",
+      "content": "À vâng, đúng rồi cô Thảo. Số này là số tôi hay dùng nhất đó. Cứ gọi vào số này lúc đó nha. Cảm ơn cô.",
+      "timestamp": 1757409455.936973
+    },
+    {
+      "role": "right",
+      "content": "Cảm ơn cô nhé, vậy hẹn chiều nay nha.",
+      "timestamp": 1757409466.6474104
+    },
+    {
+      "role": "left",
+      "content": "Tuyệt vời ạ. Vậy tôi sẽ gọi lại cho anh/chị vào khung giờ đó. Rất mong nhận được những chia sẻ quý báu từ anh/chị. Chúc anh/chị có một buổi làm việc hiệu quả!",
+      "timestamp": 1757409472.6169825
+    }
+  ],
+  "turns": 1,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Người dùng đã đạt được mục tiêu của mình là sắp xếp lại lịch gọi khảo sát vào thời điểm thuận tiện hơn và đã xác nhận lại số điện thoại. Lời cảm ơn cuối cùng của người dùng (\"Cảm ơn cô.\") sau khi các thông tin cần thiết đã được trao đổi cho thấy họ đã hài lòng với kết quả của cuộc gọi hiện tại và không có nhu cầu tiếp tục cuộc trò chuyện. Mục tiêu của cuộc hội thoại (sắp xếp lịch hẹn) đã được hoàn thành.",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Cảm ơn cô nhé, vậy hẹn chiều nay nha."
+    },
+    {
+      "role": "left",
+      "content": "Tuyệt vời ạ. Vậy tôi sẽ gọi lại cho anh/chị vào khung giờ đó. Rất mong nhận được những chia sẻ quý báu từ anh/chị. Chúc anh/chị có một buổi làm việc hiệu quả!"
+    }
+  ],
+  "reached_max_turns": false
+}

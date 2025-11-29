@@ -1,0 +1,40 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào anh/chị, tôi là Thảo từ Phòng Chăm sóc Khách hàng của [Tên công ty - ví dụ: Dịch vụ Internet FPT/Ngân hàng ACB/Trung tâm Bảo hiểm PTI]. Tôi gọi điện hôm nay để thực hiện một cuộc khảo sát ngắn về trải nghiệm dịch vụ gần đây của anh/chị, cụ thể là về [nêu rõ dịch vụ nếu biết, ví dụ: gói cước Internet gia đình/dịch vụ mở tài khoản trực tuyến/yêu cầu bồi thường bảo hiểm].  Cuộc khảo sát này chỉ mất khoảng 5-7 phút và mục đích là để chúng tôi có thể hiểu rõ hơn về nhu cầu và những điểm chúng tôi cần cải thiện để phục vụ anh/chị tốt hơn trong tương lai. Anh/chị có tiện dành chút thời gian cho tôi lúc này không ạ?",
+      "timestamp": 1757410804.693701
+    },
+    {
+      "role": "right",
+      "content": "Chào cô Thảo. À, khảo sát về dịch vụ nào vậy cô? Tôi cũng đang hơi bận một chút, nhưng nếu chỉ 5-7 phút thì chắc là được.",
+      "timestamp": 1757410809.959954
+    },
+    {
+      "role": "right",
+      "content": "Cảm ơn cô Thảo đã gọi nhé. Nhưng chắc là tôi phải xin phép dừng ở đây thôi, tự nhiên có việc gấp rồi. Xin lỗi cô.",
+      "timestamp": 1757410820.7005928
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi rất hiểu ạ. Không sao cả anh/chị nhé. Rất xin lỗi vì đã làm phiền anh/chị vào lúc không tiện.  Nếu sau này anh/chị có thời gian rảnh hơn và muốn chia sẻ ý kiến, tôi có thể gọi lại vào một thời điểm khác tiện hơn cho anh/chị không ạ? Hoặc nếu anh/chị thích, tôi có thể gửi một đường link khảo sát qua tin nhắn SMS hoặc email để anh/chị hoàn thành khi nào thuận tiện nhất.",
+      "timestamp": 1757410823.1800551
+    }
+  ],
+  "turns": 0,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "```json {   \"should_terminate\": false,   \"reason\": \"Hội thoại đang ở giai đoạn đầu, người dùng đang ...",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Cảm ơn cô Thảo đã gọi nhé. Nhưng chắc là tôi phải xin phép dừng ở đây thôi, tự nhiên có việc gấp rồi. Xin lỗi cô."
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi rất hiểu ạ. Không sao cả anh/chị nhé. Rất xin lỗi vì đã làm phiền anh/chị vào lúc không tiện.  Nếu sau này anh/chị có thời gian rảnh hơn và muốn chia sẻ ý kiến, tôi có thể gọi lại vào một thời điểm khác tiện hơn cho anh/chị không ạ? Hoặc nếu anh/chị thích, tôi có thể gửi một đường link khảo sát qua tin nhắn SMS hoặc email để anh/chị hoàn thành khi nào thuận tiện nhất."
+    }
+  ],
+  "reached_max_turns": false
+}

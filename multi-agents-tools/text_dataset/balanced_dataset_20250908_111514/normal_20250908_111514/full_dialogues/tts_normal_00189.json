@@ -1,0 +1,40 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào anh/chị, tôi là Minh Thư từ dịch vụ Internet FPT. Tôi gọi điện để tư vấn về các gói cước Internet và truyền hình mà anh/chị đã quan tâm. Anh/chị có tiện trao đổi lúc này không ạ?",
+      "timestamp": 1757404556.444522
+    },
+    {
+      "role": "right",
+      "content": "À vâng, cô cứ nói đi. Tôi đang nghe đây.",
+      "timestamp": 1757404560.5246365
+    },
+    {
+      "role": "right",
+      "content": "À cô Thư ơi, xin lỗi nhé, tự nhiên tôi có chút việc bận đột xuất rồi. Cô cứ gửi thông tin các gói cước qua tin nhắn hoặc email giúp tôi được không? Tôi sẽ xem lại sau. Cảm ơn cô nhiều nhé.",
+      "timestamp": 1757404569.7620175
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi hiểu rồi ạ. Xin lỗi đã làm phiền anh/chị lúc bận rộn.  Để tôi gửi thông tin chính xác đến anh/chị, anh/chị muốn tôi gửi qua tin nhắn SMS đến số điện thoại này hay gửi qua địa chỉ email nào khác ạ? Và anh/chị có thể cho tôi biết địa chỉ lắp đặt dự kiến để tôi tư vấn gói cước phù hợp nhất không ạ?",
+      "timestamp": 1757404571.9617438
+    }
+  ],
+  "turns": 0,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "```json {   \"should_terminate\": false,   \"termintor\": null,   \"reason\": \"Cuộc hội thoại mới bắt đầu....",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "À cô Thư ơi, xin lỗi nhé, tự nhiên tôi có chút việc bận đột xuất rồi. Cô cứ gửi thông tin các gói cước qua tin nhắn hoặc email giúp tôi được không? Tôi sẽ xem lại sau. Cảm ơn cô nhiều nhé."
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi hiểu rồi ạ. Xin lỗi đã làm phiền anh/chị lúc bận rộn.  Để tôi gửi thông tin chính xác đến anh/chị, anh/chị muốn tôi gửi qua tin nhắn SMS đến số điện thoại này hay gửi qua địa chỉ email nào khác ạ? Và anh/chị có thể cho tôi biết địa chỉ lắp đặt dự kiến để tôi tư vấn gói cước phù hợp nhất không ạ?"
+    }
+  ],
+  "reached_max_turns": false
+}

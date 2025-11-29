@@ -1,0 +1,100 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đã gọi đến Dịch vụ khách hàng của Công ty Cổ phần Viễn thông ABC. Tôi là Minh Anh, rất vui được hỗ trợ quý khách hôm nay.  Xin quý khách vui lòng cho biết tôi có thể giúp gì cho quý khách ạ?",
+      "timestamp": 1757402527.1926425
+    },
+    {
+      "role": "right",
+      "content": "Chào cô. Tôi muốn hỏi về cái hóa đơn tiền mạng tháng này. Tôi thấy số tiền hơi cao hơn mọi khi, nên muốn hỏi lại cho rõ.",
+      "timestamp": 1757402529.7980947
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi hiểu rồi ạ. Để tôi có thể kiểm tra thông tin hóa đơn chính xác cho quý khách, xin quý khách vui lòng cung cấp giúp tôi mã khách hàng hoặc số điện thoại mà quý khách đã đăng ký dịch vụ internet ạ.",
+      "timestamp": 1757402533.8774178
+    },
+    {
+      "role": "right",
+      "content": "À, số điện thoại của tôi là 0987 654 321. Cô kiểm tra giúp tôi nhé.",
+      "timestamp": 1757402536.1284933
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, xin quý khách vui lòng chờ trong giây lát để tôi tra cứu thông tin với số điện thoại 0987 654 321 ạ.  ...  Cảm ơn quý khách đã chờ đợi. Tôi đã truy cập được thông tin tài khoản của quý khách. Theo hệ thống của chúng tôi, số tiền cước internet tháng 10/2023 của quý khách là 250.000 VNĐ. Quý khách có thể xác nhận đây là số tiền mà quý khách đang thắc mắc không ạ?",
+      "timestamp": 1757402541.2155578
+    },
+    {
+      "role": "right",
+      "content": "Đúng rồi cô. Bình thường thì tôi đóng có 200.000 đồng thôi. Sao tháng này lại lên tận 250.000 vậy? Có phải là do tôi dùng nhiều hơn không?",
+      "timestamp": 1757402542.2516773
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi hiểu sự thắc mắc của quý khách. Để tôi kiểm tra chi tiết lịch sử gói cước và các dịch vụ đi kèm của quý khách ạ.  Sau khi kiểm tra, tôi thấy rằng gói cước internet của quý khách đã được nâng cấp tự động từ gói \"Gia Đình Phổ Thông\" với tốc độ 80Mbps và giá 200.000 VNĐ/tháng lên gói \"Gia Đình Nâng Cao\" với tốc độ 120Mbps và giá 250.000 VNĐ/tháng vào đầu tháng 10. Việc nâng cấp này nằm trong chương trình nâng cấp băng thông miễn phí cho khách hàng cũ của chúng tôi để đảm bảo trải nghiệm tốt hơn, và sau thời gian khuyến mãi, gói cước sẽ chuyển sang mức giá mới.  Đây là lý do vì sao hóa đơn tháng này của quý khách lại là 250.000 VNĐ ạ. Quý khách có nhớ đã nhận được thông báo về việc nâng cấp này không ạ?",
+      "timestamp": 1757402548.5968397
+    },
+    {
+      "role": "right",
+      "content": "Thật tình là tôi không để ý mấy cái tin nhắn đó. Cứ nghĩ là khuyến mãi gì đó thôi chứ không nghĩ là tăng tiền. Giờ tôi mới biết là gói cước bị đổi rồi.",
+      "timestamp": 1757402554.866535
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi rất xin lỗi vì sự bất tiện này nếu thông tin chưa được truyền tải rõ ràng đến quý khách. Công ty chúng tôi thường gửi thông báo qua tin nhắn SMS và email đến các số điện thoại và địa chỉ email đã đăng ký trước khi thực hiện việc nâng cấp.  Hiện tại, quý khách có muốn tiếp tục sử dụng gói \"Gia Đình Nâng Cao\" với tốc độ 120Mbps và mức cước 250.000 VNĐ/tháng không ạ? Hoặc quý khách muốn quay lại gói \"Gia Đình Phổ Thông\" với tốc độ 80Mbps và mức cước 200.000 VNĐ/tháng như trước đây ạ?",
+      "timestamp": 1757402563.3929431
+    },
+    {
+      "role": "right",
+      "content": "Vậy giờ làm sao để về gói cũ hả cô? Tôi thấy 250 ngàn thì hơi cao, với lại tôi cũng không dùng nhiều đến mức đó đâu.",
+      "timestamp": 1757402579.2467184
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, quý khách hoàn toàn có thể quay lại gói cước cũ ạ. Để thực hiện việc chuyển đổi về gói \"Gia Đình Phổ Thông\" với tốc độ 80Mbps và mức cước 200.000 VNĐ/tháng, tôi có thể hỗ trợ quý khách đăng ký ngay trên hệ thống.  Quá trình chuyển đổi sẽ được áp dụng từ chu kỳ thanh toán tiếp theo, tức là từ ngày 01/11/2023. Hóa đơn tháng 10 này của quý khách vẫn sẽ là 250.000 VNĐ do đã sử dụng gói \"Gia Đình Nâng Cao\" trong cả tháng.  Quý khách có đồng ý để tôi thực hiện yêu cầu chuyển đổi gói cước này không ạ?",
+      "timestamp": 1757402587.3502643
+    },
+    {
+      "role": "right",
+      "content": "À vậy là tháng này vẫn phải đóng 250 ngàn, rồi tháng sau mới về lại 200 ngàn hả cô? Vậy cũng được. Cô giúp tôi chuyển về gói cũ đi nhé.",
+      "timestamp": 1757402589.1356716
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi đã tiếp nhận yêu cầu của quý khách. Tôi xin phép thực hiện thao tác chuyển đổi gói cước của quý khách từ gói \"Gia Đình Nâng Cao\" (250.000 VNĐ/tháng) về lại gói \"Gia Đình Phổ Thông\" (200.000 VNĐ/tháng) trên hệ thống ạ.  ...  Dạ, tôi đã thực hiện yêu cầu chuyển đổi gói cước thành công cho quý khách rồi ạ. Kể từ chu kỳ thanh toán tiếp theo, tức là từ ngày 01/11/2023, hóa đơn cước internet của quý khách sẽ trở lại mức 200.000 VNĐ/tháng. Quý khách sẽ nhận được tin nhắn xác nhận việc thay đổi gói cước này trong vòng vài phút nữa.  Quý khách còn có câu hỏi hay cần tôi hỗ trợ thêm thông tin nào khác không ạ?",
+      "timestamp": 1757402600.7072499
+    },
+    {
+      "role": "right",
+      "content": "Dạ thôi cô. Vậy là tôi hiểu rồi. Cảm ơn cô đã hỗ trợ nhiệt tình nha.",
+      "timestamp": 1757402604.1063817
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, không có gì cô. Cảm ơn cô nhiều nha. Tạm biệt cô.",
+      "timestamp": 1757402611.5704484
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, rất vui được hỗ trợ quý khách ạ. Nếu sau này quý khách có bất kỳ thắc mắc nào khác về dịch vụ hoặc hóa đơn, xin đừng ngần ngại liên hệ lại với chúng tôi. Chúc quý khách một ngày tốt lành! Xin chào tạm biệt quý khách.",
+      "timestamp": 1757402613.1353226
+    }
+  ],
+  "turns": 6,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại đã đạt được: Người dùng đã nhận được giải thích về sự thay đổi hóa đơn, đã yêu cầu chuyển đổi gói cước về gói cũ và yêu cầu này đã được thực hiện thành công. Người dùng đã xác nhận 'Dạ thôi cô. Vậy là tôi hiểu rồi. Cảm ơn cô đã hỗ trợ nhiệt tình nha.', điều này cho thấy họ đã hài lòng và không còn nhu cầu hỗ trợ thêm. Đây là một tín hiệu rõ ràng từ người dùng muốn kết thúc hội thoại.",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Dạ vâng, không có gì cô. Cảm ơn cô nhiều nha. Tạm biệt cô."
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, rất vui được hỗ trợ quý khách ạ. Nếu sau này quý khách có bất kỳ thắc mắc nào khác về dịch vụ hoặc hóa đơn, xin đừng ngần ngại liên hệ lại với chúng tôi. Chúc quý khách một ngày tốt lành! Xin chào tạm biệt quý khách."
+    }
+  ],
+  "reached_max_turns": false
+}

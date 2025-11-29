@@ -1,0 +1,60 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào bạn, tôi là Lan Anh từ bộ phận Chăm sóc khách hàng của [Tên Công ty/Dịch vụ]. Rất vui được hỗ trợ bạn hôm nay. Bạn đang cần tôi giúp đỡ về vấn đề gì ạ?",
+      "timestamp": 1757401712.146812
+    },
+    {
+      "role": "right",
+      "content": "Chào bạn, cảm ơn. Tôi đang muốn hỏi về đơn hàng tôi đặt hôm qua. Mã đơn hàng là ABC12345. Tôi thấy trạng thái vẫn chưa được cập nhật và cũng chưa nhận được email xác nhận gì cả. Bạn kiểm tra giúp tôi với ạ.",
+      "timestamp": 1757401715.6769705
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn bạn đã cung cấp mã đơn hàng ABC12345. Tôi hiểu sự lo lắng của bạn khi chưa thấy cập nhật và nhận được email xác nhận. Để tôi kiểm tra ngay trên hệ thống giúp bạn nhé. Vui lòng chờ tôi một lát ạ.",
+      "timestamp": 1757401721.4479127
+    },
+    {
+      "role": "right",
+      "content": "Vâng, bạn cứ kiểm tra giúp tôi nhé. Cảm ơn bạn.",
+      "timestamp": 1757401722.5683098
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn bạn đã kiên nhẫn chờ đợi. Tôi đã kiểm tra thông tin đơn hàng ABC12345 của bạn trên hệ thống rồi ạ.  Tôi rất tiếc phải thông báo rằng, có vẻ như đã xảy ra một sự cố kỹ thuật nhỏ trong quá trình xử lý đơn hàng của bạn vào hôm qua. Đơn hàng của bạn đã được ghi nhận trên hệ thống của chúng tôi, nhưng do lỗi này, email xác nhận tự động đã không được gửi đi và trạng thái đơn hàng trên trang web cũng chưa được cập nhật kịp thời.  Tuy nhiên, tôi có thể xác nhận rằng đơn hàng của bạn với các sản phẩm [ví dụ: Áo phông Cotton size M màu trắng và Quần Jean Slim Fit size 30 màu xanh] đã được đặt thành công vào lúc [giờ cụ thể, ví dụ: 14:30] ngày [ngày cụ thể, ví dụ: 15/05/2024]. Chúng tôi đang tiến hành chuẩn bị đóng gói sản phẩm của bạn.  Chúng tôi chân thành xin lỗi vì sự bất tiện này. Để khắc phục, tôi sẽ gửi lại email xác nhận đơn hàng cho bạn ngay bây giờ. Bạn vui lòng kiểm tra hộp thư đến (và cả thư mục spam/thư rác) trong vài phút tới nhé.",
+      "timestamp": 1757401728.5459735
+    },
+    {
+      "role": "right",
+      "content": "À ra là vậy, tôi hiểu rồi. Cảm ơn bạn đã kiểm tra và thông báo nhé. May quá đơn hàng vẫn được ghi nhận. Tôi sẽ kiểm tra email xác nhận ngay bây giờ.",
+      "timestamp": 1757401731.3689716
+    },
+    {
+      "role": "right",
+      "content": "Vâng, vậy là tốt rồi. Cảm ơn bạn rất nhiều vì đã hỗ trợ tôi nhé. Chúc bạn một ngày làm việc vui vẻ.",
+      "timestamp": 1757401740.9592397
+    },
+    {
+      "role": "left",
+      "content": "Rất vui vì tôi đã có thể giúp bạn giải tỏa lo lắng ạ. Tôi đã gửi lại email xác nhận đơn hàng cho bạn rồi, bạn vui lòng kiểm tra hộp thư nhé.  Nếu bạn có bất kỳ câu hỏi nào khác về đơn hàng này hoặc cần hỗ trợ thêm, đừng ngần ngại liên hệ lại với chúng tôi. Chúc bạn một ngày thật tốt lành và cảm ơn bạn đã tin tưởng sử dụng dịch vụ của [Tên Công ty/Dịch vụ]!",
+      "timestamp": 1757401742.3224573
+    }
+  ],
+  "turns": 2,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại của người dùng đã đạt được. Người dùng đã nhận được thông tin về trạng thái đơn hàng và lý do không nhận được email xác nhận. Kẻ lừa đảo (trong vai trò CSKH) đã cung cấp giải pháp (sẽ gửi lại email). Người dùng đã bày tỏ sự hài lòng, cảm ơn và cho biết sẽ tự kiểm tra email, ngụ ý không cần hỗ trợ thêm tại thời điểm này.",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Vâng, vậy là tốt rồi. Cảm ơn bạn rất nhiều vì đã hỗ trợ tôi nhé. Chúc bạn một ngày làm việc vui vẻ."
+    },
+    {
+      "role": "left",
+      "content": "Rất vui vì tôi đã có thể giúp bạn giải tỏa lo lắng ạ. Tôi đã gửi lại email xác nhận đơn hàng cho bạn rồi, bạn vui lòng kiểm tra hộp thư nhé.  Nếu bạn có bất kỳ câu hỏi nào khác về đơn hàng này hoặc cần hỗ trợ thêm, đừng ngần ngại liên hệ lại với chúng tôi. Chúc bạn một ngày thật tốt lành và cảm ơn bạn đã tin tưởng sử dụng dịch vụ của [Tên Công ty/Dịch vụ]!"
+    }
+  ],
+  "reached_max_turns": false
+}

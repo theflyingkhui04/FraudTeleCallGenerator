@@ -1,16 +1,6 @@
 # ============================
 # Dataset Files (Keep Local)
 # ============================
-# Tất cả dataset giữ local, không upload lên GitHub
-multi-agents-tools/dataset/
-multi-agents-tools/generator/dataset/
-multi-agents-tools/FraudTeleCallGenerator/results/
-multi-agents-tools/FraudTeleCallGenerator/full_dialogues/
-multi-agents-tools/FraudTeleCallGenerator/test_full_dialogues/
-multi-agents-tools/FraudTeleCallGenerator/test_full_fixed/
-multi-agents-tools/NormalTeleCallGenerator/results/
-multi-agents-tools/NormalTeleCallGenerator/full_dialogues/
-
 # Audio datasets (large files)
 audio-generation/voice_dataset*/
 audio-generation/audio_*/
@@ -21,17 +11,6 @@ audio-generation/**/*.m4a
 audio-generation/converted_dataset.jsonl
 audio-generation/readme_test/
 
-# Dataset files với pattern
-**/fraud_*.json
-**/fraud_*.jsonl
-**/normal_*.json
-**/normal_*.jsonl
-**/balanced_dataset_*/
-**/mass_dataset_*/
-**/fraud_20*/
-**/normal_20*/
-**/merged_conversations.jsonl
-**/generation_results_*.json
 
 # ============================
 # Log Files
@@ -160,27 +139,6 @@ Temporary Items
 config_local.py
 **/api_keys.txt
 **/secrets.json
-
-# ============================
-# Temporary & Output Files
-# ============================
-# Temporary files
-*.tmp
-*.temp
-*.bak
-*.backup
-*.orig
-
-# Output files
-dialogue_output.json
-output/
-temp/
-tmp/
-
-# Test files
-test_output/
-**/test_*.json
-**/debug_*.json
 
 # ============================
 # Documentation Build

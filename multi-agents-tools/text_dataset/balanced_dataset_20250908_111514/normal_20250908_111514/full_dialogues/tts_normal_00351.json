@@ -1,0 +1,70 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đã gọi đến Trung tâm Dịch vụ Kỹ thuật Gia Đình. Tôi là An, rất vui được hỗ trợ quý khách hôm nay. Quý khách cần tôi giúp gì ạ?",
+      "timestamp": 1757409060.5649383
+    },
+    {
+      "role": "right",
+      "content": "À chào cô An. Tôi gọi là vì cái máy giặt nhà tôi nó bị trục trặc ấy cô. Mấy bữa nay nó không vắt khô được quần áo, mà lúc giặt thì nó cứ kêu ồn ào lắm.",
+      "timestamp": 1757409064.189337
+    },
+    {
+      "role": "left",
+      "content": "Chào anh/chị. Tôi rất tiếc khi nghe về sự cố máy giặt nhà mình. Hiện tượng máy không vắt khô và kêu ồn ào thường là dấu hiệu của một số vấn đề kỹ thuật cần được kiểm tra. Để tôi có thể sắp xếp lịch hẹn cho kỹ thuật viên đến kiểm tra và sửa chữa, anh/chị vui lòng cho tôi biết một vài thông tin được không ạ?",
+      "timestamp": 1757409069.0018456
+    },
+    {
+      "role": "right",
+      "content": "À vâng, cô cứ hỏi đi. Nhà tôi ở số 123, đường Nguyễn Trãi, phường Nguyễn Cư Trinh, quận 1. Số điện thoại của tôi là 0903 123 456. Tôi tên là Lộc.  Về thời gian thì tôi rảnh buổi sáng các ngày trong tuần, khoảng từ 8 giờ đến 11 giờ rưỡi là tiện nhất cô ạ.",
+      "timestamp": 1757409072.8136423
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn anh Lộc đã cung cấp thông tin chi tiết. Tôi đã ghi nhận địa chỉ là số 123 đường Nguyễn Trãi, phường Nguyễn Cư Trinh, quận 1, và số điện thoại 0903 123 456.  Về thời gian, anh Lộc muốn đặt lịch vào buổi sáng các ngày trong tuần, từ 8h00 đến 11h30. Anh Lộc có thể cho tôi biết anh muốn đặt lịch vào ngày cụ thể nào trong tuần tới không ạ? Ví dụ, sáng thứ Ba hoặc sáng thứ Năm? Để tôi kiểm tra lịch trống của kỹ thuật viên và xác nhận lại với anh sớm nhất.",
+      "timestamp": 1757409078.8074322
+    },
+    {
+      "role": "right",
+      "content": "Ừm... để tôi xem nào. Thứ Ba tuần tới thì được đó cô. Sáng thứ Ba, khoảng 9 giờ gì đó là tôi có nhà. Cô cứ sắp xếp giúp tôi nhé.",
+      "timestamp": 1757409080.1455233
+    },
+    {
+      "role": "left",
+      "content": "Tuyệt vời, anh Lộc. Vậy tôi sẽ đặt lịch hẹn cho kỹ thuật viên đến kiểm tra máy giặt nhà mình vào sáng thứ Ba tuần tới, ngày [Ngày tháng của thứ Ba tuần tới], vào khoảng 9 giờ sáng. Kỹ thuật viên của chúng tôi sẽ liên hệ lại với anh qua số điện thoại 0903 123 456 trước khi đến khoảng 30 phút để xác nhận lại ạ.  Trước khi kỹ thuật viên đến, anh Lộc có cần lưu ý gì không ạ? Ví dụ như tên máy giặt hoặc có thông tin gì thêm về sự cố để kỹ thuật viên có thể chuẩn bị tốt hơn không?",
+      "timestamp": 1757409089.3806121
+    },
+    {
+      "role": "right",
+      "content": "À, máy giặt nhà tôi là hiệu Toshiba đó cô. Loại cửa trên. Còn cái vụ không vắt khô với kêu ồn thì tôi nói rồi đó, nó cứ vậy hoài mấy bữa nay. Mong là kỹ thuật viên sửa được sớm.",
+      "timestamp": 1757409095.5491838
+    },
+    {
+      "role": "left",
+      "content": "Vâng, tôi đã ghi nhận. Vậy là lịch hẹn đã được đặt thành công cho anh Lộc vào sáng thứ Ba tuần tới, ngày [Ngày tháng của thứ Ba tuần tới], khoảng 9 giờ sáng tại địa chỉ 123 đường Nguyễn Trãi. Kỹ thuật viên sẽ gọi điện xác nhận trước khi đến. Cảm ơn anh Lộc đã tin tưởng sử dụng dịch vụ của Trung tâm Dịch vụ Kỹ thuật Gia Đình. Chúc anh một ngày tốt lành!",
+      "timestamp": 1757409107.3597612
+    },
+    {
+      "role": "right",
+      "content": "À vâng, cảm ơn cô nhiều nhé. Chào cô.",
+      "timestamp": 1757409108.3269043
+    }
+  ],
+  "turns": 3,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại đã đạt được: người dùng đã đặt lịch hẹn thành công với kỹ thuật viên và cung cấp đầy đủ thông tin cần thiết. Bên cung cấp dịch vụ đã xác nhận lịch hẹn và nhận thêm thông tin về máy giặt. Cuộc hội thoại đã hoàn thành quy trình đặt lịch dịch vụ và sẵn sàng kết thúc. Bên dịch vụ nên chủ động kết thúc bằng một lời chào tạm biệt hoặc xác nhận cuối cùng.",
+  "terminator": "dịch vụ kết thúc",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Vâng, tôi đã ghi nhận. Vậy là lịch hẹn đã được đặt thành công cho anh Lộc vào sáng thứ Ba tuần tới, ngày [Ngày tháng của thứ Ba tuần tới], khoảng 9 giờ sáng tại địa chỉ 123 đường Nguyễn Trãi. Kỹ thuật viên sẽ gọi điện xác nhận trước khi đến. Cảm ơn anh Lộc đã tin tưởng sử dụng dịch vụ của Trung tâm Dịch vụ Kỹ thuật Gia Đình. Chúc anh một ngày tốt lành!"
+    },
+    {
+      "role": "right",
+      "content": "À vâng, cảm ơn cô nhiều nhé. Chào cô."
+    }
+  ],
+  "reached_max_turns": false
+}

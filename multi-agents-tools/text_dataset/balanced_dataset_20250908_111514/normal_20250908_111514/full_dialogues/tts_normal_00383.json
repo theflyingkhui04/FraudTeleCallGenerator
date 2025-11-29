@@ -1,0 +1,90 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào anh/chị, tôi là Thảo từ bộ phận Chăm sóc Khách hàng của [Tên công ty dịch vụ của bạn - ví dụ: VNPT/Viettel/FPT/Ngân hàng ABC]. Tôi có thể hỗ trợ gì cho anh/chị hôm nay ạ?",
+      "timestamp": 1757408122.5742521
+    },
+    {
+      "role": "right",
+      "content": "Chào chị Thảo. Tôi muốn hỏi về đường truyền internet ở nhà tôi. Mấy hôm nay nó cứ chậm chậm, dùng khó chịu quá.",
+      "timestamp": 1757408126.256311
+    },
+    {
+      "role": "left",
+      "content": "Chào anh/chị. Tôi rất tiếc khi nghe về trải nghiệm không tốt của anh/chị với đường truyền internet. Để tôi có thể kiểm tra và hỗ trợ anh/chị một cách nhanh chóng và chính xác nhất, anh/chị vui lòng cung cấp giúp tôi một số thông tin sau được không ạ?  1.  **Tên chủ hợp đồng hoặc số điện thoại đăng ký dịch vụ:** 2.  **Địa chỉ lắp đặt dịch vụ:** 3.  **Mã hợp đồng (nếu anh/chị có sẵn):**  Sau khi có thông tin này, tôi sẽ kiểm tra tình trạng đường truyền và thông báo lại cho anh/chị ngay ạ.",
+      "timestamp": 1757408131.095297
+    },
+    {
+      "role": "right",
+      "content": "À, tên chủ hợp đồng là Nguyễn Văn Hùng, số điện thoại tôi đăng ký là 0905xxxxxx. Địa chỉ lắp đặt là số nhà 123, đường Trần Hưng Đạo, phường 1, quận 5, TP.HCM. Mã hợp đồng thì tôi không nhớ rõ lắm, chắc là không có sẵn ở đây rồi.",
+      "timestamp": 1757408133.7118967
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn anh/chị đã cung cấp thông tin. Tôi đã tiếp nhận tên chủ hợp đồng là Nguyễn Văn Hùng, số điện thoại 0905xxxxxx và địa chỉ lắp đặt là số nhà 123, đường Trần Hưng Đạo, phường 1, quận 5, TP.HCM.  Anh/chị vui lòng chờ trong giây lát để tôi kiểm tra hệ thống nhé.",
+      "timestamp": 1757408138.6107266
+    },
+    {
+      "role": "right",
+      "content": "Vâng, tôi chờ. Chị kiểm tra giúp tôi xem sao.",
+      "timestamp": 1757408140.2943654
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn anh/chị đã kiên nhẫn chờ đợi. Tôi đã kiểm tra thông tin trên hệ thống và xác nhận dịch vụ internet đang đứng tên anh Nguyễn Văn Hùng tại địa chỉ 123 Trần Hưng Đạo, phường 1, quận 5, TP.HCM với gói cước [Tên gói cước, ví dụ: FiberHome 100Mbps].  Hiện tại, hệ thống của chúng tôi không ghi nhận sự cố đường truyền diện rộng nào tại khu vực của anh/chị. Tuy nhiên, tình trạng chậm như anh/chị mô tả có thể do một số nguyên nhân như: *   **Thiết bị modem/router:** Có thể cần khởi động lại để làm mới kết nối. *   **Thiết bị kết nối của anh/chị:** Máy tính, điện thoại có thể đang chạy nhiều ứng dụng ngầm hoặc gặp vấn đề. *   **Vị trí đặt modem:** Có thể bị cản sóng hoặc quá xa thiết bị sử dụng. *   **Có quá nhiều thiết bị kết nối cùng lúc:** Dẫn đến quá tải băng thông.  Để chúng tôi có thể xác định chính xác nguyên nhân và hỗ trợ khắc phục, anh/chị vui lòng thử giúp tôi một bước đơn giản này trước được không ạ? Anh/chị hãy **tắt nguồn modem/router trong khoảng 1-2 phút, sau đó bật lại** và chờ cho đèn tín hiệu trên modem ổn định. Sau đó, anh/chị vui lòng kiểm tra lại tốc độ mạng xem có cải thiện không ạ?",
+      "timestamp": 1757408149.1714497
+    },
+    {
+      "role": "right",
+      "content": "À vâng, chị nói thế thì tôi hiểu rồi. Để tôi thử tắt modem rồi bật lại xem sao. Chị chờ tôi một lát nhé.",
+      "timestamp": 1757408153.0126815
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, anh/chị cứ thực hiện thao tác đó ạ. Tôi sẽ giữ máy chờ phản hồi từ anh/chị. Nếu có bất kỳ khó khăn nào trong quá trình thực hiện hoặc mạng vẫn chưa cải thiện, anh/chị cứ thông báo lại cho tôi ngay nhé.",
+      "timestamp": 1757408158.4646769
+    },
+    {
+      "role": "right",
+      "content": "Vâng, tôi làm xong rồi đây. Mạng có vẻ nhanh hơn chút rồi đó chị. Để tôi dùng thử thêm một lúc xem có ổn định hẳn không.",
+      "timestamp": 1757408160.3834078
+    },
+    {
+      "role": "left",
+      "content": "Tuyệt vời ạ! Tôi rất vui khi nghe thấy mạng đã có cải thiện. Việc khởi động lại modem thường giúp làm mới kết nối và giải quyết nhiều vấn đề nhỏ về đường truyền.  Anh/chị cứ tiếp tục sử dụng và theo dõi trong vài giờ tới nhé. Nếu trong quá trình sử dụng mà anh/chị vẫn cảm thấy tốc độ chưa ổn định hoặc lại xuất hiện tình trạng chậm như trước, anh/chị đừng ngần ngại liên hệ lại với chúng tôi bất cứ lúc nào.  Khi đó, chúng tôi có thể sẽ cần thực hiện các bước kiểm tra chuyên sâu hơn hoặc cử kỹ thuật viên đến tận nơi để kiểm tra trực tiếp thiết bị và đường dây cho anh/chị.",
+      "timestamp": 1757408167.3379967
+    },
+    {
+      "role": "right",
+      "content": "À vâng, mạng có vẻ nhanh hơn chút rồi. Tôi sẽ dùng thử thêm một thời gian nữa xem có ổn định hẳn không. Nếu có vấn đề gì thì tôi sẽ gọi lại cho chị sau. Cảm ơn chị đã hỗ trợ nhé.",
+      "timestamp": 1757408170.0517051
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, chào chị.",
+      "timestamp": 1757408176.8629625
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, anh/chị. Rất mong anh/chị sẽ có trải nghiệm tốt hơn với đường truyền internet.  Nếu có bất kỳ vấn đề nào khác, anh/chị đừng ngần ngại liên hệ lại với chúng tôi qua tổng đài hoặc các kênh hỗ trợ trực tuyến nhé. Chúc anh/chị một ngày tốt lành!",
+      "timestamp": 1757408178.4498026
+    }
+  ],
+  "turns": 5,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu hội thoại đã đạt được ở mức độ ban đầu khi người dùng đã thực hiện theo hướng dẫn và xác nhận mạng đã có cải thiện. Người dùng đã bày tỏ sự hài lòng và cảm ơn rõ ràng, đồng thời ngụ ý kết thúc hội thoại bằng cách nói sẽ liên hệ lại nếu vấn đề tái diễn. Điều này đáp ứng tiêu chí 'Mục tiêu hội thoại đã đạt được' và 'Người dùng cảm ơn rõ ràng và kết thúc hội thoại'.",
+  "terminator": "right",
+  "conclusion_messages": [
+    {
+      "role": "right",
+      "content": "Dạ vâng, chào chị."
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, anh/chị. Rất mong anh/chị sẽ có trải nghiệm tốt hơn với đường truyền internet.  Nếu có bất kỳ vấn đề nào khác, anh/chị đừng ngần ngại liên hệ lại với chúng tôi qua tổng đài hoặc các kênh hỗ trợ trực tuyến nhé. Chúc anh/chị một ngày tốt lành!"
+    }
+  ],
+  "reached_max_turns": false
+}

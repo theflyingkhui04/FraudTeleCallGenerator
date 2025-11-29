@@ -1,0 +1,40 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Chào mừng quý khách đến với dịch vụ chăm sóc khách hàng của [Tên Công ty]. Tôi là Anh Thư, rất hân hạnh được hỗ trợ quý khách.  Chúng tôi gọi điện hôm nay để thông báo về một cập nhật quan trọng liên quan đến dịch vụ của quý khách. Xin hỏi quý khách có phải là ông/bà [Tên Khách hàng giả định, ví dụ: Nguyễn Văn A] chủ tài khoản số [Số tài khoản giả định, ví dụ: 123456789] không ạ?",
+      "timestamp": 1757359935.9229147
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, đúng là tôi Nguyễn Văn A đây ạ.",
+      "timestamp": 1757359943.5231137
+    },
+    {
+      "role": "left",
+      "content": "Cảm ơn quý khách đã xác nhận thông tin. Chúng tôi xin thông báo rằng kể từ ngày 15/07/2024, [Tên Công ty] sẽ triển khai một số cải tiến quan trọng đối với dịch vụ internet cáp quang mà quý khách đang sử dụng, nhằm mang đến trải nghiệm kết nối ổn định và tốc độ cao hơn. Quý khách vui lòng kiểm tra email đã đăng ký với chúng tôi để xem chi tiết thông báo chính thức và các lợi ích đi kèm. Nếu quý khách có bất kỳ câu hỏi nào sau khi đọc thông báo, đừng ngần ngại liên hệ lại với chúng tôi.  Xin cảm ơn quý khách đã dành thời gian và tin tưởng sử dụng dịch vụ của [Tên Công ty]. Chúc quý khách một ngày làm việc hiệu quả!",
+      "timestamp": 1757359961.9411764
+    },
+    {
+      "role": "right",
+      "content": "Dạ v vâng, tôi nhận được thông tin rồi ạ. Cảm ơn chị Anh Thư nhiều nhé. Chúc chị một ngày tốt lành ạ.",
+      "timestamp": 1757359964.2670174
+    }
+  ],
+  "turns": 0,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "```json {   \"should_terminate\": true,   \"terminator\": \"endcall\",   \"reason\": \"Cuộc gọi đã được xác đ...",
+  "terminator": "left",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Cảm ơn quý khách đã xác nhận thông tin. Chúng tôi xin thông báo rằng kể từ ngày 15/07/2024, [Tên Công ty] sẽ triển khai một số cải tiến quan trọng đối với dịch vụ internet cáp quang mà quý khách đang sử dụng, nhằm mang đến trải nghiệm kết nối ổn định và tốc độ cao hơn. Quý khách vui lòng kiểm tra email đã đăng ký với chúng tôi để xem chi tiết thông báo chính thức và các lợi ích đi kèm. Nếu quý khách có bất kỳ câu hỏi nào sau khi đọc thông báo, đừng ngần ngại liên hệ lại với chúng tôi.  Xin cảm ơn quý khách đã dành thời gian và tin tưởng sử dụng dịch vụ của [Tên Công ty]. Chúc quý khách một ngày làm việc hiệu quả!"
+    },
+    {
+      "role": "right",
+      "content": "Dạ v vâng, tôi nhận được thông tin rồi ạ. Cảm ơn chị Anh Thư nhiều nhé. Chúc chị một ngày tốt lành ạ."
+    }
+  ],
+  "reached_max_turns": false
+}

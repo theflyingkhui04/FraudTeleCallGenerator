@@ -1,0 +1,130 @@
+{
+  "dialogue_history": [
+    {
+      "role": "left",
+      "content": "Xin chào anh/chị, tôi là Nguyễn Mai Phương, chuyên viên chăm sóc khách hàng từ Công ty Viễn thông ABC.  Tôi gọi điện hôm nay để thực hiện một cuộc khảo sát ngắn về trải nghiệm dịch vụ gần đây của anh/chị với chúng tôi, cụ thể là về dịch vụ internet cáp quang mà anh/chị đã sử dụng. Cuộc khảo sát này nhằm mục đích lắng nghe ý kiến đóng góp của quý khách hàng để chúng tôi có thể cải thiện chất lượng dịch vụ tốt hơn nữa.  Anh/chị có tiện dành khoảng 5-7 phút để tham gia khảo sát vào lúc này không ạ?",
+      "timestamp": 1757405109.6226654
+    },
+    {
+      "role": "right",
+      "content": "À, chào cô. Cô là Mai Phương bên Viễn thông ABC hả. Khảo sát về internet cáp quang hả? Ừ, cũng được đó cô. Giờ tôi cũng đang rảnh nè, cô cứ hỏi đi.",
+      "timestamp": 1757405112.0711384
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi cảm ơn anh/chị đã dành thời gian. Để bắt đầu, tôi xin phép xác nhận lại một chút thông tin. Anh/chị là khách hàng đã lắp đặt và sử dụng dịch vụ internet cáp quang của Viễn thông ABC tại địa chỉ [Địa chỉ khách hàng] với gói cước [Tên gói cước, ví dụ: Gói Gia đình 100Mbps] đúng không ạ?",
+      "timestamp": 1757405116.4674604
+    },
+    {
+      "role": "right",
+      "content": "À ừ, đúng rồi cô. Địa chỉ đó là nhà tôi, còn gói cước thì đúng là cái gói Gia đình 100Mbps gì đó đó.",
+      "timestamp": 1757405119.0503883
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, cảm ơn anh/chị đã xác nhận. Chúng ta sẽ bắt đầu khảo sát nhé. Câu hỏi đầu tiên là: Anh/chị có thể vui lòng cho biết mức độ hài lòng tổng thể của mình về dịch vụ internet cáp quang của Viễn thông ABC trong 3 tháng gần đây không ạ? Anh/chị có thể đánh giá theo thang điểm từ 1 đến 5, trong đó 1 là \"Rất không hài lòng\" và 5 là \"Rất hài lòng\".",
+      "timestamp": 1757405127.7470286
+    },
+    {
+      "role": "right",
+      "content": "Ừm, để tôi nghĩ xem. Nói chung là cũng ổn đó cô. Mấy tháng nay thấy mạng cũng ít khi bị rớt, coi phim hay đọc báo cũng mượt mà.  Tôi cho 4 điểm nha cô.",
+      "timestamp": 1757405129.3225853
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi rất vui khi nghe anh/chị hài lòng với dịch vụ. 4 điểm là một đánh giá rất tốt. Cảm ơn anh/chị.  Để hiểu rõ hơn, anh/chị có thể cho biết điều gì khiến anh/chị cảm thấy hài lòng nhất khi sử dụng dịch vụ internet cáp quang của chúng tôi không ạ? Ví dụ như tốc độ truy cập, độ ổn định của đường truyền, hay dịch vụ hỗ trợ khách hàng?",
+      "timestamp": 1757405135.9599254
+    },
+    {
+      "role": "right",
+      "content": "À, cái tôi thích nhất là nó ổn định đó cô. Ít khi nào bị rớt mạng giữa chừng, rồi tốc độ cũng nhanh nữa, coi mấy cái video trên mạng hay tin tức gì cũng không bị giật lag. Vợ tôi với mấy đứa nhỏ ở nhà cũng hay dùng, thấy tụi nó cũng không than phiền gì.",
+      "timestamp": 1757405138.7995665
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, sự ổn định và tốc độ truy cập tốt là những yếu tố rất quan trọng. Tôi rất vui khi dịch vụ của chúng tôi đã đáp ứng được nhu cầu của gia đình anh/chị. Vậy ngược lại, có điểm nào trong dịch vụ internet cáp quang mà anh/chị cảm thấy chưa hài lòng hoặc mong muốn chúng tôi cải thiện không ạ?",
+      "timestamp": 1757405144.9140782
+    },
+    {
+      "role": "right",
+      "content": "À, có một cái này nè cô. Cái cục phát Wi-Fi nhà tôi để ở phòng khách, mà nhà thì cũng rộng, nên ra ngoài vườn hay mấy phòng đằng sau thì sóng nó hơi yếu một chút. Nhiều khi đang coi tin tức ngoài vườn nó cứ quay quay, phải đi vô gần gần mới được. Chứ còn đường truyền chính thì tôi thấy ổn đó.",
+      "timestamp": 1757405150.9287138
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi hiểu rồi ạ. Vấn đề về vùng phủ sóng Wi-Fi yếu ở một số khu vực trong nhà hoặc ngoài vườn là một điểm mà nhiều khách hàng cũng phản ánh, đặc biệt với những ngôi nhà có diện tích lớn hoặc nhiều vật cản. Đây là một thông tin rất hữu ích để chúng tôi xem xét và cải thiện các thiết bị phát sóng hoặc đưa ra các giải pháp mở rộng vùng phủ sóng hiệu quả hơn trong tương lai.  Trong trường hợp của anh/chị, nếu anh/chị muốn cải thiện ngay lập tức tình trạng này, Viễn thông ABC cũng có cung cấp các giải pháp như bộ kích sóng Wi-Fi (repeater) hoặc hệ thống Wi-Fi Mesh để mở rộng vùng phủ sóng một cách tối ưu nhất. Anh/chị có muốn tôi cung cấp thêm thông tin về các giải pháp này không ạ? (Tuy nhiên, tôi vẫn sẽ ghi nhận ý kiến đóng góp này của anh/chị vào báo cáo khảo sát để chúng tôi cải thiện sản phẩm và dịch vụ tổng thể).",
+      "timestamp": 1757405158.5890083
+    },
+    {
+      "role": "right",
+      "content": "À, mấy cái bộ kích sóng hay Wi-Fi Mesh gì đó hả cô? Nghe cũng lạ tai đó. Mà cái đó lắp đặt có dễ không, rồi chi phí nó có cao không cô? Cô cứ ghi nhận ý kiến của tôi đi, rồi nếu có dịp thì tôi tìm hiểu thêm mấy cái đó sau.",
+      "timestamp": 1757405162.292112
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi hiểu rồi ạ. Về các giải pháp như bộ kích sóng hay Wi-Fi Mesh, việc lắp đặt thường khá đơn giản, và chi phí sẽ tùy thuộc vào loại thiết bị cũng như số lượng thiết bị cần dùng để phủ sóng toàn bộ diện tích mong muốn. Nếu anh/chị có nhu cầu tìm hiểu kỹ hơn, tôi có thể sắp xếp một cuộc gọi tư vấn riêng với bộ phận kỹ thuật để họ giải thích chi tiết hơn về các lựa chọn phù hợp với nhà mình sau khi hoàn thành cuộc khảo sát này ạ.  Còn bây giờ, tôi xin phép tiếp tục với các câu hỏi khảo sát nhé. Câu hỏi tiếp theo là: Anh/chị có gặp bất kỳ sự cố kỹ thuật nào với dịch vụ internet của mình trong 3 tháng gần đây không? Nếu có, anh/chị có thể chia sẻ cụ thể hơn về sự cố đó không ạ?",
+      "timestamp": 1757405171.5614426
+    },
+    {
+      "role": "right",
+      "content": "À, sự cố kỹ thuật hả cô? Thì như tôi nói đó, mạng thì ổn định, ít khi nào bị rớt hẳn. Chỉ có cái vụ sóng Wi-Fi yếu ở mấy chỗ xa xa thôi. Chứ còn mấy sự cố lớn như mất mạng hoàn toàn hay gì đó thì không có đâu cô.",
+      "timestamp": 1757405173.732272
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi hiểu rồi ạ. Vậy là ngoài vấn đề về vùng phủ sóng Wi-Fi cục bộ ở một số khu vực, anh/chị không gặp phải các sự cố kỹ thuật nghiêm trọng nào khác như mất kết nối hoàn toàn. Điều này rất tốt.  Vậy trong trường hợp anh/chị có nhu cầu hỗ trợ hoặc cần giải đáp thắc mắc về dịch vụ, anh/chị có thấy dễ dàng để liên hệ với bộ phận chăm sóc khách hàng của Viễn thông ABC không ạ? Và anh/chị có hài lòng với chất lượng hỗ trợ mà mình nhận được không?",
+      "timestamp": 1757405181.0767791
+    },
+    {
+      "role": "right",
+      "content": "À, chăm sóc khách hàng hả cô? Thì cũng chưa gọi lần nào hết trơn. Tại mạng nó chạy ổn định, có trục trặc gì đâu mà gọi. Mà nếu có gì chắc tôi gọi số tổng đài thôi chứ mấy cái app tôi cũng ít dùng.",
+      "timestamp": 1757405185.5288274
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi hiểu rồi ạ. Việc anh/chị không cần liên hệ tổng đài cho thấy dịch vụ của chúng tôi hoạt động rất ổn định, đó là một tín hiệu rất tích cực.  Trong trường hợp nếu cần liên hệ trong tương lai, anh/chị có nghĩ rằng việc tìm kiếm thông tin liên hệ hoặc cách thức để được hỗ trợ là dễ dàng không ạ? Hiện tại, ngoài số tổng đài, Viễn thông ABC còn có các kênh hỗ trợ khác như ứng dụng di động MyABC hoặc website chính thức với tính năng chat trực tuyến để quý khách hàng có thể tiện lợi liên hệ bất cứ lúc nào ạ.",
+      "timestamp": 1757405193.6564736
+    },
+    {
+      "role": "right",
+      "content": "Dạ vâng, tôi hiểu rồi ạ. Đúng là nếu dịch vụ ổn định thì mình cũng ít khi phải gọi hỗ trợ. Nhưng nếu lỡ có việc gì cần, anh/chị có nghĩ là mình dễ dàng tìm được số điện thoại hay cách liên hệ không ạ? Bên cháu thì ngoài số tổng đài quen thuộc, còn có trên trang web hoặc cái ứng dụng ABC nữa đó ạ.  Vậy mình tiếp tục câu hỏi tiếp theo nha anh/chị. Anh/chị có sẵn lòng giới thiệu dịch vụ internet cáp quang của Viễn thông ABC cho bạn bè hoặc người thân không ạ?",
+      "timestamp": 1757405200.281888
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi hiểu rồi ạ. Đúng là nếu dịch vụ ổn định thì mình cũng ít khi phải gọi hỗ trợ. Nhưng nếu lỡ có việc gì cần, anh/chị có thể hoàn toàn yên tâm vì thông tin liên hệ của chúng tôi luôn được hiển thị rõ ràng trên website, ứng dụng MyABC và các kênh truyền thông khác ạ.  Vậy mình tiếp tục câu hỏi cuối cùng của cuộc khảo sát hôm nay nhé anh/chị. Dựa trên trải nghiệm tổng thể của mình, anh/chị có sẵn lòng giới thiệu dịch vụ internet cáp quang của Viễn thông ABC cho bạn bè, người thân hoặc đồng nghiệp không ạ? Anh/chị có thể đánh giá theo thang điểm từ 0 đến 10, trong đó 0 là \"Hoàn toàn không giới thiệu\" và 10 là \"Chắc chắn sẽ giới thiệu\".",
+      "timestamp": 1757405216.5768886
+    },
+    {
+      "role": "right",
+      "content": "Ừm, để tôi nghĩ xem. Thì như tôi nói đó, mạng nó chạy ổn định, tôi với vợ con cũng ít khi than phiền gì. Cái vụ sóng yếu thì cũng không phải là vấn đề lớn lắm, chỉ là hơi bất tiện chút thôi. Nói chung là tôi thấy xài cũng được. Chắc tôi cho 9 điểm đi.",
+      "timestamp": 1757405220.6633725
+    },
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi hiểu rồi ạ. Dù anh/chị chưa có dịp giới thiệu hay không, tôi cũng xin ghi nhận tất cả những ý kiến đóng góp rất giá trị của anh/chị trong cuộc khảo sát hôm nay, đặc biệt là về độ ổn định của đường truyền và góp ý về vùng phủ sóng Wi-Fi. Những thông tin này sẽ giúp chúng tôi rất nhiều trong việc cải thiện và nâng cao chất lượng dịch vụ tốt hơn nữa trong tương lai.  Một lần nữa, tôi xin chân thành cảm ơn anh/chị đã dành thời gian quý báu để tham gia khảo sát. Chúc anh/chị một ngày thật tốt lành và hy vọng anh/chị sẽ luôn hài lòng với dịch vụ của Viễn thông ABC ạ.",
+      "timestamp": 1757405232.41033
+    },
+    {
+      "role": "right",
+      "content": "Ừ, rồi, cảm ơn cô nha. Cô cũng vậy nha, ngày tốt lành.",
+      "timestamp": 1757405233.8454103
+    }
+  ],
+  "turns": 9,
+  "terminated_by_manager": true,
+  "end_call_signal_detected": false,
+  "termination_reason": "Mục tiêu chính của cuộc hội thoại là thực hiện một cuộc khảo sát về trải nghiệm dịch vụ đã đạt được. Kẻ lừa đảo (đóng vai trò chuyên viên chăm sóc khách hàng) đã hỏi câu hỏi cuối cùng của cuộc khảo sát, và người dùng đã cung cấp câu trả lời. Toàn bộ quy trình khảo sát đã hoàn tất, do đó, bên cung cấp dịch vụ nên chủ động kết thúc cuộc gọi bằng cách cảm ơn khách hàng.",
+  "terminator": "dịch vụ kết thúc",
+  "conclusion_messages": [
+    {
+      "role": "left",
+      "content": "Dạ vâng, tôi hiểu rồi ạ. Dù anh/chị chưa có dịp giới thiệu hay không, tôi cũng xin ghi nhận tất cả những ý kiến đóng góp rất giá trị của anh/chị trong cuộc khảo sát hôm nay, đặc biệt là về độ ổn định của đường truyền và góp ý về vùng phủ sóng Wi-Fi. Những thông tin này sẽ giúp chúng tôi rất nhiều trong việc cải thiện và nâng cao chất lượng dịch vụ tốt hơn nữa trong tương lai.  Một lần nữa, tôi xin chân thành cảm ơn anh/chị đã dành thời gian quý báu để tham gia khảo sát. Chúc anh/chị một ngày thật tốt lành và hy vọng anh/chị sẽ luôn hài lòng với dịch vụ của Viễn thông ABC ạ."
+    },
+    {
+      "role": "right",
+      "content": "Ừ, rồi, cảm ơn cô nha. Cô cũng vậy nha, ngày tốt lành."
+    }
+  ],
+  "reached_max_turns": false
+}
