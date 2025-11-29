@@ -1,91 +1,75 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Chuyển bộ hội thoại text thành audio bằng VITS (vits-tts-vietnamese, server.py).
-- Giữ nguyên logic manifest/metadata/resume giống synthesize_vieneu.py.
-- Không trộn nhãn: fraud và normal xuất ra thư mục riêng.
-- Không trộn vai: left/right xuất ra thư mục con riêng.
-- Loại bỏ phần mô tả cảm xúc trong ngoặc trước khi gửi TTS.
-- Gọi HTTP tới server VITS (Tornado) chạy từ repo phatjkk/vits-tts-vietnamese.
+Sinh 1 file audio cho MỖI CUỘC GỌI bằng VITS (vits-tts-vietnamese, server.py).
+- Đầu vào: fraud_conversations.jsonl / normal_conversations.jsonl (hoặc merged_conversations.jsonl).
+- Mỗi tts_id -> 1 file wav: các lượt thoại left/right được chèn xen theo thứ tự.
+- Giữ cơ chế metadata + resume: nếu file audio cuộc gọi đã tồn tại và không --overwrite thì bỏ qua.
 """
 
 import argparse
 import csv
 import json
 import re
-import sys
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Iterable, List
+from typing import Iterable, List, Tuple
 
 import numpy as np
 import requests
 import soundfile as sf
 from tqdm import tqdm
 
-# --------------------------------
-# Text cleaning / parsing
-# --------------------------------
+# -----------------------------
+# Text cleaning
+# -----------------------------
 
 PAREN_RE = re.compile(r"\([^)]*\)")
 SENTENCE_SPLIT = re.compile(r"(?<=[.!?！？。])\s+")
-MAX_CHARS = 220  # giới hạn để tránh vượt context quá dài
+MAX_CHARS = 220  # tránh text quá dài 1 lần infer
 
 
 def strip_stage_directions(text: str) -> str:
-    """Loại bỏ phần mô tả trong ngoặc và thu gọn khoảng trắng."""
+    """Loại bỏ phần mô tả trong ngoặc, chuẩn hoá khoảng trắng."""
     cleaned = PAREN_RE.sub(" ", text)
     cleaned = cleaned.replace("“", '"').replace("”", '"').replace("’", "'")
     cleaned = re.sub(r"\s+", " ", cleaned).strip()
-    # Bỏ dấu ngoặc kép bọc ngoài nếu còn
     cleaned = cleaned.strip('"').strip()
     return cleaned
 
 
-# --------------------------------
-# Utterance & manifest
-# --------------------------------
+# -----------------------------
+# Data structure
+# -----------------------------
 
 @dataclass
-class Utterance:
+class Dialogue:
     tts_id: str
-    side: str  # "left" | "right"
-    idx: int
-    label: str  # "fraud" | "normal"
-    text: str
-
-    def filename(self) -> str:
-        return f"{self.tts_id}_{self.side}_{self.idx:03d}.wav"
+    label: str  # fraud | normal
+    left: List[str]
+    right: List[str]
 
 
-def load_jsonl(path: Path, label: str) -> Iterable[Utterance]:
-    """Đọc fraud_conversations.jsonl / normal_conversations.jsonl."""
+def load_dialogues_jsonl(path: Path, label: str) -> Iterable[Dialogue]:
+    """
+    Đọc fraud_conversations.jsonl / normal_conversations.jsonl
+    Mỗi dòng = 1 cuộc gọi, chứa: tts_id, left: [...], right: [...]
+    """
     with path.open("r", encoding="utf-8") as f:
         for line in f:
             if not line.strip():
                 continue
             data = json.loads(line)
             tts_id = data.get("tts_id")
-            for i, msg in enumerate(data.get("left", [])):
-                yield Utterance(
-                    tts_id=tts_id,
-                    side="left",
-                    idx=i,
-                    label=label,
-                    text=strip_stage_directions(msg),
-                )
-            for i, msg in enumerate(data.get("right", [])):
-                yield Utterance(
-                    tts_id=tts_id,
-                    side="right",
-                    idx=i,
-                    label=label,
-                    text=strip_stage_directions(msg),
-                )
+            left = [strip_stage_directions(x) for x in data.get("left", [])]
+            right = [strip_stage_directions(x) for x in data.get("right", [])]
+            yield Dialogue(tts_id=tts_id, label=label, left=left, right=right)
 
 
-def load_jsonl_merged(path: Path) -> Iterable[Utterance]:
-    """Đọc merged_conversations.jsonl đã chứa cả label."""
+def load_dialogues_merged(path: Path) -> Iterable[Dialogue]:
+    """
+    Đọc merged_conversations.jsonl: mỗi dòng có tts_id, label, left, right.
+    """
     with path.open("r", encoding="utf-8") as f:
         for line in f:
             if not line.strip():
@@ -93,26 +77,17 @@ def load_jsonl_merged(path: Path) -> Iterable[Utterance]:
             data = json.loads(line)
             tts_id = data.get("tts_id")
             label = data.get("label") or ("fraud" if data.get("is_fraud") else "normal")
-            for i, msg in enumerate(data.get("left", [])):
-                yield Utterance(
-                    tts_id=tts_id,
-                    side="left",
-                    idx=i,
-                    label=label,
-                    text=strip_stage_directions(msg),
-                )
-            for i, msg in enumerate(data.get("right", [])):
-                yield Utterance(
-                    tts_id=tts_id,
-                    side="right",
-                    idx=i,
-                    label=label,
-                    text=strip_stage_directions(msg),
-                )
+            left = [strip_stage_directions(x) for x in data.get("left", [])]
+            right = [strip_stage_directions(x) for x in data.get("right", [])]
+            yield Dialogue(tts_id=tts_id, label=label, left=left, right=right)
 
 
-def build_manifest(input_root: Path) -> List[Utterance]:
-    """Tạo danh sách Utterance từ cặp fraud/normal JSONL dưới input_root."""
+def build_dialogues_from_root(input_root: Path) -> List[Dialogue]:
+    """
+    Xây list Dialogue từ thư mục input_root như pipeline cũ:
+    - tìm fraud_*/fraud_conversations.jsonl
+    - tìm normal_*/normal_conversations.jsonl
+    """
     fraud_file = next(input_root.glob("fraud_*/fraud_conversations.jsonl"), None)
     normal_file = next(input_root.glob("normal_*/normal_conversations.jsonl"), None)
     if not fraud_file or not normal_file:
@@ -120,37 +95,79 @@ def build_manifest(input_root: Path) -> List[Utterance]:
             "Không tìm thấy fraud_conversations.jsonl hoặc normal_conversations.jsonl dưới input_root"
         )
 
-    utterances: List[Utterance] = []
-    utterances.extend(load_jsonl(fraud_file, label="fraud"))
-    utterances.extend(load_jsonl(normal_file, label="normal"))
-    return utterances
+    dialogues: List[Dialogue] = []
+    dialogues.extend(load_dialogues_jsonl(fraud_file, label="fraud"))
+    dialogues.extend(load_dialogues_jsonl(normal_file, label="normal"))
+    return dialogues
 
 
-# --------------------------------
-# VITS TTS wrapper (HTTP client)
-# --------------------------------
+# -----------------------------
+# Tạo turns theo thứ tự hai bên chèn
+# -----------------------------
+
+def interleave_turns(dialogue: Dialogue, start_side: str = "left") -> List[Tuple[str, str]]:
+    """
+    Tạo list [(side, text)] theo thứ tự hội thoại:
+    Giả định đơn giản: left[0] -> right[0] -> left[1] -> right[1] -> ...
+    Nếu 1 bên hết câu thì bên còn lại nói hết phần còn lại.
+    start_side: "left" hoặc "right"
+    """
+    left = dialogue.left
+    right = dialogue.right
+    i_left = 0
+    i_right = 0
+    n_left = len(left)
+    n_right = len(right)
+    turns: List[Tuple[str, str]] = []
+
+    side = start_side
+    while i_left < n_left or i_right < n_right:
+        if side == "left":
+            if i_left < n_left:
+                turns.append(("left", left[i_left]))
+                i_left += 1
+            side = "right"
+        else:
+            if i_right < n_right:
+                turns.append(("right", right[i_right]))
+                i_right += 1
+            side = "left"
+
+        # Nếu 1 bên đã hết nhưng bên kia còn, cho bên kia nói hết
+        if i_left >= n_left and i_right < n_right:
+            while i_right < n_right:
+                turns.append(("right", right[i_right]))
+                i_right += 1
+            break
+        if i_right >= n_right and i_left < n_left:
+            while i_left < n_left:
+                turns.append(("left", left[i_left]))
+                i_left += 1
+            break
+
+    return turns
+
+
+# -----------------------------
+# VITS TTS HTTP client
+# -----------------------------
 
 class VITSTTSSynthesizer:
     """
-    Thin-wrapper quanh server VITS (Tornado) của repo vits-tts-vietnamese.
-    - Không import model trực tiếp, chỉ gọi HTTP.
-    - /tts?text=...&speed=... -> JSON {hash, text, speed, audio_url}
-    - Dùng 'hash' để tự build URL audio: {base_url}/audio/{hash}.wav
+    Client gọi server VITS (vits-tts-vietnamese/server.py) qua HTTP.
+    - /tts?text=...&speed=... -> JSON {hash, ...}
+    - /audio/{hash}.wav -> file wav
+    Dùng để synth từng câu, rồi ghép lại thành 1 file cho cả cuộc gọi.
     """
 
-    def __init__(
-        self,
-        base_url: str = "http://localhost:8888",
-        speed: str = "normal",
-        timeout: int = 60,
-    ):
+    def __init__(self, base_url: str = "http://localhost:8888", speed: str = "normal", timeout: int = 60):
         self.base_url = base_url.rstrip("/")
         self.speed = speed
         self.timeout = timeout
-        self.sample_rate = None  # sẽ set sau lần decode WAV đầu tiên
+        self.sample_rate = None  # set sau lần đầu decode wav
 
     def _chunk_text(self, text: str) -> List[str]:
-        """Tách text thành các đoạn ngắn để tránh vượt giới hạn context."""
+        """Nếu câu quá dài, tách nhỏ để tránh server choke."""
         text = text.strip()
         if len(text) <= MAX_CHARS:
             return [text]
@@ -170,7 +187,6 @@ class VITSTTSSynthesizer:
                 if len(p) <= MAX_CHARS:
                     buffer = p.strip()
                 else:
-                    # fallback: hard split theo độ dài
                     for i in range(0, len(p), MAX_CHARS):
                         chunks.append(p[i : i + MAX_CHARS].strip())
                     buffer = ""
@@ -179,10 +195,7 @@ class VITSTTSSynthesizer:
         return [c for c in chunks if c]
 
     def _tts_call(self, text: str) -> np.ndarray:
-        """
-        Gọi HTTP tới /tts + /audio/hash.wav và trả về waveform (float32).
-        """
-        # 1) Gọi API /tts
+        """Gọi /tts + /audio/hash.wav, trả về waveform float32."""
         tts_url = f"{self.base_url}/tts"
         params = {"text": text, "speed": self.speed}
         try:
@@ -202,9 +215,8 @@ class VITSTTSSynthesizer:
 
         hash_id = data.get("hash")
         if not hash_id:
-            raise RuntimeError(f"Response /tts thiếu trường 'hash': {data}")
+            raise RuntimeError(f"Response /tts thiếu 'hash': {data}")
 
-        # 2) Gọi /audio/{hash}.wav (chủ động build base_url để tránh lỗi port hard-code)
         audio_url = f"{self.base_url}/audio/{hash_id}.wav"
         try:
             audio_resp = requests.get(audio_url, timeout=self.timeout)
@@ -216,9 +228,7 @@ class VITSTTSSynthesizer:
                 f"Audio server trả mã lỗi {audio_resp.status_code} cho {audio_url}"
             )
 
-        # 3) Decode WAV từ bytes
         import io
-
         bio = io.BytesIO(audio_resp.content)
         try:
             wav, sr = sf.read(bio, dtype="float32")
@@ -229,86 +239,113 @@ class VITSTTSSynthesizer:
             self.sample_rate = sr
         return wav.astype(np.float32)
 
-    def synthesize(self, text: str, out_path: Path):
-        """Sinh audio cho 1 câu và lưu ra out_path."""
-        out_path.parent.mkdir(parents=True, exist_ok=True)
-
-        text = text.strip()
-        if not text:
-            # Câu rỗng -> ghi file trống để giữ alignment nếu cần
-            sr = self.sample_rate or 22050
-            sf.write(str(out_path), np.array([], dtype=np.float32), sr)
-            return
+    def tts_text(self, text: str) -> np.ndarray:
+        """TTS 1 câu (có thể chunk nếu dài), trả về waveform ghép."""
+        if not text.strip():
+            return np.zeros(0, dtype=np.float32)
 
         segments = self._chunk_text(text)
         wavs = []
-
         for seg in segments:
-            wav = self._tts_call(seg)
-            wavs.append(wav)
+            wavs.append(self._tts_call(seg))
+        if not wavs:
+            return np.zeros(0, dtype=np.float32)
+        return np.concatenate(wavs) if len(wavs) > 1 else wavs[0]
 
-        full_wav = np.concatenate(wavs) if len(wavs) > 1 else wavs[0]
+    def synthesize_dialogue(self, turns: List[Tuple[str, str]], out_path: Path):
+        """
+        Nhận list [(side, text)] theo thứ tự hội thoại,
+        TTS từng text, ghép nối full audio, ghi ra out_path.
+        """
+        out_path.parent.mkdir(parents=True, exist_ok=True)
+        full_wavs = []
+        for side, text in turns:
+            wav = self.tts_text(text)
+            if wav.size > 0:
+                full_wavs.append(wav)
+
+        if not full_wavs:
+            # Không có câu nào -> file trống
+            sr = self.sample_rate or 22050
+            sf.write(str(out_path), np.zeros(0, dtype=np.float32), sr)
+            return
+
+        full = np.concatenate(full_wavs)
         sr = self.sample_rate or 22050
-        sf.write(str(out_path), full_wav, sr)
+        sf.write(str(out_path), full, sr)
 
 
-# --------------------------------
-# Metadata & synth loop (giữ nguyên logic)
-# --------------------------------
+# -----------------------------
+# Metadata + synth loop
+# -----------------------------
 
-def write_metadata(
-    manifest: List[Utterance],
-    output_root: Path,
-    dataset_name: str,
-    dry_run: bool,
-):
+def write_metadata(dialogues: List[Dialogue], output_root: Path, dataset_name: str, dry_run: bool):
     """
-    Viết metadata.csv giống synthesize_vieneu.py:
-    audio_path, text, tts_id, side, utt_idx, label
+    Metadata cho MỖI CUỘC GỌI:
+    - audio_path: path tới file wav
+    - tts_id
+    - label
+    - num_left, num_right, num_total
     """
     rows = []
-    for utt in manifest:
-        out_dir = output_root / dataset_name / utt.label / utt.side
-        audio_path = out_dir / utt.filename()
-        rows.append((audio_path, utt.text, utt.tts_id, utt.side, utt.idx, utt.label))
+    for dlg in dialogues:
+        out_dir = output_root / dataset_name / dlg.label
+        audio_path = out_dir / f"{dlg.tts_id}.wav"
+        num_left = len(dlg.left)
+        num_right = len(dlg.right)
+        num_total = num_left + num_right
+        rows.append((audio_path, dlg.tts_id, dlg.label, num_left, num_right, num_total))
 
-    meta_path = output_root / dataset_name / "metadata.csv"
+    meta_path = output_root / dataset_name / "metadata_dialogue.csv"
     meta_path.parent.mkdir(parents=True, exist_ok=True)
     with meta_path.open("w", encoding="utf-8", newline="") as f:
         writer = csv.writer(f)
-        writer.writerow(["audio_path", "text", "tts_id", "side", "utt_idx", "label"])
-        for audio_path, text, tts_id, side, idx, label in rows:
-            writer.writerow([audio_path, text, tts_id, side, idx, label])
+        writer.writerow(["audio_path", "tts_id", "label", "num_left", "num_right", "num_total"])
+        for row in rows:
+            writer.writerow(row)
 
     if dry_run:
-        print(f"[DRY-RUN] Metadata ghi tại: {meta_path} (không sinh audio)")
+        print(f"[DRY-RUN] Metadata ghi tại: {meta_path} (không synth audio)")
     else:
         print(f"Metadata ghi tại: {meta_path}")
     return rows
 
 
-def synthesize_dataset(rows, synthesizer: VITSTTSSynthesizer, overwrite: bool = False):
+def synthesize_dataset(
+    dialogues: List[Dialogue],
+    rows_meta,
+    synthesizer: VITSTTSSynthesizer,
+    overwrite: bool = False,
+    start_side: str = "left",
+):
     """
-    Vòng lặp synth chính, giữ nguyên cơ chế resume:
-    - Nếu file audio đã tồn tại và không có --overwrite thì bỏ qua.
+    Vòng lặp synth:
+    - Mỗi Dialogue -> 1 file wav cho cả cuộc gọi.
+    - Nếu file đã tồn tại và không --overwrite -> skip (resume).
     """
-    for (audio_path, text, _, _, _, _) in tqdm(rows, desc="Synthesizing"):
-        out_path = Path(audio_path)
+    # rows_meta: [(audio_path, tts_id, label, num_left, num_right, num_total)]
+    # map tts_id -> audio_path cho chắc
+    id2path = {tts_id: audio_path for (audio_path, tts_id, *_rest) in rows_meta}
+
+    for dlg in tqdm(dialogues, desc="Synthesizing dialogues"):
+        out_path = Path(id2path[dlg.tts_id])
         if out_path.exists() and not overwrite:
             continue
+
         try:
-            synthesizer.synthesize(text, out_path)
+            turns = interleave_turns(dlg, start_side=start_side)
+            synthesizer.synthesize_dialogue(turns, out_path)
         except Exception as exc:
-            print(f"[ERR] {out_path.name}: {exc}")
+            print(f"[ERR] {dlg.tts_id}.wav: {exc}")
 
 
-# --------------------------------
+# -----------------------------
 # CLI
-# --------------------------------
+# -----------------------------
 
 def parse_args():
     parser = argparse.ArgumentParser(
-        description="Sinh audio từ bộ hội thoại text bằng VITS (vits-tts-vietnamese, server.py)"
+        description="Sinh 1 file audio cho mỗi cuộc gọi bằng VITS (vits-tts-vietnamese)."
     )
     parser.add_argument(
         "--input_root",
@@ -332,16 +369,16 @@ def parse_args():
         ),
     )
 
-    # Tham số VITS server
+    # VITS server
     parser.add_argument(
         "--vits_base_url",
         default="http://localhost:8888",
-        help="Base URL của server VITS (mặc định: http://localhost:8888)",
+        help="Base URL server VITS (mặc định: http://localhost:8888)",
     )
     parser.add_argument(
         "--speed",
         default="normal",
-        help="Tốc độ nói: normal | fast | slow | very_fast (mặc định: normal)",
+        help="Tốc độ nói: normal | fast | slow | very_fast (tuỳ server hỗ trợ)",
     )
     parser.add_argument(
         "--timeout",
@@ -351,9 +388,16 @@ def parse_args():
     )
 
     parser.add_argument(
+        "--start_side",
+        default="left",
+        choices=["left", "right"],
+        help="Giả định bên nào nói trước khi interleave: left hoặc right (mặc định: left)",
+    )
+
+    parser.add_argument(
         "--dry_run",
         action="store_true",
-        help="Chỉ tạo metadata.csv, không chạy TTS",
+        help="Chỉ tạo metadata_dialogue.csv, không synth audio",
     )
     parser.add_argument(
         "--overwrite",
@@ -375,17 +419,17 @@ def main():
     if not dataset_name:
         raise SystemExit("Cần --dataset_name (hoặc bỏ trống và dùng --input_file để tự suy ra).")
 
-    input_root = Path(args.input_root).resolve() if args.input_root else None
     output_root = Path(args.output_root).resolve()
 
-    # Build manifest
+    # Build dialogues
     if args.input_file:
-        manifest = list(load_jsonl_merged(Path(args.input_file)))
+        dialogues = list(load_dialogues_merged(Path(args.input_file)))
     else:
-        manifest = build_manifest(input_root)
+        input_root = Path(args.input_root).resolve()
+        dialogues = build_dialogues_from_root(input_root)
 
-    # Viết metadata (giống file cũ)
-    rows = write_metadata(manifest, output_root, dataset_name, args.dry_run)
+    # Metadata (per dialogue)
+    rows_meta = write_metadata(dialogues, output_root, dataset_name, args.dry_run)
 
     if args.dry_run:
         return
@@ -396,8 +440,15 @@ def main():
         timeout=args.timeout,
     )
 
-    synthesize_dataset(rows, synthesizer, overwrite=args.overwrite)
-    print(f"Đã sinh audio vào {output_root / dataset_name}")
+    synthesize_dataset(
+        dialogues,
+        rows_meta,
+        synthesizer,
+        overwrite=args.overwrite,
+        start_side=args.start_side,
+    )
+
+    print(f"Đã sinh audio hội thoại vào {output_root / dataset_name}")
 
 
 if __name__ == "__main__":
