@@ -12,6 +12,7 @@ Chuyển bộ hội thoại text thành audio bằng VieNeu-TTS (Hugging Face AP
 import argparse
 import csv
 import json
+import numpy as np
 import re
 import sys
 from dataclasses import dataclass
@@ -23,6 +24,8 @@ import soundfile as sf
 import torch
 
 PAREN_RE = re.compile(r"\([^)]*\)")
+SENTENCE_SPLIT = re.compile(r"(?<=[.!?！？。])\s+")
+MAX_CHARS = 220  # giới hạn để tránh vượt max_length backbone (~2048 token)
 
 
 def strip_stage_directions(text: str) -> str:
@@ -130,6 +133,36 @@ class VieNeuTTSSynthesizer:
         print(f"Encoding reference audio từ: {self.ref_audio}")
         self.ref_codes = self.tts.encode_reference(str(self.ref_audio))
 
+    def _chunk_text(self, text: str) -> List[str]:
+        """Tách text thành các đoạn ngắn để tránh vượt context."""
+        text = text.strip()
+        if len(text) <= MAX_CHARS:
+            return [text]
+
+        # Ưu tiên tách theo câu
+        parts = SENTENCE_SPLIT.split(text)
+        chunks: List[str] = []
+        buffer = ""
+        for p in parts:
+            if not p:
+                continue
+            candidate = (buffer + " " + p).strip() if buffer else p.strip()
+            if len(candidate) <= MAX_CHARS:
+                buffer = candidate
+            else:
+                if buffer:
+                    chunks.append(buffer)
+                if len(p) <= MAX_CHARS:
+                    buffer = p.strip()
+                else:
+                    # fallback: hard split theo độ dài
+                    for i in range(0, len(p), MAX_CHARS):
+                        chunks.append(p[i : i + MAX_CHARS].strip())
+                    buffer = ""
+        if buffer:
+            chunks.append(buffer)
+        return [c for c in chunks if c]
+
     def synthesize(self, text: str, out_path: Path):
         """Sinh audio cho 1 câu và lưu ra out_path."""
         out_path.parent.mkdir(parents=True, exist_ok=True)
@@ -139,7 +172,11 @@ class VieNeuTTSSynthesizer:
             return
 
         try:
-            wav = self.tts.infer(text, self.ref_codes, self.ref_text_raw)
+            segments = self._chunk_text(text)
+            wavs = []
+            for seg in segments:
+                wavs.append(self.tts.infer(seg, self.ref_codes, self.ref_text_raw))
+            wav = np.concatenate(wavs) if len(wavs) > 1 else wavs[0]
             sf.write(str(out_path), wav, 24000)
         except Exception as exc:  # pragma: no cover - runtime failure surface
             raise RuntimeError(f"TTS lỗi với văn bản: {text[:80]}...") from exc
@@ -181,10 +218,15 @@ def write_metadata(manifest: List[Utterance], output_root: Path, dataset_name: s
     return rows
 
 
-def synthesize_dataset(rows, synthesizer: VieNeuTTSSynthesizer):
+def synthesize_dataset(rows, synthesizer: VieNeuTTSSynthesizer, overwrite: bool = False):
     for (audio_path, text, _, _, _, _) in tqdm(rows, desc="Synthesizing"):
         out_path = Path(audio_path)
-        synthesizer.synthesize(text, out_path)
+        if out_path.exists() and not overwrite:
+            continue
+        try:
+            synthesizer.synthesize(text, out_path)
+        except Exception as exc:
+            print(f"[ERR] {out_path.name}: {exc}")
 
 
 def parse_args():
@@ -246,6 +288,11 @@ def parse_args():
         action="store_true",
         help="Chỉ tạo metadata.csv, không chạy VieNeu-TTS",
     )
+    parser.add_argument(
+        "--overwrite",
+        action="store_true",
+        help="Ghi đè audio nếu đã tồn tại (mặc định: bỏ qua để resume)",
+    )
     return parser.parse_args()
 
 
@@ -289,7 +336,7 @@ def main():
         ref_text=Path(args.ref_text).resolve(),
     )
 
-    synthesize_dataset(rows, synthesizer)
+    synthesize_dataset(rows, synthesizer, overwrite=args.overwrite)
     print(f"Đã sinh audio vào {output_root / dataset_name}")
 
 
